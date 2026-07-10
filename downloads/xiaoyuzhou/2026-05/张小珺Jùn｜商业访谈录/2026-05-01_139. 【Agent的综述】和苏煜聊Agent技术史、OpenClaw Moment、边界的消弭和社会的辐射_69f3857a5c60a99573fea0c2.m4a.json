@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "产品 / 创业 / 管理",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 8268,
+    "item_id": "xiaoyuzhou:69f3857a5c60a99573fea0c2",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69f3857a5c60a99573fea0c2",
+    "published_at": "2026-05-01T08:00:00+08:00",
+    "published_date": "2026-05-01",
+    "relative_dir": "2026-05/张小珺Jùn｜商业访谈录",
+    "schema_version": 1,
+    "source_id": "xyz_zhang_xiaojun",
+    "source_name": "张小珺Jùn｜商业访谈录",
+    "status": "pending",
+    "target_basename": "2026-05-01_139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射_69f3857a5c60a99573fea0c2",
+    "title": "139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69f3857a5c60a99573fea0c2"
+  },
+  "audio_url": "https://media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luffrgudEiiGHQxam49tfQci63NO.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\张小珺Jùn｜商业访谈录\\2026-05-01_139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射_69f3857a5c60a99573fea0c2.m4a",
+  "bytes": 133723854,
+  "sha256": "a327c3c9d1b9bb80e9a64241ca50daa45ab2e4bc35f2fcf7eea728150c469472",
+  "downloaded_at": "2026-07-02T04:12:10Z"
+}

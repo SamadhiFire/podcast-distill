@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "新闻 / 时评 / 全球议题",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 6271,
+    "item_id": "xiaoyuzhou:6a17aa6e7460cabdeb570376",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a17aa6e7460cabdeb570376",
+    "published_at": "2026-05-28T10:57:08.947000+08:00",
+    "published_date": "2026-05-28",
+    "relative_dir": "2026-05/晚点聊 LateTalk",
+    "schema_version": 1,
+    "source_id": "xyz_late_talk",
+    "source_name": "晚点聊 LateTalk",
+    "status": "pending",
+    "target_basename": "2026-05-28_167_ 洋葱学园杨临风：用AI制造捷径，是在杀死真学习_6a17aa6e7460cabdeb570376",
+    "title": "167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a17aa6e7460cabdeb570376"
+  },
+  "audio_url": "https://media.xyzcdn.net/61933ace1b4320461e91fd55/lgi3X9iIEfckZa4ZQRZqpqvRW22S.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\晚点聊 LateTalk\\2026-05-28_167_ 洋葱学园杨临风：用AI制造捷径，是在杀死真学习_6a17aa6e7460cabdeb570376.m4a",
+  "bytes": 101428968,
+  "sha256": "14a8b951b228583b61865a826c2ae99dac4c5ea933920a6ddaa722e24a1ce802",
+  "downloaded_at": "2026-07-02T03:57:08Z"
+}

@@ -1,0 +1,36 @@
+{
+  "short_title": "陶哲轩谈如何运用AI",
+  "one_liner": "AI擅长生成假设，验证仍靠人类",
+  "why_it_matters": "人机协作正重塑数学研究的方式与边界",
+  "summary": [
+    "陶哲轩以开普勒发现行星运动定律作类比：开普勒像高温LLM，在布拉赫高精度观测数据的支撑下不断试错，最终得出椭圆轨道与三大定律。关键不只是灵感迸发，而是等量级的验证——没有可核查的数据，再多猜想也只是噪音。",
+    "他认为如今科学瓶颈已反转：过去稀缺的是数据，现在数据泛滥，瓶颈转向对海量猜想的验证与筛选。AI能大规模生成假设，但其中约20%对自动化验证具有抗性，仍需人类专长介入，人机混合在相当长时间内将主导数学。",
+    "在证明层面，Lean等形式化验证工具能给出可认证的证明，把繁琐的引理拆解交给机器。他曾用几千行代码完成形式化工作，但完整的数学叙事与方向判断仍依赖人。AI加速发现，也可能因削弱偶然性而抑制某些突破。",
+    "对年轻数学人的建议：保持 adaptable 的心态，传统学历训练仍重要，但高中水平借助AI与Lean也能触达前沿、做出实质贡献。这是一个既令人不安又令人兴奋的时代，把握非传统机会同样关键。"
+  ],
+  "core_points": [
+    "开普勒式试错叠加可验证数据，方能驱动真正科学进展",
+    "当今瓶颈从数据转为对海量AI假设的验证",
+    "约20%的问题对自动化验证具有抗性，需人类介入",
+    "Lean等工具可提供可认证的形式化证明",
+    "人机混合将在很长时期内主导数学研究"
+  ],
+  "key_facts": [
+    {"label":"抗性假设比例","value":"20%","context":"this is 20% which is resistant and a human has to help"},
+    {"label":"form化代码量","value":"3,000","context":"here was 3,000 lines of code that that did the formalization"},
+    {"label":"自动解题概率","value":"95%","context":"you'd put, you know, a 95% odds that an AI did it autonomously"},
+    {"label":"开普勒偏差","value":"10%","context":"his beautiful theory didn't quite work, off by about 10% or something"},
+    {"label":"前瞻年份","value":"2026","context":"2026-level AI would be stunning in 2021"}
+  ],
+  "takeaways": [
+    "把AI当假设生成器，验证环节仍须人类把关",
+    "年轻研究者应拥抱工具，保持可适应心态"
+  ],
+  "guests": ["Terence Tao（陶哲轩）"],
+  "topics": ["AI与数学","形式化验证","人机协作"],
+  "tensions": ["AI加速发现与削弱偶然性的张力"],
+  "quote": {"text":"人机混合将在很长一段时间内主导数学研究","speaker":"Terence Tao","kind":"paraphrase"},
+  "importance_score": 5,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

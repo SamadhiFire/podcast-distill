@@ -43,9 +43,8 @@
     "key_facts": [
       {
         "label": "Ego Scale 预训练数据量",
-        "value": "21000 小时",
-        "context": "野外自中心人类视频，零机器人数据预训练",
-        "source_refs": []
+        "value": "21K 小时（Ego-Exo 预训练）",
+        "context": "零机器人数据，纯野外自中心人类视频"
       },
       {
         "label": "遥操作数据占比",
@@ -61,9 +60,8 @@
       },
       {
         "label": "自中心视频可扩展量",
-        "value": "1000 万小时",
-        "context": "Jim Fan 预计下一年左右自中心视频数据可达千万小时级别",
-        "source_refs": []
+        "value": "千万小时级别",
+        "context": "Jim Fan 预计下一年左右自中心视频数据可扩展至千万小时级别"
       },
       {
         "label": "AlexNet 到 AI Ascent 时间",

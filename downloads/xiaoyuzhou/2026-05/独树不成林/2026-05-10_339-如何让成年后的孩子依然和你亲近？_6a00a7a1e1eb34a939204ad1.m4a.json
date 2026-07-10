@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 1924,
+    "item_id": "xiaoyuzhou:6a00a7a1e1eb34a939204ad1",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a00a7a1e1eb34a939204ad1",
+    "published_at": "2026-05-10T23:57:27.755000+08:00",
+    "published_date": "2026-05-10",
+    "relative_dir": "2026-05/独树不成林",
+    "schema_version": 1,
+    "source_id": "xyz_du_shu_bu_cheng_lin",
+    "source_name": "独树不成林",
+    "status": "pending",
+    "target_basename": "2026-05-10_339-如何让成年后的孩子依然和你亲近？_6a00a7a1e1eb34a939204ad1",
+    "title": "339-如何让成年后的孩子依然和你亲近？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a00a7a1e1eb34a939204ad1"
+  },
+  "audio_url": "https://media.xyzcdn.net/64acd33c7a3d479103fbd32d/lp9j-B4uWpi9XYtkpNAHf-jw3311.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\独树不成林\\2026-05-10_339-如何让成年后的孩子依然和你亲近？_6a00a7a1e1eb34a939204ad1.m4a",
+  "bytes": 25738046,
+  "sha256": "ae7a3b66a0dee99a6c8693510a7fcf4ffb8a72c928bd9a1d57b15957778e8ca3",
+  "downloaded_at": "2026-07-02T04:09:24Z"
+}

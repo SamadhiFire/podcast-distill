@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "科技 / AI / VC",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 2277,
+    "item_id": "xiaoyuzhou:69d7685024a6ea4a54f34cce",
+    "month": "2026-04",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69d7685024a6ea4a54f34cce",
+    "published_at": "2026-04-09T16:45:00+08:00",
+    "published_date": "2026-04-09",
+    "relative_dir": "2026-04/What‘s Next｜科技早知道",
+    "schema_version": 1,
+    "source_id": "xyz_whats_next",
+    "source_name": "What‘s Next｜科技早知道",
+    "status": "pending",
+    "target_basename": "2026-04-09_马斯克要建「芯片超级工厂」，数据中心为什么想「上天」？_ S10E06_69d7685024a6ea4a54f34cce",
+    "title": "马斯克要建「芯片超级工厂」，数据中心为什么想「上天」？| S10E06",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69d7685024a6ea4a54f34cce"
+  },
+  "audio_url": "https://media.xyzcdn.net/5e74b52c418a84a046ecaceb/lp2DPJCqUJSlk16n6SmRMkJqGHBY.mp3",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-04\\What‘s Next｜科技早知道\\2026-04-09_马斯克要建「芯片超级工厂」，数据中心为什么想「上天」？_ S10E06_69d7685024a6ea4a54f34cce.mp3",
+  "bytes": 37336857,
+  "sha256": "e38b63545f79c1e48d4bd230da567d067ca9b55d73ed86ed9a0ca649aa2c0994",
+  "downloaded_at": "2026-07-02T04:25:26Z"
+}

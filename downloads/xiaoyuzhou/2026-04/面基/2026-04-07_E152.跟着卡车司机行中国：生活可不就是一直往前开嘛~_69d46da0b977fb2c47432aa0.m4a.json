@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 6683,
+    "item_id": "xiaoyuzhou:69d46da0b977fb2c47432aa0",
+    "month": "2026-04",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69d46da0b977fb2c47432aa0",
+    "published_at": "2026-04-07T17:30:00+08:00",
+    "published_date": "2026-04-07",
+    "relative_dir": "2026-04/面基",
+    "schema_version": 1,
+    "source_id": "xyz_mian_ji",
+    "source_name": "面基",
+    "status": "pending",
+    "target_basename": "2026-04-07_E152.跟着卡车司机行中国：生活可不就是一直往前开嘛~_69d46da0b977fb2c47432aa0",
+    "title": "E152.跟着卡车司机行中国：生活可不就是一直往前开嘛~",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69d46da0b977fb2c47432aa0"
+  },
+  "audio_url": "https://media.xyzcdn.net/6388760f22567e8ea6ad070f/loBcbXsGvBlE-W-cd7dEkgzRGm8e.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-04\\面基\\2026-04-07_E152.跟着卡车司机行中国：生活可不就是一直往前开嘛~_69d46da0b977fb2c47432aa0.m4a",
+  "bytes": 108191833,
+  "sha256": "cd5004e57ee4d1bf0f5af335bb868611ffe112b69800bc7710d0623022931f77",
+  "downloaded_at": "2026-07-02T04:26:22Z"
+}

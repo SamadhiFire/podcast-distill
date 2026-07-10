@@ -1,0 +1,578 @@
+TITLE: He's negotiated $1B+ in executive compensation. Here's his playbook. | Jacob Warwick
+CHANNEL: Lenny‘s Podcast
+DURATION_S: 6894  DENSITY: high  REQ summary=4 core=5
+PUBLISHED: 2026-03-15T12:31:07+00:00  URL: https://www.youtube.com/watch?v=pEis2CBomVA
+SHA256: 463c15000a0e85558a0998ed803641a78b4fcaf74c9862a94a71676867170332
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [20%] always see a 20% improvement on that.
+  [300000] loved by over 300,000 entrepreneurs,
+  [30%] simple ask. And even that, 20 30%. So
+  [350000] they were paid $350,000 base salary,
+  [1.1] deal landed at 1.1 million when we were
+  [1.2] 600 that landed at 1.1 and 1.2. So,
+  [40%] about 40% movement on an increase. We
+  [700000] we had a writer who had a $700,000
+  [1.3] say, "We want 1.3."
+  [10%] got 10% of that. But we didn't find the
+  [340000] she gets offered $340,000 base salary,
+  [2.4] had two offers that were both 2.4
+  [800000] she was offered an $800,000 contract
+  [10000] struggling to maybe ask for 10,000
+  [100000] gave you a $100,000 offer, 120 could be
+  [400%] have seen as much as 100, 200, 300, 400%
+  [2021] we talk about what it was like in 2021
+  [1.5] said 1.5, would the deal have come in at
+  [1.7] If the attorney said 1.7, would it have
+  [110000] 110,000 at the time. So when a recruiter
+  [120000] $120,000 a year in a single month a
+  [70000] for 70,000. And 6 months later I landed
+  [70%] situation, werewolves win 60 70% of the
+  [187.5] 6 months of base salary is like 187.5,
+  [6000] to have a 6,000 lb vehicle. So it there
+  [84%] negotiate for 84% because that's what
+  [80%] get 80% out there'?"
+  [20000] asking for $20,000 more, right? Which
+  [75%] 75% more than those who just try to be
+  [150000] was hoping for 150,000 more. Sometimes
+
+=== TRANSCRIPT EXCERPT ===
+What's the most common mistake that
+people make when they're negotiating
+their comp?
+communication channel possible. I might
+email you my demands. The problem with
+that is I can't control tone. If I push
+back and the CEO that reads it's in the
+airport security line and pissed off and
+they read it, they might be like, "That
+bastard wants more money."
+just afraid to ask for more. I'm going
+to come across as greedy. It's all going
+to fall apart. But when you look at the
+money that the company's making in
+comparison, like you're not being
+greedy. It doesn't have to be
+simplest advice "What's the chance there
+could be a little more?"
+very clear to the company here's the
+pain I will solve for you and here's why
+it's worth paying you this much more.
+leverage over you. They know what people
+make, they know what others make, they
+know what they'll accept. You have to
+understand what value you can create and
+if you understand that value, you can
+have that conversation with confidence.
+is a professional negotiator. He works
+behind the scenes with his clients,
+mostly senior tech execs, professional
+athletes, and Hollywood celebrities. And
+he helps them navigate their most
+complex career negotiations,
+investments, also M&amp;A and takeovers and
+enterprise sales deals and more. He's
+helped his clients secure over $1
+billion in additional comp. And he's
+told me that he's negotiated against a
+number of guests on this [music]
+podcast. He is very much under the
+radar, is not on social media, rarely
+does interviews, and in this exclusive
+conversation, we get super deep on the
+specific [music] tactics and psychology
+of comp negotiation, including why you
+should never negotiate over email, who
+should speak first when the question of
+comp comes up, the most common and
+costly mistakes that people unknowingly
+make when they're negotiating comp, and
+so much more. Jacob is also just a truly
+stellar human and I'm very excited to be
+sharing his story. Don't forget to check
+out Lenny's product-pass.com for an
+incredible set of deals available
+exclusively to Lenny's newsletter
+subscribers. Let's get into it after a
+short word from our wonderful sponsors.
+This episode is brought to you by Orkes,
+the company behind open-source
+Conductor, the orchestration platform
+powering modern enterprise applications.
+Modern systems are built on
+microservices, APIs, and event-driven
+architectures, but legacy automation
+tools can't [music] keep up. Siloed
+low-code platforms, outdated process
+management, and disconnected API tooling
+break down under real-world scale and
+constant change. Orkes Conductor [music]
+provides a production-grade
+orchestration layer for coordinating
+microservices, APIs, data pipelines,
+human tasks, and agentic [music]
+workflows with deterministic control
+flow, retries, observability, and
+governance. Built for enterprise scale,
+Orkes supports visual and code-first
+development [music] with built-in
+compliance and reliability. Through a
+built-in MCP gateway, AI agents handle
+reasoning and decision-making while
+safely accessing existing APIs [music]
+and internal systems as MCP tools. This
+enables agents to operate across
+enterprise environments and scale from
+demos to production, orchestrating
+systems, agents, and humans together to
+deliver smarter outcomes faster. Learn
+more at orkes.io/lenny.
+That's orkes.io/lenny.
+This episode is brought to you by
+Mercury, radically different banking
+loved by over 300,000 entrepreneurs,
+including me. I switched to Mercury from
+Chase over a year ago, and it is such a
+profoundly better experience. It's like
+an [music] actual product person built a
+bank versus a banking person building a
+product. It is fast, it's elegant, it is
+super easy to set wires, to track my
+spending, [music] to set up triggers, to
+move money around when accounts get low.
+We moved all of our invoicing to
+Mercury, and it is such a smoother
+experience than anything else we've
+tried. It's also really easy to grant
+people on your team just the right
+work off your plate. It's free to get
+started. No in-person visits, no minimum
+balances. [music] The product also
+flexes to all sizes of company, from
+startups to large enterprises. Just
+visit mercury.com to learn more and
+apply online in minutes. Mercury is a
+fintech company, not an FDIC insured
+bank. Banking services provided through
+Choice Financial Group and Column and A
+members FDIC.
+Jacob, thank you so much for being here.
+Welcome to the podcast.
+thank you for interfering with my sleep
+all week out of my excitement. Usually
+it's my newborn and toddler, but this
+time I was waking up at 3:00 in the
+morning thinking about and it's going to
+be a great chat. So, I'm very excited.
+Thank you for having me.
+be worth it. It's going to be worth it
+mostly to us to to extract all this
+wisdom from your head. So, we're going
+to be going deep on negotiation. How to
+better negotiate for comp and this will
+translate into all kinds of other ways
+of in your life beyond comp. This is
+something I personally been very, very
+bad at in my career. Like I don't know
+if I like maybe one time I pushed back
+and negotiated
+a higher comp, but I just like I've
+always been really nervous to do this
+and just really bad at this.
+And I imagine most listeners are nervous
+and bad at this. And you do this for a
+living. You help people negotiate. Which
+I don't think people even know this is a
+thing that exists, that somebody's out
+there that can help you negotiate. And
+so, you've seen a lot of negotiations up
+close.
+Most of the people you work with just as
+a context are very senior people, but a
+lot of the stuff we're going to talk
+about is going to apply to anyone at any
+level.
+Let me start with this question just to
+give people a frame of reference.
+How much comp are people generally
+leaving on the table when they don't
+even try to negotiate?
+even without my help, just general
+pushbacks, not aggressive, a simple
+"What's the chance there could be more
+here?"
+kind of pushback. I mean, that's about
+as easy as it can get. You get the
+offer, you say, "What's the chance
+there's a little bit more?" Almost
+always see a 20% improvement on that.
+And that is across the board from
+earlier stage positions. Let's say they
+gave you a $100,000 offer, 120 could be
+there just from a simple push back,
+which is
+when you're making that kind of money,
+that's life-changing, right? I've
+noticed that when you make a
+million-dollar W-2, same push back, 20%,
+sometimes more, just on the what's the
+chance, depending on how well you going
+to navigate that interview process. Now,
+on average, when I'm calculating out,
+what I'm looking for with clients is
+about 40% movement on an increase. We
+have seen as much as 100, 200, 300, 400%
+increases from initial offers.
+Most notably, breaking salary bands,
+which we all treat as gospel, which is
+something we'll probably talk about
+through the course of this this podcast
+today. That uh you know, those that
+challenge authority and challenge in a
+meaningful and collaborative way will
+win more than those that don't. And
+what's interesting is
+I found that product product leaders,
+engineers, designers,
+uh some of the more tend to be more
+introverted and thoughtful types,
+negotiate more poorly than the obnoxious
+marketers and revenue leaders and the
+more extroverted types. And it's
+frustrating because if you look back at
+the last, say, 25 years or so,
+product has really defined the tech
+generation in so many ways. This isn't
+to discredit marketers or anything like
+that. It's just to show that there's a
+couple of sides of the business and and
+everyone tends to negotiate a little
+differently. So, you looking back at
+your career and say, you know, the great
+Lenny
+had a tough time pushing back. I think
+that's that's actually inspiring for a
+lot of the listeners to see that
+you're not alone in feeling this. It
+doesn't have to be such an aggressive
+thing. It doesn't have to be
+confrontational. The simplest advice
+that I can give you is, what's the
+chance there could be a little more?
+simple ask. And even that, 20 30%. So
+again, a lot of people listening to this
+are just like afraid to ask
+for more. There's like uh I'm going to
+come across as greedy.
+Uh I'm going to it's all going to fall
+apart. They're going to be like, what
+are you what are you talking about? No,
+……（中部抽样）……
+no, forget it. Or they you know, they
+of money, and they are a big piece of
+And
+just have the confidence to know that
+happening. You've had a lot of great AI
+can you help me understand what's
+know, we're
+success happen. Those are the types of
+hundreds of thousands. And in some of
+comp.
+almost anybody would pay 10 to save 300.
+if that happens, it almost dilutes the
+negotiation.
+think. So,
+product manager Lenny.
+known, your reputation.
+to make?" and you say, "Oh, you know,
+And the problem with that is I can't
+language, you can correct
+in the game, who controls the P&amp;L, who
+I love how tactical we're getting here.
+This is called home field advantage.
+say I'm unavailable until that time
+but so they used to walk outside of the
+flow more naturally when you do This is
+day are you most comfortable? If you can
+are closed at 8:30 at night after a
+What's kind of like the step-by-step you
+right? I'm excited to work with you. We
+you're talking to advisors, you're
+Right? So, any ask that you make is not
+It's a little lighter than I expected.
+especially in this market and this if if
+were the in ranges of 185 to 285, that
+Right? This is how bigger moves happen.
+Right? But if you say, "What do you want
+ceiling. And what often happens is
+say, "We want 1.3."
+find the ceiling there, did we?
+exchange, why not push for more?
+been kind of baked into my my psyche for
+don't pull that on me. I know what
+And he goes, "Five binkies."
+And that indicates that the person
+recruiters only reach out to you when
+best possible. But, it could be
+I mean this is what it is very
+I used to be a marketing manager making
+not very good. That's fake title.
+apart when you try to do that? Because
+that differently because you want some.
+because naturally your needs are getting
+because it's an authoritative figure and
+somebody's going to treat you depending
+Or they have to say,
+of thousands if not millions more in
+better fit?"
+feels like maybe the core
+actually doing the job that's on their
+it's very clear that it's a director
+And they say, "But you said you only
+organization, think enterprise B2B deals
+discovery process.
+consultations or brainstorming sessions.
+of the work that I've done. Is there
+And then we want to share, "What have
+starting to understand where the dirty
+like a pain in the most position. I've
+there may be five other PMs but I can
+they can do on their own.
+things really start to unlock. And
+as sell the vacation, help them
+director didn't want to just do movie
+because if we're leaning on logic and
+you're on the outside and you're having
+should I sign your agency?
+have?
+really easily because I'm on the phone
+So, I'll sometimes do two or three
+with me for a second,
+this is manipulative and like it could
+when I'm talking to these executives and
+readers are going like this guy's a
+thing. But when it comes to navigating
+of you moving forward. So, we already do
+And I want to ask for that feedback
+if I didn't make the mark, I'd say, "I'd
+I'm going to solve churn for you. I'm
+understand. And I would also add that
+really help.
+worth that you wouldn't accept more.
+true.
+actually knows your business
+help feel more confident about they will
+in your career have made you a top tenth
+understanding what to do. You understand
+Maybe it's the CEO. What do they care
+So, for product folks, instead of
+Remember how rough it was to go back to
+basically as a product team, you're
+built. Tell me about that, how that
+with me by leading.
+thing. But I'm making it frictionless
+succeed.
+interviewing for product role,
+So, I'm building scarcity about my time.
+That's why it starts much sooner.
+What are the odds you can kind of flip
+million a year. They were specifically
+you go into this conversation and you
+say. Can you tell me more about that?"
+on the team?"
+a little digging and it it looks like
+that's just not how it is."
+uh the game of Werewolf
+Right?
+what others make, they know what they'll
+like your job is to make these rules.
+first. Try to get them to share number
+One one brief example of this, I had a
+6 months of base salary is like 187.5,
+right?
+I am a a big believer in Aristotle and
+need there.
+another female, I might say, "You know,
+possible here. You know what levers we
+my arm around you, if you're comfortable
+is a hundred and two hundred
+push on more money. What we went for was
+show that they're safe and committed to
+equity, it usually doesn't. Right? There
+violin. 2.4 million a year this CEO
+to hire you?" And she's like, "I don't
+we came to a stall point and we found a
+said earlier, being busy at the airport,
+another candidate." Or they make you an
+it was rescinded. And so I I took this
+women.
+call the CEO, explain what happened.
+I made a mistake
+deliver, take ownership of that. Take
+Dubai or you're from New York or you're
+African-American gal
+get 80% out there'?"
+"Jacob, don't tell them to do that. I
+out of the company.
+putting together a game plan to advocate
+have to have the guts to do that. And
+backgrounds. Maybe speak to just like if
+I don't have a gun to my head, I just
+frameworks and and academic, we stop
+When we were talking about that game of
+Predetermined.
+ask somebody,
+Like, if I had a million dollars, I
+One of these Hollywood deals we did,
+movies and they were very successful,
+That individual was making $10 million a
+Like, at the end of the day, if you're
+not always about money.
+after taxes is like eight, right? And
+in 2 days.
+Have you ever heard this? A million
+What's like what's the first thing they
+recruiter is going to split the
+Again, with the nuance, you may have
+That's who I want to close with. And I
+texting the hiring manager saying, "Open
+you can go to.
+accessible. Right? In my
+understand psychology a little bit
+how to solve that for my entire career.
+listeners with?
+around you. Right? If your cup
+a lot of people do
+else. You need to find that center that
+you find yourself recommending most to
+made simple.
+met Kim Scott, she's phenomenal. Like
+So
+bit.
+this last year and I've lost almost 50
+that's a principle from Cialdini, also,
+predetermined. We were not really
+……（接近结尾）……
+that got me was that now the mom feels
+all this guilt because she could have
+saved her son's life if she knew we
+existed.
+And that part like I was in tears
+thinking about that. Um
+I did
+I have talked a little bit about my
+son's diagnosis. Like it's not defining
+our life, but my wife and I prayed about
+this and it was
+if it would happen to anyone, it should
+happen to us because if as soon as that
+happened, I I made a handful of phone
+calls. I
+I did all this networking to be selfish
+and build my career and do these things
+and in that give before you ask it to
+receive philosophy I've always kind of
+lived by that undersell over deliver.
+And within 24 hours of his diagnosis I
+had a phone call from the chief medical
+officer of Denver Children's Hospital at
+Stanford and I got a call from the FDA
+that said don't worry the sun your son's
+medication is getting lower to one year
+old and the Trikafta is going from six
+to two. So he may never experience a
+symptom in his life
+because this is changed now.
+So
+like I felt this is immense blessing and
+support through that. So that's the
+foundation we we support these rural
+areas that don't have access to that
+health care.
+And then I've also started conversations
+with the Cystic Fibrosis Foundation
+which
+really helped funding they helped fund
+the life-saving medication that changes
+the life expectancy from 7 to 70 years
+old. Like they are expected to have full
+lives now. So that's something I'm very
+passionate about.
+Oh man, there's so many so many this
+topics and directions we could have gone
+with this.
+Uh
+Jacob
+the water man. Sorry. I yeah I monologue
+like nobody's business.
+Um okay, working folks find you online
+if they want to reach out maybe follow
+up on some of this stuff and how can
+listeners be useful to you?
+advocating for themselves.
+Rising tide forever. That's important.
+Uh I don't
+I guess I don't really have social
+media. I deleted LinkedIn. Uh the post I
+wrote about that kind of went viral on
+Substack. It's cool. I share I think I
+shared that one with you. Uh I have
+execsinthesity.com
+which yes is a play on Sex in the City.
+It's kind of explaining some of the
+things that uh people are afraid to talk
+about. So execsinthesity is my Substack.
+And I write once a week on Thursday
+morning and I share
+little thoughts on what's happening.
+Occasionally I'll share case studies on
+what clients have done. I'll share
+play-by-plays and the actual scripts.
+That's also where I have a free job
+search course. It's about 8 hours that I
+filmed and I sold for like a grand and
+now I just give it away for free.
+That's also available on the YouTube,
+which is Execs in the City.
+Which I have like 100 subscribers, so
+don't expect a lot of content for me.
+I'm not I'm not pumping out video
+content all the time.
+Um and then there's a small paid tier if
+somebody wants to get discounts on
+coaching. They also get access to Jacob
+GPT. Well, it's another AI I mentioned.
+It's digitally trained on I think you
+have one, too, right?
+it's like a
+Jacob bot, which is a minor Lenny bot.
+Right? Trained on my content. Yeah, and
+um then I do some additional case
+studies for them. Uh and then my actual
+business is thinkwarwith.com,
+uh which just tells you outcomes that
+that we've been able to deliver. So, uh
+I'm not going to ask you for Instagram
+or anything like that. Just real simple.
+Try to keep it at Substack only, really.
+much for being here.
+today and again I was real giddy about
+it and your motto was to have fun. I had
+a lot of fun today. Thank you.
+see this if they're waiting till the end
+of this podcast. I have this little
+pocket I show all the guests that our
+goal is to have fun.
+Uh so, Easter egg. All right, Jacob,
+thank you so much. Bye, everyone.
+Thank you so much for listening. If you
+found this valuable, you can subscribe
+to the show on Apple Podcasts, Spotify,
+or your favorite podcast app.
+Also, please consider giving us a rating
+or leaving a review [music] as that
+really helps other listeners find the
+podcast. You can find all past episodes
+or learn more about the show at
+lennyspodcast.com.
+See you in the next episode.

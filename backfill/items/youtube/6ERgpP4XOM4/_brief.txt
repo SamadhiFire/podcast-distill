@@ -1,0 +1,550 @@
+TITLE: How Emerging-Market Bonds Can Hedge Against U.S. Market Volatility | WSJ’s Take On the Week
+CHANNEL: WSJ Take On the Week
+DURATION_S: 1595  DENSITY: brief  REQ summary=2 core=3
+PUBLISHED: 2026-03-29T10:00:06+00:00  URL: https://www.youtube.com/watch?v=6ERgpP4XOM4
+SHA256: da497192711f517d630dcf61ce32c58a30bf1eaa8c4f4b06db12d9ed746f3e03
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [7%] &gt;&gt; Normal carry is around 7%. Um,
+  [15%] Brazil is a big one. 15% yields arguably
+  [2%] our benchmark, up almost 2% a year in
+  [13%] &gt;&gt; Year-to-date they're still up about 13%
+  [10000] actually not 10,000 mi away? It was the
+  [4%] 4% inflation, big commodities exporters.
+  [10%] you if, you know, if you export 10% of
+  [50%] GDP and that export price goes up 50%,
+
+=== TRANSCRIPT EXCERPT ===
+Hi Tellus.
+international stocks on the show and
+we've had episodes about US bonds.
+um we feel that it's time this week to
+talk about something very exciting,
+which is international bonds.
+everyone's portfolio, which we're about
+to find out. But first, we want to check
+in on the price of oil and what else the
+market might be thinking about this
+upcoming week.
+we talked about on a previous episode
+with Natasha Kanerva from JP Morgan
+about how to think about the price of
+oil because I think that really like
+it's just a good framework, I think. So,
+what she said was was that every million
+barrels of production that are missing
+kind of translates into like $4 in the
+price of oil, right? So, her math was
+that if they're going to be 16 million
+barrels of oil that are a day that are
+not being produced, then that means
+that, you know, 16 * 4 = $64, which
+brought you from the original oil price
+before all of this, which was in the $60
+range, to the $120 range, you know,
+where where things have topped out. Um
+how so, the fact that we're at 90-ish
+basically means that the market is
+saying, "Well, we're not going to lose
+all 16 barrels of production. We're
+going to lose some of that." That is, I
+think, the framework for thinking about
+what the price of oil is telling us
+about kind of the state of the conflict.
+duration of the conflict, but also how
+certain nations might be able to
+independently negotiate with Iran to
+have oil pass through the strait as
+Natasha talked about.
+US kind of letting Iran sell some oil,
+uh partly in order to help kind of calm
+the oil market. Uh but I think that also
+the the framing of of, you know, how we
+talk about the price of oil and why it
+matters might start to change as we get
+into earnings season. And already we're
+going to get a little bit of a preview
+of that from a handful of companies that
+are reporting for whom not just oil,
+obviously, but other commodity products
+and things that are related to oil and
+other stuff that's trapped, you know,
+fertilizer, you know, other things that
+aren't passing through the Strait of
+Hormuz that that might normally, natural
+gas, etc.
+And those are going to be like food
+companies.
+make food in
+coming week?
+the spice and condiments company. And
+those those companies will be
+interesting to watch, I think, because
+they've already experienced so much
+inflation in terms of, you know,
+their key inputs.
+And up into a certain point they were
+able to pass that along to customers in
+the form of price increases. But last
+year that runway sort of ran out for
+them.
+know what? I'm not going to buy your
+product at this price."
+And that was a very bad sign for them
+because despite the fact that these are
+staples, the you know, consumers pushing
+back on that showed that they don't have
+ultimate pricing power. And that means
+they have to eat the cost in terms of
+their own margins. And their stocks have
+been hurting as a result of that.
+McCormick's trying to do a deal with
+Unilever
+kind of because of this situation, like
+we need to do something to solve our
+products it's selling in.
+know, current conflict is just adding
+more pressure to those companies, it
+seems to me. Like this is yet another
+reason that inflation could continue and
+could continue to eat into their
+profits.
+reporting quarters that that that go
+through February. So we won't get quite
+into the results that they have after
+the start of the conflict. So I think
+people will really be looking for those
+outlooks and other commentary around
+kind of what the what they're now
+seeing.
+feedback. Um on our past episode, we
+asked gold versus oil, which one are you
+turning to
+um as a hedge against inflation? And we
+got a few interesting responses. Um the
+first one that we have here is from
+Rajesh Patwa.
+let's listen to it.
+inflation.
+While crude is a tactical hedge only
+during supply shock-driven situations.
+Gold is winning on stability,
+central bank demand, and long-term
+purchasing power protection.
+Crude oil is highly volatile and tied to
+geopolitical disruptions. Thank you.
+being the more enduring thing. Oil is
+sort of a moment in time type of trade
+for him.
+that people turn, you know,
+traditionally look at are uh bonds uh as
+a hedge. Uh we've had other listeners
+give us that feedback. And you know, US
+Treasury bonds have not been
+uh knocking the lights out lately,
+either. They have not been been playing
+the safe haven role that you might
+expect them to.
+um I see red in both the stock and bond
+categories, which means, you know, these
+bonds that I put into my portfolio to
+diversify, to protect against a downturn
+in the stock market, are not doing their
+jobs. Normally, the point of a classic
+60/40 portfolio, 60 stocks, 40 bonds, it
+is that when the stocks go down, the
+bonds are supposed to go up to protect
+you against, you know, the decline on
+the other side. It's supposed to be a
+defensive move. They're And they're
+supposed to be uncorrelated, but that
+hasn't been the case recently.
+those two things, seeing a country's
+stocks and bonds both fall at the same
+time as we've seen at times here in the
+US recently. That was a hallmark of not
+like a major developed economy like the
+US, but an emerging market economy. Your
+uh Brazil's or Mexico's, uh you know,
+those types of countries where you'd
+see, "Oh, okay, things aren't going
+well. The bonds and the stocks both sell
+off at the same time." But,
+that isn't necessarily the case all the
+time for those countries these days. And
+as a matter of fact, it's become more of
+a pattern in the US, in Europe, places
+where there are big concerns about the
+the fiscal, you know, how much are those
+countries spending? Uh is is inflation a
+problem in those developed market
+countries?
+combination of
+inflation and we have um you know, the
+deficits that each of these countries
+are taking on. So, I mean, this
+conversation that we have coming up was
+truly a revelation to me. It It just
+really shows you that like, it's not
+that bonds aren't working, it's that the
+bonds I own or the bonds that many of us
+own aren't the right bonds.
+really interesting conversation earlier
+this week with somebody who knows a lot
+about global bonds, especially those of
+emerging market countries. And that's
+Eric Fine. He is a portfolio manager at
+VanEck. He's the head of active emerging
+market debt, and the funds he oversees
+have bonds including like a bunch of
+ETFs, have bonds from countries like
+Brazil, China, Mexico, South Africa,
+Malaysia, Colombia, India, Peru, you
+know, not necessarily what people think
+of when they think, "Oh, I should add
+some bonds to my portfolio."
+say about the relationship between oil,
+which a lot of these countries produce,
+and the bonds from those countries. I
+think that'll be a really interesting
+thing for everyone to hear about.
+conversation after the break.
+our listeners have talked about this in
+some of the feedback to us. And you see
+it in fund flows. There's been a
+tremendous uptake of bonds, especially
+global bond funds, not just treasuries.
+So, it does seem like right now people
+are diversifying into owning more bonds.
+But,
+very recently, you know, since the
+conflict in Iran has started, we haven't
+seen necessarily the
+inverse relationship between stocks and
+bonds that you might want. So, it
+doesn't feel like bonds are a safe
+haven, but a lot of people still have
+been treating bond funds like a safe
+haven. So, Eric, what is going on right
+now? Why doesn't it feel like bonds feel
+very safe?
+think of them, have been bad. Last 5
+years are down like
+two, two and a half, three on the
+aggregate treasury.
+diversifier.
+our benchmark, up almost 2% a year in
+the last 5 years.
+benchmark?
+fund that invests in dollar denominated
+and local and the typical benchmark is
+half local currency bonds, half EM
+dollar denominated bonds.
+US investors, are not owning the right
+bonds to provide that level of
+diversification right now.
+……（中部抽样）……
+that's not correct. Um, in general, our
+funds like ours will have higher carry.
+know, yield can get really confusing cuz
+you have an SEC yield, you have
+uh your yield to maturity. The simplest
+version, I think all all of your
+listeners should think of is the coupons
+divided by the prices. If nothing
+happens in the next year, what are you
+going to get? But, what's going on in
+the world is really bullish for
+commodities prices, like it or not. And
+my benchmark generally exports
+commodities. And if you're active you
+can avoid you can do more you can have a
+greater exposure to the commodities
+exporters and avoid those that are
+vulnerable. There are a number of EMs
+that are obviously vulnerable in this
+environment.
+commodity exporting
+um you know members of your uh index
+that you know that might be the types of
+bonds you might be owning today or might
+want to own today?
+a great thing about emerging markets is
+you can get extremely diversified. We've
+got a robust very ancient well decades
+old benchmark.
+Um so when you see where we're allocated
+they will all make sense and they will
+be they will
+uh make sense relative to the benchmark.
+Um
+dollar denominated bonds the one I'd
+mentioned especially because of its
+idiosyncrasies Venezuela. Even
+year-to-date I think it's
+given what has happened in Venezuela?
+in dollar terms the one I picked I think
+it was around a 10-year um
+uh
+maybe a 6-year bond um
+bonds?
+number one they created a scenario of a
+transition in politics which was a zero
+odds scenario the the Friday before.
+Number two the way it was implemented
+there was complete escalation dominance
+and it was a successful transition
+without a lot of risk. Delcy Rodriguez
+hardly a risk.
+further moves last week to um replace
+senior officials in the security and
+particular defense uh apparatus. So
+that's kind of working um and
+I'll put it this way. When sometimes I
+get presented as somewhat of a Venezuela
+expert I was doing calls. Number one
+call question I got was what does this
+mean for Taiwan?
+I didn't understand the question.
+does it mean for Colombia, which is
+actually not 10,000 mi away? It was the
+best performing local currency market.
+Why? US presence is a stabilizing factor
+for most of these countries. The process
+how we got there in US political terms
+not my not what I'm getting into. But
+for that neighborhood, it is a
+stabilizing factor.
+Brazil is a big one. 15% yields arguably
+4% inflation, big commodities exporters.
+They're up to their necks in dollars.
+Most these countries are up to their
+necks in dollars. Brazil has a fiscal
+problem, but also an election.
+And and I wouldn't be surprised I don't
+think the market should even
+dismiss the idea that that
+a Lula term is adverse for Brazil. I've
+been through I've lived through Lula
+good Lula and bad Lula. I've lived
+through good Erdogan and bad Erdogan.
+It's not a straightforward
+the you know, foreign coverage of the
+newspaper, you know,
+about about a leader sort of what what
+feels like a crisis going on in that
+country. And I think US investors are
+used to thinking of of emerging market
+countries as sort of going through just
+cycles of crises, right? Everyone, you
+know, even people who didn't live
+through them can probably name, you
+know, the peso crisis, the ruble crisis,
+right? Are you saying that that that's
+kind of not really the right framework
+anymore?
+not only saying it's not not the right
+framework, it's the right framework for
+the developed markets which are
+generating the crises. And what happens
+when we have our crisis, right? Often
+with the opposite. You could look at
+especially US policy makers as
+focusing on the portfolio balance
+channel. Something goes wrong, you got
+to get stocks up. I get it, but there
+are limit there are social limits to
+that.
+come to the rescue, lower rates, assets
+get inflated again. You're saying that's
+that's that's the playbook that some
+emerging markets have have moved away
+from. Where where now we've sort of
+embraced that model that we were so
+critical of.
+pain of that, but I I really challenge
+people to find
+political parties across the spectrum in
+in Mexico or or even Indonesia that
+explicitly endorse harnessing a central
+bank to achieve economic objectives. You
+have to have been blind
+to what happened. That kills the poor.
+That kills banks. That creates
+inflation. That creates worse than
+inflation.
+It strains society and they've
+you would ask what countries are
+winners. Malaysia's exports oil and
+chips.
+an incredibly well-run place and it's a
+future reserve currency. That's the real
+story is when I say CNY's been stable
+and is up this much versus treasuries,
+it's an interesting headline.
+Um
+they are their goal is to make it a
+reserve currency and there's no way me
+trading my currencies can ignore that
+and say that I'm supposed to only focus
+on risk being hurt by general news that
+is really more about the VIX or stocks.
+I don't want to downplay what's going on
+in Iran, but there are clear winners
+when energy prices are and copper prices
+are higher.
+investors right now be selling US
+Treasuries and buying some of these
+emerging market bonds or is it not one
+or the other?
+First, um
+over the last 20 years you were supposed
+to have had a lot more EM bonds in your
+bond portfolio than
+than anyone does and you're supposed to
+have fewer DM bonds.
+own treasuries. Um so,
+uh when we present we've been using the
+lens of fiscal dominance to describe the
+world, namely avoid places with
+excessive government debt. That is the
+developed markets.
+And favor countries with low levels of
+government debt. That is mostly emerging
+markets. Um
+uh
+you may take that to say, "Hey, you know
+what?
+I'd
+If If an investor hears that and says,
+"You know what? I'm just going to be
+more cautious on DM bonds." I'm happy.
+level that's just that concerns me, not
+so much that there are better things to
+do in bonds. Obviously, there are better
+things to do in bonds, and it's hard to
+find portfolio managers that would
+accept a portfolio with you know, really
+limited bonds, but I get the idea.
+……（接近结尾）……
+emerging market bonds as another way to
+sort of
+express the view in your portfolio that,
+yeah, commodity prices are going to be
+higher Mhm. For a long time.
+guess the way, um, the way I would look
+at it is, I'm sold with inflation, the
+more conventional argument that, look,
+you're already paying me a higher real
+rate relative to your fundamentals. So,
+in other words, if if I could if I could
+line up all the countries that happen to
+be called developed markets, the good to
+bad, and how much they pay, it's going
+to be a straight line. Higher rate, you
+already don't pay me more. Whereas, at
+least in EM, you get paid for the risk.
+And they do have high real rates. They
+do have lower inflation that anchors
+them. So, I would say that's enough of
+an argument, and that's the core
+orthodox argument you make. However, if
+you have a major positive terms of trade
+shock, that's one of these things that
+developed market economists aren't super
+comfortable looking at because
+in EM, they can be very dramatic. Um, if
+you if, you know, if you export 10% of
+GDP and that export price goes up 50%,
+that's going to have a major impact. And
+so, I would say that you're going to get
+your what you need conventionally,
+which has already happened, which is
+you're getting paid a higher carry or
+yield relative to the risk, however
+defined. Is it upside risk to your US
+bond portfolio? Probably not.
+inflationary or stagflationary.
+Um, and if commodity prices are high,
+rising, and if that and beginning to
+affect expectations, you're going to see
+more behavior of what you've seen in the
+Treasury market, which is, "Wow,
+inflation is higher."
+going to open the Hormuz Strait. And you
+look at a
+a country like China where inflation
+remains anchored despite these
+challenges and inflation and inflation
+expectations
+part of that is
+because their balance sheet, because
+they have they're buying at a lower
+price of for oil than the price we see
+on our screen. So, do you want to invest
+Do you want to own yields in a country
+that's paying lower prices for oil or
+you I mean, it's you know, or
+or be exposed to a country that's paying
+higher prices in oil.
+You know, the terms of trade fact is a
+big deal. There is not one price for
+oil, right? There are many prices and
+we're paying the higher one. That would
+be another way of looking at it.
+worried about what's happening, you
+know, at the
+with with gas gas prices and gasoline
+and what impact that's going to have on
+inflation.
+Uh, is this something people can can can
+do
+to to protect their portfolios?
+things. If your listeners are probably
+concerned about how they're going to buy
+food and energy, right? It's the biggest
+part of your consumption basket. Um, my
+countries export it.
+Right? So,
+that should help their currencies and if
+they're running things right
+and they're and inflation's under
+control, it should also
+help their interest rates. If they go
+down, that's good if you if you're
+exposed. Asia has proved this by
+anchoring inflation for many years now
+and now has rates similar to the US. Um,
+but yeah, Colombia 15% rates, they
+export oil.
+That's not unreasonable to think about
+the connection between that.
+would be the downside scenario for these
+bonds? Like what what would be happening
+in the world where you where you
+you know, say that well, boy that that
+the EM debt part of my of my portfolio
+has been a drag. What would be happening
+in the world for that to be the case?
+acts together, cut debt and deficits,
+restructure their economies,
+and have no political or social risk due
+to financialization and income
+inequality.
+about to happen. [laughter]
+But this has been like this has been so
+eye-opening because it makes me think,
+you know, oh, I really need to go back
+and refigure my own portfolio, you know,
+my I'm just like all of our listeners
+and bonds have not been working for me
+and now this explains why
+and it explains, you know, a lot of what
+we can be doing. I think it seems like
+in maybe a less risky way than becoming
+amateur oil traders.
+conversation. Thank you.
+in Hollywood that said husband of the
+year and he has it on the shelf.
+I only I only got the the the foreign
+press award for husband of the

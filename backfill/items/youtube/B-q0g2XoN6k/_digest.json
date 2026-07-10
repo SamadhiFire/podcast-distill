@@ -1,0 +1,32 @@
+{
+  "short_title": "能源高价会持续吗",
+  "one_liner": "卡塔尔LNG设施受损推高能源价格",
+  "why_it_matters": "LNG短缺或持续数年，将推升通胀与利率",
+  "summary": [
+    "以色列与伊朗互袭能源设施，卡塔尔拉斯拉凡两座LNG生产线被毁，令其约20%的液化天然气产能离线，修复或需数年，远非霍尔木兹封锁可比。",
+    "短缺沿链条外溢：化肥与塑料原料价格飙升，南亚限电停课，欧洲气价翻倍，英国天然气涨40%。专家警告若油价冲至高位或引发衰退。"
+  ],
+  "core_points": [
+    "卡塔尔约20%的LNG产能被毁，修复或需数年。",
+    "LNG短缺推高化肥与电价，南亚与欧洲受冲击。",
+    "能源高价或催生通胀与加息，间接威胁AI投资与美国消费。"
+  ],
+  "key_facts": [
+    {"label": "卡塔尔LNG全球占比", "value": "20%", "context": "Qatar supplies about 20% of the world's liquefied natural gas."},
+    {"label": "LNG较原油清洁度", "value": "30%", "context": "It's about 30% cleaner than oil."},
+    {"label": "日本LNG能源占比", "value": "21%", "context": "LNG makes up about 21% of Japan's total energy supply."},
+    {"label": "韩国LNG发电占比", "value": "25%", "context": "it generates about 25% of its electricity."},
+    {"label": "韩国LNG用量增幅", "value": "200%", "context": "increased its use of LNG by more than 200%."}
+  ],
+  "takeaways": [
+    "关注LNG修复进度与通胀，能源高价或延续。",
+    "供应链与能源安全成各国政策核心。"
+  ],
+  "guests": ["Patricia Cohen（纽约时报）", "Rachel Abrams（The Daily）"],
+  "topics": ["LNG短缺", "能源价格", "通胀"],
+  "tensions": ["停火能否阻止设施进一步受损尚不明"],
+  "quote": {"text": "如果能源价格持续高位，油价升至每桶180美元或更高，将很难避免衰退", "speaker": "Patricia Cohen", "kind": "paraphrase"},
+  "importance_score": 3,
+  "content_density": "brief",
+  "quality": "llm_validated"
+}

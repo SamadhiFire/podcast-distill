@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3483,
+    "item_id": "xiaoyuzhou:69972c6ca22480add680df24",
+    "month": "2026-02",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69972c6ca22480add680df24",
+    "published_at": "2026-02-25T08:00:00+08:00",
+    "published_date": "2026-02-25",
+    "relative_dir": "2026-02/Ruby的洞察",
+    "schema_version": 1,
+    "source_id": "xyz_ruby_insight",
+    "source_name": "Ruby的洞察",
+    "status": "pending",
+    "target_basename": "2026-02-25_31、2026年营销趋势：品牌都在争做“活人感”，但到底怎么“活”？_69972c6ca22480add680df24",
+    "title": "31、2026年营销趋势：品牌都在争做“活人感”，但到底怎么“活”？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69972c6ca22480add680df24"
+  },
+  "audio_url": "https://media.xyzcdn.net/658be0524b73719a63166bc9/ltaPhuSI9puiYyQFlROdkXiutTi1.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-02\\Ruby的洞察\\2026-02-25_31、2026年营销趋势：品牌都在争做“活人感”，但到底怎么“活”？_69972c6ca22480add680df24.m4a",
+  "bytes": 56332374,
+  "sha256": "30fedfa6d5c485d0dc650c650a8d1c25aeb3fdbc4c089730051423c9cbf4315b",
+  "downloaded_at": "2026-07-02T04:39:48Z"
+}

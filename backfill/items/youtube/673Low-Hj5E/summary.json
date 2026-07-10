@@ -3,7 +3,7 @@
   "item_id": "youtube:673Low-Hj5E",
   "platform": "youtube",
   "platform_id": "673Low-Hj5E",
-  "transcript_sha256": "8410837f155346aee80f5732cfa02c82c962da31be9402dec1c0db4cfd1b61e8",
+  "transcript_sha256": "e5ce5567a629f2664ae6d8caec7faea0e0c04f42fb585a391de887b8f13f7583",
   "metadata": {
     "item_id": "youtube:673Low-Hj5E",
     "platform": "youtube",
@@ -45,39 +45,51 @@
         "label": "Jan的年龄",
         "value": "85岁",
         "context": "曾攀登雷尼尔山（美国本土最高海拔山）、跑过马拉松的女性，现独居在偏远半岛",
-        "source_refs": ["transcript"]
+        "source_refs": [
+          "transcript"
+        ]
       },
       {
         "label": "ELI Q日互动次数",
-        "value": "至少8次/天",
-        "context": "机器人每天至少主动发起8次互动，不等用户提示",
-        "source_refs": ["transcript"]
+        "value": "每天至少主动发起八次互动",
+        "context": "机器人不等用户提示，主动发起互动"
       },
       {
         "label": "ELI Q在美部署",
-        "value": "约1000个家庭",
-        "context": "Intuition Robotics已将ELI Q部署到约1000个美国老年人家中",
-        "source_refs": ["transcript"]
+        "value": "约一千个美国家庭",
+        "context": "Intuition Robotics 已将 ELI Q 部署到美国家庭"
       },
       {
         "label": "Jan身高变化",
         "value": "5英尺2→4英尺6",
-        "context": "严重脊柱侧弯使Jan的身高减少了约8英寸，增加了跌倒风险",
-        "source_refs": ["transcript"]
+        "context": "严重脊柱侧弯使 Jan 身高明显减少，增加了跌倒风险",
+        "source_refs": [
+          "transcript"
+        ]
       },
       {
         "label": "最近家人距离",
         "value": "超过100英里",
-        "context": "7个子女中最近的住在俄勒冈州波特兰，距Jan家超过100英里",
-        "source_refs": ["transcript"]
+        "context": "最近的家人住在俄勒冈州波特兰，距 Jan 家超过 100 英里",
+        "source_refs": [
+          "transcript"
+        ]
       }
     ],
     "takeaways": [
       "在最孤独的时刻，人们会将自己的情感需求投射到任何愿意倾听的对象上——即使是机器",
       "用技术解决孤独将人类关系从'不可替代'变为'可替代'，虽然对个体可能是拯救，但对社会关系结构具有深远腐蚀效应"
     ],
-    "guests": ["Eli Saslow（纽约时报记者，长期追踪美国医疗与社会隔离议题）"],
-    "topics": ["AI陪伴", "孤独危机", "老龄化", "人机关系", "科技伦理"],
+    "guests": [
+      "Eli Saslow（纽约时报记者，长期追踪美国医疗与社会隔离议题）"
+    ],
+    "topics": [
+      "AI陪伴",
+      "孤独危机",
+      "老龄化",
+      "人机关系",
+      "科技伦理"
+    ],
     "tensions": [
       "AI是孤独的解决方案还是孤独的加速器——当家人因为机器人在场而减少坦率交流时，技术在解决一个问题的同时制造了另一个",
       "内在矛盾：机器人需要持续监听、收集数据才能提供'贴心'的陪伴，但这恰恰是家人感到不安的隐私问题",

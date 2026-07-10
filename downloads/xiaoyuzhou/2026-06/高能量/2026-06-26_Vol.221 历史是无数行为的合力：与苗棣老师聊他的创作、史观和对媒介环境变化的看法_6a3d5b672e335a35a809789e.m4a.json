@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 5124,
+    "item_id": "xiaoyuzhou:6a3d5b672e335a35a809789e",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a3d5b672e335a35a809789e",
+    "published_at": "2026-06-26T08:00:00+08:00",
+    "published_date": "2026-06-26",
+    "relative_dir": "2026-06/高能量",
+    "schema_version": 1,
+    "source_id": "xyz_gao_neng_liang",
+    "source_name": "高能量",
+    "status": "pending",
+    "target_basename": "2026-06-26_Vol.221 历史是无数行为的合力：与苗棣老师聊他的创作、史观和对媒介环境变化的看法_6a3d5b672e335a35a809789e",
+    "title": "Vol.221 历史是无数行为的合力：与苗棣老师聊他的创作、史观和对媒介环境变化的看法",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a3d5b672e335a35a809789e"
+  },
+  "audio_url": "https://media.xyzcdn.net/62c6ae08c4eaa82b112b9c84/ltXbC-6nWKDFhJSYTdFwB-axQJJi.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\高能量\\2026-06-26_Vol.221 历史是无数行为的合力：与苗棣老师聊他的创作、史观和对媒介环境变化的看法_6a3d5b672e335a35a809789e.m4a",
+  "bytes": 82880636,
+  "sha256": "5c60ac7da78fe6a9911d4230d3ce6ab3307670dded59a2ad2ada148c4fc66bd0",
+  "downloaded_at": "2026-07-02T03:38:37Z"
+}

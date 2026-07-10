@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 7034,
+    "item_id": "xiaoyuzhou:6992beebde29766da9ba802a",
+    "month": "2026-02",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6992beebde29766da9ba802a",
+    "published_at": "2026-02-16T15:06:33.736000+08:00",
+    "published_date": "2026-02-16",
+    "relative_dir": "2026-02/乱翻书",
+    "schema_version": 1,
+    "source_id": "xyz_luan_fan_shu",
+    "source_name": "乱翻书",
+    "status": "pending",
+    "target_basename": "2026-02-16_261.AI时代的社交，越得过微信吗？_6992beebde29766da9ba802a",
+    "title": "261.AI时代的社交，越得过微信吗？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6992beebde29766da9ba802a"
+  },
+  "audio_url": "https://media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lsdLa1Yf6LHqounNAYz64G1pQ9x6.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-02\\乱翻书\\2026-02-16_261.AI时代的社交，越得过微信吗？_6992beebde29766da9ba802a.m4a",
+  "bytes": 113873401,
+  "sha256": "01b8d6f39f45cc063a0e0afd3e8e42b476ae464ea7ad54b447c47749f7c69bd8",
+  "downloaded_at": "2026-07-02T04:40:23Z"
+}

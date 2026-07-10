@@ -1,0 +1,36 @@
+{
+  "short_title": "AI无法替代的影响力艺术",
+  "one_liner": "向上管理靠的是影响力而非苦干",
+  "why_it_matters": "影响力是AI时代产品人最被低估的高杠杆软技能",
+  "summary": [
+    "本期嘉宾Jessica Fain（曾任Box、Slack产品负责人，现Webflow产品高管）分享影响高管与领导者的艺术。她认为影响力是AI之外产品人最被低估的高杠杆技能，不懂影响他人，再好的想法也会胎死腹中。",
+    "许多人误以为只要把工作做好就会被看见，结果撞上晋升的墙。Fain指出真正的问题在于人们不懂高管如何决策：把高管日历想象成频闪灯，他们一早就被无数紧急事务淹没，没有精力去理解你的议题。",
+    "有效影响的关键是去中心化、以对方为中心：用好奇与同理去了解高管的成功标准、董事会压力和激励结构，把你的提案与他们的成功绑定，并以低 ego 的方式呈现，而不是炫耀工作量。",
+    "面对AI浪潮，Fain认为影响力与同理心反而更重要。代码可被代理生成，但理解历史背景、用户处境、组织激励并凝聚跨职能共识的能力无法被替代。她建议产品人像CPO一样思考，主动承担推动落地的责任。"
+  ],
+  "core_points": [
+    "影响力是产品人仅次于AI的最高杠杆技能，缺乏它好想法也会搁浅。",
+    "高管日历像频闪灯，决策时被紧急事务切割，无暇消化你的议题。",
+    "以用户为中心的好奇与同理同样适用于高管，先理解再影响。",
+    "把提案绑定高管的成功指标与激励结构，用低 ego 方式呈现方案。",
+    "AI取代代码编写，但历史语境、同理心与跨职能共识仍需人来驱动。"
+  ],
+  "key_facts": [
+    {"label":"企业合规标准","value":"2701","context":"ISO 2701 or an enterprise managing"},
+    {"label":"节省成本","value":"$500,000","context":"customers slashed over $500,000"},
+    {"label":"优惠额度","value":"$1,000","context":"$1,000 off at bant.com/lenny."},
+    {"label":"代码生成占比","value":"100%","context":"coding and now it's 100% of code will be"},
+    {"label":"历史年代","value":"1600s","context":"the 1600s, 1700s, there are two wives"}
+  ],
+  "takeaways": [
+    "下次汇报前先弄清高管的成功指标与激励结构再组织话术。",
+    "以低 ego 姿态呈现方案，把你的提案与对方目标绑定。"
+  ],
+  "guests": ["Jessica Fain（Webflow）"],
+  "topics": ["向上管理与影响力","AI与产品领导力","高管决策逻辑"],
+  "tensions": ["展示自我成果 vs 以对方为中心"],
+  "quote": {"text":"高管的日历像频闪灯，一早就被紧急事务切割，没空消化你的议题。","speaker":"Jessica Fain","kind":"paraphrase"},
+  "importance_score": 4,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

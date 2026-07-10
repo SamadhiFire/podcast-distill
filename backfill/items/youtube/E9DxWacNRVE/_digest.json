@@ -1,0 +1,32 @@
+{
+  "short_title": "AI泡沫论战：软件股恐慌",
+  "one_liner": "AI像1990年代互联网，炒作过头",
+  "why_it_matters": "市场从狂热到末日论切换极快，估值风险高",
+  "summary": [
+    "Henry Blodget认为当前AI热潮很像1990年代的互联网，行业早期分歧巨大，一天是灾难论、一天只是文字处理器，市场从狂热到末日论切换极快。",
+    "本周一篇Substack看空报告引发软件股大跌，Blodget称这是过度恐慌：企业不会因此放弃正规软件供应商，估值虽高但远非世界末日。",
+    "关于媒体业，他认为AI不会取代品牌与编辑价值，专业niche内容更重要；巨头烧钱无上限，但谷歌、彭博等仍具差异化优势。"
+  ],
+  "core_points": [
+    "AI当前阶段类似1990年代互联网，预测分歧极大。",
+    "软件股抛售属过度恐慌，企业不会弃用正规软件。",
+    "媒体业中品牌、编辑与专业niche内容仍关键。",
+    "头部AI公司烧钱无上限，但未来格局仍未确定。"
+  ],
+  "key_facts": [
+    {"label":"报告失业率", "value":"10%", "context":"看空报告称10%失业，即90%就业，多数仍有工作。"},
+    {"label":"农业就业变迁", "value":"93%", "context":"过去93%务农，如今仅2%。"},
+    {"label":"AI起点类比", "value":"1990", "context":"Blodget称当前AI类似1990年代互联网。"}
+  ],
+  "takeaways": [
+    "把AI当长期技术变革看待，而非短期末日或万能药。",
+    "警惕高估值下情绪驱动的软件股剧烈波动。"
+  ],
+  "guests": ["Henry Blodget（Regenerator）"],
+  "topics": ["人工智能", "软件股", "媒体业"],
+  "tensions": ["AI颠覆论与渐进论分歧", "估值狂热与末日恐慌快速切换"],
+  "quote": {"text":"这看起来很像1990年代的互联网。", "speaker":"Henry Blodget", "kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "standard",
+  "quality": "llm_validated"
+}

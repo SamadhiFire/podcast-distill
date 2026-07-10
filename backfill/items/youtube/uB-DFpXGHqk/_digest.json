@@ -1,0 +1,36 @@
+{
+  "short_title": "中东冲突冲击全球市场",
+  "one_liner": "油价与利率同步重定价，市场未恐慌",
+  "why_it_matters": "能源冲击正转化为全球利率与通胀冲击",
+  "summary": [
+    "美以承诺停止打击伊朗能源设施，意在降温，但冲突已进入第21天，伊朗仍反击海湾能源基础设施，科威特炼油厂停产，卡塔尔LNG设施需3至5年修复，17%产能被摧毁。市场焦点从短期运输风险转向长期生产风险。",
+    "能源冲击迅速转化为利率冲击。布伦特自开战上涨50%，英国两年期国债收益率出现近100个基点变动，十年期收益率创2008年以来新高。欧洲央行已被市场计入三次加息，而美联储是G10中唯一仍勉强计入年内降息的央行。",
+    "股市表现相对克制。标普500早盘下跌约0.5%，Vix从中东战争前的近20升至中20区间，高收益利差未见失控，显示市场并未恐慌，更多将此次视为近端的供应冲击而非长期灾难。",
+    "嘉宾观点分化：有人认为能源与利率已剧烈重定价，但最敏感的信贷与周期资产尚未跟跌，值得警惕；也有人认为油价曲线深度backwardation，说明市场定价为可较快缓解的近端冲击，年末或成买入机会。"
+  ],
+  "core_points": [
+    "布伦特自开战已上涨约50%，能源股大涨",
+    "英国十年期国债收益率创2008年以来新高",
+    "市场已计入欧洲央行年内三次加息",
+    "标普500仅小幅下跌，Vix处于中20区间未恐慌",
+    "卡塔尔LNG设施17%产能被毁，修复需3至5年"
+  ],
+  "key_facts": [
+    {"label":"布伦特涨幅","value":"50%","context":"Brent crude up by 50%. Refined products absolutely surging"},
+    {"label":"LNG产能损失","value":"17%","context":"17% of their capacity has been wiped out"},
+    {"label":"十年期收益率高位","value":"2008","context":"the 10-year, the yield just moments ago the highest since 2008"},
+    {"label":"ECB加息定价","value":"3","context":"Three interest rate hikes fully priced at the European Central Bank"},
+    {"label":"标普跌幅","value":"0.5%","context":"Equity futures negative by 0.5% stateside"}
+  ],
+  "takeaways": [
+    "关注能源供应风险向通胀与利率的传导链条",
+    "油价曲线backwardation暗示冲击偏近端，勿过早恐慌"
+  ],
+  "guests": ["Jonathan Ferro","Lisa Abramowicz","Anne-Marie Hordern","Paul Sankey","Kelsey Barrow"],
+  "topics": ["中东冲突","油价","利率重定价"],
+  "tensions": ["能源冲击是近端还是长期的结构性风险"],
+  "quote": {"text":"市场正在快速重定价利率冲击，欧洲央行已被计入三次加息","speaker":"Bloomberg","kind":"paraphrase"},
+  "importance_score": 4,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

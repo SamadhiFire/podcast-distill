@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 5601,
+    "item_id": "xiaoyuzhou:6a1801dd7460cabdeb573f88",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a1801dd7460cabdeb573f88",
+    "published_at": "2026-05-28T17:03:46.757000+08:00",
+    "published_date": "2026-05-28",
+    "relative_dir": "2026-05/高能量",
+    "schema_version": 1,
+    "source_id": "xyz_gao_neng_liang",
+    "source_name": "高能量",
+    "status": "pending",
+    "target_basename": "2026-05-28_Vol.218 宏观漫谈105｜从AI资本市场热潮到挑战石油美元体系，历史几乎每次都一样（5.24录制）_6a1801dd7460cabdeb573f88",
+    "title": "Vol.218 宏观漫谈105｜从AI资本市场热潮到挑战石油美元体系，历史几乎每次都一样（5.24录制）",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a1801dd7460cabdeb573f88"
+  },
+  "audio_url": "https://media.xyzcdn.net/62c6ae08c4eaa82b112b9c84/lt89fCp9xm5L22xJNXHPAUCwtCp5.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\高能量\\2026-05-28_Vol.218 宏观漫谈105｜从AI资本市场热潮到挑战石油美元体系，历史几乎每次都一样（5.24录制）_6a1801dd7460cabdeb573f88.m4a",
+  "bytes": 90667645,
+  "sha256": "598a2598ab6d1a2a081a0566f717c3f4cff41ad9cfac556b5f0d04ea5404ea17",
+  "downloaded_at": "2026-07-02T03:56:36Z"
+}

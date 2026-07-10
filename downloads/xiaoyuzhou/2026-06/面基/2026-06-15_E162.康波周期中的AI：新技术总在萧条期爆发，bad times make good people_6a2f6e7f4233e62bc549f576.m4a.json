@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 6769,
+    "item_id": "xiaoyuzhou:6a2f6e7f4233e62bc549f576",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a2f6e7f4233e62bc549f576",
+    "published_at": "2026-06-15T17:30:00+08:00",
+    "published_date": "2026-06-15",
+    "relative_dir": "2026-06/面基",
+    "schema_version": 1,
+    "source_id": "xyz_mian_ji",
+    "source_name": "面基",
+    "status": "pending",
+    "target_basename": "2026-06-15_E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people_6a2f6e7f4233e62bc549f576",
+    "title": "E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a2f6e7f4233e62bc549f576"
+  },
+  "audio_url": "https://media.xyzcdn.net/6388760f22567e8ea6ad070f/limyZCH9lA0bBwE8y9GEOfgQARGL.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\面基\\2026-06-15_E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people_6a2f6e7f4233e62bc549f576.m4a",
+  "bytes": 109587012,
+  "sha256": "477f8f84b96dc26c5c8f6aaf9dc80fab8547f3ebfa4b39b32082378d7431ed13",
+  "downloaded_at": "2026-07-02T03:45:42Z"
+}

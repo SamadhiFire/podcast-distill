@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 2398,
+    "item_id": "xiaoyuzhou:6a32af674233e62bc54b8f3f",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a32af674233e62bc54b8f3f",
+    "published_at": "2026-06-18T07:00:00+08:00",
+    "published_date": "2026-06-18",
+    "relative_dir": "2026-06/商业就是这样",
+    "schema_version": 1,
+    "source_id": "xyz_business_is",
+    "source_name": "商业就是这样",
+    "status": "pending",
+    "target_basename": "2026-06-18_Vol.261 硬币经济学_6a32af674233e62bc54b8f3f",
+    "title": "Vol.261 硬币经济学",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a32af674233e62bc54b8f3f"
+  },
+  "audio_url": "https://media.xyzcdn.net/6022a180ef5fdaddc30bb101/lvmrYs_zoAnLjJQdljchmt2wp_46.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\商业就是这样\\2026-06-18_Vol.261 硬币经济学_6a32af674233e62bc54b8f3f.m4a",
+  "bytes": 58017500,
+  "sha256": "d4dc2bb87f8df587b2b3bb0c632b7301fa171bb1688f63ad1b8ec95e1588410b",
+  "downloaded_at": "2026-07-02T03:43:14Z"
+}

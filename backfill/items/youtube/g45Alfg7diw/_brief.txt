@@ -1,0 +1,529 @@
+TITLE: How Autonomous Labs Will Transform Scientific Research: Ginkgo Bioworks’ Jason Kelly
+CHANNEL: Sequoia Capital
+DURATION_S: 3508  DENSITY: standard  REQ summary=3 core=4
+PUBLISHED: 2026-03-24T12:01:12+00:00  URL: https://www.youtube.com/watch?v=g45Alfg7diw
+SHA256: ceaccebc0d739f946d260c738cf961352203e0955c755670bf90013050040255
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [5%] less than 5% is on the reagents. Mhm.
+  [2008] Ginkgo Bioworks in 2008 with the goal of
+  [2014] actually raise any capital until 2014.
+  [40%] we beat it by 40%. And so that was a I
+  [99%] do the variability. So 99% of the work
+  [95%] science today, 95% of science, the stuff
+  [30000] 30,000 experiments to run and after it
+  [90%] now they're running where 90% of the
+  [100%] &gt;&gt; 100% And and again if you're like trying
+  [20%] talking going from like sub-20%
+  [70%] utilization at the bench to like 70%. So
+  [85%] 85% of the market for biotechnology is
+  [10%] therapeutics, and then there's like 10%
+  [1960] to the 1960s
+
+=== TRANSCRIPT EXCERPT ===
+All of the previous revolutions in tech,
+internet, right? Like social media, like
+whatever have been totally meaningless
+to biotechnology and biopharma. Like,
+yeah, it's nice. We communicate slightly
+better, whatever. It's just some like
+back office IT crap, right? Like
+not this. Like like this this is is
+actually going to change the
+fundamentals of how we do science and
+and our big science industries like
+biopharma are going to get disrupted. I
+I really believe that and that's not
+been true for [music] the last 30 years
+of tech.
+founder and CEO of Ginkgo Bioworks with
+us today. Thank you for joining us.
+Ginkgo Bioworks in 2008 with the goal of
+making biology programmable. And
+programmable has taken on completely
+different meaning in the era of AI. So
+I'm very excited for the conversation
+today. Maybe tell us about the journey
+so far.
+I mean uh I'll I'll do the Ginkgo
+journey journey in short, right? Yeah,
+we started in 2008 but we didn't
+actually raise any capital until 2014.
+So we bootstrapped for 4 or 5 years.
+Which like if you're not a bio person,
+this doesn't make sense but in biotech
+VC, they really don't like like young
+people for example. So we had started
+the company like straight out of grad
+school. It was 2008. We weren't trying
+to make a drug. We were like totally
+uninvestable.
+company for those first 6 years? Oh
+yeah. Okay.
+did government grants and service
+business. It was like pretty brutal
+start. And then summer 14, Sam Altman,
+now Mr. Famous,
+writes this blog post cuz he just took
+over YC and he's like, "Hey, I think the
+Silicon Valley model can work for like
+deep tech." You know, nuclear fission,
+biotech, material science. And so I
+wrote him an email. I was like, "Oh man,
+like thank you for I mean we're we're
+like 5 years old. I got 15 people in a
+lab in Boston. We don't make any sense
+for YC but this is like a oasis in the
+desert, you know? Like nobody will
+invest in weird companies like this."
+And he's like, "No, you got to meet me."
+So I flew out to San Francisco, met him.
+He's like, "You should do YC." I was
+like, "I should do YC."
+was sort of when you know, if you really
+want to mark Ginkgo from like having
+capital, it was sort of in 2014. And how
+has the product changed since 2014? Oh,
+well, so the mission hasn't changed but
+the product has gone all over the place,
+different different roads. So we've
+always wanted to make biology easier to
+engineer. That was the idea. And so if
+you're you know, this is a very much
+programmable. Has it have the words
+always been make it easier to engineer?
+Cuz I feel like that's a slight
+was always like this the the computer
+science wrapper on make biology easier
+to engineer. But yeah, that was always
+our mission. Okay, got it. But the
+analogy is solid, right? So you know,
+DNA is code, right? It's ATCs and Gs,
+not zeros and ones. It's really our only
+other like coded product other than
+computers is really biotechnology. And
+so the core idea of Ginkgo was, well, if
+you could design DNA code, you can
+program cells to do things. And cells
+are you know, they're programmable like
+computers, right? But unlike computers,
+which just move information around,
+cells move atom around. So if you can
+build whatever you want, that's we think
+ultimately going to be a huge market, a
+huge opportunity. But the challenge is
+our ability to program cells today is
+really bad. And so how could you fix
+that? That was the core idea behind
+Ginkgo. And how has the product itself
+changed over time?
+first was we're going to try to build
+what we called foundries, which was sort
+of a centralized laboratory that would
+kind of automate the lab work associated
+with doing biotech. And and the reason
+again, if you're a computer scientist,
+the way to think about this is if you
+want to compile and debug DNA code,
+that's a physical process. Yep. Right?
+So you're like ATCGGG, like we have to
+do phosphoramidite chemistry. You got to
+build the piece of DNA you want and then
+put it into a cell, grow the cell and
+test the cell and that's your kind of
+compile debug cycle. Does that make
+sense? And so one half of what we worked
+on technologically was, how do we make
+that cheaper?
+Right? Cuz if you want to get better and
+doing this, you got to do more of it
+faster and for less expense. And then
+the second thing we worked on was, how
+do you get better at your programming?
+In other words, like that design you
+choose to test in the lab, how do you
+improve the odds that it does what you
+want? So sort of like get better at
+design the biology and make it cheaper
+to try things. We're like basically for
+the last 15 years, the twin activities.
+And in an era of the AI, I see you see
+opportunities on both sides for that
+today and that's we've shifted a little
+bit over the years in terms of how we do
+it. Um but though does that make sense
+that you kind of have And roughly
+speaking, the design piece sounds like
+it's a bit more software. The testing
+piece sounds like it's a bit more
+hardware
+controlled by software. Very much. Yeah,
+that's exactly right. And today the
+folks leading on the design side, you
+might see
+companies like Chai Bio for example like
+who has like these protein models Bolts.
+Um the folks at Arc Institute are really
+just came out today with a paper we'll
+call it about Evo 2, which is like a a
+genomic model. There's a whole community
+of people now trying to solve the
+problem of designing biology with AI.
+The big change at Ginkgo over the last 2
+years is I've kind of stopped working on
+that problem. Mhm. I'm like, we had our
+own approach to solving it. It's hard,
+right? Like designing cells is tricky.
+We're going to try to solve this half of
+the out of the problem, which is how do
+you make it cheaper and faster to try
+things in the lab and how can you We can
+talk a little bit more. We did a project
+with OpenAI. How could you have AI
+models help you do that? Is anybody else
+focused on the back end, so to speak? I
+kind of think about design as the front
+end of the process
+when I say anybody else, obviously
+people do this. Is anybody else with a
+similar approach focused on that part of
+the market? Um you you're there's some
+new companies, right? So there's
+companies like Madra out here as one
+that's doing it with like robotic arms
+trying to accelerate it. You have like
+the life science tools industry but I
+would say it does not have
+a Silicon Valley attitude about things
+in the sense that they're not really
+trying to change the fundamentals of how
+you do it. They're sort of like just
+providing the next tool to people doing
+it the way they've always done it.
+And so we've always been this kind of
+unique force trying to say, "Hey, is
+there a new platform?" Right? Is there
+something like the jump to planar
+semiconductor manufacturing in
+electronics at the beginning of Intel?
+You know, like is there some some way we
+should just do all this stuff
+differently that could make it way
+better in the future? And that's always
+been the Ginkgo like what I think is
+unique about what we've been doing in
+the last 10 years. What catalyzed the
+focus on this part of the business? On
+the on this half of the house?
+Yeah, I think [clears throat] this is an
+engineering problem and I don't think
+this is a science problem. Okay.
+kind of took my licks for that. And I
+think the the good thing about an
+engineering problem is you can
+ultimately like render it to dust,
+right? A science problem, I think is
+great if you hit it but it's much more
+unpredictable. And so in this era of
+Ginkgo, I've got like the resources
+marshaled at this point to go after this
+and kind of see it through. And so
+that's why you see me pointing in that
+direction.
+the Arc Institute and others of that
+ilk, what inning are we in, so to speak?
+Like is the ecosystem around the science
+problem Good question.
+results soon other than papers? Uh it's
+a good question. I I think the the hard
+part about designing biology So biology
+……（中部抽样）……
+is amazing, by the way, right? Like just
+physical substrate, it's insane.
+half of your drugs today are produced by
+sense? And so I think they have a really
+Mr. Altman,
+I can talk more about this but the short
+science today, 95% of science, the stuff
+You know, right? Like
+you have to go out usually and like poke
+robotic lab? That was the question. And
+cell right now, remember like
+and then add the DNA to that. And
+of Stanford from my Jewett's lab in
+384 well plates. Okay? So each well in a
+state of the art and after six rounds,
+the art? Uh so this is this is my point.
+up with an idea and then they're trying
+Oh, this is how
+the house. It just requires you to be
+it break through wasn't that it was so
+the United States. Well, and it's easy
+Yeah. What's wrong with that vision of
+scientist today.
+scientist will push back on is like
+uh
+would have a lab, you'd have a lab, I'd
+based on what I see at the end, I write
+way. I'm getting like the distilled
+that has every piece of equipment that
+scientists on top of this thing. Yeah.
+experiments, like what experiment they
+for example, say your experiment went
+conclusion about what the 100 of them
+across a lot of projects for the AIs is
+what's up with the indirect rates at the
+Yep. Okay? Uh they have equipment, but
+equipment.
+Everything is on overhead is basically
+science. Yeah.
+like less than 5%. So the other
+how we do it today. Yeah. So I think you
+head of R&amp;D needs to care about this.
+been totally meaningless to
+and our big science industries like
+of information. Computation is about the
+of what it is you're doing. Completely
+either products or for the government,
+tech guys finally did something cool.
+autonomous labs and then I'll explain
+Standing I I I did a PhD at MIT in
+would do like manual labor, right? Like
+well everyone in in Silicon Valley is
+is like high mix low volume work.
+like level of automation. Yep. And then
+you know, maybe you like
+transportation system looked like for
+anymore. We make up a new word. We call
+And AI we hit a wall on flexibility of
+sense? Sure. And so that's what we're so
+do the variability. So 99% of the work
+you know, you kind of had your sensor
+then there are gazillion corner cases
+automation to autonomy it's going to be
+Lab I can make it it's my lab every day
+Okay. So so in my world it's the
+pieces of third party like you can't
+we doing with our hands when we do
+and like but the thing is if the liquid
+work as the human to like manage that.
+Yeah, yeah yeah agree. Yeah, it's
+the hardware
+really hard and and so we have this
+remember the Google engineers who had
+robots we're going to 100 in our big lab
+just the handling the scheduling with
+Right? So there's just these like things
+It's just a matter of having like all
+everybody's done. They've made like
+one will program chat. And I and so we
+little wells with liquids in them and it
+de-seal the plate before you send it to
+Okay. And and I was just like this is
+sends a plate sealed we will update the
+know, right? Like so these are the
+else on the planet right now. So it's
+different machines.
+do that than like walk them bipedally
+disappears. Okay. And then the other
+discipline. Like biology is a
+centers have become these enormous
+And they're they're set up for basically
+that kind of like cycling is is kind of
+scientists are ordering all their
+you have because of physical people. You
+all in around a track system, so it's
+science thing that Trump's doing and
+earlier like the spending is not on the
+cart. It's basically like a box that has
+of them all together in our lab in
+for per box.
+You know, Pacific Northwest National
+to me seems like inference. Like it's a
+I don't know yet. I I think I think
+Right? Like you want to do a slight Oh,
+twin. No. Like, you know, right? Like
+that Waymo had to see driving around are
+The bigger one is sort of
+results of every experiment. Like it's
+right? Like everything else is kind of
+that nut, like if you can if models plus
+generating in the lab needs to feed back
+I do think is is again, in my view, some
+like if we really want them to be smart,
+and so it's run by the Department of
+was like a Department of Energy project.
+actually put out a list of like these
+what we want to do is bring AI models
+do it is they want to take the existing
+that was And so when we we did that deal
+for us.
+Like I think it's Well, in in in the
+chaired like 7 years ago. So it was
+then this was on on bioengineering,
+to spend on science basically. And
+Like they're actually like if you look
+then they try to sell it to Merck or
+Last quarter, 40% plus. Wow. Okay? Yeah.
+And remember, it's like a hands in the
+this change both in how we do
+Right? Like the the founding point of
+if you get technologically surprised.
+you guys about.
+like, it's [&nbsp;__&nbsp;] Oh, what is this?
+think that's also a thing that we've
+should give it a try. Pharma has been
+like, should everyone just get back be
+something in Louisiana. But, like, you
+hopes is
+house that are, you know, fundamentally
+through we're still in biotech winter.
+tell. Yeah. Um feels Google with
+through. Well, and I think um
+phase one is sort of becoming
+specific categories, one at a time.
+bunch of breakthroughs. Yeah. And so, I
+better than what human chip designers
+83. Yeah, 37. Great. Yes. Like, move 37.
+It'll intuit something that a person
+these A lot of the the physical world
+like
+insane break You know, we got a
+will the venture capital industry shrink
+thing would happen, but actually the
+the same thing happens, which is the
+you think somebody's going to train like
+available to the reasoning model to do
+think those will end up being powerful
+That that's already true. I don't need
+or not? Okay, yeah. So, let's nerd out
+All I want to do in life is like make
+that stuff, right? They haven't brought
+like they program computers. Mhm. Right?
+is that the only working app ecosystem
+industrial. Like, you when you have cold
+compilers.
+We'd all be like, well, there's so you
+and cheaper to just design biology, make
+it has to do with regulatory, basically.
+It takes us like 2 and 1/2 years. Like,
+that does remain like a like a problem,
+would be a big accelerant not just for
+to pick our app of drugs, it has gotten
+like and and which is like Baumol's cost
+……（接近结尾）……
+Like well, you know, like like Bryan's
+got a good life, you know, like would
+you be like oh, you're taking some
+random thing and trying it out? Like
+isn't that scary? And he's like, well,
+I'm monitoring all the time.
+Right? So like every week he's like
+taking all these tests and everything
+else. He's like the most measured
+person. $2 million a year of of
+diagnostic stuff, right? Like
+that is the other area. So like oh, we
+all love our Oura rings and everything.
+This is pathetic. Okay, right? Like it's
+great. Your heart rate. It's like
+telling you nothing. All right? Like
+like the real Now, I love Oura by the
+way. I've had this thing for 10 years.
+But like the real meat of what's going
+on inside your body is molecular. Yeah.
+So what we really should be doing is
+like taking a blood sample every week
+and giving you like a whole read out of
+a ton of stuff
+like longitudinally over time so that
+you can try different interventions for
+you
+and see you how it affects you
+molecularly cuz that's what actually
+matters. Like molecularly like aging is
+molecular, right? It's not your [&nbsp;__&nbsp;]
+whatever. The the And so so like that
+whole world
+and stuff like functions getting going
+and doing Quest tests. Like I mean my
+god, I did it over Christmas, but it's
+like 10 vials. It's like the worst
+experience in the entire world, right?
+Like like that
+Yeah, but it but it's but it's so early,
+right? That's my point. Like so I think
+that line is another place that could be
+a big If you're asking about near end
+apps for biotech, that one is the other
+one, right? And so I think I think you
+could see that. I think you could see
+other things like the clips. Those are
+ones I'm excited about. And then I'm
+always hopeful
+something like that. Yes, you know,
+right? Like like there'll just be some
+other weird thing.
+And and we did just launch a cloud lab
+service Igen go where you can
+like we have experiments as cheap as $39
+that you can just run and we don't send
+you anything. Like we won't send you a
+sample, but we will send you back data.
+So it's like you do the experiment, we
+run the experiment for you, you got the
+data back, right? And so my my last
+point on this one
+is like
+I think if you like science is thought
+of as this very like precious genius
+thing, but really what it is is like
+formalized human curiosity. It's like a
+process by which humans of which all of
+us are curious about things
+like do curiosity right. Like really try
+to answer our curiosity. Does that make
+sense? And I and I think everybody's
+curious. And so I believe that if you
+drop the cost of like like like a lot of
+what blocks people from science is
+actually not like the esotericness of
+it. It's in my view the lab.
+It is that that is brutal, right? Like
+you don't have access A, it is a total
+gate-kept. Like you cannot get access to
+one. It like almost legally you can't
+get access to one, right? Like And so
+there's just this whole thing. And and
+I'm like, well, what if that went away?
+What if people everyday people could
+could order an experiment? What if the
+model would help them design the
+experiment to ask a question that they
+have about the world? Would they
+suddenly ask questions and do these
+experiments? Would they be Would
+everybody Would millions of people want
+to be scientists? And I know that sounds
+like well, that's nuts, ba ba ba. But
+like if you rewind the clock, God bless
+Silicon Valley in the computer industry
+to the 1960s
+when it was IBM and it was mainframes
+and you told people
+that kids
+would program computers, they would say
+you're [&nbsp;__&nbsp;] insane.
+And so I believe if you do manage to
+drop the cost of all this stuff, you may
+have kids and everybody else wanting to
+just ask original scientific questions
+and being able to do it. And that would
+be a cool market, right? Like And so
+anyway, that that
+All this stuff I feel is on the other
+side of of getting the say I for science
+stuff working, but I'm excited about it.
+Extremely cool vision for the future.
+Great notes end on. Thank you. Very
+inspiring. Thanks for having me on.

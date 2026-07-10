@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "产品 / 创业 / 管理",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 13132,
+    "item_id": "xiaoyuzhou:6a2543dcb30e1571aea20d0b",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a2543dcb30e1571aea20d0b",
+    "published_at": "2026-06-08T08:00:00+08:00",
+    "published_date": "2026-06-08",
+    "relative_dir": "2026-06/张小珺Jùn｜商业访谈录",
+    "schema_version": 1,
+    "source_id": "xyz_zhang_xiaojun",
+    "source_name": "张小珺Jùn｜商业访谈录",
+    "status": "pending",
+    "target_basename": "2026-06-08_144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式_6a2543dcb30e1571aea20d0b",
+    "title": "144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a2543dcb30e1571aea20d0b"
+  },
+  "audio_url": "https://media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lnjlEQjGjo1TxuPOuvYgmDV7oo8B.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\张小珺Jùn｜商业访谈录\\2026-06-08_144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式_6a2543dcb30e1571aea20d0b.m4a",
+  "bytes": 212376518,
+  "sha256": "21403f754c007d3c3839448a7351bde422975d279a4523673b64f8171f15124e",
+  "downloaded_at": "2026-07-02T03:52:32Z"
+}

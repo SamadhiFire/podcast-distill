@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "新闻 / 时评 / 全球议题",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 7647,
+    "item_id": "xiaoyuzhou:6a29f71f4b98e40f25a2488c",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a29f71f4b98e40f25a2488c",
+    "published_at": "2026-06-11T07:45:00+08:00",
+    "published_date": "2026-06-11",
+    "relative_dir": "2026-06/晚点聊 LateTalk",
+    "schema_version": 1,
+    "source_id": "xyz_late_talk",
+    "source_name": "晚点聊 LateTalk",
+    "status": "pending",
+    "target_basename": "2026-06-11_168_ 对话王新宇：美团龙珠怎么投科技？_6a29f71f4b98e40f25a2488c",
+    "title": "168: 对话王新宇：美团龙珠怎么投科技？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a29f71f4b98e40f25a2488c"
+  },
+  "audio_url": "https://media.xyzcdn.net/61933ace1b4320461e91fd55/lvgpjtbpEBRJDsO_4Amp1F5kKzRx.mp3",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\晚点聊 LateTalk\\2026-06-11_168_ 对话王新宇：美团龙珠怎么投科技？_6a29f71f4b98e40f25a2488c.mp3",
+  "bytes": 123323207,
+  "sha256": "5047b944498f16b3f89699b458f07156907b546995486c5e644dc8af8f89d573",
+  "downloaded_at": "2026-07-02T03:49:26Z"
+}

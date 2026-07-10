@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3712,
+    "item_id": "xiaoyuzhou:69dca4acb977fb2c47cfb561",
+    "month": "2026-04",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69dca4acb977fb2c47cfb561",
+    "published_at": "2026-04-13T16:18:07.949000+08:00",
+    "published_date": "2026-04-13",
+    "relative_dir": "2026-04/高能量",
+    "schema_version": 1,
+    "source_id": "xyz_gao_neng_liang",
+    "source_name": "高能量",
+    "status": "pending",
+    "target_basename": "2026-04-13_Vol.212 产业观察39｜AI+硬件+乐器的新演绎：与戴乐科技牛亚锋聊十年硬件创业_69dca4acb977fb2c47cfb561",
+    "title": "Vol.212 产业观察39｜AI+硬件+乐器的新演绎：与戴乐科技牛亚锋聊十年硬件创业",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69dca4acb977fb2c47cfb561"
+  },
+  "audio_url": "https://media.xyzcdn.net/62c6ae08c4eaa82b112b9c84/ljmoruMnj9AOLuGzHG9qL26VvXdE.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-04\\高能量\\2026-04-13_Vol.212 产业观察39｜AI+硬件+乐器的新演绎：与戴乐科技牛亚锋聊十年硬件创业_69dca4acb977fb2c47cfb561.m4a",
+  "bytes": 60093953,
+  "sha256": "d5a4036f3f75c82a80e97c65bd4f30b8f0fbe4cb0b6f27a5e0f9531899be0e28",
+  "downloaded_at": "2026-07-02T04:24:39Z"
+}

@@ -1,0 +1,32 @@
+{
+  "short_title": "用AI重塑医疗",
+  "one_liner": "OpenAI谈医疗大模型的训练与落地",
+  "why_it_matters": "医疗是AI惠及全人类最清晰、最可落地的场景",
+  "summary": [
+    "本期 OpenAI 播客邀请健康业务负责人 Nate Gross 与健康AI研究负责人 Karan Singh，探讨如何训练大模型处理敏感医疗问题并赋能医患。",
+    "OpenAI 推出 ChatGPT Health，以单向加密阀门保护对话、承诺不训练用户健康数据，并引入患者自身情境，让回答更具针对性与安全性。",
+    "团队与数百名医师深度协作，用严谨评分体系评估医疗回答，并在肯尼亚等地验证可显著减轻临床负担，部分搁置药物借AI重获临床价值。"
+  ],
+  "core_points": [
+    "OpenAI 推出 ChatGPT Health，以单向加密保护对话并承诺不训练用户健康数据。",
+    "团队与医师深度协作，用量化评分体系严格评估医疗回答的安全与准确。",
+    "模型从被动应答转向主动追问上下文，并按患者或医师身份差异化表达。",
+    "在肯尼亚等部署中验证可减轻临床负担，并助力搁置药物重获价值。"
+  ],
+  "key_facts": [
+    {"label": "医学评估维度", "value": "49,000", "context": "评估涵盖约 49,000 个不同维度。"},
+    {"label": "医师共创回应", "value": "5,000", "context": "医师共创逾 5,000 条AI回应。"},
+    {"label": "评分标准条数", "value": "48,500", "context": "共制定 48,500 条评分标准。"}
+  ],
+  "takeaways": [
+    "关注医疗AI在诊断辅助与流程减负中的落地进展。",
+    "重视数据隐私与评估体系，审慎看待AI临床可靠性。"
+  ],
+  "guests": ["Nate Gross（OpenAI 健康业务负责人）", "Karan Singh（OpenAI 健康AI研究负责人）", "Andrew Maine（OpenAI 播客主播）"],
+  "topics": ["医疗AI", "ChatGPT Health", "大模型评估"],
+  "tensions": ["消费端强需求 vs 临床高风险安全", "技术放大能力 vs 数据隐私与整合挑战"],
+  "quote": {"text": "AI 是放大器，我认识的每位医生都希望能为患者做得更多。", "speaker": "Nate Gross", "kind": "paraphrase"},
+  "importance_score": 3,
+  "content_density": "standard",
+  "quality": "llm_validated"
+}

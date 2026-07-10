@@ -48,49 +48,65 @@
         "label": "DeepSeek预训练成本",
         "value": "约$5 million",
         "context": "DeepSeek V3按云计算市场价格计算的预训练费用，远低于美国闭源实验室",
-        "source_refs": ["youtube:EV7WhVT270Q"]
+        "source_refs": [
+          "youtube:EV7WhVT270Q"
+        ]
       },
       {
         "label": "GPT-4级模型参数规模",
         "value": "约1 trillion参数",
         "context": "据传GPT-4及同级别模型的参数规模在这个数量级，但有传言称新模型实际更小",
-        "source_refs": ["youtube:EV7WhVT270Q"]
+        "source_refs": [
+          "youtube:EV7WhVT270Q"
+        ]
       },
       {
         "label": "开发者AI使用调查",
         "value": "791位资深开发者参与",
         "context": "调查显示约80%的开发者认为AI使工作更愉快，资深开发者比初级开发者使用更多AI生成代码",
-        "source_refs": ["youtube:EV7WhVT270Q"]
+        "source_refs": [
+          "youtube:EV7WhVT270Q"
+        ]
       },
       {
         "label": "RLVR训练效果",
         "value": "从15%提升至50%准确率",
         "context": "Sebastian在Qwen 3基础模型上仅用50步RLVR训练就实现了数学准确率的巨大提升",
-        "source_refs": ["youtube:EV7WhVT270Q"]
+        "source_refs": [
+          "youtube:EV7WhVT270Q"
+        ]
       },
       {
         "label": "xAI算力规模",
         "value": "2026年初达1 gigawatt",
         "context": "xAI预计在2026年初达到1 gigawatt算力规模，年底达到2 gigawatt",
-        "source_refs": ["youtube:EV7WhVT270Q"]
+        "source_refs": [
+          "youtube:EV7WhVT270Q"
+        ]
       },
       {
         "label": "AI2模型训练成本",
         "value": "约$2 million",
         "context": "Allen AI研究所训练Olmo模型的GPU集群租赁费用，包含工程问题和多种子实验",
-        "source_refs": ["youtube:EV7WhVT270Q"]
+        "source_refs": [
+          "youtube:EV7WhVT270Q"
+        ]
       },
       {
         "label": "Anthropic版权诉讼",
         "value": "被判赔偿1.5 billion美元",
         "context": "Anthropic因使用盗版书籍训练模型被法院判赔作者巨额赔偿，这是AI数据版权的标志性案件",
-        "source_refs": ["youtube:EV7WhVT270Q"]
+        "source_refs": [
+          "youtube:EV7WhVT270Q"
+        ]
       },
       {
         "label": "AI2027报告AGI预测",
         "value": "平均预测2031年",
-        "context": "AI2027报告将完全自动化编程作为关键里程碑，从最初预测2027至2028年推迟了3到4年",
-        "source_refs": ["youtube:EV7WhVT270Q"]
+        "context": "AI 2027报告将完全自动化编程作为关键里程碑，从最初预测2027至年推迟了3到4年",
+        "source_refs": [
+          "youtube:EV7WhVT270Q"
+        ]
       }
     ],
     "takeaways": [

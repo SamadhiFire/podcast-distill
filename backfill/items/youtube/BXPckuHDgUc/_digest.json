@@ -1,0 +1,34 @@
+{
+  "short_title": "伊朗战争的能源战略陷阱",
+  "one_liner": "专家解析伊朗以能源基础设施反制",
+  "why_it_matters": "霍尔木兹与设施受损或带来长期经济冲击",
+  "summary": [
+    "欧亚集团分析师格雷格·布鲁指出，以色列袭击南帕尔斯气田、伊朗反击卡塔尔拉斯拉凡，能源基础设施正成为战争核心目标。",
+    "伊朗以战略陷阱逻辑回应：通过打击海湾盟友能源资产，在美与其地区伙伴间制造裂痕，并重建自身威慑。",
+    "霍尔木兹海峡若关闭将阻断全球约两成供应，而已受损设施的重建需以年计，能源冲击对经济的影响将长期延续。"
+  ],
+  "core_points": [
+    "南帕尔斯供应伊朗七成天然气，遇袭后伊朗迅速报复卡塔尔LNG设施，冲突外溢至海湾盟友。",
+    "伊朗战略是通过能源打击制造美与海湾国家裂痕，并重振政权生存所需的威慑。",
+    "哈尔克岛日出口约150,000桶原油，若失守伊朗仍可通过走私维持部分输出。",
+    "分析师认为美方缺乏有效应对，霍尔木兹风险与设施长期损毁令人担忧。"
+  ],
+  "key_facts": [
+    {"label":"霍尔木兹占比","value":"20%","context":"Strait of Hormuz is closed. 20% of the"},
+    {"label":"南帕尔斯供气占比","value":"70%","context":"supplies 70% of Iran's gas supply"},
+    {"label":"攻击损毁比例","value":"17%","context":"from Reuters, Iran's attacks damage 17%"},
+    {"label":"哈尔克岛日出口","value":"150,000","context":"150,000 barrels of oil a day if they"},
+    {"label":"海峡关闭供应占比","value":"10%","context":"that's 10% of global supply that is just"}
+  ],
+  "takeaways": [
+    "关注霍尔木兹通航与海湾能源设施的长期修复。",
+    "伊朗以能源反制重塑威慑，裂痕或扩大。"
+  ],
+  "guests": ["Greg Brew","Joe Weisenthal","Tracy Alloway"],
+  "topics": ["伊朗战争","能源基础设施","霍尔木兹海峡"],
+  "tensions": ["伊朗威慑 vs 美国应对","短期冲击 vs 长期修复"],
+  "quote": {"text":"地理在世界中依然重要","speaker":"Joe Weisenthal","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "standard",
+  "quality": "llm_validated"
+}

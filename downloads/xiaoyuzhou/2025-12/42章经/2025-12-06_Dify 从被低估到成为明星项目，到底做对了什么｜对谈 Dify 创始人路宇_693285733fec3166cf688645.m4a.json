@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "科技 / AI / VC",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 4765,
+    "item_id": "xiaoyuzhou:693285733fec3166cf688645",
+    "month": "2025-12",
+    "platform": "xiaoyuzhou",
+    "platform_id": "693285733fec3166cf688645",
+    "published_at": "2025-12-06T22:00:00+08:00",
+    "published_date": "2025-12-06",
+    "relative_dir": "2025-12/42章经",
+    "schema_version": 1,
+    "source_id": "xyz_42zhangjing",
+    "source_name": "42章经",
+    "status": "pending",
+    "target_basename": "2025-12-06_Dify 从被低估到成为明星项目，到底做对了什么｜对谈 Dify 创始人路宇_693285733fec3166cf688645",
+    "title": "Dify 从被低估到成为明星项目，到底做对了什么｜对谈 Dify 创始人路宇",
+    "url": "https://www.xiaoyuzhoufm.com/episode/693285733fec3166cf688645"
+  },
+  "audio_url": "https://media.xyzcdn.net/648b0b641c48983391a63f98/loBSm2rmmxY7GiScNiiDo37PsTjJ.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2025-12\\42章经\\2025-12-06_Dify 从被低估到成为明星项目，到底做对了什么｜对谈 Dify 创始人路宇_693285733fec3166cf688645.m4a",
+  "bytes": 77074317,
+  "sha256": "3b220350b424e5ff39141d29535e5f03da9c5658991961ebbfe39e4f07bbd28c",
+  "downloaded_at": "2026-07-02T04:51:34Z"
+}

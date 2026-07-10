@@ -1,0 +1,535 @@
+TITLE: How AI Is Changing Warfare | Palantir CTO
+CHANNEL: Invest Like The Best
+DURATION_S: 5350  DENSITY: high  REQ summary=4 core=5
+PUBLISHED: 2026-03-10T12:00:32+00:00  URL: https://www.youtube.com/watch?v=EB9V8d3ZYbc
+SHA256: b6a6aa6d20d0cb8f7d63192f9b65ec54a7f4ea03ff9d4654b228e44850d89406
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [50%] near-fatal dose of gamma rays. 50%
+  [85%] AI to automate 85% of expense reviews
+  [99%] with 99% accuracy. And since Ramp saves
+  [5%] companies 5%, it's no wonder that
+  [80%] is 80% of the work.
+  [2015] effectively riding on in 2015.
+  [6%] Only 6% of spending on major weapon
+  [86%] today is 86%. So, 86% of major weapon
+  [90%] Higgins who designed 90% of the boats
+  [2014] Crimea in 2014,
+  [94%] that spending, 94%, went to what I call
+  [1993] In 1993, there was a a very famous
+  [2017] need paper in 2017?
+  [3%] incremental 3% improvement to Google
+  [10%] improvement of even 10% dramatically
+  [9%] they have like 9% operating margins or
+  [92%] wasn't Navy's idea. But then 92% of all
+  [2006] in 2006.
+  [1990] built satellites until 1990, General
+  [4500] small as ours is only 4,500 people.
+
+=== TRANSCRIPT EXCERPT ===
+My guest today is Shyam Sankar, the CTO
+of Palantir Technologies. I think you'll
+find by listening to Shyam that the
+business itself, their mission and how
+they built it, and indeed him in his
+life, are completely fascinating. We
+talk about his entire worldview, which I
+find personally the most interesting.
+This need to re-industrialize the United
+States after decades of moving so much
+of our production, and as he would argue
+therefore our learning of how to
+innovate and make things, off of our own
+shores. We talk about the history of
+heretics, people who have against the
+odds designed solutions that have driven
+so much of our success around the world.
+Please enjoy my conversation with Shyam
+Sankar.
+So, Shyam, I think the most fun place
+for me to begin because it's an it's an
+area that you're interested in that I'm
+fascinated by is a history of people in
+American military lore who you call
+heretics. You refer to them as heretics,
+people like Hyman Rickover and Andrew
+Higgins who designed 90% of the boats
+that landed at Normandy, John Boyd who
+invented the OODA Loop, which is one of
+the great biographies of a of a military
+figure that I've ever read.
+Talk to us a little bit about how you
+would define a heretic
+um in your use of that term and why
+you're so interested in that group of
+people in US history.
+You know, they they're founder figures
+uh and they get obsessed with delivering
+something that it makes no sense because
+they're fighting in particular in the
+military context you're like fighting
+the bureaucracy, you're going to end
+your career, you pay extreme prices for
+it. So, there's almost like a
+pathological obsession with winning,
+which I really relate to both
+personally, but also that's what I see
+in great founders. I think
+in the present moment
+it's really important to like encourage
+the that the hidden heretics who are in
+there in the military today to recognize
+like your heresy matters, and frankly if
+you look back at history, the only [&nbsp;__&nbsp;]
+that ever worked, the things that helped
+us win all the wars, were the things
+that the heretics actually did. Nothing
+that went through the machine
+delivered anything. I think all change
+comes from these these heretics, and
+they only later become heroes. If you
+think about like Billy Mitchell who
+invented the Air Force, you know, he was
+court-martialed and died penniless and
+depressed, and only after his death did
+we invent the Air Force based on his
+original heresy. I'm just fascinated
+with what motivates these folks to keep
+doing this. And I I guess I have relish
+a little bit in in their rebellion and
+the victory that the rebellion brings
+about.
+heretic story to understand this kind of
+general idea, is it his story? Is it
+someone else's? Which one would you
+pick?
+Rickover,
+born in a shado in Poland, came to the
+US when he was six, had one of these
+like near miss moments where in those
+days when you landed at Ellis Island,
+you had 10 days for someone to come pick
+you up. And his his mother gave someone
+money to go send a telegram to the
+father who'd already been here, and that
+guy just pocketed the money. And so,
+it's like the on the on the 10th day,
+there was another guy who arrived at
+Ellis Island who said who like bought
+them one more day, who knew them. And
+then he like ran out, got the father,
+got them So, it's like this near miss
+where this guy almost didn't even end up
+here. He would have been sent back to
+Poland.
+Um but he was he was kind of this feisty
+character. You know, he I think he was
+like 5'2, very short. He went to the
+Naval Academy. He was so unlikable that
+like in the yearbook in the Naval
+Academy, they'd like torn out his
+picture. You know, he's just one of
+these like difficult people. In World
+War he drove a coal ship. He was not
+like some exceptionally high-performing
+senior you know, senior military officer
+commanding a destroyer or carrier or
+anything like that. But after the war,
+he went to Oak Ridge. And and he
+observed the the vestiges of the
+Manhattan Project, and he had this idea
+like we could build nuclear-powered
+submarines. And he'd had this experience
+on diesel-powered submarines,
+which suck. They're basically surface
+ships that happen to go underwater for
+like an hour. This became this thing he
+was obsessed with. And talk about talk
+about chutzpah, like Oppenheimer himself
+thought this idea was going to fail. You
+know, so you have Oppie telling you
+you're stupid and this isn't going to
+work and you're just going to go
+forward, right? Uh so he started on this
+project and he he built the first
+nuclear submarine in 7 years, start to
+finish.
+The Navy hated him so much that his
+first office for this project was
+literally the women's restroom.
+They're like, "What can we do to
+humiliate this guy into quitting?"
+Uh but he just kept going. And if you
+actually look at his personal memoirs,
+you can see that the humiliation got to
+him, but in a way that he could channel
+it to be like motivating. It wasn't like
+he was somehow immune to the pain of it
+all, but he could push through it. And I
+think recognizing like every major
+project you do is going to push you in
+these sorts of ways and like how do you
+dig deep? How do you grind through the
+pain?
+Um and he created really unique culture
+in naval reactors, which is alive today.
+So I think part of what's really cool
+is that our nuclear submarine force is
+one of our last remaining asymmetric
+advantages against the Chinese and we
+built it in the '50s.
+What a legacy for this guy to have
+built. And then the engineering culture
+that he created, um you know, he was in
+this unique role of both being a human
+who would invent the technology and
+therefore was qualified to think about
+how to regulate it. So whereas the the
+Russian submariners,
+they would send they would spend roughly
+6 months at sea and then 6 months in
+Sochi recovering so their white blood
+cells could regenerate because the
+radiation shielding sucked.
+We've had no deaths due to nuclear
+incidents in our submarine force and he
+designed it to a standard which is
+really he's like, "I'm designing this
+thing so my son could be in it." And
+it's it's a hundred times safer than
+what we believe the minimum standard to
+be. And that that sort of obsession,
+it's like a you know, it's not a
+manager's view of the world. It is a
+founder's view of the world. One of his
+legacies, like he was an admiral for 30
+years. And even as an admiral, he was
+very
+difficult. You know, Zumwalt, who was
+the chief of naval operations for a
+while, he said, "The Navy has three
+enemies, the Soviet Union, the Air
+Force, and Hyman Rickover."
+your time on their app to juice
+engagement. Ramp does the exact
+opposite. Ramp understands that no one
+wants to spend hours chasing receipts,
+reviewing expense reports, and checking
+for policy violations. So, they built
+their tools to give that time back using
+AI to automate 85% of expense reviews
+with 99% accuracy. And since Ramp saves
+companies 5%, it's no wonder that
+Shopify runs on Ramp, Stripe runs on
+Ramp, and my business does, too. To see
+what happens when you eliminate the busy
+work, check out ramp.com/invest.
+Every investor should know about Rogo
+because Rogo AI's platform is not just
+another generic chatbot. Instead, it was
+designed to support how Wall Street
+bankers and investors actually work,
+from sourcing, diligence, and modeling
+to turning analysis into deliverables.
+For me, three key things differentiate
+Rogo. First, it connects directly to
+your systems so it can work with your
+actual data. Second, it understands your
+workflows, how work really happens
+across a deal or an investment. And
+third, it runs end-to-end and produces
+real outputs the way the best people do.
+Auditable spreadsheets, investment
+memos, diligence materials, and slide
+decks that match your standards. This
+all comes from the fact that Rogo is
+……（中部抽样）……
+built by finance professionals for
+you can just use WorkOS APIs to gain all
+was sort of a bastard as well like
+and then this sort of like
+software but are not in charge of buying
+piss off literally everyone along the
+story, your personal worldview seems
+combination of family history, the
+gratitude and perspective on the trials
+thing if it happens to you, but it's
+profoundly optimistic period. I mean,
+I think that's really it. It's it's this
+conclusion, but leading up to it, there
+astonishingly bad track record. We've
+like despite the resistance,
+totally disfigured teeth. And he just
+world, what are the key components?
+lot of cultures don't have that.
+that they can't update their priors. And
+can we go do things that are actually
+other end is something better, something
+modeled our entire company as an artist
+if you drive that to the extreme, you
+my key goal was to unlock talent in in
+high high-achieving people
+walls, but that wasn't some sort of
+basically a waste of time. So how do you
+something you can work on. The only
+that because the discovery of kryptonite
+And And that I think was
+And I took away from that how important
+one or two more questions about the
+to solve a problem which was truly
+uh
+It's not like he lifted a little bit
+information and exhaust that if you see
+work. So this sort of structured career
+you're working on a problem you don't
+off the deep end, go after problems
+until basically the last second whether
+and they're interested in that sort of
+people who are hiring you as much as
+but I think early on I think the early
+have come out of this that have like
+creation is downstream of the culture.
+is able to reform as the problem
+have to wait until it's totally broken
+this, you don't get to spend nearly as
+and crazy and and they have to
+that involve some forward deployed
+industrial complex, which is that
+on the factory floor, in the foxhole.
+sales engineer out there whose job is to
+are people who know how to build it the
+built is? And that's what the
+these vectors in a way that you're going
+terms of the overall development of the
+We should solve it now and effectively
+believe that other people disagree with
+would go to the final assembly line on
+need this to try this model? One one
+solving. So, your the problems you're
+creating. Our economics will be
+boxes." It's It's some sort of heterodox
+You know, but if you're like us and you
+read a fairly detailed description of
+we have built an enterprise operating
+transactional system or makes sense to
+programmable.
+have an OODA loop. Like I want to make
+your security work and deliver a single
+forward. One unified platform that
+like what the process is of establishing
+second thing is that we are a wildly
+A350. You know, the A380 was a wonderful
+and he'll learn how to figure it out.
+makes your life suck? What's hard about
+though, you're able actually to pivot it
+customers. You start with one problem,
+events. If you're fighting Russia,
+what you have to solve this problem."
+motivating. It enables you to get
+"Hey, when are you going to stop stop
+deter our adversaries from conflict. If
+arguably in the last year we've started
+deterrence capability against a peer
+and Russian weapons.
+reasonable thing for the American people
+was a Danish emigre,
+production when we were not fighting. We
+Now, if you come to the present moment,
+the fall of the Berlin Wall.
+subsidizing our national security, that
+superpower
+They were their own like what we would
+reasonable for the people to say, "We
+you." And this just set off a merger
+economy where there was enough kind of
+incredible. You can't look at that and
+Churchill quote, won't get it exactly
+things, exquisite people, exquisite
+have been yesterday, the next best time
+need paper in 2017?
+whole car." Um, they WuXi went from
+advantage. And I think I think we have a
+about this with much deeper vertically
+than a worker anywhere else, you're
+we don't have the machine tools
+this isn't going to keep working. Like
+Uh today your child has an ear
+face to mobilize around it. Maybe one of
+reduces the adversary's leverage.
+been to China. It's like it's another
+your view on.
+Uh the the problem is they cheated the
+So,
+trying to smuggle in agricultural
+valley and then flooded it. You want to
+we're going to we're going to turn the
+to react.
+we're talking about with John Boyd. They
+bit of an easier game because they're
+those are a result of distillation. And
+motivator in the private sector.
+Rickover enjoyed his celebrity for a big
+they have like 9% operating margins or
+capitated, you're not supposed to take
+boat. The Heresy is the boat that won
+having done this for 20 years for the
+the window and the moment for this stuff
+things that you think could carry the
+a time of crisis you could go from, say,
+look like that. If you go back to the
+including Russia and China except for
+opportunity is an amazing part of the US
+what are things that you wish were
+things that the adversary is unable to
+self-sustaining. That's as true for
+human has a disposition that they want
+game. If you win today, you have the
+fascinated by tradeoffs. It just seems
+discover what those projects are? I like
+it, their world is shaken up, it
+business if you're constantly changing
+championship performance and he kind of
+it's really painful.
+small as ours is only 4,500 people.
+the in the midst of these pivots just
+internally or tactically?
+it's trying to set the conditions to
+where people are allowed to go build
+these things.
+Palantir competitor, it would be much
+first adopters of AI for us were the
+is like, "You know what? The best people
+question of like, "Okay, we have AI,
+what you kind of observe out there is
+essentially AIP, from first principles,
+are we going to be in 2 years? Where are
+that that rate is compounding
+can't look my kids in the eye and not
+the last year than the prior 19 years
+important?
+those roles is determinative to the
+do this thing if we just let the
+that's not a one-off. Like literally
+care about and make sure they work GPS
+ourselves a defense company. Like we're
+think
+better,
+trying to steer the steering wheel.
+institutions and the people who do the
+data, you're doing surveillance through
+……（接近结尾）……
+the same for everybody. What is the
+kindest thing that anyone's ever done
+for you?
+in the story is uh
+Miss Ethel Danhoff was the head of
+admissions for this private school in
+Orlando. Uh and you know, my my dad took
+me for a tour of the school having
+learned that it's the best school and
+like that was the that was the other
+fixation my dad has that education was
+how you were going to achieve some
+prosperity. It's like I'm going to give
+my son every opportunity I possibly can.
+Turns out we'd missed the admission
+window by a mile and everything was kind
+of done and you know, I I was actually
+very reluctant to go even on this trip
+and see the school. I was very happy
+with the school I was at and but I was
+when I saw the science facilities there,
+I was like I need to go here. I need to
+learn this stuff. This is inspiring.
+And you know, so now I was all spun up
+and excited and of course I'm learning,
+hey, you totally screwed this up and
+you'll have to wait a year. And Ms.
+Danhoff, I no data. Like, you know, it's
+not like I had some standardized test
+scores or something. She's like, "Give
+this kid the admission test. Just do
+it." And maybe she had a modicum of data
+after that test, but we were a family
+that needed financial aid. So, it's
+like, here it is. Like, let's admit a
+kid that we're going to have to
+subsidize to come here. And that opened
+the entire future. And I think, you
+know, if you look later in life, okay,
+maybe maybe people have cynical reasons
+to help you. You're further along. They
+they think there might be something in
+it. It's like, there's nothing in it for
+her. It's just a profound act of
+kindness that fundamentally changed my
+life.
+your time.
+your time on their app to juice
+engagement. Ramp does the exact
+opposite. Ramp understands that no one
+wants to spend hours chasing receipts,
+reviewing expense reports, and checking
+for policy violations. So, they built
+their tools to give that time back,
+using AI to automate 85% of expense
+reviews with 99% accuracy. And since
+Ramp saves companies 5%, it's no wonder
+that Shopify runs on Ramp, Stripe runs
+on Ramp, and my business does, too. To
+see what happens when you eliminate the
+busy work, check out ramp.com/invest.
+As your business grows, Vanta scales
+with you, automating compliance and
+giving you a single source of truth for
+security and risk. Learn more at
+vanta.com/invest.
+Ridgeline is redefining asset management
+technology as a true partner, not just a
+software vendor. They've helped firms 5x
+in scale, enabling faster growth,
+smarter operations, and a competitive
+edge. Visit ridgelineapps.com
+to see what they can unlock for your
+firm. OpenAI, Cursor, Anthropic,
+Perplexity, and Vercel all have
+something in common. They all use
+WorkOS. And here's why. To achieve
+enterprise adoption at scale, you have
+to deliver on core capabilities like
+SSO, SCIM, RBAC, and audit logs. That's
+where WorkOS comes in. Instead of
+spending months building these
+mission-critical capabilities yourself,
+you can just use WorkOS APIs to gain all
+of them on day zero. That's why so many
+of the top AI teams you hear about
+already run on WorkOS. WorkOS is the
+fastest way to become enterprise ready
+and stay focused on what matters most,
+your product. Visit workos.com to get
+started. Every investor should know
+about Rogo because Rogo AI's platform is
+not just another generic chatbot.
+Instead, it was designed to support how
+Wall Street bankers and investors
+actually work, from sourcing, diligence,
+and modeling to turning analysis into
+deliverables. For me, three key things
+differentiate Rogo.
+First, it connects directly to your
+systems so it can work with your actual
+data. Second, it understands your
+workflows, how work really happens
+across a deal or an investment. And
+third, it runs end-to-end and produces
+real outputs the way the best people do,
+auditable spreadsheets, investment
+memos, diligence materials, and slide
+decks that match your standards. This
+all comes from the fact that Rogo is
+built by finance professionals for
+finance professionals, and it's already
+being adopted by some of the most
+demanding institutions in the world. To
+learn more, visit rogo.ai/invest.

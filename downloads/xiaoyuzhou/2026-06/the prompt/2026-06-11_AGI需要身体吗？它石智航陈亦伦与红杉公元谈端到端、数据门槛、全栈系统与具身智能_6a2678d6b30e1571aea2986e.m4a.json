@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "科技 / AI / VC",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 2356,
+    "item_id": "xiaoyuzhou:6a2678d6b30e1571aea2986e",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a2678d6b30e1571aea2986e",
+    "published_at": "2026-06-11T08:00:00+08:00",
+    "published_date": "2026-06-11",
+    "relative_dir": "2026-06/the prompt",
+    "schema_version": 1,
+    "source_id": "xyz_the_prompt",
+    "source_name": "the prompt",
+    "status": "pending",
+    "target_basename": "2026-06-11_AGI需要身体吗？它石智航陈亦伦与红杉公元谈端到端、数据门槛、全栈系统与具身智能_6a2678d6b30e1571aea2986e",
+    "title": "AGI需要身体吗？它石智航陈亦伦与红杉公元谈端到端、数据门槛、全栈系统与具身智能",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a2678d6b30e1571aea2986e"
+  },
+  "audio_url": "https://media.xyzcdn.net/6101a3936c68b8a230638ad8/ljltks_rWAIhqczH1ji1hQSEk-T6.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\the prompt\\2026-06-11_AGI需要身体吗？它石智航陈亦伦与红杉公元谈端到端、数据门槛、全栈系统与具身智能_6a2678d6b30e1571aea2986e.m4a",
+  "bytes": 56965316,
+  "sha256": "20dfc3cd6913482cfc4ab458411ab3c669964a7ed839c0da6220fb1d536962ae",
+  "downloaded_at": "2026-07-02T03:48:45Z"
+}

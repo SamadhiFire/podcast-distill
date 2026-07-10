@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3698,
+    "item_id": "xiaoyuzhou:6a3bdd319d2f5743683d4841",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a3bdd319d2f5743683d4841",
+    "published_at": "2026-06-24T21:49:54.122000+08:00",
+    "published_date": "2026-06-24",
+    "relative_dir": "2026-06/乱翻书",
+    "schema_version": 1,
+    "source_id": "xyz_luan_fan_shu",
+    "source_name": "乱翻书",
+    "status": "pending",
+    "target_basename": "2026-06-24_268.AI时代，个人工作台会重新回到手机吗？_6a3bdd319d2f5743683d4841",
+    "title": "268.AI时代，个人工作台会重新回到手机吗？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a3bdd319d2f5743683d4841"
+  },
+  "audio_url": "https://media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgPRs5jUHHrJyKBzASAqvdLZx8fs.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\乱翻书\\2026-06-24_268.AI时代，个人工作台会重新回到手机吗？_6a3bdd319d2f5743683d4841.m4a",
+  "bytes": 59864097,
+  "sha256": "6e2af65d98b6e9bdcc790b9ffedb37b591008b52fc1b2367cee73c2d1d1acc68",
+  "downloaded_at": "2026-07-02T03:40:21Z"
+}

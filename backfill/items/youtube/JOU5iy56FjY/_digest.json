@@ -1,0 +1,36 @@
+{
+  "short_title": "中美元首5月将晤",
+  "one_liner": "特朗普与习近平拟5月中旬北京会晤",
+  "why_it_matters": "会晤叠加伊朗战事，牵动中美与全球市场走向",
+  "summary": [
+    "白宫确认特朗普与习近平的会晤定于5月中旬在北京举行。伊朗战争为双方议程再添变数，而德黑兰公开拒绝美方方案并提出自身条件，谈判仍陷僵局。",
+    "市场波动收窄但方向不明：亚洲股市走软，金价徘徊4500美元附近，韩元等汇率跟随美元震荡。科技股因谷歌新压缩技术受压，SK海力士跌1.2%。",
+    "企业面，泡泡玛特继昨日创纪录跌23%后再跌约7%，过度依赖Labubu引发担忧；名创优品、美团等消费与外卖价格战成监管焦点。",
+    "空中客车获中国东航约160亿美元101架A320neo订单，2028年起交付；捷克车企斯柯达将于2026年中退出中国市场，折射本地电动车冲击。"
+  ],
+  "core_points": [
+    "特朗普与习近平拟5月中旬北京会晤，伊朗战事列入议程。",
+    "伊朗拒绝美方15点方案，双方仍各提条件，谈判胶着。",
+    "亚股走软、金价约4500美元，科技股受压缩技术冲击。",
+    "泡泡玛特再跌约7%，消费价格战引监管关注。",
+    "空客获中国大单，斯柯达2026年中退出中国市场。"
+  ],
+  "key_facts": [
+    {"label": "PopMart单日跌幅", "value": "23%", "context": "after that plunge of record 23% the back"},
+    {"label": "金价水平", "value": "4500", "context": "So around that 4500 an ounce level"},
+    {"label": "美元日元高位", "value": "1996", "context": "highest level we've seen since 1996"},
+    {"label": "空客交付起始年", "value": "2028", "context": "delivered in batches between 2028 and 2032"},
+    {"label": "中国人均GDP", "value": "13000", "context": "China's per capita GDP exceeded $13,000"}
+  ],
+  "takeaways": [
+    "关注5月会晤与停火进展，双向风险仍存。",
+    "消费与科技股分化，警惕盈利与估值波动。"
+  ],
+  "guests": ["Yvonne Man（彭博）", "Annabelle Jewell（彭博）", "Vincent（Bao Jun CEO）"],
+  "topics": ["中美元首会晤", "伊朗停火", "中国市场"],
+  "tensions": ["美方称谈判顺利与伊朗公开拒绝相互矛盾"],
+  "quote": {"text": "他们非常想达成协议，只是害怕被自己人或是被我们除掉而不敢明说", "speaker": "Donald Trump（转述）", "kind": "paraphrase"},
+  "importance_score": 3,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

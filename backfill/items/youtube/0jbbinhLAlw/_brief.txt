@@ -1,0 +1,532 @@
+TITLE: The CEO Who Lost 80% of His Company's Value (And Built It Back): Vlad Tenev
+CHANNEL: The Knowledge Project Podcast
+DURATION_S: 6579  DENSITY: high  REQ summary=4 core=5
+PUBLISHED: 2026-03-03T11:00:02+00:00  URL: https://www.youtube.com/watch?v=0jbbinhLAlw
+SHA256: 23f38088cccd046eb2aa0022ae9c04903bb9e8b600eac39eb69cd180fae0b1c0
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [3%] wide margin. We give everyone a 3% match
+  [2022] actually 2022 was harder. What happened?
+  [5%] they went to, you know, four or 5%. And
+  [2020] Hood in the year 2020 leading up to the
+  [2021] about a $ 32 billion valuation in 2021
+  [90%] 90% of companies are in phase one. 90%
+  [100000] years it'll get to 100,000 pages. And
+  [1991] and the year he left was 1991. So we we
+  [2000] and I think it got to 2,000. Um, so they
+  [7%] because you can get your average 7%
+  [80%] &gt;&gt; So we lost 80% plus of of our market
+  [2019] of 2019 we had 700 people and something
+  [1.5] &gt;&gt; You know, 1 second, 1.5 second load time
+  [7.9] versus 7.9. Um,
+  [50000] account. He's got, you know, $50,000 in
+  [50%] Pay, businesses see up to 50% higher
+  [97%] 97%.
+  [100%] over 100%. So, we talk a lot about, you
+  [1996] 1996, 1997, 5 years after I came,
+  [1997] 1996, 1997, 5 years after I came,
+  [1800%] in the world was 1,800% in one year. So
+  [1987] of like the year I was born, 19 1987,
+  [2007] risk of sounding like 2007 here, pull
+
+=== TRANSCRIPT EXCERPT ===
+I want to come to GameStop for a moment.
+You need billions in collateral. You
+make a decision to restrict the trading.
+How did you make that decision?
+precedent.
+in bed with hedge funds.
+a boring truth.
+Money when you watched it?
+see the clips that I was in.
+think what most companies suffer from is
+So, take me back to the moment your
+phone rings, you need billions in
+collateral, maybe set the scene for us,
+and you make a decision to restrict the
+trading. How did you make that decision?
+time. You know, sometimes you talk to um
+I I've heard a lot from people that have
+many children uh including myself. I
+have more than one. It's like uh uh my
+wife says, you know, it's very the
+pregnancy and the child birth very very
+painful, but for some reason I don't
+remember it. And then that sort of like
+uh evolutionarily g gives you the signal
+that you should do it again. Um, and I
+think we're doing a Yeah, I think um I
+was at this IPO round table at the SEC
+uh about making the IPOs great again and
+with Rob with Robin Hood Ventures were
+taking that fund public. So, we're doing
+another IPO and I joked that um yeah,
+it's kind of like that the IPO process.
+I remember being painful and I didn't
+like it, but I don't really exactly
+remember why and now I kind of want to
+do it again. Um
+but yeah, that's a big aside that has
+nothing to do with GameStop. Um other
+than yeah, that that was a very
+challenging time. It was towards the end
+of COVID and I felt like everyone was
+going a little bit crazy. They'd been
+cooped up at home for about a year
+without much humanto human interaction.
+I think from a crisis management
+standpoint, it was very difficult to
+deal with because we're doing these like
+conference video calls with all these
+different stakeholders. The regulators
+weren't in office and so um yeah,
+basically what happened was we got this
+like automated file in the middle of the
+night and it had big numbers on it,
+right? It it had big numbers that kept
+changing and uh it was a situation which
+had no precedent and um you know we we
+had to make a tough call to
+uh put GameStop and a bunch of other
+companies on position closing only which
+basically meant
+uh you couldn't open up new positions
+take on more risk uh for a period of
+about one day. So, wasn't even that
+long. But because there was this
+narrative that had taken over social
+media, this like viral narrative that it
+was the the retail investors taking down
+the hedge funds and we were kind of the
+tool. um people wanted to put it was
+like a good versus evil thing and and I
+think what was just um
+what would have at any other time for
+any other stock been kind of an
+innocuous riskmanagement decision to
+control our internal risk turned into
+Robin Hood's on the side of the hedge
+funds colluding against the the retail
+investor and I think the fact that the
+name of the company was Robin Hood made
+this like a juicy false narrative to uh
+that that continued to go viral. So, I
+remember in the beginning of the in the
+middle of the night when I woke up, my
+phone was basically unusable
+because it was like those videos you see
+of what happens if a Kardashian turns
+off uh do not disturb on their phone. It
+just is a constant buzzing thing. Um, so
+that that was that was my morning. I was
+like, the phone is completely unusable.
+I can't even get on a Zoom call because
+there's just random people calling me uh
+telling me to to turn it back on, you
+know. Uh just to give people context a
+little bit um if they're unfamiliar with
+the situation. The narrative that came
+out was you were in bed with the hedge
+funds because the hedge funds were
+trying to close their short positions on
+a stock that was basically going
+parabolic,
+situation. I've never seen it before
+anyway. I I can't. But you also
+story that I don't think many people
+know is you had given GameStop shares to
+people when they signed up for Robin
+Hood, didn't you? Like
+make the argument that we kind of
+started the whole thing. you know, every
+everyone if if you were joining Robin
+Hood in the year 2020 leading up to the
+whole GameStop thing, uh which by the
+way, a lot of people joined Robin Hood
+that year, GameStop was one of the
+collection of free free stocks that was
+given to customers.
+just came in, get got their free
+GameStop share, and maybe they weren't
+engaged that much, but then when they
+saw GameStop going up, suddenly those
+shares were were worth a lot of money.
+What's one thing the world still gets
+wrong about that time?
+that Robin Hood colluded with hedge
+funds to shut down trading. There was
+also another false narrative that I
+think is funnier. I uh but yeah, Sequoia
+had to refute this. Someone put on the
+internet that uh the White House
+actually called uh Sequoia Capital, one
+of our venture capital investors, and
+got them to pressure us to shut down
+GameStop. So, um yeah, that that was a
+particularly funny one. But if you look
+on Reddit, that had like thousands of
+reposts. Um,
+so yeah, I think that I mean we don't
+really have any business with with hedge
+funds. So the the idea that somehow a
+hedge fund would collude to have us shut
+down trading of a of a stock um I mean
+always seems silly to me, but I think
+what we learned is
+a juicy falsehood is more powerful than
+kind of a a boring truth.
+facts. It's like so weird.
+whatsoever. It doesn't matter how crazy
+or false it is, facts do not tend to
+refute that. You see this in politics
+all the time, right? Once somebody tells
+a story and the mind share goes to that
+story, no amount of evidence or data
+will ever overturn that story and and
+they'll believe it for like 20 years.
+that though is you got to talk to Mark
+Zuckerberg and Daniel Ek. I'm curious
+about like what you learned during that
+period of time um from those two. I
+think Daniel had talked to you about
+like going through a PR crisis or
+Daniel at that point, but I did call him
+when he was um
+dealing with his Joe Rogan thing.
+of getting cancelled and uh I mean
+Spotify was getting immense pressure
+from both sides, right? Do they
+deplatform Joe Rogan or
+want Joe Rogan to be deplatformed? Um so
+that that was probably I mean Daniel's
+I'm sure dealt with his share of of uh
+crises, but that was probably his
+GameStop moment. So yeah, I called him
+to pay it forward to to offer whatever
+support uh I could have and and
+hopefully that was helpful to him, but
+he's actually um yeah, probably wiser
+and uh and better than me in these
+things. So I don't know if he needed it.
+But yeah, at that time Mark Zuckerberg
+called me and Elon Musk called me, Mark
+Beni off called me and uh a nice
+positive side effect was these people
+probably wouldn't have cared about
+little Robin Hood at at the time and
+suddenly I think uh I got to talk with
+these business magnates that have uh
+have built massive companies and they're
+giving me their perspective on the whole
+situation. One of the things that I
+loved that you did during that period of
+time was you went on a clubhouse with
+Elon. I don't know if you regret that
+now. Um,
+the best uh media appearance of the week
+for sure. Not saying much because I I
+had some bad ones, but
+Money when you watched it?
+see the clips that I was in. And
+Um,
+well, I did see the parts that I was in,
+which was about six minutes. Um,
+uh, and some of the rest. Uh, I I
+actually thought, you know, I know it
+didn't do very well, but, uh, I found it
+more or less entertaining.
+My favorite part, which maybe wouldn't
+uh wouldn't be other people's favorite
+part or or maybe it would for for for
+some ladies there, was that my character
+um was played by a very good-looking
+actor, Sebastian Stan, which, you know,
+I wasn't displeased about. Um I would
+have thought Adam Driver would also be
+……（中部抽样）……
+good, but um Sebastian Stan maybe a
+math person on the cover of GQ, I think.
+short period of time, but once we
+tailwinds for the business during COVID
+and when that happens, actually
+happened, it was obvious to the market
+Um, so yeah, all of these things start
+really just, uh, want to win. And so I
+like uh not do anything and and turn
+environment where you see high rates and
+if you're a gold member for for making
+you know, we become a business that has
+a lot of time thinking about how to fix
+in the next year end of 2020
+engineering systems were strained we
+the the inputs that led to that
+it's like, not to use another
+getting to the same place. And in in
+values I mentioned earlier high
+get easier if you do them multiple times
+see how it goes and then you realize
+had these wellness days where entire
+entire org is taking a day off? Doesn't
+and uh
+distractions, just a clean notepad that
+Most things worth having in life reward
+approach the rest of your life with
+to stretch and to do in one year what
+you think about what that incentivizes,
+bar, but you can't use that as an excuse
+yeah, I mean, I think that if if I think
+people than a large team of of mediocre
+weeks and you're like, "Oh, this isn't
+person to to to continue. Um
+suffer from is
+yeah. Yeah. Perhaps one thing that's
+top tech universities
+boomers very well. you had Erade coming
+them. You know, I I always like to have
+didn't have any career experience. I
+then everyone can sort of like hear
+spent some time thinking over this
+as quickly as possible. And that
+strong. So usually if things aren't
+do you sort of like get hands off?
+of this year. So, uh towards the end of
+at the events and I introduce the
+what the purpose is. I think the events
+the details of the business like I am,
+into that foundation. You you you tell a
+and benefits like he he didn't come out
+think about the Apple events at all. We
+from first principles make this event as
+had bake offs where, you know, they
+going on.
+internal operations,
+platform. And traditionally that's been
+product velocity and and development.
+tool recently and and I think the
+actually being fully self-s served by by
+percentage of the software engineering
+the next frontier where we're going to
+personalized. So, so I think that's
+yeah, because it's not just, of course,
+than stages I should say.
+most companies aren't using AI for
+yesterday from Chase Bank. Okay. So, you
+subscription fee. Um, so that involves
+know, vendor is not going to be able to
+generally have good systems hygiene.
+most visible use case of it in Robin
+day and it's just it's it's basically
+conversions. That's not a rounding
+matters as much as the product. Upgrade
+land on the perfect name only to find
+investors and customers that you're
+we train the models and and what the
+yeah. And basically the company that I
+which I didn't think it would do so so
+solving a single IMO problem. Uh yeah.
+solving, like be better at making
+stay at people's houses and work with
+and um
+And the goal is to um ladder that up to
+different about the model itself?
+computer code.
+it generates some lemmas and facts that
+fundamental techniques tend to overlap.
+makes sense? Yeah, I mean I think that
+years it'll get to 100,000 pages. And
+fundamentals of um unification which has
+think it's going to be fairly like
+mathematicians that are using it to ask
+the time to go deep on every single
+prediction market, we had a prediction
+advantages for sure. I would say chat
+we were the harmonic team was excited
+work harder and get ahead.
+quickly the narrative can shift. Um,
+is very very easy, right? So no business
+training. It's like going to the gym for
+you see all of these companies who are
+really like it? And and of the majority
+companies and and you get an inadvertent
+there. And so, uh, I'm trying to figure
+in right here about tokenization and how
+those different types of assets where I
+okay, uh, maybe I don't want to take on
+right now. So I can't talk in much
+there and if we can streamline
+commercial properties. So, I think that
+buy the real estate and then sort of
+have an established framework that is
+open to using these vehicles to provide
+exposure. So you're buying access to a
+has evolved tokenization will be the
+So for example for privates
+capital to to run your business. I think
+So I I think those are the things and I
+like Stripe where your uh you know
+growth of the business and you can kind
+is if you're a company that hasn't done
+best outcome because in any other
+a transition period and not not all
+like, well, why why are the derivatives
+not a liquid market these days. And if
+privates is we we always would
+Open AI in SpaceX. I wanted to claim
+love the model and how uh they think
+generally, we got a skeptical reception
+going on national television and talking
+Uh and I think also we could make it
+across the board. So, um I I think we
+years? There's all these things we could
+outside the US plugged in as well and
+care so much about Robin Hood Ventures,
+generation into the young. And I think
+you came from a communist country. I
+it. So anyway the the Berlin Wall fell
+going to work out in in America, whether
+there at the right time. um or or
+was like battery powered and you know
+came to the US and one thing that
+Bulgaria had the unfortunate distinction
+had uh the bank statements for my
+was just full of copper pots and pans.
+long time it was just a gradual decline
+exported to to everyone else and and
+how do we get more people invested in
+you know, I'm a I'm a I'm a proponent of
+investments, real estate, private
+mean not not just with the DATs but
+going to be singular. nobody else is
+not, uh,
+We offered equities trading. At the very
+lending based revenue but we like to
+other ways, but generally using using
+no, we're doing four computers. or
+one card, and for my groceries, I use
+but I also know that if I don't want to
+cheaper somewhere else. But they do a
+joining. It's like credit card companies
+Uh, can they not? because it's a
+of of the card program itself are
+advantage because we were able to build
+run upstairs cuz they're like fat and
+transaction fee. Like how is that from
+also use the brokerage product. And of
+our other product lines benefit. And I
+close the gap between the rebates we get
+both. We can be your secondary account
+……（接近结尾）……
+that right and so they they sort of like
+became structurally reliant on it. Um,
+and uh, you know, it how do you how do
+you adapt if you have trillions of
+dollars in checking that you're used to
+paying to to earning 5% on and you
+suddenly are talking about giving the
+majority of that back to the customer
+and and taking no profit. Um, you know,
+you you do that very very quickly and
+your earnings
+go down, profitability goes down. if
+you're public, you know, that that could
+have an impact on the stock price and
+suddenly it becomes a safety and
+soundness concern.
+here this morning. I was like, I wonder
+if the the
+ultimate endgame is like the mortgage
+ties people to financial institutions in
+a way uh because they can tie the
+mortgage to other products. They can tie
+it to your paychecks deposited. And then
+I was thinking, well, Open Door wants to
+enable like one-click buying of a house.
+And if they were to integrate with Robin
+Hood or somebody else or a financial
+institution, you could literally enable
+that on the spot. You could enable like,
+oh, your mortgage is granted. It's
+approved. Uh, and it seem it'd be like
+seconds.
+partnership with Sage Home Loans that
+gives you 75 basis points off of uh the
+national average
+you have history, complete history
+information, and you can use that with
+AI, I would imagine, to actually
+probably generate better predictive
+outcomes than humans.
+the mortgage business is very rate
+dependent. So, um I don't think we
+necessarily want to get into the
+mortgage underwriting business or
+holding mortgages, but we we want to get
+we want to help people with all of their
+financial needs. And I think for that
+one, being a network and allowing
+different banks to compete over who can
+offer you the the best possible rate as
+a consumer is is probably the road we're
+going to keep going on. But ultimately,
+isn't doesn't that come back full circle
+a bit to the tokenization? Uh so like
+you might pull those mortgages uh at the
+risk of sounding like 2007 here, pull
+those mortgages and allow people to
+retail investors to partake in those
+mortgages. No, I haven't thought deeply
+about
+whether we would securitize mortgages.
+Um
+my feeling is that
+I mean at at at the end of the day um we
+just want we'll just enable what offers
+customers the you know lowest cost
+whether it whether tokenization enables
+that or you know you can connect
+directly to a network of banks that can
+compete over your mortgage traditionally
+I think remains to be seen. Um, you you
+could argue actually tokenization at
+first would have a disadvantage because
+the banks won't be tokenizing and so you
+probably have to meet them where they
+are and give them the the information in
+ways that they can support. But yeah,
+over time that's likely to shift uh if
+if they they they tend to be lagards of
+of technology. So if you know 5 to 10
+years they're doing mortgage mortgage
+originations and onchain then um you can
+imagine it it being the the primary
+market for that.
+same question which is what is success
+for you? For me personally,
+I think success is
+um
+creating dramatically more value for the
+world than you create for yourself. So
+um yeah, I I think I would feel good if
+the aggregate impact
+on the rest of the world
+and I think obviously it should be
+positive. I I think it is is is much
+bigger than what happens to me
+personally. Um and I think that's what's
+pushing me to, as you said, further
+ownership. Uh make it so that everyone
+has skin in the game. Um because I think
+that if if if I can play a part in doing
+that across privates, publiclix, all
+post IPO and make it so that more people
+own uh the great industries of of this
+country will lead to
+not just smarter and more well-off
+individuals, but also a more stable and
+and prosperous society. And I think
+that's the that's a legacy that I would
+I would get excited to tell my
+grandchildren proudly uh about when
+they're, you know, huddled around the
+the fire on Christmas.
+for taking the time today.

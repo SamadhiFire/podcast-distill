@@ -1,0 +1,36 @@
+{
+  "short_title": "油价剧震市场寻退路",
+  "one_liner": "特朗普口头干预压油价，信号与实质脱节",
+  "why_it_matters": "中东减产与口头干预拉扯，市场陷高波动困局",
+  "summary": [
+    "彭博 Surveillance 复盘周二行情：特朗普称伊战目标近乎完成、或很快收尾，一句话令油价从近120美元高位回落至80余美元，布伦特单日波动创纪录。",
+    "中东主要产油国合计减产约670万桶每日，相当于全球供应约6%，且霍尔木兹海峡实际关闭、电子战干扰信号，供给收紧的现实仍令交易员存疑。",
+    "嘉宾指出市场被信号而非实质牵动，多方参与者使终局非一人可定；高油价料在中长期企稳于更高区间，通胀冲击或延后美联储降息。",
+    "华尔街策略师视波动为可布局的错位机会，认为市场并未过度追高，周期扩散与科技板块仍有选择性介入空间。"
+  ],
+  "core_points": [
+    "特朗普口头干预令布伦特单日波动创纪录。",
+    "中东减产合计约670万桶每日，占全球供应约6%。",
+    "霍尔木兹海峡实际关闭且出现电子战信号干扰。",
+    "分析师预计油价将企稳于更高区间而非回70美元。",
+    "华尔街视高波动为选择性布局的错位机会。"
+  ],
+  "key_facts": [
+    {"label":"减产占供应比", "value":"6%", "context":"that's about 6% of the overall market supply"},
+    {"label":"布伦特日跌幅", "value":"7%", "context":"down by 7% this morning at $92 a barrel"},
+    {"label":"减产桶数", "value":"6.7", "context":"cuts are totaling about 6.7 million"},
+    {"label":"加工能力", "value":"900,000", "context":"to process about 900,000 barrels a day"},
+    {"label":"对标年份", "value":"2022", "context":"comparisons to 2022 and this moment"}
+  ],
+  "takeaways": [
+    "关注油价能否在80美元附近企稳以缓解通胀",
+    "警惕信号与实质脱节放大市场波动"
+  ],
+  "guests": ["Jonathan Ferro", "Lisa Abramowicz", "Ann Marie Hordern", "Nate Thurst", "Jim Caron"],
+  "topics": ["原油价格", "伊朗战争", "市场波动", "美联储政策"],
+  "tensions": ["口头信号与战事实质之脱节", "短期波动与中长期高油价之拉扯"],
+  "quote": {"text":"油价不会回到70美元，今年最佳情形约在80美元", "speaker":"Jim Caron", "kind":"paraphrase"},
+  "importance_score": 4,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

@@ -1,0 +1,33 @@
+{
+  "short_title": "Robinhood代币化与预测市场",
+  "one_liner": "Vlad谈万物皆可交易化趋势",
+  "why_it_matters": "解析散户投资私有股权与预测市场的新前沿",
+  "summary": [
+    "Robinhood CEO Vlad Tenev 二度作客 Odd Lots，介绍将私有公司股权通过代币化与风险基金向散户开放的最新进展。",
+    "他推出 Robinhood Ventures Fund I（RVFI）在纽交所上市，作为封闭式基金让散户投资 Databricks、Stripe 等原仅限合格投资者的公司。",
+    "他认为预测市场能复制股票与期权，监管套利令万物皆可交易，但也承认透明度下降可能带来长远隐忧。"
+  ],
+  "core_points": [
+    "代币化遇阻：OpenAI 等私募公司并未授权股权被代币化，Robinhood 转而用 SPV 与基金结构推进。",
+    "RVFI 封闭式基金：无业绩提成，已投资 Databricks、Stripe、Revolut 等多家热门私企。",
+    "预测市场可复制股票期权，Kalshi 合作与杠杆工具在路上，监管环境趋于宽松。",
+    "趋势判断：技术与监管套利让一切可被包装成可交易工具，但信息披露与透明度下降值得警惕。"
+  ],
+  "key_facts": [
+    {"label":"超级碗抛硬币赔率","value":"50%","context":"You could bet on heads or tails and it was trading at 50% Yeah."},
+    {"label":"特斯拉日内涨跌预测","value":"1%","context":"prediction markets on, \"Will Tesla go up 1% today? Will go up 2%?\" You could just read"},
+    {"label":"IPO市场关闭年份","value":"2022","context":"Then the IPO market shut in 2022."},
+    {"label":"趋势展望年份","value":"2026","context":"forward to 2026 and it feels like morality doesn't even like necessarily enter into it."}
+  ],
+  "takeaways": [
+    "关注 RVFI 等封闭式基金，散户正获得昔日仅限合格投资者的私企敞口。",
+    "万物代币化趋势下，留意预测市场与杠杆化带来的透明度风险。"
+  ],
+  "guests": ["Vlad Tenev（Robinhood）"],
+  "topics": ["代币化","预测市场","散户投资"],
+  "tensions": ["私企授权争议","透明度与监管套利之忧"],
+  "quote": {"text":"一切都能被包装进另一种外壳，几乎无法阻止这种趋势。","speaker":"Vlad Tenev","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "standard",
+  "quality": "llm_validated"
+}

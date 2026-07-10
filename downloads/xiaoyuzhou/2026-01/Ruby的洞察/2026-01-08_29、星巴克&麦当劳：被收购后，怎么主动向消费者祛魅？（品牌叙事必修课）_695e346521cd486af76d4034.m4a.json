@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3786,
+    "item_id": "xiaoyuzhou:695e346521cd486af76d4034",
+    "month": "2026-01",
+    "platform": "xiaoyuzhou",
+    "platform_id": "695e346521cd486af76d4034",
+    "published_at": "2026-01-08T08:00:00+08:00",
+    "published_date": "2026-01-08",
+    "relative_dir": "2026-01/Ruby的洞察",
+    "schema_version": 1,
+    "source_id": "xyz_ruby_insight",
+    "source_name": "Ruby的洞察",
+    "status": "pending",
+    "target_basename": "2026-01-08_29、星巴克&麦当劳：被收购后，怎么主动向消费者祛魅？（品牌叙事必修课）_695e346521cd486af76d4034",
+    "title": "29、星巴克&麦当劳：被收购后，怎么主动向消费者祛魅？（品牌叙事必修课）",
+    "url": "https://www.xiaoyuzhoufm.com/episode/695e346521cd486af76d4034"
+  },
+  "audio_url": "https://media.xyzcdn.net/658be0524b73719a63166bc9/lryK2lG0yLCIYKFfFKQ1FfnGv5U3.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-01\\Ruby的洞察\\2026-01-08_29、星巴克&麦当劳：被收购后，怎么主动向消费者祛魅？（品牌叙事必修课）_695e346521cd486af76d4034.m4a",
+  "bytes": 61234163,
+  "sha256": "e8c26096a2e5928ead0e2f200b4762e5d5a5bb2282a0ba9ad4c2e661ddf4b975",
+  "downloaded_at": "2026-07-02T04:47:20Z"
+}

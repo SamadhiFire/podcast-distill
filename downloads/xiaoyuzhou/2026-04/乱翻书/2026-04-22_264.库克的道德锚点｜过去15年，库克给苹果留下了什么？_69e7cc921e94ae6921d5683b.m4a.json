@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3206,
+    "item_id": "xiaoyuzhou:69e7cc921e94ae6921d5683b",
+    "month": "2026-04",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69e7cc921e94ae6921d5683b",
+    "published_at": "2026-04-22T07:30:00.755000+08:00",
+    "published_date": "2026-04-22",
+    "relative_dir": "2026-04/乱翻书",
+    "schema_version": 1,
+    "source_id": "xyz_luan_fan_shu",
+    "source_name": "乱翻书",
+    "status": "pending",
+    "target_basename": "2026-04-22_264.库克的道德锚点｜过去15年，库克给苹果留下了什么？_69e7cc921e94ae6921d5683b",
+    "title": "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69e7cc921e94ae6921d5683b"
+  },
+  "audio_url": "https://media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lg3T77R6ajM31WcSdV1zE6C8hHj0.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-04\\乱翻书\\2026-04-22_264.库克的道德锚点｜过去15年，库克给苹果留下了什么？_69e7cc921e94ae6921d5683b.m4a",
+  "bytes": 51905690,
+  "sha256": "6a141ee07467a522e09b29fc177d7ac17f38f2ee8e68b7b1500e73a08ae13b8d",
+  "downloaded_at": "2026-07-02T04:20:18Z"
+}

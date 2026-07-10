@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3682,
+    "item_id": "xiaoyuzhou:6a130fb6e59ebca93636e7df",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a130fb6e59ebca93636e7df",
+    "published_at": "2026-05-25T07:00:00+08:00",
+    "published_date": "2026-05-25",
+    "relative_dir": "2026-05/商业就是这样",
+    "schema_version": 1,
+    "source_id": "xyz_business_is",
+    "source_name": "商业就是这样",
+    "status": "pending",
+    "target_basename": "2026-05-25_城市就是这样19｜沈从乐：新一线“坦白局”_6a130fb6e59ebca93636e7df",
+    "title": "城市就是这样19｜沈从乐：新一线“坦白局”",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a130fb6e59ebca93636e7df"
+  },
+  "audio_url": "https://media.xyzcdn.net/6022a180ef5fdaddc30bb101/lgPklldJn8chMfqWC0pbqEbgJL3r.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\商业就是这样\\2026-05-25_城市就是这样19｜沈从乐：新一线“坦白局”_6a130fb6e59ebca93636e7df.m4a",
+  "bytes": 89077832,
+  "sha256": "6c1bd8b8e555f554b0c7114fa6c634a56e8c2d588b52729b5ec54921b142af3f",
+  "downloaded_at": "2026-07-02T04:01:53Z"
+}

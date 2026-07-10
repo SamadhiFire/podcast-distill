@@ -1,0 +1,33 @@
+{
+  "short_title": "物理世界也有投票权",
+  "one_liner": "Nominal谈AI时代硬件测试复兴",
+  "why_it_matters": "物理AI崛起让硬件测试成为新软件护城河",
+  "summary": [
+    "红杉访谈Nominal联合创始人，讨论在AI时代美国再工业化背景下，硬件开发与测试正重新成为焦点，软件定义硬件亟需类似GitHub的测试平台。",
+    "他们提出物理规律仍有最终发言权，模拟不能替代真实遥测，Nominal以硬件测试为突破口，融合仿真与真实传感器数据，加速迭代。",
+    "公司已服务美国前五大国防承包商中的四家，并认为未来会亲自下场做硬件，把数据采集供应链握在手中。"
+  ],
+  "core_points": [
+    "硬件开发范式正快速转向，测试是软件定义硬件触达现实的关键。",
+    "物理规律仍有投票权，仿真须与真实遥测数据融合。",
+    "Nominal服务美国前五大国防承包商中的四家。",
+    "公司或将亲自制造硬件以掌控数据供应链。"
+  ],
+  "key_facts": [
+    {"label":"联合创始人入职年", "value":"2019", "context":"there around sort of 2018-2019 frame"},
+    {"label":"数据跨度年份", "value":"2020", "context":"uh you know, 2003 to 2019, 2020."},
+    {"label":"传感器规模", "value":"10,000", "context":"review of if you have 10,000 sensors"},
+    {"label":"满意度目标", "value":"100%", "context":"get 100% you know satisfaction"}
+  ],
+  "takeaways": [
+    "关注物理AI与硬件测试平台的投资机遇",
+    "重视真实世界数据对模型落地的约束"
+  ],
+  "guests": ["Nominal Cofounders", "Sequoia Host"],
+  "topics": ["物理AI", "硬件测试", "再工业化", "国防科技"],
+  "tensions": ["仿真效率与真实物理验证之张力", "做平台还是下场造硬件之抉择"],
+  "quote": {"text":"物理规律仍有投票权，仿真无法替代真实遥测", "speaker":"Nominal Cofounder", "kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "standard",
+  "quality": "llm_validated"
+}

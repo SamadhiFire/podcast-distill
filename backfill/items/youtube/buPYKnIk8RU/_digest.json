@@ -1,0 +1,33 @@
+{
+  "short_title": "银幕中的黑人女性形象之争",
+  "one_liner": "《一战再战》引发种族与性别争议",
+  "why_it_matters": "借奥斯卡窗口审视好莱坞对黑人女性的再现政治",
+  "summary": [
+    "Wesley Morris与耶鲁学者Daphne Brooks围绕保罗·托马斯·安德森的《一战再战》展开对谈，聚焦Teyana Taylor饰演的Perfidia一角如何被性化，以及影片对黑人女性内在世界的缺席。",
+    "两人指出，片中白人男性与黑人女性的相遇场景复刻了美国历史上最熟悉、也最具种族与性别暴力的套路，并将角色降格为满足白人父权焦虑的陈旧 caricature。",
+    "在奥斯卡语境下，她们梳理了自1940年以来黑人女性斩获支持女演员奖的稀疏轨迹，并盛赞Debbie Allen以编舞七次登台奥斯卡所代表的创造力与韧性。"
+  ],
+  "core_points": [
+    "《一战再战》被批将黑人女性简化为性化符号。",
+    "影片复刻白人男性与黑人女性的种族化暴力套路。",
+    "黑人女性获支持女演员奖的历程自1940年极为稀疏。",
+    "Debbie Allen七度于奥斯卡编舞，彰显黑人女性创造力。"
+  ],
+  "key_facts": [
+    {"label":"奥斯卡年份","value":"2026","context":"本届奥斯卡于2026年举行，话题分量沉重"},
+    {"label":"颁奖沿革","value":"1977","context":"相关讨论自1977年颁奖礼以来延续至今"},
+    {"label":"首奖追溯","value":"1940","context":"首位黑人女性获支持女演员奖可追溯到1940年"},
+    {"label":"获奖年份","value":"2012","context":"Octavia Spencer于2012年凭《相助》获奖"}
+  ],
+  "takeaways": [
+    "关注电影再现政治，警惕刻板化叙事",
+    "在奖项史中看见黑人女性创作者的贡献"
+  ],
+  "guests": ["Wesley Morris（主持人）", "Daphne Brooks（耶鲁学者）"],
+  "topics": ["奥斯卡", "种族再现", "黑人女性"],
+  "tensions": ["电影创新与刻板再现之间的张力", "白人作者能否妥善代表少数族裔"],
+  "quote": {"text":"主人的工具永远无法拆除主人的房子","speaker":"Audre Lorde","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "standard",
+  "quality": "llm_validated"
+}

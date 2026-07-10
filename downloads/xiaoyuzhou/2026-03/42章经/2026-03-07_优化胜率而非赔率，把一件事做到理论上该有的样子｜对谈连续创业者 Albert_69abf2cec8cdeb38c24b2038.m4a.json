@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "科技 / AI / VC",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3951,
+    "item_id": "xiaoyuzhou:69abf2cec8cdeb38c24b2038",
+    "month": "2026-03",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69abf2cec8cdeb38c24b2038",
+    "published_at": "2026-03-07T22:00:00+08:00",
+    "published_date": "2026-03-07",
+    "relative_dir": "2026-03/42章经",
+    "schema_version": 1,
+    "source_id": "xyz_42zhangjing",
+    "source_name": "42章经",
+    "status": "pending",
+    "target_basename": "2026-03-07_优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert_69abf2cec8cdeb38c24b2038",
+    "title": "优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69abf2cec8cdeb38c24b2038"
+  },
+  "audio_url": "https://media.xyzcdn.net/648b0b641c48983391a63f98/lu0VAMAaWCTwVa3qbLNsf99esAR2.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-03\\42章经\\2026-03-07_优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert_69abf2cec8cdeb38c24b2038.m4a",
+  "bytes": 63899930,
+  "sha256": "cb65ff7f76e69aac3f3c0742934a601fd3edf6af5b1d87c8c031b34c4a28d624",
+  "downloaded_at": "2026-07-02T04:36:08Z"
+}

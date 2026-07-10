@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 4613,
+    "item_id": "xiaoyuzhou:6a3814cc75ba9e0c5336edf6",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a3814cc75ba9e0c5336edf6",
+    "published_at": "2026-06-22T17:30:00+08:00",
+    "published_date": "2026-06-22",
+    "relative_dir": "2026-06/面基",
+    "schema_version": 1,
+    "source_id": "xyz_mian_ji",
+    "source_name": "面基",
+    "status": "pending",
+    "target_basename": "2026-06-22_要完了？不！是要玩了！论养AI的心态与习惯_6a3814cc75ba9e0c5336edf6",
+    "title": "要完了？不！是要玩了！论养AI的心态与习惯",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a3814cc75ba9e0c5336edf6"
+  },
+  "audio_url": "https://media.xyzcdn.net/6388760f22567e8ea6ad070f/lqeZCpNw8p6CwHjr2wcw68X4UpHB.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\面基\\2026-06-22_要完了？不！是要玩了！论养AI的心态与习惯_6a3814cc75ba9e0c5336edf6.m4a",
+  "bytes": 74686992,
+  "sha256": "9e7ab3880006a05023a5cab09094af14632e3edc0461995d2826d3fb4f65b8c3",
+  "downloaded_at": "2026-07-02T03:40:59Z"
+}

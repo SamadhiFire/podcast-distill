@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "产品 / 创业 / 管理",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 9502,
+    "item_id": "xiaoyuzhou:69c953b4b977fb2c478df5c3",
+    "month": "2026-03",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69c953b4b977fb2c478df5c3",
+    "published_at": "2026-03-30T08:00:00+08:00",
+    "published_date": "2026-03-30",
+    "relative_dir": "2026-03/张小珺Jùn｜商业访谈录",
+    "schema_version": 1,
+    "source_id": "xyz_zhang_xiaojun",
+    "source_name": "张小珺Jùn｜商业访谈录",
+    "status": "pending",
+    "target_basename": "2026-03-30_134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe_69c953b4b977fb2c478df5c3",
+    "title": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69c953b4b977fb2c478df5c3"
+  },
+  "audio_url": "https://media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lkInPy65_ZR4cQmK23rmHJ_hhLVQ.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-03\\张小珺Jùn｜商业访谈录\\2026-03-30_134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe_69c953b4b977fb2c478df5c3.m4a",
+  "bytes": 153825307,
+  "sha256": "fab4fd51b71bf89a8c27b432ff34cca6b114de8a965ae114688ab8d51b931bdd",
+  "downloaded_at": "2026-07-02T04:31:33Z"
+}

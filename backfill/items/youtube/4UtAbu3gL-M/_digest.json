@@ -1,0 +1,33 @@
+{
+  "short_title": "十日战争我们学到了什么",
+  "one_liner": "十日激战暴露目标模糊与消耗赛跑",
+  "why_it_matters": "美以空袭重创伊朗但终局不明，油价与平民承压",
+  "summary": [
+    "纽约时报《The Daily》复盘开战约十日：美以已打击逾4000个目标，重点摧毁伊朗防空、海军与无人机产能，并将导弹与无人机发射量压低约九成。",
+    "但机密简报显示伊朗仍保有至多50%导弹库存且能持续造无人机，战事陷入消耗赛跑；目标从去核到政权更迭反复摇摆，终局仍不明。",
+    "伊朗以袭击区域内美军基地与能源设施报复，霍尔木兹航运受扰推高油价，平民伤亡与地区国家被迫选边让危机持续外溢。"
+  ],
+  "core_points": [
+    "美以十日内打击逾4000个目标，重创伊朗防空与海军。",
+    "伊朗导弹发射量降约90%，无人机降约83%仍具存量。",
+    "机密简报称伊朗仍保有至多50%导弹库存。",
+    "伊朗报复致霍尔木兹航运受扰，油价与平民承压。"
+  ],
+  "key_facts": [
+    {"label":"打击目标数", "value":"4,000", "context":"struck more than 4,000 targets over this time"},
+    {"label":"导弹削减比", "value":"90%", "context":"reduced the number of missiles being fired by Iran by about 90% on the first"},
+    {"label":"无人机削减比", "value":"83%", "context":"the number of drones being fired by about 83%"},
+    {"label":"导弹库存剩余", "value":"50%", "context":"the Iranians still have as much as 50%"}
+  ],
+  "takeaways": [
+    "关注消耗赛跑下油价与地区外溢风险",
+    "警惕战争目标模糊导致的终局不确定性"
+  ],
+  "guests": ["Michael Barbaro", "Eric Schmitt"],
+  "topics": ["伊朗战争", "军事打击", "能源航运", "平民伤亡"],
+  "tensions": ["去军事化成效与库存消耗之赛跑", "战术胜利与政治终局之脱节"],
+  "quote": {"text":"这是一场伊朗发射速度与美以压制能力的消耗赛跑", "speaker":"Eric Schmitt", "kind":"paraphrase"},
+  "importance_score": 4,
+  "content_density": "standard",
+  "quality": "llm_validated"
+}

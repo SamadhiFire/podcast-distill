@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3609,
+    "item_id": "xiaoyuzhou:69bc0d1e2d318777c9c2e9a0",
+    "month": "2026-03",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69bc0d1e2d318777c9c2e9a0",
+    "published_at": "2026-03-20T08:00:00+08:00",
+    "published_date": "2026-03-20",
+    "relative_dir": "2026-03/Ruby的洞察",
+    "schema_version": 1,
+    "source_id": "xyz_ruby_insight",
+    "source_name": "Ruby的洞察",
+    "status": "pending",
+    "target_basename": "2026-03-20_32、一个品牌人在韩国首尔的社会学洞察_69bc0d1e2d318777c9c2e9a0",
+    "title": "32、一个品牌人在韩国首尔的社会学洞察",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69bc0d1e2d318777c9c2e9a0"
+  },
+  "audio_url": "https://media.xyzcdn.net/658be0524b73719a63166bc9/ljt_cwB1D1JoFgAiKnNLwn288t3n.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-03\\Ruby的洞察\\2026-03-20_32、一个品牌人在韩国首尔的社会学洞察_69bc0d1e2d318777c9c2e9a0.m4a",
+  "bytes": 58373093,
+  "sha256": "7625925326009403eab882997c2df85cdf71b5d5c12d571428f1b0c09e93791c",
+  "downloaded_at": "2026-07-02T04:32:12Z"
+}

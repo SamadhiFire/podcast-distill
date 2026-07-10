@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3950,
+    "item_id": "xiaoyuzhou:6a29874edbccffcfa9c6f578",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a29874edbccffcfa9c6f578",
+    "published_at": "2026-06-11T07:00:00+08:00",
+    "published_date": "2026-06-11",
+    "relative_dir": "2026-06/商业就是这样",
+    "schema_version": 1,
+    "source_id": "xyz_business_is",
+    "source_name": "商业就是这样",
+    "status": "pending",
+    "target_basename": "2026-06-11_Vol.260 库里签约李宁，一场冒险_6a29874edbccffcfa9c6f578",
+    "title": "Vol.260 库里签约李宁，一场冒险",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a29874edbccffcfa9c6f578"
+  },
+  "audio_url": "https://media.xyzcdn.net/6022a180ef5fdaddc30bb101/lnTBPaQ_amnuVOdFtN71UmPfmVvL.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\商业就是这样\\2026-06-11_Vol.260 库里签约李宁，一场冒险_6a29874edbccffcfa9c6f578.m4a",
+  "bytes": 95555252,
+  "sha256": "d20a6a4b6c3eb3b1c8a92c6638b2dbd571ff379f1b7232574f375189ac507987",
+  "downloaded_at": "2026-07-02T03:49:55Z"
+}

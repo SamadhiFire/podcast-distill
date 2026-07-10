@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3717,
+    "item_id": "xiaoyuzhou:69fab1bcf93890ea814d0717",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69fab1bcf93890ea814d0717",
+    "published_at": "2026-05-06T11:44:06.226000+08:00",
+    "published_date": "2026-05-06",
+    "relative_dir": "2026-05/高能量",
+    "schema_version": 1,
+    "source_id": "xyz_gao_neng_liang",
+    "source_name": "高能量",
+    "status": "pending",
+    "target_basename": "2026-05-06_Vol.215 再访王宁：与王宁聊他的2025年以及泡泡玛特的未来_69fab1bcf93890ea814d0717",
+    "title": "Vol.215 再访王宁：与王宁聊他的2025年以及泡泡玛特的未来",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69fab1bcf93890ea814d0717"
+  },
+  "audio_url": "https://media.xyzcdn.net/62c6ae08c4eaa82b112b9c84/ljGryCbFltam8K7yGaXryynmhbv5.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\高能量\\2026-05-06_Vol.215 再访王宁：与王宁聊他的2025年以及泡泡玛特的未来_69fab1bcf93890ea814d0717.m4a",
+  "bytes": 60121028,
+  "sha256": "b59abbd6c8f1ada1262f9cc0024afa3d325e79f4f5f8e08456e166acc96639e5",
+  "downloaded_at": "2026-07-02T04:11:14Z"
+}

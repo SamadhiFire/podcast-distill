@@ -1,0 +1,538 @@
+TITLE: Legendary Hacker Matt Suiche on Cyberwar in the Age of AI | Odd Lots
+CHANNEL: Odd Lots Audio
+DURATION_S: 2944  DENSITY: standard  REQ summary=3 core=4
+PUBLISHED: 2026-03-12T14:44:37+00:00  URL: https://www.youtube.com/watch?v=rEEGzt01wts
+SHA256: 53bb961e9404069f97fe005e39eb8a2f731ecd3d4e93350f8a218bf5e02a026d
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [20000] $20,000 and create more chaos that you
+  [2000] late '90s or early 2000s, maybe even
+  [2012] 2012. They were just mostly like using a
+  [2026] starting out now in 2026 versus I guess
+  [2017] not that early. I think it was like 2017
+
+=== TRANSCRIPT EXCERPT ===
+radio, news.
+the Odd Lots podcast. I'm Tracy Alloway.
+prepper tendencies.
+everything when everything goes bad is
+to bring my family over to your place.
+So I'm relying on you actually.
+I've been building an extra store of
+supplies.
+of things my kids like to eat and stuff
+like that just so that we're
+Okay. Well, one of the things I saw on a
+bunch of the prepper boards that I
+sometimes look at. I don't want people
+to think that I'm crazy about it, but I
+find it interesting. I I find it
+interesting seeing how people's like
+insecurities manifest in physical stuff,
+but anyway.
+One of the things everyone was saying
+was you need to start taking cash out
+because of the situation in Iran because
+we're all expecting a big cyber attack
+that's going to absolutely destroy the
+US financial infrastructure.
+a business of like I've looked at
+prepper meals like prepared meals and
+they all look terrible. Like a slightly
+high-end version for yuppies, I think
+would be really good. Like something
+that you know, like some nice uh
+how good you can actually get like dry
+food.
+days. Anyway, let's let's talk about the
+actual issue at hand. Yeah, well, are
+you taking cash out?
+I'm relying on my store of gold and
+silver. That's right. But I think this
+raises a legitimate and actually very
+interesting topic, which is what do we
+know about Iran's cyber, I guess,
+facilities, skills, what could happen in
+this context, and then also
+everything that's going on with the
+world of AI, right? Like, cybersecurity,
+cyber hacking,
+it's changing really rapidly given this
+new technology.
+context of the war itself, setting aside
+hypothetical doom scenarios, there's a
+really interesting report in the
+Financial Times about Israel having been
+able to hack into all of the traffic
+lights in Tehran. Almost unbelievable
+and shocking, but there's already within
+the war itself, or even over the last
+couple of years, there was the Pager
+attack that Israel had executed. And so,
+yes, cyber is part of it, and the timing
+is wild here because speaking of AI, it
+was just on Friday, we're recording this
+March 5th, I'm not exactly sure the date
+it's coming out, but a week ago,
+basically, there was the news, the
+complete collapse of the Anthropic
+relationship with the Department of
+Defense or the Department of War. And
+so, it's all in the mix right now, and
+how is AI actually going to change
+warfare, and what are the national
+security implications of AI, and AI and
+hacking, there is a lot in this sort of
+mix that's all happening right now.
+my eye was the story about a hacker
+using Claude to hack into like the
+Mexican government system. Did you see
+that?
+the hacker extracted a bunch of
+information from Claude itself. You
+know, I'm pretty sure you cannot go to
+Claude code and say like I want to break
+into the Mexican government website,
+help me like build this app. It won't do
+that, it's trained to avoid malicious
+uses, but people find a way to jailbreak
+them, people find a way to sort of
+extract information from the AI itself
+that has in its training and so forth.
+And [snorts] there's been examples of
+leaks where, you know, people upload
+data to the AI and somehow other people
+see it. Anyway, there's a lot here that
+we have to learn more about.
+do, in fact, have the perfect guest.
+Someone who's been on the podcast
+before, but it's been a while. We're
+going to be speaking with Matt Swish. He
+is the founder of OEDB, which is a data
+infrastructure startup for agentic AI.
+So, honestly, the perfect person
+said that first. Matt, thank you so much
+for coming back on All Thoughts.
+now. I think it's been what, 4 years?
+still in Dubai, and now you're coming to
+us from Sweden in a very
+Gustavian-looking background over there.
+it's right after Russia's invasion of
+Ukraine. So, I guess yeah, wow, that has
+been almost 4 years now.
+cyber espionage, cyber security,
+hacking, and so forth, it's a natural
+natural time.
+listen to the episode 4 years ago, can
+you just give some context around who
+you actually are and your sort of
+history in the hacking community,
+including, you know, Shadow Brokers and
+the WannaCry era and all that stuff?
+almost like 20 years, particularly cyber
+security.
+And uh my name appeared in a
+few of the different leaks because of
+various analysis that I have done of
+like private information that was being
+leaked, but also a lot of attacks that
+happened that happened to target
+critical infrastructure over the last 10
+years.
+And last time we were on the podcast, uh
+one of the thing we talked about is
+does cyber uh really matter once you
+enter into a kinetic war, which is
+exactly what's happening now.
+And the main takeaway was once you start
+using missiles, most of these cyber
+elements are not really relevant because
+you would use cyber mostly to gather
+information and intelligence
+an enemy, you create confusion. But as
+we have seen now,
+you can use like drones that are like
+$20,000 and create more chaos that you
+would do with any sort of exploits.
+as a legendary hacker, and then you're
+like, "Oh, I've been 20 years in
+enterprise software." I feel like this
+is like the the Winnie the Pooh meme is
+like, you know, the casual and then
+fancy dress up.
+enterprise software. But, this is a
+really interesting point that you made.
+This idea between, okay, mostly it
+sounds like when people imagine cyber
+attacks, they imagine what Tracy talked
+about in the beginning. Suddenly, the
+entire financial infrastructure like it
+just come to a halt. People worried
+about or there's going to be a blackout,
+etc. But, in reality or what we've seen
+so far by and large is that cyber in the
+context of war is still much more about
+data collection, espionage, and so forth
+rather than these more like, you know,
+the types of things you might see in a
+movie.
+like 10 15 years, we have seen some like
+attacks like cyber attacks against a
+critical infrastructure.
+Iran targeted like Aramco around like
+2012. They were just mostly like using a
+what we call a wiper that was like a
+malware that was erasing the hard drive
+of most of the machines.
+And then we obviously have the case of
+Stuxnet few years before where it was a
+joint Israeli-US operation against some
+of the nuclear centrals in Iran where
+some of the PLCs were targeted.
+But, what we have seen over the weekend
+is some of the drones happened to target
+some of the Amazon data centers.
+because multiple of the zones have been
+down and I think two out of three and
+the third one is still recovering days
+after.
+Because most of companies, either
+private companies or public companies,
+are relying on the cloud, which is
+something that was not really the case
+before.
+And once you have some sort of
+centralization
+in terms of dependence, you also become
+an easy target. And most of
+governments, AI companies, cloud
+companies do not really have
+$20,000 drones in their threat models,
+which is like something that's pretty
+new, but also confirms that
+kinetic walls can have more impact.
+perhaps more useful before a war when it
+comes to info gathering and things like
+that. But we have seen some deployment
+of cyber attacks in the past week or so.
+So, we know Israel is attacking some
+cyber infrastructure in Iran, and we
+know that Iran has
+perhaps attempted some things, maybe not
+as successfully. But walk us through
+what we've actually seen so far.
+operation where one of the prayer app
+has been hijacked and some message was
+sent to the users. So, it's more like to
+create confusion within people.
+understand the position of some of the
+target, but it's more used for like
+reconning.
+And in terms of destruction, we didn't
+see anything significant. Even the
+government itself of Iran shut down most
+of the internet
+for a lot of the users. And a lot of
+what we see on social media is the usual
+disinformation and misinformation
+campaign, especially now with AI,
+……（中部抽样）……
+there's so much AI slop with like the
+really like really impactful. So, like
+where
+is pretty like a first, I would say, in
+they're quote monitoring the situation,
+inundated with contextless garbage and
+topics seriously and doesn't just sort
+How do you actually know what's real and
+there's so much of it, so
+looking at the actual damage. Many
+exactly like people used to do with
+institutions,
+available,
+giving their quote and quote like
+threat of Iran for around 40 years.
+happened last weekend, many people were
+because that's not cyber really. I mean,
+was that? I sort of would assume that
+can be run from numerous other clouds.
+due to the attack on data centers. How
+like think about hardening these data
+I think one of
+drone is on $20,000 and they managed to
+from Amazon
+explicitly said they were drone strikes.
+because in a data center, you are taking
+even if you take the cost of most of
+if you are really aiming at destructing
+really efficient. So, you really enter
+material and have way more impact than
+the day, it does not really matter.
+recruit like a 20-year-old such as
+then, you know, we had the boom in
+more competition from private companies
+companies like Anthropic and ChatGPT and
+capacity has actually shifted.
+when we started to see more about the
+surveillance, global surveillance,
+being leaked that belongs to uh the
+recently, there was a contractor from
+zero-day exploits to a Russian broker.
+of integrator. So, we see like
+they also keep being burned by insiders.
+War, and you're thinking about
+the drama that's going on there. How are
+they cannot really develop uh as many
+that it had been used in the Maduro
+their ethical like
+decisions.
+state where it can be used for like
+we start to see it now for like
+opinion about it.
+can't just go to Claude Code and say
+some very talented people who pride
+[clears throat] So, do you have a sense
+get out of these tools?
+even Anthropic published an article
+And I think even recently they released
+code uh
+towards a zero. So if you're a company
+software for security reasons is going
+when it
+to allocate budget
+engineers to build the software and then
+But security is a risk is usually like
+Maybe in a year from now it's going to
+to see how it's going to like do like
+the the cost of building software is
+obviously there's the argument that well
+you're a big corporation or presumably a
+some of the security concerns, given
+software business in-house.
+software cost like collapsing,
+work on DB, the current startup uh
+something to to transact or like to take
+designed to think autonomously, you need
+itself, if you just build it, is pretty
+is the context they take decision on.
+can just rewrite an MRI software in one
+the end of this year. I think the only
+people are mostly like still playing
+agent like
+being replaced for their jobs,
+seen some disruption around like
+uh development with shorter like
+actually is
+doing a bunch of calls to like Anthropic
+searches.
+piece of software that's running as a
+another service or like software.
+aspects of AI agents is that they can
+didn't work. I'm going to try It's going
+information, etc."
+do. And if it accidentally deletes a
+security standpoint
+deleting a bunch of information. Is this
+the same. It's the same It's sort of
+hand with the ability to create a wrong
+destroy on its own. Is this sort of like
+sense of
+It never ends. Like security must be
+people do something agentic,
+an enterprise, as you can imagine, if
+gave it access to, it will happen. So,
+architectures or like those like agents.
+have seen
+security for the last 20 years,
+especially in enterprise, like pushing
+cannot just give like full access to
+long time at this point. Can you
+starting out now in 2026 versus I guess
+like what has changed is
+the global surveillance program was
+and pushed back and people really cared
+privacy.
+government
+our like safety like chart."
+In term of software, obviously, like now
+adequate software phase where
+haven't seen like
+feels like a lot of it is very different
+national security.
+makes it faster.
+before, but there's so much noise and so
+So you must think that it's going to be
+on your website right now. It looks
+it's going and that there will actually
+anything that's agentic, building
+of building software is going to uh
+a pretty big use case right there
+they didn't write like code since
+lot. But if software is going to zero,
+timeless in the AI economy.
+payments and stablecoin that you can use
+or like OpenAI just scrapping internet
+least you can
+Because I think a lot of the traditional
+are going to be like disrupted a lot.
+would just be ready to pay like more to
+to is going to be
+infrastructure layer, you can have this
+actually secure. Because
+it's like people just like living in
+going to look very different and they
+coding forest is that one of the
+whatever.
+API. And then you have to like go to a
+an API key, and then you copy and paste
+oh, you know, like let me just pay you
+But it also occurs to me, and this is
+and the agent is going out and scraping
+whether the direction of the internet
+so that the data then arrives in some
+really good points. We we need to talk
+having to deal with all these API keys,
+case you're describing now is like
+of having to go like everywhere
+for the data providers. Because if you
+the model itself for information, but as
+second level is the agent like Claude
+them looking on the internet.
+you would have like those API keys and
+information, usually the one that's
+can only
+of like SaaS platform are just like some
+directly.
+million subscriptions left and right uh
+marketplace, but the integration now is
+or those tools, they make you install
+like you just said,
+natural interface for like agents, even
+to do it or ABC." Just do that. So, I
+it's just like it becomes too
+one of the things that happened in the
+still existed. What was that called
+like experimental lab. Anyway, they
+language. But like they clearly
+could we have a situation where the
+system that becomes very, very difficult
+……（接近结尾）……
+mark because there's so many other
+components like the energy sector, you
+know, like how is it We have seen the
+price of like memory like increasing
+like a lot. So like now [laughter]
+now if they're starting to block like
+the Detroit of almost, you know, like
+like what's going to happen to like the
+cost of data centers and like memory and
+AI in general, you know, like we are
+going towards on one side, you know, we
+are going towards like the cost of
+tokens and inference going down, but
+that may also like bring the cost up,
+you know, so if you're going to use like
+AI for like your next generation wars,
+but if your enemy can just like increase
+your cost of token and inference, what
+does that even mean? Like do you even
+need AI in the first place? Is it even
+relevant? There's also the I think
+there's this all like asymmetric like
+warfare that's going to happen that we
+really haven't seen yet and I think
+that's going to be like really
+interesting, but at the same time
+there's so much noise and so much
+so many things happening at once that
+it's becoming like extremely like hard
+to focus and just like extract like
+what's really relevant.
+tough choices potentially coming for
+Havelock as your your token costs go up.
+Matt, it was so wonderful to reconnect
+again. Thank you so much for coming back
+have to get back to Joe about those
+APIs.
+Twitter now.
+[laughter]
+much is happening right now at this
+particular Nexus, especially obviously
+the Anthropic stuff, but I you know,
+it's interesting, you know, you think
+about cyber warfare and you think about
+okay, we're going to hack into a system
+and take out critical infrastructure,
+but another thing you can do is just
+attack a data center directly.
+that was really interesting. That sort
+of like, we got very used to thinking
+about cyber as like this thing that
+exists only in in code. But now you have
+this like new front of kinetic warfare
+where the two like really intersect.
+like huge national security
+vulnerabilities. And he he pointed out,
+I mean certainly today, but you know,
+was this in anyone's threat model
+thinking about the risks to it, you
+know, the cheapness of drones, the
+ability to take them out. Super
+interesting. Also just this idea like,
+yes, you know, obviously again as your
+observation. The point we think of like
+cyber attacks like we're going to take
+out this whole thing, right? But in
+least in the warfare context, his point
+like most of it is like before the war
+etc. The sort of information gathering
+spy spy craft and so forth prior to the
+actual the actual attacks.
+particular use some cyber attacks as a
+sort of sower of chaos in Iran. I can't
+imagine what it's like to actually be on
+the ground there at the moment for many
+reasons, but like you imagine just being
+there worried about your physical safety
+and then the traffic lights aren't
+working as well.
+like, wait, there's cameras everywhere
+or there you know, like how much is
+being recorded like create like a sense
+of like paranoia among everyone about
+about everything.
+obviously this is very topical in
+markets, but the SAS apocalypse idea.
+Matt in particular [clears throat]
+seemed pretty bearish on the outlook for
+um
+existing software companies, I guess.
+And I did think his comments about what
+that would mean for security budgets
+within organizations were pretty
+relevant and worrying.
+Lots podcast. I'm Tracy Alloway. You can
+follow me at Tracy Alloway.
+me at The Stalwart. Follow our guest
+Matt Sweish she's at M Sweish. Follow
+our producers Carmen Rodriguez at Carmen
+Arman, Dasha Bennett at Dashbot, and
+Caleb Brooks at Caleb Brooks. And for
+more Odd Lots content, go to
+bloomberg.com/odd lots for the daily
+newsletter and all of our episodes. And
+you can chat about all of these topics
+24/7 in our discord, discord.gg/odd
+lots.
+it when we talk about [music] the
+intersection of kinetic and cyber
+warfare, then please leave us a positive
+review on your favorite podcast
+platform. [music]
+And remember, if you are a Bloomberg
+subscriber, you can listen to all of our
+episodes absolutely ad-free. All you
+need [music] to do is find the Bloomberg
+channel on Apple Podcasts and follow the
+instructions there. Thanks for
+listening.

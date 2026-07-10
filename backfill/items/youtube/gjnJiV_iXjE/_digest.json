@@ -1,0 +1,35 @@
+{
+  "short_title": "卡塔尔LNG设施遭袭冲击",
+  "one_liner": "中东能源危机蔓延亚太",
+  "why_it_matters": "卡塔尔占全球LNG两成受重创",
+  "summary": [
+    "彭博中国秀3月19日聚焦中东能源危机升级。以色列袭击伊朗气田后，卡塔尔拉斯拉凡工业城——全球最大LNG出口设施——也报告大面积受损，局势进一步恶化。",
+    "亚太市场普跌，能源价格大涨。节目指出卡塔尔占全球LNG出口的20%，其设施受损令市场担忧供应缺口，油价重回每桶110美元上方，美元与日元等汇率剧烈波动。",
+    "美联储按兵不动但上调通胀展望，鲍威尔坦言影响无人能知。日本央行维持0.75%利率不变，却罕见多次点名中东风险，担忧油价推升短期通胀并抑制消费复苏。",
+    "特朗普称对以色列袭击并不知情，其表态一度缓和市场情绪。但能源进口型新兴市场承压明显，菲律宾比索跌破60关口，韩国元也失守1500。"
+  ],
+  "core_points": [
+    "卡塔尔占全球LNG出口20%，拉斯拉凡设施受损冲击供应。",
+    "亚太股市普跌，能源价格单日上涨3%到6%。",
+    "美联储维持利率并上调通胀展望，承认影响高度不确定。",
+    "日本央行维持0.75%但罕见多次提及中东油价风险。",
+    "新兴市场货币承压，比索破60、韩元失守1500。"
+  ],
+  "key_facts": [
+    {"label":"卡塔尔LNG占比","value":"20%","context":"The Qatar accounts for 20% of global LNG exports."},
+    {"label":"日本央行利率","value":"0.75%","context":"keeping its overnight call rate at 0.75%"},
+    {"label":"能源涨幅","value":"3%到6%","context":"We're up 3 to 6% on energy prices today."},
+    {"label":"在岸债券规模","value":"1.6","context":"grow to 10 trillion from the current 1.6"}
+  ],
+  "takeaways": [
+    "关注卡塔尔LNG修复进度与供应缺口",
+    "能源进口新兴市场货币风险上升"
+  ],
+  "guests": ["Dan Murtaugh", "Minju Kang（ING Bank）"],
+  "topics": ["中东冲突", "LNG", "亚太市场"],
+  "tensions": ["油价冲击与央行政策两难"],
+  "quote": {"text":"没人知道经济影响究竟会有多大","speaker":"鲍威尔","kind":"paraphrase"},
+  "importance_score": 5,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

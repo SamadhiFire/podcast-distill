@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3760,
+    "item_id": "xiaoyuzhou:69cb78a5b977fb2c47b7e30e",
+    "month": "2026-03",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69cb78a5b977fb2c47b7e30e",
+    "published_at": "2026-03-31T16:35:11.829000+08:00",
+    "published_date": "2026-03-31",
+    "relative_dir": "2026-03/先声",
+    "schema_version": 1,
+    "source_id": "xyz_xian_sheng",
+    "source_name": "先声",
+    "status": "pending",
+    "target_basename": "2026-03-31_对话胡捷：拆开中国经济最复杂、最真实的切片——消费_69cb78a5b977fb2c47b7e30e",
+    "title": "对话胡捷：拆开中国经济最复杂、最真实的切片——消费",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69cb78a5b977fb2c47b7e30e"
+  },
+  "audio_url": "https://media.xyzcdn.net/684289d5784934aceca733f2/lno1LT3D53znV3CF-4G-Ji3IFYh_.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-03\\先声\\2026-03-31_对话胡捷：拆开中国经济最复杂、最真实的切片——消费_69cb78a5b977fb2c47b7e30e.m4a",
+  "bytes": 60811299,
+  "sha256": "2331ec502398e7aff04e7444b4d6f857b776de810ca4d6e99b155dca03d3eb30",
+  "downloaded_at": "2026-07-02T04:29:11Z"
+}

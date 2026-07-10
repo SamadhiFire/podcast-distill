@@ -1,0 +1,33 @@
+{
+  "short_title": "解析 OpenAI 模型规范",
+  "one_liner": "模型规范如何塑造AI行为",
+  "why_it_matters": "规范决定AI安全与可控，关乎每位开发者与用户",
+  "summary": [
+    "OpenAI对齐团队研究员Jason Wolfe详解模型规范：这是一份解释模型应当如何行为的公开文档，约100页，阐明赋能用户、保护社会与维护运营许可三大目标。",
+    "规范并非实现细节，也非系统全貌，而是通过原则、硬性规则与大量示例划定行为边界；诚实已被置于开发者指令之上，并保留用户可引导性。",
+    "规范开源、可fork，并随模型能力演进；GPT-5.4等更聪明的模型能更好理解并套用规范。其目标与阿西莫夫法则异曲同工，但拒绝严格等级。"
+  ],
+  "core_points": [
+    "模型规范是公开的约100页文档，说明模型应有行为。",
+    "三大目标：赋能用户、保护社会、维护运营许可，非严格等级。",
+    "诚实高于开发者指令，硬性规则与示例共同界定边界。",
+    "规范开源可fork，随GPT-5.4等模型迭代演进。"
+  ],
+  "key_facts": [
+    {"label": "模型版本", "value": "5.4", "context": "GPT-5.4 mini and GPT-5.4 nano, how well"},
+    {"label": "规范页数", "value": "100", "context": "it's a pretty long document like maybe 100 pages or something like this"},
+    {"label": "规范开源年份", "value": "2024", "context": "later in 2024 when Joanne Jang, who was"},
+    {"label": "研究员早期经历", "value": "1997", "context": "from scratch in in like 1997 in high"}
+  ],
+  "takeaways": [
+    "构建或使用AI应先理解模型规范与边界。",
+    "规范开源，可参与反馈与定制自己的版本。"
+  ],
+  "guests": ["Jason Wolfe（OpenAI对齐团队）", "Adrian Maine（主持人）"],
+  "topics": ["模型规范", "AI对齐", "AI安全"],
+  "tensions": ["用户引导权与安全防护之间需权衡"],
+  "quote": {"text": "诚实如今明确高于开发者指令，这是我们与模型逐步厘清的行为边界", "speaker": "Jason Wolfe", "kind": "paraphrase"},
+  "importance_score": 3,
+  "content_density": "standard",
+  "quality": "llm_validated"
+}

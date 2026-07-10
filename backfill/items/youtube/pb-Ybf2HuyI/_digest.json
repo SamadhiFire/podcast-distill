@@ -1,0 +1,35 @@
+{
+  "short_title": "氦气危机冲击亚洲芯片业",
+  "one_liner": "霍尔木兹封锁引爆氦气与油价危机",
+  "why_it_matters": "氦气断供或令亚洲芯片厂数月内停摆",
+  "summary": [
+    "中东冲突升级，伊朗新最高领袖称霍尔木兹海峡将维持关闭，特朗普淡化油价冲击，布伦特自2022年来首次站上100美元，全球股债年内涨幅尽数回吐。",
+    "卡塔尔氦气供应中断，而氦气是芯片制造关键气体且难以替代，亚洲芯片厂库存仅能维持数月，SK海力士与三星承压，AI算力扩张再添变数。",
+    "油价年内已上涨约65%，市场预计年内仅一次降息的概率约75%，部分观点认为要等到2027年，通胀预期与战争融资推高长端收益率。",
+    "菲律宾等经济体受能源冲击，预计电价跳涨约16%，各国转向本土气源并研究价格管制以缓冲击；亚洲市场波动加剧，香港ETF资金回流。"
+  ],
+  "core_points": [
+    "霍尔木兹海峡维持关闭，布伦特原油自2022年来首次突破100美元。",
+    "卡塔尔氦气断供，半导体供应链承压，库存仅够数月难以替代。",
+    "油价年内上涨约65%，降息预期被大幅推后至2027年。",
+    "菲律宾等经济体面临约16%电价跳涨，转向本土能源与价格管制。",
+    "亚洲芯片股与AI主题波动加大，香港成为资产与ETF资金避风港。"
+  ],
+  "key_facts": [
+    {"label":"油价年内涨幅","value":"65%","context":"the oil price 65% to the upside year today."},
+    {"label":"菲律宾电价跳涨","value":"16%","context":"prices there will be like a 16% jump"},
+    {"label":"年内降息概率","value":"75%","context":"looking at about a 75% probability of even just one rate cut"},
+    {"label":"下次降息时点","value":"2027","context":"wait till mid 2027 for that next Fed rate cut"}
+  ],
+  "takeaways": [
+    "关注氦气与卡塔尔供应，芯片股短线波动风险上升。",
+    "能源与通胀主线或压制降息预期，谨慎配置成长板块。"
+  ],
+  "guests": ["丁晨（CSOP）","Tracy（Brandywine Global）","菲律宾能源部长"],
+  "topics": ["氦气供应","中东冲突","芯片制造"],
+  "tensions": ["伊朗封锁霍尔木兹 vs 美国军事施压","降息预期推迟 vs 通胀压力"],
+  "quote": {"text":"氦气可能是刺破AI泡沫的另一个催化剂","speaker":"David Ingles","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

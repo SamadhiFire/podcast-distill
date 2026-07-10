@@ -1,0 +1,540 @@
+TITLE: From Note-Taking App to AI Workspace: The Simon Last Interview
+CHANNEL: No Priors Podcast
+DURATION_S: 1743  DENSITY: brief  REQ summary=2 core=3
+PUBLISHED: 2026-03-12T10:00:04+00:00  URL: https://www.youtube.com/watch?v=1dYThQgOyZU
+SHA256: 2ae2e966cb9cb604f7b5765919aad9371eca126352251c633a248a6fb6ff0b21
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [2023] 2023 is when we
+  [2022] 2022.
+  [1000] like a 100 or 1,000x engineer if you use
+  [95%] Slack. 95% of the personal emails and
+
+=== TRANSCRIPT EXCERPT ===
+Hi listeners, welcome back to No Priors.
+Today I'm here with Simon Last,
+co-founder at Notion. We talk about
+their new vision for Notion in the AI
+age as a platform for humans and agents
+to collaborate, how the engineering and
+product org at Notion is changing,
+Welcome, Simon. Hey Simon, thanks for
+doing this. Yeah, of course. Yeah, it's
+really fun to be here. Notion's at
+scale, amazing platform, lots of users.
+You did start quite a while ago. I think
+of Notion as one of the companies that
+has really like raced AI quite
+aggressively. I was told you first got
+your hands on GPT-4 at a company offsite
+in Mexico.
+Is that true? What is the origin story
+of like starting to work on this stuff?
+Yeah, I think Yeah, that year, that was
+2022.
+I I've been watching, you know, what's
+going on. In general, I've just been
+like super curious about the technology
+and
+fascinated to to try everything and
+think about like how we can apply it. It
+wasn't until I played with GPT-4 that it
+it became really, really real. So, you
+know, we
+And when we got access to it, it was it
+was sort of like a a proto chat GPT like
+interface.
+Um
+And my co-founder Ivan and I both both
+got access and it was just immediately
+clear, like I would say two big things.
+One is that it was just
+pretty smart. It could follow reasonably
+complicated instructions. It could write
+things for you, could edit things. And
+and the second big thing was that
+at the scope of its knowledge was
+extremely interesting. Super, super deep
+like
+and and broad world knowledge. When we
+played with it, it became just instantly
+clear to both of us, like, okay, the the
+time is now to start thinking about how
+to apply this. It's only going to get
+better. We're talking about Mexico,
+GPT-4. You guys saw it was like clearly
+the time. Did you start with like a
+particular vision of like
+what you should obviously be able to do
+with AI in Notion, or did you start
+pulling people from different teams, or
+recruiting people and say, like, let's
+experiment. How did you begin? I think
+we immediately had a long-term and a
+short-term vision, I would say. The the
+I'll start with the short-term one. The
+the thing that was immediately obvious
+was, oh, it could be like a writing
+assistant. Mhm. Um so it it could be in
+your document. You can like select some
+text, have it rewrite it. You could have
+it write text for you, maybe look
+something up, and then uh you know,
+give you like like sources or more
+information. So that was the thing that
+we immediately like like got to work on,
+and you know, we sort of started a tiger
+team around it, and then we were able to
+launch it in like 2 or 3 months after
+that. And then the long-term vision that
+we immediately had was like, oh, the
+thing that looks like it may be possible
+is more of like a general assistant.
+So,
+what if you could just give it all the
+tools
+inside Notion that a human would have be
+able to like create its own databases,
+query and manipulate them, create
+documents, edit them, uh and sort of
+weave all of these things together to do
+like a longer-range task. And so we we
+sort of
+uh immediately started on both. The the
+short-term one we were able to ship very
+quickly, and then the long-term one
+didn't really work yet. And so that took
+much longer to get working. Are there
+like specific
+first launch of the AI-specific Notion
+features and products was when? Last
+year? No, it was uh it was uh February
+2023 is when we
+launched, yeah. My timelines are wrong.
+Um are there like a few um specific
+learnings or breakthrough moments you
+think since beginning to release that
+are interesting? Yeah, I mean, there's
+been it's it's it's been a slog over
+many years or over all the years at this
+point with with Yeah. With with many
+many learnings. I I would say yeah, that
+I mean, I just to give you a timeline of
+the arc of what what we shipped is, you
+know, so
+the first thing was our our writing
+system. Uh we called it AI Writer. Um
+that's the first thing we launched. Uh
+it was easiest to get working cuz it's
+like single-step task, rewriting editing
+text. Uh there's no like retrieval
+aspect. It was just like raw access to
+the model to write text. Uh
+um to write the text. The next uh the
+next big thing that we uh that we uh
+immediately started working on was uh
+Q&amp;A. Doing a semantic index of the
+entire workspace and then letting you
+ask a question and and it can I give you
+an answer that's that's grounded in the
+sources. That was also immediately
+obvious to us that that'd be super
+useful. And so we started to work on
+that. That one we launched in I think it
+was October 2023.
+So we started a beta before then but
+then that would our our GA was in
+October. That was a much bigger effort
+to get it working obviously. We weren't
+just like like plugging in the LLM. It
+was actually doing this like real-time
+updating index. Right. We had to get
+much more serious about the
+evals and the quality there as well. The
+the Q&amp;A has been a
+a multi-year journey. Basically what
+what we did is
+as soon as we got the Notion index
+working
+it it was obvious that okay, we should
+index everything else as well. And and
+so we index like Slack and Google Drive
+and
+we're launching new ones uh
+on a on a regular cadence and and and
+now we have a
+I would say fairly complete index.
+problems that you know, those products
+natively have not solved perfectly yet.
+So how did you think about taking that
+on? I don't know if that's like an
+offensive thing to other product teams
+but like it's not working yet.
+has been
+something we talk about a lot because
+it's like
+you know, it's like almost like what
+right do we even have to do this? But
+but it turns out that
+most of companies are pretty bad at
+making their indexes.
+Somehow it's honestly kind of baffled us
+a little bit. Right.
+dealing with all of this and you know,
+working with the teams trying to get it
+working
+is there's a little bit of just AI
+pilled savviness that's pretty
+important. And then and then I think
+most of it is honestly just like a bit
+of like like craft and attention to
+detail. I think like
+in in particular with this like indexing
+retrieval stuff in order to really get
+it working
+you you have to be quite empirical and
+iterative and actually be like like
+trying queries. Like you know, you only
+like each each uh data source is a
+little bit special. Like you know,
+you can't just apply a one-size-fits-all
+to like querying Slack versus querying
+Google Drive, let's say. They're they're
+completely different kinds of
+information. And we found that there's
+just a little bit of like like craft and
+love that's going into it in terms of
+like actually trying a bunch of
+different queries, actually using it
+every day, and constantly
+iterating and rethinking and and and
+tuning how the retrieval works. How did
+you um think about the diversity of how
+people organize their workspaces and
+just their I mean, even Notion is not
+use of it is not homogeneous, right?
+Like I'm probably part of
+15 workspaces as an investor. And so I
+look at them and I'm like, well, mine's
+a mess and these people are really
+organized and the workflows reflected in
+how their Notion works. Yeah, totally. I
+would say, I mean, the interesting thing
+is that with embeddings it almost
+doesn't matter as much Mhm. anymore. The
+the AI doesn't really care what the what
+the the tree structure is.
+For example, the all all the AI cares
+about is that there's a snippet of text
+that has the the context you need and
+that it can retrieve it. And so
+actually, we kind of advise people now,
+like don't worry as much about
+organization. Just just find a way to
+get it all piped in and like like throw
+it in there. You still make decisions
+that could change performance quite a
+bit, like chunking strategy or whatever,
+right?
+……（中部抽样）……
+important. But but that's sort of not
+in independent of their their particular
+technical challenge given how different
+iteration. Yeah.
+of retrieval, um Yeah, there's a a lot
+Notion and rebuilt your harnesses. Yeah,
+harness probably every 6 months or so.
+like like products have been
+a lot of companies get wrong is just
+sticking with it. You really do have to
+and the technology is and then designing
+it basically means you have to rewrite
+you know, you get to get to restart and
+a a we're about to release a new version
+already thinking about the one after
+just like how does Notion as an
+power of um
+harness
+extremely true. Yeah, I mean I yeah,
+ambition of what I even consider
+most dramatically changed in how you
+last 2 3 years? Woof, yeah, I mean it's
+kind of went through multiple eras.
+into sort of
+uh but but it wasn't really until the
+to
+year. That was a huge unlock. Like I
+getting these agents to end-to-end, you
+pretty significant thought in terms of
+Um
+ambitious about what you're building and
+writing it. And then the flip side is if
+should look like at Notion? Like size,
+effect is that, you know, everyone's
+Um and your output increasingly depends
+fundamental thing that's happening. And
+seen that much impact on the the team
+for the most part. Um I think
+I think it's still true. Um maybe
+Yeah, the main thing is to just like
+median engineering organization versus
+think the the gap is bigger. You can be
+the gap is much bigger. Like the the the
+extremely increased. One impact it's had
+more messy and chaotic. I would say like
+way more prototypes. Uh you know,
+Git repo. Uh they call it uh the design
+uh with a bunch of like UI primitives
+has like an agent in there and like um
+like super high fidelity prototypes Mhm.
+like like you know, like like how would
+been deployed. And that sort of thing is
+just like a little bit more chaotic,
+you draw a line somewhere about like
+risk of data loss over here or and not?
+all the pull requests. And and I would
+like larger and and and more complex.
+much better tested and we can demand
+PR that like hasn't been
+a pretty high degree of confidence that
+by by saying the thing you want. You're
+is the change I'm trying to make and
+enlisting the agent to help you with
+doesn't quite exist yet, um what's the
+next year or two that are still
+We struggled for a few years to build an
+of worked, but then
+we we tried to to build an agent I would
+we finally launched it last fall so like
+agent that has access to everything in
+like the
+it's like like fully shipped. Last
+our personal agent. Uh, so it's pretty
+access to all the all all the things
+It can update things, create documents.
+uh, that we just launched uh, uh, last
+create a new custom agent, give it a
+default, it doesn't have access to
+then once you do, it can actually run
+to its own database, uh, to file tasks,
+start
+That's one use case. Another one, you
+reports. And then and then let it search
+represents some work or job, some some
+excited about this going forward is is,
+of
+allowing it to basically bootstrap
+integration that we don't support yet.
+agents are actually the broader
+to.
+agent. Um, and and and and code is just
+logic. The thing that's really exciting
+is that it can bootstrap a capability.
+it.
+can do that. Given you have a you know,
+and platform players that are at even
+people from the labs, the Microsoft
+cross attempt to integrate and index.
+imagine that Notion agents are best at
+would sort of say there's the labs, and
+maybe like infrastructure. In terms of
+models. We think and our customers they
+They're always uh releasing new
+other. Um so,
+access to all the best models um anytime
+plays into that as well?
+There's like the four different Chinese
+and we're going to do all four for sure.
+they're and and they're way cheaper than
+where where you'd want that. And we want
+think of our role as sort of
+creating uh really high-quality
+conveniently get access to them.
+really good for for humans and for the
+it's something that's that's very needed
+way. You were describing
+You give the agents access to the tools
+like where it's like useful or even like
+still pretty useful.
+a challenge to sort of
+that's a new thing that that didn't
+also made APIs convenient for humans
+is the agent. At first, that was
+uses this this crazy JSON format for
+the agent. But we basically took on that
+designed just really convenient APIs for
+looks like the default normal markdown,
+And the models are really good at it. It
+And then for databases, we we use
+in SQLite. Which also works really well.
+like like took that on as an engineering
+extremely convenient APIs that the
+understand
+say it's a it's a combination of just
+around and like like noticing, "Oh, it's
+smaller?" And then a little bit of just
+are being trained on and what's the
+would naturally be good at? And And like
+what would be the convenient efficient
+a lot of playing around.
+ongoing eval.
+talk to you. Yeah, I Actually, that is
+can you can script and scale the access
+Actually, I know you do because you
+can't block the agents while we're doing
+working on a new prototype. And so, I
+And then, yeah, my setup these days is
+the the CLI tools. Um they're they're
+in the CLI, so. And then, yeah, my my
+these days is essentially to just have
+example, like every night before I go to
+make sure that I've given it enough
+so, I've I've maximized
+nights
+think it was 13 days straight uh
+just basically working through like
+of the night at least multiple times
+it
+it one last time before I bed and just
+agents? Like do you have a workflow
+all the time, so it's it it has all the
+like
+launch was was going and like like like
+And then for I I have many custom agents
+triage agent. So, it has access to all
+and it just uh wakes up every day and
+to learn my preferences. Do you actually
+is you make the agent and then you give
+memory Mhm. and you let it edit that
+uh look at my emails and then interview
+propose things that it thinks it should
+essentially generate like a list of
+couple days I was sort of like like like
+approval entirely and it it just
+trust.
+work stuff. Like it's it's mostly in
+see at all. And so it's just a waste of
+stuff I need to see. I've got lots of
+that I built that
+and uh
+……（接近结尾）……
+pre frequently. So, like uh uh for
+example, like a month ago, I did a I did
+a hackathon with uh the the people team
+and sort of sort of got them. The The
+people team's been amazing. They're
+actually one of the
+the highest adopters of custom agents.
+You know, they do all these kind of
+workflows in like Slack and Notion, kind
+of like like manual work like that. And
+um
+and yeah, I would say yeah, like like
+people are super excited to
+to try it and sort of like like maybe
+just need a like a little bit of a push
+in terms of intuition and like like
+getting them started. Um but then
+Honestly, I've been super impressed.
+Like I I I think the concept is
+like kind of intuitive. Sort of like
+like once you get once you get past sort
+of a little bit of the technical barrier
+of like what is a prompt and like what
+is the agent and how does it get
+triggered and woken up and like like how
+does that even work? But then
+once you sort of get past that, I think
+it's actually a very human-like
+interface. Yeah, maybe the maybe the
+biggest barrier is actually just getting
+people to try and assuming it's going to
+work at all. Right. Yeah. Yeah. You and
+Ivan originally met
+on the internet, Tools for Thought
+community. Um
+it feels like
+you know, the tools we have for thinking
+are very different now. Has your like
+core conception of Notion changed over
+the last few years because of all the AI
+stuff?
+Like what what is the what what thinking
+does the tool do for you? Should agents
+do for you? What do you get to do? Yeah,
+I mean, it's I would say changed quite a
+lot. I mean,
+broadly speaking,
+before AI, our our our our goal was to
+create the best tool for humans
+to directly perform their work. Mhm. And
+then now the goal is to create the best
+tool for humans to
+manage agents to do the work for them.
+That's a big shift. That's a pretty big
+shift. Uh it's it's pretty fundamental.
+Um but it it turns out that you need
+most of the same primitives. Uh
+you actually all the primitives that we
+built are actually still extremely
+useful. It's it's more that we just
+needed some some new primitives like
+like representing what is an agent and
+you know how to interact with your pages
+and databases, but you know you still
+need the same primitives. You still need
+a document. It's an unstructured way to
+you know to write stuff. Uh agents love
+to write markdown
+documents, so
+it's still very relevant. And you still
+need a database. It's um
+you still need a structured data. You
+know, if you're working with your your
+swarm of like 100 background coding
+agents, you don't want to have 100 chat
+threads. Uh you want a Kanban board.
+It's you know the same as before. Makes
+sense you still need the the
+coordination structure. What is one
+thing that just because you're ahead of
+the on this stuff and then trying to
+figure out how to bring
+you know, Notion and then users along
+with you. What is something that's
+really changed about um how you
+personally like build even in the last 6
+months? I mean it's completely changed.
+I haven't written code
+since like last summer. I don't type
+code anymore. Mhm. Yeah, it's it's it's
+completely shifted. I mean we went from
+humans type all the code
+to like we're still typing, but we like
+tab complete to sort of like we talk to
+the agent and it sort of does little
+tasks for us, but we are still in the
+outer loop. And then now it's more like
+I I design a end-to-end task that
+involves like making some change and
+end-to-end verifying it. And then I'm
+just the the outer you know the outer
+verifier sort of like like
+double-checking at the very end that it
+that's correct. And if it's going off
+the rails kind of like like monitoring
+it. Um so it's a com- it's a complete
+shift. It's you know, I'm I'm now like
+the agent manager
+instead of the coder. Amazing. Well, um
+thanks Simon. This has been a super
+great discussion about how we're all
+going to become agent managers and uh uh
+hopefully in Notion. Cool. Yeah.
+Find us on Twitter at No Priors Pod.
+if you want to see our faces. Follow the
+show on Apple [music] Podcasts, Spotify,
+or wherever you listen. That way you get
+a new episode every week. And sign up
+for emails or find transcripts for every
+episode at no-priors.com. [music]

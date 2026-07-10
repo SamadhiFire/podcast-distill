@@ -1,0 +1,36 @@
+{
+  "short_title": "中国将稳定列为首要",
+  "one_liner": "两会强调稳定应对动荡",
+  "why_it_matters": "伊朗战争下中国宏观政策的风向标",
+  "summary": [
+    "本期《The China Show》聚焦伊朗战争升级下亚太市场的避险情绪：布伦特原油开盘跌约2.3%，纽约原油跌3%，但上海原油仍偏强，市场担忧能源冲击推高通胀。",
+    "北京两会强调稳定为首要任务。央行顾问黄益平解读称，面对外部地缘风险上升，政府不急于推出激进刺激，重点是稳增长与提升增长质量，并推动新质生产力。",
+    "消费占中国经济比重已从约47%升至约57%，但内需仍需渐进提振；官方将今年通胀目标定为约2%，宏观政策料延续宽松以对冲下行压力。",
+    "节目还关注中东资本流向：海湾主权基金可部署超2万亿美元，香港与沙特、阿布扎比交易所签署备忘录并互发ETF，但战争不确定性令家族办公室或重新评估布局。"
+  ],
+  "core_points": [
+    "伊朗战争升级，布伦特原油开盘跌约2.3%，纽约原油跌3%。",
+    "两会以稳定为首，黄益平称不急于激进刺激，侧重稳增长提质。",
+    "消费占经济比重由约47%升至约57%，通胀目标约2%。",
+    "宏观政策料延续宽松，对冲外部地缘与需求下行压力。",
+    "海湾主权基金可部署超2万亿美元，香港与中东加强金融联通。"
+  ],
+  "key_facts": [
+    {"label":"布伦特开盘跌幅","value":"2.3%","context":"Brent crude is coming online. We're down about 2.3% in the opening moments."},
+    {"label":"纽约原油跌幅","value":"3%","context":"New York crude is down 3% with the US considering a range of options to address the spike in prices."},
+    {"label":"消费占比变化","value":"47%","context":"consumption was only about 47% of our economy in the past couple of years."},
+    {"label":"当前消费占比","value":"57%","context":"Today, it's something like a 57% of our economy that is consumed domestically."},
+    {"label":"全年增长预期","value":"4.2%","context":"at roughly about 4.2% growth. And then we have the target for 2035 to achieve moderately developed status."}
+  ],
+  "takeaways": [
+    "中国以稳为先，避免激进刺激、侧重增长质量",
+    "能源冲击下关注消费提振与政策宽松空间"
+  ],
+  "guests": ["Yvonne Man（主持人）","David Ingles（主持人）","黄益平（央行顾问）"],
+  "topics": ["两会政策","能源冲击","中东资本"],
+  "tensions": ["稳增长诉求与避免大水漫灌刺激之间的权衡"],
+  "quote": {"text":"最重要的是增长稳住，同时增长质量也改善","speaker":"黄益平","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

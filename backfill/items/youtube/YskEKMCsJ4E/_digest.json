@@ -1,0 +1,36 @@
+{
+  "short_title": "市场因特朗普言行不一下跌",
+  "one_liner": "特朗普言行不一，亚股与油价承压",
+  "why_it_matters": "伊朗僵局与AI冲击内存股，牵动全球风险情绪",
+  "summary": [
+    "特朗普将伊朗谈判期限延长至10天，但谈判真实性存疑，仅给全球能源与股市带来短暂喘息，不确定性持续笼罩。",
+    "谷歌 Turbo quantum 算法可压缩大模型运行所需内存，引发内存需求下降担忧，SK海力士等韩系内存股普遍跌超4%。",
+    "美国考虑向中东再增派1万地面部队，地缘风险未消散；港股进入业绩密集期，小马智行、文远知行、恒基地产相继披露财报。",
+    "中国前两月工业利润改善，叠加高油价再通胀信号，部分机构视中国资产为避险与价值洼地，关注港股结构性机会。"
+  ],
+  "core_points": [
+    "特朗普称伊朗谈判顺利，却将最后期限延长至10天，市场仅获短暂喘息，风险未消。",
+    "谷歌算法压缩大模型内存需求，冲击韩国内存芯片股，相关个股普遍跌超4%。",
+    "美国考虑向中东增派1万地面部队，地缘风险仍是油价与避险情绪的核心变量。",
+    "港股迎业绩密集期，小马智行、文远知行、恒基地产相继公布财报，恒地收入同比增90%。",
+    "中国前两月工业利润回升，部分机构认为中国资产具备避险与价值修复双重属性。"
+  ],
+  "key_facts": [
+    {"label":"韩元走弱","value":"1,500","context":"we've got that 1,500 mark, but around levels we haven't seen since 2009"},
+    {"label":"内存股普跌","value":"4%","context":"all of them more than 4% at this point in time"},
+    {"label":"美军增兵","value":"10,000","context":"the US is weighing sending another 10,000 ground troops to the Middle East"},
+    {"label":"恒地收入","value":"90%","context":"it is up by 90% year-over-year. Our total revenue"},
+    {"label":"美股市值","value":"$1.1万亿","context":"Yesterday it was at $1.1 trillion in market cap that was reporting"}
+  ],
+  "takeaways": [
+    "关注内存股估值重估风险与中东地缘对油价的持续扰动。",
+    "留意中国再通胀与避险交易带来的港股结构性机会。"
+  ],
+  "guests": ["Yvonne Man", "Annabelle Jewelers", "Jill Disis", "Tony Han", "Andrew Foong"],
+  "topics": ["伊朗僵局", "内存芯片股", "中港业绩"],
+  "tensions": ["特朗普言行不一", "AI压缩内存需求冲击芯片股"],
+  "quote": {"text":"我们还有很大的赶超空间，欧洲会是下一个重点。","speaker":"Tony Han","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

@@ -1,0 +1,524 @@
+TITLE: From skeptic to true believer: How OpenClaw changed my life | Claire Vo
+CHANNEL: Lenny‘s Podcast
+DURATION_S: 6396  DENSITY: high  REQ summary=4 core=5
+PUBLISHED: 2026-03-29T12:30:20+00:00  URL: https://www.youtube.com/watch?v=DIa0MYJzM5I
+SHA256: 8a1a46b37befb0f323b234bf87094ade71d81e8cace1360700f2cf906d66352e
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [100%] &gt;&gt; I mean 100%.
+  [300000] loved by over 300,000 entrepreneurs,
+  [1000] Martron 1000. Um so, you know, naming
+  [100000] that are like 100,000 employees or more
+
+=== TRANSCRIPT EXCERPT ===
+With OpenClaw, you started off as one of
+the leading skeptics.
+hours getting OpenClaw up and running.
+In return for those eight hours, I got
+my personal family calendar deleted.
+changed my life. It just hit me with
+enough joy and enough utility when it
+wasn't deleting my calendar that I knew
+something was there. I'm now running
+like eight different agents on OpenClaw.
+You really have to pull the thread on
+these tools and you have to spend enough
+time with them to see not where they are
+today, but where they are in a week and
+where they are in a month.
+OpenClaw was realizing you shouldn't
+just have one.
+they think they can throw any task at a
+single agent and get great results. And
+then they get really frustrated. I won't
+sugarcoat it. It's a pain to set up. It
+is not hands-off, but the value is so
+high. I am willing to go through the
+pain.
+actually does for you in your life.
+we have Polly, Finn, Max, Howie, Kelly,
+Holly. Sam is my salesperson. What Sam
+does has real economic value. Last year
+before the beginning of the year, I was
+paying somebody 10 hours a week to do
+this.
+incredible host of our sister podcast
+How I AI. She's also a longtime
+engineer, a three-time chief product
+officer, and founder of her own AI
+startup. This is our first ever
+crossover episode. We may do more. I
+asked Claire to come on the podcast
+because she has become an absolute power
+user of OpenClaw, which is especially
+surprising because she was one of the
+biggest skeptics when it first came out.
+I don't want to give too much away, but
+she has got nine OpenClaws running
+across three computers. And maybe most
+importantly, unlike a lot of people
+online talking about OpenClaw, it is
+really, truly changed her life across
+her family's life, her home life, and
+her work life. Claire is very pragmatic
+and practical, and takes a lot to get
+her excited. She's told me that Open
+Claw is the most mind-blowing and
+important AI experience she has had
+since ChatGPT, which for Claire, who
+tries out every new AI product, says a
+lot. I love the timing on this episode
+because we are now past the absolute
+peak hype cycle around Open Claw when
+everyone was posting basic how-to videos
+and theorizing about what Open Claw
+could do for them. Now we can get into
+the reality of what it's actually good
+at and how to make it work for you in
+your life. By the end of this episode,
+you're going to understand a bunch of
+ways that it can be useful in your own
+life, how to install it, how to avoid
+the security challenges that people run
+into, how to overcome some of the
+biggest hurdles that people have. I
+personally learned a ton from this
+conversation, and I'm now revisiting my
+own Open Claw, which I lovingly named
+Claudia. If you've been wondering, "What
+the heck is Open Claw? Should I still
+spend time on this? Should I use this
+versus all these other tools that are
+launching that are inspired by Open
+Claw?" This episode is for you. Before
+we get into it, don't forget to check
+out Lenny's Product Pass .com for an
+incredible set of deals available
+exclusively to Lenny's newsletter
+subscribers. With that, let's get into
+it after a short word from our wonderful
+sponsors. This episode is brought to you
+by Mercury, radically different banking
+loved by over 300,000 entrepreneurs,
+including me. I switched to Mercury from
+Chase over a year ago, and it is such a
+profoundly better experience. It's like
+an actual product person built a bank
+versus a banking person building a
+product. It is fast, it's elegant, it is
+super easy to set wires, to track my
+spending, to set up triggers, to move
+money around when accounts get low. We
+moved all of our invoicing to Mercury,
+and it is such a smoother experience
+than anything else we've tried. It's
+also really easy to grant people on your
+team just the right amount of access to
+help take work off your plate. It's free
+to get started, no in-person visits, no
+minimum balances. The product also
+flexes to all sizes of company, from
+startups to large enterprises. Just
+visit mercury.com to learn more and
+apply online in minutes. Mercury is a
+fintech company, not an FDIC-insured
+bank. Banking services provided through
+Choice Financial Group and Column N A
+members FDIC.
+This episode is brought to you by Omni.
+Many product teams today are in the
+process of debating how to ship AI
+analytics. The hard part is obvious.
+Having an LLM guess at SQL in production
+is a huge mess and just a bad idea. Omni
+takes a different approach. They have a
+semantic layer built in, so that when
+you embed their analytics, the AI
+actually knows your business
+definitions, not just your raw tables.
+You can test queries, validate the
+reasoning, and lock down permissions
+before anything hits production. If you
+want AI analytics in your product
+without building the whole stack from
+scratch, check out omni.co/lenny
+for a free 3-week trial. Companies like
+Perplexity, DBT, and BuzzFeed use Omni
+to ship analytics their customers can
+trust. That's omni.co/lenny.
+Claire, thank you so much for being
+here, and welcome back to the podcast.
+we've been a year into the How I AI
+podcast journey, and this is the
+crossover hit everybody's been waiting
+for. Lenny and Claire back together
+again.
+like being on the other side of the mic
+now that you're on you're a fancy
+podcast host yourself?
+issues before we started recording, so I
+don't know how fancy I am. It You know,
+it's really fun. What I appreciate about
+you and what you've taught me is you're
+really great at putting guests at ease
+and making this feel like a fun
+conversation with a friend, with a
+colleague, with somebody you respect.
+So, I find both sides of the camera very
+fun.
+kind of a reverse journalist. I want I
+want you to be the best version of
+yourself, not catch you off guard, and
+you know, the goal's to have fun. Here,
+I'll show this thing that I show every
+guest before we start. Here's my rule.
+Goal number one, have fun and breathe.
+fun. I'm working so much and doing so
+much, but that's really not because I'm
+chasing some productivity metric or feel
+like I need to ship more because I can.
+It's because all of it feels very fun. I
+think Vibe Coding is like gaming. Right
+now, like I haven't felt like this since
+I was a teenager learning to code and
+playing video games and all this kind of
+stuff. So, it comes from like a very
+joyous, creative place for me, not um
+not stressful.
+podcast we should do of just how you do
+all that you do. I don't know if people
+know all this. You have three kids, you
+have a podcast weekly podcast, you have
+Chat Pierre Dia product company you're
+building, and I think there's something
+else even.
+friend Zach. And then I'm, you know, my
+husband and I work on stuff, we invest.
+There's just There's a lot going on
+right now.
+that allows you to do this cuz this
+feels impossible. I have one kid. I
+don't know how you do this.
+what I got like get a great co-parent,
+great partner. My husband is so
+supportive of all the things that I want
+to do, is an equal partner and more in
+the house stuff and in the professional
+stuff, and that makes things
+a lot easier when everybody in the
+household's pulling pulling their
+weight. You know, the second thing is
+what what we just said, which is time
+flies when you're having fun.
+If the things that you center your work
+life around are things that you would
+find natural joy in anyway,
+it's very easy
+to spend the time um and effort
+dedication to do it.
+And then, you know, we'll go into this,
+which is I just spend more time
+automating the things that I do than
+doing them. And I take a lot of notice
+of the things that I'm avoiding.
+And when I avoid them, they either don't
+serve my ultimate purpose and I need to
+let them go and and not do them as part
+of of my career, or I need to find a way
+to automate them and um and use some
+system to do it so I don't have to.
+be actually talking about today. Uh so
+we're going to be going deep deep deep
+……（中部抽样）……
+on on Open Claw.
+You started off as one of the leading
+upstairs.
+now and my personal experience as
+thrilling. It was very very fun.
+out three times a day
+wholesale, and instead I came back to it
+can tell you how it works. I can tell
+recommend almost everybody start with
+this. I have three kids. They're in two
+both in my professional life and then
+claw, they're just like, we will build
+great model for a use case. Is there one
+deep wiki and ask, how does it schedule
+I I feel like the product experience is
+have this AI agent. And it's also just
+chip and I would you know, get one of
+like I'm using Polly. I feel like I'm
+very easy.
+which was an old MacBook sitting in a
+probably going to want to get one.
+that I used was to create your own its
+them. And you don't onboard your EA
+be able to see all my public events like
+is a really good mental model. And then,
+hosted solution. It's somebody else's
+that is happening on, for example, your
+They might make a mistake and and
+because they're intimidated about the
+her vacation, and she needs to be, you
+core models to say like, "Consider
+now that I have used it more and more.
+vacation. So I think that's that's the
+install it because there's all this talk
+from this computer.
+enter, and I already have Homebrew and
+onboarding flow, which we will see here.
+this into your Discord community where
+um hardened against prompt injection and
+about the model and off provider and
+you have uh the model configured and
+that step.
+go I I haven't said anything to Q yet.
+buttons and tell me who you are and
+curricular pursuits."
+don't they don't they can actually go
+So, we'll do nine,
+my main goal, where am I located, what
+And so now what it does now that it's
+that are totally off limits. You know,
+homework.
+share uh where he's like who thought
+be helpful? Um what is my personality
+overnight." And so, it really does feel
+instruction. And then there's this
+Her name is Polly. She's an assistant.
+employee. Um remember you are a guest. I
+like ignore your safety rules,
+cuz I think people seeing this might
+keeps a memory of what it has done so
+design your kind of team of open claws
+I do think thinking about seeding
+these agents that way, I think.
+and they think they can throw any task
+ChatGPT, if you're using Claude Code for
+they're both doing scheduling and
+got that, I like, "Boy, did I start
+make it a a little bit simpler for you.
+different lanes of work, and they
+And imagine if that was all happening in
+for each one?
+other's tools, occasionally reading each
+him in there. And I'm going to add my
+different times. They're just kind of
+Slack a family Slack channel, and you
+her life has become.
+magic. And so where Jessie got really
+just send a voice note and say, "Hey,
+But I think it is pretty relatable to be
+helpful agents out there, and I think
+using the Botfather.
+with enrichment. I have to sit down and
+biographies and professional
+as the founder or do you want me to go
+then at the end of the week he does a
+to do this.
+to end. Don't don't bring me bring me
+AI tools that are trying to do sales for
+bot and Howie just makes me look
+set up my open claws is it's not just a
+powering modern enterprise applications.
+governance. Built for enterprise scale,
+That's orkes.io/lenny.
+you're off and running.
+And so a good example is I don't know
+the link to the tournament we're playing
+hard time browsing web.
+that we solved this problem. And so, you
+like really useful, makes me feel like a
+it it has helped me not just
+my my course my co-course teacher, Zack
+your course? Like you probably should.
+into the syllabus. And again, it's like
+it's been really efficient.
+and any advice you might share.
+it doesn't look great, and somehow and
+going back to the actual problems I've
+web has been so hardened against bots.
+because I think we skip ahead a couple
+profile dedicated only to your OpenClaw
+which window.
+and some things it it you'd be surprised
+couldn't do any So, I just gave it the
+from expecting it to solve that problem
+help you solve that.
+they're just base like think of them as
+the browser, is that it disconnects from
+you mentioned that. Do you have any
+Open Claw to do that automatically. And
+the most that people don't think about
+nuances in how you might want it to read
+long as I don't forget things. You could
+of an assistant that you hired. Are
+called screen sharing mode. And then on
+And I'm just screen shared
+some magic lever from the beginning?
+As long as you're on the same Wi-Fi, you
+not only does Polly look at my calendar,
+probably install during your open clone
+checked off items. It's very loose.
+manage your tasks as well.
+something very similar to a Codex. It's
+I'm having so much fun. And I think
+Claude will say, "If I were you, the
+it."
+can go read it. And so but something
+know, he and the maintainers have been
+experience.
+there a no-code WYSIWYG editor that can
+API for this or what should the label
+ramble.
+set up in a group chat. Again, I think
+access to tools, having it run code, all
+writing code and open claw is just
+Claude Code as a um a surgeon and
+terminal, it's going to drop you into
+those lines?
+all get pulled into is when we have
+on an employee.
+skills into it. Again, not because we're
+You know, the rest of it we can give to
+generally and that feels like the same
+API while effective is lossy. It's
+how which uh you know, which projects
+say you're not a manager. Let's say
+things that you see see here to give
+computer. Uh it's the fastest growing
+why I have these three Mac minis on my
+because of what I could predict and
+this thing is not perfect and it's open
+have predicted 3 years ago. And while I
+there anything else anything else you
+afford, um if I could employ an
+very exciting lightning round. I've got
+Treasure Island. Um we are reading Alice
+even if they feel a little bit more
+reality dating shows.
+good, but no. I just I Again, I work
+enough enough sleep."
+discovered you really love?
+percentages, how many assists you have,
+based on the
+list. This is actually at the top of the
+and they don't make any noise. And so,
+a si- a silent basketball.
+……（接近结尾）……
+um and really focus on what's in what's
+important. And like my vibe coding tools
+will probably not be be at my funeral,
+so I will not give them sleepless
+and just
+lines I've shared a couple times in this
+podcast. Once you hear you'll never
+forget. It's very heartbreaking.
+Um
+the only people that will remember that
+you uh stayed late at work are your
+kids.
+100%. I I mean I I don't I part of why I
+like Open floor, real talk is I'm not on
+my laptop all the time.
+And that I I I
+really kind of hate at this moment. One
+of the things that is a downside is my
+kids see me all the time
+on my laptop. And in some ways I've I've
+heard this advice, you know, when you're
+ever feeling guilty about that, write
+down all the reasons why you working
+hard is good for your kids. Like keep a
+list by your computer of like it's good
+for my kids to see what hard work looks
+like. I can provide for my kids. You
+know, all those things. Keep that list
+down um to remind yourself of that. But
+I hate that my kids see me hunched over
+as 18-in MacBook Air all the time. I
+don't want that. And so being able to
+have get kind of be unleashed from just
+your laptop and being able to pop in
+when they're on the swing to a quick
+work thing and take care of it and then
+put it away, or have the peace of mind
+honestly that my agent team is working
+on things so I don't have to think about
+it. It really lets me come closer to to
+my kids
+versus kind of being chained to to the
+terminal on my laptop.
+podcast and he His kid's like coding in
+Repl.it. He's like 9 years old. He's
+just like, you know,
+going to be very successful.
+So,
+uh so I'm proud of that. Okay, final
+question. You're a fancy podcast host
+now. You started a podcast about a year
+ago. What's What's something that
+surprised you about
+becoming a podcast host, starting a
+podcast, doing a podcast?
+credit. Man, this work is hard. There's
+a lot I mean that people think, "Oh, you
+know, you show up and you you turn on
+your laptop and you chit-chat with
+somebody fun for an hour and you move
+on." There is so much that goes into the
+business of podcasting that I have found
+so interesting to learn because my
+entire background has been,
+you know, very similar to yours, in
+software and startups and technology,
+which have different revenue models and
+different business models and different
+types of work you have to do. And
+learning the business of podcasting
+has been really I I I was surprised at
+how interesting I have found that. And
+then, you know, it's a lot It's a lot of
+work to get something that looks so
+effortless on on the other side. And so,
+it's not just the prep and the research
+and the thumbnails and all that. It's,
+you know, making sure that you find
+great guests that you can make look
+good. It's finding the right timing. And
+so, um I've been really surprised at the
+complexity of the business. And, you
+know what? I was not surprised at how
+good you are at it, but I'm glad we're
+partners cuz you're very good at it.
+this. I I feel like you found your
+calling
+in addition to building Chart Your D.
+find you online if they want to check
+out all the stuff you're up to, and how
+can listeners be useful to you?
+Clairevo, similar on LinkedIn. Um, check
+out my product chatprd.ai,
+and of course smash that like and
+subscribe button on youtube/at
+howiaipod,
+um, or Spotify, Apple, wherever you like
+to get your podcast. I would love for
+you to follow along. We tell such
+amazing, fun stories about how people
+are using AI. We have a lot of laughs,
+and occasionally Paulie will show up
+uninvited to the podcast.
+Claire, thank you so much for being
+here.
+Thank you so much for listening. If you
+found this valuable, you can subscribe
+to the show on Apple Podcasts, Spotify,
+or your favorite podcast app.
+Also, please consider giving us a rating
+or leaving a review, as that really
+helps other listeners find the podcast.
+You can find all past episodes or learn
+more about the show at
+lennyspodcast.com.
+See you in the next episode.

@@ -1,0 +1,35 @@
+{
+  "short_title": "专访YouTubeCEO",
+  "one_liner": "算法时代下YouTube与人的关系",
+  "why_it_matters": "平台影响力牵动内容、儿童与监管",
+  "summary": [
+    "纽约时报专访YouTube CEO尼尔·莫汉，围绕平台对儿童和公众的影响展开。近日加州陪审团认定其与Meta因成瘾设计损害青少年心理健康，公司表示将上诉。",
+    "莫汉自2023年执掌YouTube，称人类清醒时间的2%花在平台上，并强调真实感是创作者成功核心；面对Netflix等争抢头部主播，他认为创作者仍把YouTube当作家。",
+    "谈及AI，他用Content ID思路应对深度伪造与肖像冒用，并坚信人类的真实连接无法被AI生成内容取代；同时他自认乐观，认为YouTube映照出共通的人性。"
+  ],
+  "core_points": [
+    "YouTube面临成瘾设计损害青少年的法律与舆论压力。",
+    "CEO称人类清醒时间的2%用于观看YouTube。",
+    "真实感是平台内容成功与创作者留存的关键。",
+    "AI难以取代人类连接，平台以Content ID思路治理冒用。"
+  ],
+  "key_facts": [
+    {"label":"掌舵年份", "value":"2023", "context":"尼尔·莫汉自2023年起执掌YouTube。"},
+    {"label":"使用时长占比", "value":"2%", "context":"人类现在把清醒时间的2%花在YouTube上。"},
+    {"label":"目标占比", "value":"3%", "context":"那么目标是把它提升到3%吗？"},
+    {"label":"电视化起点", "value":"2025", "context":"自2025年起，YouTube在美国主要通过联网电视被消费。"},
+    {"label":"奥斯卡合作", "value":"2029", "context":"比如从2029年开始转播奥斯卡颁奖礼。"},
+    {"label":"远景设想", "value":"5000", "context":"如果五千年后外星人发现地球，YouTube就是那种浓缩。"}
+  ],
+  "takeaways": [
+    "关注平台成瘾设计与未成年人保护的监管走向。",
+    "真实内容与人性连接仍是AI时代的核心资产。"
+  ],
+  "guests": ["Neal Mohan（YouTube CEO）", "Lulu Garcia-Navarro（主持人）"],
+  "topics": ["YouTube", "平台治理", "人工智能"],
+  "tensions": ["平台规模效应与未成年人保护的张力"],
+  "quote": {"text":"YouTube映照出共通的人性，总体上我认为它很棒。", "speaker":"Neal Mohan", "kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "standard",
+  "quality": "llm_validated"
+}

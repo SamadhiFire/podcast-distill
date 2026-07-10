@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 1752,
+    "item_id": "xiaoyuzhou:6a0dc3341b7bd5029587049f",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a0dc3341b7bd5029587049f",
+    "published_at": "2026-05-21T07:00:00+08:00",
+    "published_date": "2026-05-21",
+    "relative_dir": "2026-05/商业就是这样",
+    "schema_version": 1,
+    "source_id": "xyz_business_is",
+    "source_name": "商业就是这样",
+    "status": "pending",
+    "target_basename": "2026-05-21_Vol.257 为什么上证是“综指”、深证用“成指”？_6a0dc3341b7bd5029587049f",
+    "title": "Vol.257 为什么上证是“综指”、深证用“成指”？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a0dc3341b7bd5029587049f"
+  },
+  "audio_url": "https://media.xyzcdn.net/6022a180ef5fdaddc30bb101/ll1-slyyVJc0chS3BTnblNSoZJDs.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\商业就是这样\\2026-05-21_Vol.257 为什么上证是“综指”、深证用“成指”？_6a0dc3341b7bd5029587049f.m4a",
+  "bytes": 42380424,
+  "sha256": "f40fab8f1a3950d39b5eafabece26946e35958ec2051888c1fe71c05aafd8192",
+  "downloaded_at": "2026-07-02T04:02:50Z"
+}

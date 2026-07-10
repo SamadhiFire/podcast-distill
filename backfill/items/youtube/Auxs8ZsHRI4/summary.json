@@ -49,37 +49,49 @@
         "label": "团队规模",
         "value": "65人",
         "context": "Good Inside团队有65人且已实现盈利",
-        "source_refs": ["youtube:Auxs8ZsHRI4"]
+        "source_refs": [
+          "youtube:Auxs8ZsHRI4"
+        ]
       },
       {
         "label": "创业起点",
         "value": "2020年",
         "context": "Dr. Becky在2020年2月28日发布第一条Instagram帖子，两周后纽约封城，内容迅速走红",
-        "source_refs": ["youtube:Auxs8ZsHRI4"]
+        "source_refs": [
+          "youtube:Auxs8ZsHRI4"
+        ]
       },
       {
         "label": "核心需求不变",
         "value": "45岁或85岁",
-        "context": "不论1岁、5岁、45岁还是85岁，人类核心需求始终相同",
-        "source_refs": ["youtube:Auxs8ZsHRI4"]
+        "context": "不论幼年、5岁、45岁还是85岁，人类核心需求始终相同",
+        "source_refs": [
+          "youtube:Auxs8ZsHRI4"
+        ]
       },
       {
         "label": "儿童行为本质",
         "value": "0%迎合",
         "context": "Dr. Becky的第三个孩子0%迎合他人，面对失望时不会退缩而是加倍坚持",
-        "source_refs": ["youtube:Auxs8ZsHRI4"]
+        "source_refs": [
+          "youtube:Auxs8ZsHRI4"
+        ]
       },
       {
         "label": "成人治疗对比",
         "value": "35岁",
         "context": "帮助35岁成人重塑大脑的方法与2岁和5岁儿童需要的韧性培养不应存在理论矛盾",
-        "source_refs": ["youtube:Auxs8ZsHRI4"]
+        "source_refs": [
+          "youtube:Auxs8ZsHRI4"
+        ]
       },
       {
         "label": "新书预售",
         "value": "2026年2月",
         "context": "第二本儿童绘本Leave Me Alone于2026年2月预售，关注深度感受型儿童",
-        "source_refs": ["youtube:Auxs8ZsHRI4"]
+        "source_refs": [
+          "youtube:Auxs8ZsHRI4"
+        ]
       }
     ],
     "takeaways": [

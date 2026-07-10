@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 5108,
+    "item_id": "xiaoyuzhou:69e8412d1d989496e7368341",
+    "month": "2026-04",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69e8412d1d989496e7368341",
+    "published_at": "2026-04-22T11:42:55.847000+08:00",
+    "published_date": "2026-04-22",
+    "relative_dir": "2026-04/高能量",
+    "schema_version": 1,
+    "source_id": "xyz_gao_neng_liang",
+    "source_name": "高能量",
+    "status": "pending",
+    "target_basename": "2026-04-22_Vol.213 产业观察40｜CPU变热背后的思考与新的AI智能终端_69e8412d1d989496e7368341",
+    "title": "Vol.213 产业观察40｜CPU变热背后的思考与新的AI智能终端",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69e8412d1d989496e7368341"
+  },
+  "audio_url": "https://media.xyzcdn.net/62c6ae08c4eaa82b112b9c84/lu-Q89g7aDBz26xL58hktPYHEnpI.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-04\\高能量\\2026-04-22_Vol.213 产业观察40｜CPU变热背后的思考与新的AI智能终端_69e8412d1d989496e7368341.m4a",
+  "bytes": 82701249,
+  "sha256": "bc21e43a09447b60573bd04a97b00dc4d0a4cc8c2f29e50efdc0785b69fd1746",
+  "downloaded_at": "2026-07-02T04:19:59Z"
+}

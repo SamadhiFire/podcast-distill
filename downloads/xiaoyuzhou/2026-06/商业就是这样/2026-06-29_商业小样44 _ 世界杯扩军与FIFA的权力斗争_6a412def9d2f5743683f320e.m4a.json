@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 833,
+    "item_id": "xiaoyuzhou:6a412def9d2f5743683f320e",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a412def9d2f5743683f320e",
+    "published_at": "2026-06-29T07:00:00+08:00",
+    "published_date": "2026-06-29",
+    "relative_dir": "2026-06/商业就是这样",
+    "schema_version": 1,
+    "source_id": "xyz_business_is",
+    "source_name": "商业就是这样",
+    "status": "pending",
+    "target_basename": "2026-06-29_商业小样44 _ 世界杯扩军与FIFA的权力斗争_6a412def9d2f5743683f320e",
+    "title": "商业小样44 | 世界杯扩军与FIFA的权力斗争",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a412def9d2f5743683f320e"
+  },
+  "audio_url": "https://media.xyzcdn.net/6022a180ef5fdaddc30bb101/lnPp7TWuioyh9zRXCxQw7OlaW3fR.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\商业就是这样\\2026-06-29_商业小样44 _ 世界杯扩军与FIFA的权力斗争_6a412def9d2f5743683f320e.m4a",
+  "bytes": 20143536,
+  "sha256": "629b991a22543832bb5546618c1468f9e93613937e692674fa90c51ebf95f5eb",
+  "downloaded_at": "2026-07-02T03:37:10Z"
+}

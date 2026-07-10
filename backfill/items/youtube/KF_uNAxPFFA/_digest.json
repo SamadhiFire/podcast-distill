@@ -1,0 +1,33 @@
+{
+  "short_title": "AI时代不可替代的技能",
+  "one_liner": "主动思考力是AI无法替代的核心",
+  "why_it_matters": "越用AI越外包思考，正悄悄失去最值钱的能力",
+  "summary": [
+    "MIT研究发现，使用ChatGPT写作者脑连接度最高下降55%，其中83%的人几分钟后无法复述自己的作品，这被称为认知债务：今天拿到输出，明天付出思考力退化。MIT教授Max Tegmark指出，缺乏监管地狂奔向超级智能等同于文明自杀，但个人层面的外包思考与文明层面的失控是同一问题的两个尺度。",
+    "应对之道是先把AI当工具而非拐杖：先自己思考再借助AI，培养判断力、批判性思维与决策力。McKinsey追踪了70%的职场技能，发现雇主最看重的正是最容易被AI取代的任务之外的判断力。95%的美国人跨党派同意应监管AI，机会窗口比多数人承认的更短。"
+  ],
+  "core_points": [
+    "使用ChatGPT写作者脑连接度最高下降55%",
+    "83%的使用者几分钟后无法解释自己的作品",
+    "McKinsey追踪了70%的职场技能，判断力最被看重",
+    "95%的美国人跨党派支持监管AI",
+    "先自己思考再用AI，才不丢失自主决策能力"
+  ],
+  "key_facts": [
+    {"label":"脑连接度下降","value":"55%","context":"people who use ChatGPT showed up to 55% less brain connectivity"},
+    {"label":"无法复述比例","value":"83%","context":"83% of them couldn't explain their own work just minutes later"},
+    {"label":"职场技能覆盖","value":"70%","context":"McKinsey tracked this across 70% of all workplace skills"},
+    {"label":"跨党派共识","value":"95%","context":"95% of all Americans in a recent poll Democrats and Republicans agree"}
+  ],
+  "takeaways": [
+    "先独立思考30秒再开AI，把AI当工具而非拐杖",
+    "推动立法监管AI，保护孩子远离无管制的聊天机器人"
+  ],
+  "guests": ["Max Tegmark（MIT教授）"],
+  "topics": ["AI安全","认知债务","主动思考"],
+  "tensions": ["加速AGI与加强监管之间的张力"],
+  "quote": {"text":"缺乏监管地狂奔向超级智能，等同于文明自杀","speaker":"Max Tegmark","kind":"paraphrase"},
+  "importance_score": 4,
+  "content_density": "brief",
+  "quality": "llm_validated"
+}

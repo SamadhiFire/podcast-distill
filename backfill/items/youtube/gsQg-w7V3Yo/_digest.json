@@ -1,0 +1,32 @@
+{
+  "short_title": "迪拜避风港地位受考验",
+  "one_liner": "中东战火考验迪拜安全港形象",
+  "why_it_matters": "伊朗袭击盟友令迪拜稳定优先模式承压",
+  "summary": [
+    "伊朗对海湾美国盟友的报复性打击波及数据中心等设施，迪拜作为全球顶级避风港的形象正被战火直接考验。",
+    "迪拜以稳定优先模式吸引九成外来人口与大量对冲基金，历史上曾挺过2008年地产崩盘，如今能否再度适应危机仍待观察。"
+  ],
+  "core_points": [
+    "伊朗报复袭击海湾盟友，迪拜数据中心等基础设施成为目标，安全叙事受冲击。",
+    "迪拜自1971年建城，以零税率与稳定吸引九成外籍人口，对冲基金数量自2022年近三倍增长。",
+    "2008年地产泡沫破裂曾令房价暴跌五成、人员外逃，迪拜靠阿布扎比救助与开放经济复苏。"
+  ],
+  "key_facts": [
+    {"label":"建城年份","value":"1971","context":"founding Emirates in 1971."},
+    {"label":"外籍人口占比","value":"90%","context":"expatriates. You're talking about 90%"},
+    {"label":"对冲基金增长起点","value":"2022","context":"And since 2022, the number of hedge"},
+    {"label":"房价跌幅","value":"50%","context":"We saw property prices plummet by 50%,"},
+    {"label":"危机外逃比例","value":"60%","context":"60%, people fleeing."}
+  ],
+  "takeaways": [
+    "关注迪拜避险资产与数据中心的长期吸引力变化。",
+    "稳定优先模式能否扛住区域战争仍待观察。"
+  ],
+  "guests": [],
+  "topics": ["迪拜","避险港","中东冲突"],
+  "tensions": ["稳定优先 vs 区域战争"],
+  "quote": {"text":"迪拜非常善于在危机中适应","speaker":"Bloomberg Originals","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "brief",
+  "quality": "llm_validated"
+}

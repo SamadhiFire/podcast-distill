@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "产品 / 创业 / 管理",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 10886,
+    "item_id": "xiaoyuzhou:6a2be5da43a22a695582ad20",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a2be5da43a22a695582ad20",
+    "published_at": "2026-06-12T19:18:46.742000+08:00",
+    "published_date": "2026-06-12",
+    "relative_dir": "2026-06/张小珺Jùn｜商业访谈录",
+    "schema_version": 1,
+    "source_id": "xyz_zhang_xiaojun",
+    "source_name": "张小珺Jùn｜商业访谈录",
+    "status": "pending",
+    "target_basename": "2026-06-12_145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？_6a2be5da43a22a695582ad20",
+    "title": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a2be5da43a22a695582ad20"
+  },
+  "audio_url": "https://media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lua5jan_xOpZ99VwXmLshdTC-gSp.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\张小珺Jùn｜商业访谈录\\2026-06-12_145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？_6a2be5da43a22a695582ad20.m4a",
+  "bytes": 176059881,
+  "sha256": "8103a007f1c9df458d899ae76b95da73171a1470bd67dceb3b775150eca6570c",
+  "downloaded_at": "2026-07-02T03:47:12Z"
+}

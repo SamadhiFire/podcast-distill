@@ -1,0 +1,36 @@
+{
+  "short_title": "彭博市场观察伊朗冲突",
+  "one_liner": "伊以冲突推升能源与通胀",
+  "why_it_matters": "地缘冲突正重塑通胀与风险资产定价",
+  "summary": [
+    "本期Bloomberg Surveillance聚焦美以与伊朗冲突进入第六天，取消航班超过23000班，中国要求最大炼厂暂停汽油出口，能源价格走高，市场担心能源冲击推升已趋紧的通胀。",
+    "标普500仍距历史高点约2%区间，维持在6800至7000的交易区间。嘉宾认为3个月年化PCE通胀偏向3%，若能源冲击持续，通胀或黏住更久，权益可能向下突破至200日均线。",
+    "历史上权益在地缘冲击后平均约43天反弹，仅1973年石油禁运例外时跌幅超40%。当前市场处于中段，投资者在等待初请与周五非农数据以判断基本面。",
+    "就业面，ADP显示2月新增约48000人，小企业贡献居多，新入职时薪从18美元升至19美元但留任者薪资增长落后于通胀；跳槽加薪已不及2019年一半，劳动力市场热度回落。"
+  ],
+  "core_points": [
+    "伊以冲突第六天，取消航班超23000班，中国炼厂暂停汽油出口。",
+    "标普500在6800至7000区间，距历史高点约2%，通胀预期偏3%。",
+    "历史显示地缘冲击后权益平均43天反弹，1973年禁运例外跌超40%。",
+    "ADP称2月新增约48000岗位，小企业为主，跳槽加薪低于2019年一半。",
+    "市场等待初请与周五非农，以判断能源冲击下的基本面成色。"
+  ],
+  "key_facts": [
+    {"label":"取消航班数","value":"23000","context":"Cancelled flights topping 23,000. And China is telling the nation's largest refineries to suspend gasoline exports."},
+    {"label":"标普交易区间","value":"6800","context":"we've been in this trading range on the S&P 6800 to 7,000."},
+    {"label":"距高点幅度","value":"2%","context":"within 2% of alltime highs on the S&P 500. The stock market is certainly not pushing back."},
+    {"label":"历史反弹天数","value":"43","context":"equities recover over 43 days on average with the exception of the 1973 oil embargo."},
+    {"label":"二月新增就业","value":"48000","context":"totaling just over 48,000 in February."}
+  ],
+  "takeaways": [
+    "能源冲击或使通胀黏住更久，关注权益下行风险",
+    "劳动力市场热度回落，跳槽加薪不及往年"
+  ],
+  "guests": ["Jonathan Ferro（主持人）","Nela Richardson（ADP）","Null Dixon（State Street）"],
+  "topics": ["地缘冲突","能源通胀","劳动力市场"],
+  "tensions": ["地缘风险定价与基本面韧性之间的拉扯"],
+  "quote": {"text":"若想让人出丑，就去问他原油会怎么走","speaker":"Bloomberg Surveillance","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

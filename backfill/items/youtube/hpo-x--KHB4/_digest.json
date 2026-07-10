@@ -1,0 +1,31 @@
+{
+  "short_title": "中国超级电网缓冲能源冲击",
+  "one_liner": "电网建设助中国抵御油价冲击",
+  "why_it_matters": "进口依赖高，电气化成能源安全关键",
+  "summary": [
+    "中东冲突推高油气价格，中国因约50%天然气与约70%石油依赖海外进口而受冲击，但多年电网建设为其提供缓冲。",
+    "专栏作者指出，自2017年北方农村煤改气后暴露供应短板，热泵成本仅高约20%却更稳；中国正加速以本土电力替代进口能源，挑战在于电力市场灵活性改革。"
+  ],
+  "core_points": [
+    "中国约50%天然气与约70%石油来自海外，易受全球价格冲击。",
+    "自2017年推动煤改气，热泵成本仅高约20%，电气化成为能源安全路径。",
+    "国家电网等创纪录发债扩网，真正的挑战是电力市场灵活性改革。"
+  ],
+  "key_facts": [
+    {"label":"天然气进口占比","value":"50%","context":"requires about 50% of its gas to coming from overseas"},
+    {"label":"石油进口占比","value":"70%","context":"about 70% of its oil coming from overseas markets"},
+    {"label":"热泵成本溢价","value":"20%","context":"the cost of heat pumps essentially in a reverse cycle air conditioners are not that much greater for all of these areas about 20%"},
+    {"label":"煤改气起点","value":"2017","context":"since about 2017, there's been a lot of push"}
+  ],
+  "takeaways": [
+    "关注中国电网与电气化主线，能源安全溢价上升。",
+    "电力市场改革节奏决定替代进口成效。"
+  ],
+  "guests": ["David Fickling（彭博专栏）","Dan Murtaugh（彭博记者）"],
+  "topics": ["超级电网","能源安全","电气化"],
+  "tensions": ["进口依赖 vs 本土电力","基建扩张 vs 市场改革"],
+  "quote": {"text":"电气化才是中国抵御能源冲击的真正缓冲","speaker":"David Fickling","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "brief",
+  "quality": "llm_validated"
+}

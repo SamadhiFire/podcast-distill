@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "科技 / AI / VC",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 4483,
+    "item_id": "xiaoyuzhou:69bbc8ea3c625cc5ae21b461",
+    "month": "2026-03",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69bbc8ea3c625cc5ae21b461",
+    "published_at": "2026-03-19T22:00:00+08:00",
+    "published_date": "2026-03-19",
+    "relative_dir": "2026-03/42章经",
+    "schema_version": 1,
+    "source_id": "xyz_42zhangjing",
+    "source_name": "42章经",
+    "status": "pending",
+    "target_basename": "2026-03-19_我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪_69bbc8ea3c625cc5ae21b461",
+    "title": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69bbc8ea3c625cc5ae21b461"
+  },
+  "audio_url": "https://media.xyzcdn.net/648b0b641c48983391a63f98/lkp1A0TodFlxOyYCYo3zhRaP3eBv.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-03\\42章经\\2026-03-19_我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪_69bbc8ea3c625cc5ae21b461.m4a",
+  "bytes": 72511362,
+  "sha256": "f005b73a2d8f4ca146df7054aa867bab504c0377ac3f3a1ff74e697546275f24",
+  "downloaded_at": "2026-07-02T04:32:36Z"
+}

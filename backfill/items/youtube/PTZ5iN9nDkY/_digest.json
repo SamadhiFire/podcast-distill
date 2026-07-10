@@ -1,0 +1,31 @@
+{
+  "short_title": "谷歌副总裁谈AI代差扩大",
+  "one_liner": "AI转型已定人们差距正在拉大",
+  "why_it_matters": "善用AI者正明显拉开与他人的距离",
+  "summary": [
+    "谷歌研究负责人Yossi Matias指出，2026年出现关键转折：约36%的新公司由单人创立，会用AI的人正在薪资与产出上明显领先。",
+    "他认为AI是 human ingenuity 的放大器，真正拉开差距的不是技术本身，而是好奇心与判断力；雇人时更看重品味与战略决策能力。"
+  ],
+  "core_points": [
+    "2026年约36%的新公司由单人创立，五年前这一比例约为23%。",
+    "斯坦福统计约35%的生产率提升来自情境感知代理。",
+    "真正领先的是最善用AI工具、最保持好奇心的人而非最懂技术的人。"
+  ],
+  "key_facts": [
+    {"label": "独创新公司比例", "value": "36%", "context": "2026年约36%的新公司由单人创立。"},
+    {"label": "往期对比", "value": "23%", "context": "五年前这一比例约为23%。"},
+    {"label": "斯坦福生产率", "value": "35%", "context": "斯坦福统计约35%的生产率提升来自情境感知代理。"},
+    {"label": "AI收获期", "value": "2025", "context": "斯坦福经济学家把2025年称为AI收获期。"}
+  ],
+  "takeaways": [
+    "优先培养使用AI代理与判断取舍的能力。",
+    "保持好奇心并持续更新自己的工作流。"
+  ],
+  "guests": ["Yossi Matias（谷歌研究）", "Marina（主持人）"],
+  "topics": ["人工智能", "生产力", "职业"],
+  "tensions": ["技术普及与人群代差扩大", "工具易得与判断力稀缺"],
+  "quote": {"text": "AI是人类创造力的放大器，而不只是预测。", "speaker": "Yossi Matias", "kind": "paraphrase"},
+  "importance_score": 3,
+  "content_density": "brief",
+  "quality": "llm_validated"
+}

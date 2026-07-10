@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 7545,
+    "item_id": "xiaoyuzhou:6a02f59ce1eb34a9393fb269",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a02f59ce1eb34a9393fb269",
+    "published_at": "2026-05-12T18:16:41.081000+08:00",
+    "published_date": "2026-05-12",
+    "relative_dir": "2026-05/乱翻书",
+    "schema_version": 1,
+    "source_id": "xyz_luan_fan_shu",
+    "source_name": "乱翻书",
+    "status": "pending",
+    "target_basename": "2026-05-12_头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集_6a02f59ce1eb34a9393fb269",
+    "title": "头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a02f59ce1eb34a9393fb269"
+  },
+  "audio_url": "https://media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lvgLR_jWS7o7utJaUXnOQqaSJ91D.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\乱翻书\\2026-05-12_头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集_6a02f59ce1eb34a9393fb269.m4a",
+  "bytes": 122138749,
+  "sha256": "e0966f9a4f48d1f28085c478e25999841c52fc42c2988aba44d913a5cee23e90",
+  "downloaded_at": "2026-07-02T04:07:42Z"
+}

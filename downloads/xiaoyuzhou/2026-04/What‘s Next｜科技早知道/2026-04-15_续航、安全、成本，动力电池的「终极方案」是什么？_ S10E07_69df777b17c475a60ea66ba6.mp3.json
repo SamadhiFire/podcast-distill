@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "科技 / AI / VC",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3134,
+    "item_id": "xiaoyuzhou:69df777b17c475a60ea66ba6",
+    "month": "2026-04",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69df777b17c475a60ea66ba6",
+    "published_at": "2026-04-15T19:30:00+08:00",
+    "published_date": "2026-04-15",
+    "relative_dir": "2026-04/What‘s Next｜科技早知道",
+    "schema_version": 1,
+    "source_id": "xyz_whats_next",
+    "source_name": "What‘s Next｜科技早知道",
+    "status": "pending",
+    "target_basename": "2026-04-15_续航、安全、成本，动力电池的「终极方案」是什么？_ S10E07_69df777b17c475a60ea66ba6",
+    "title": "续航、安全、成本，动力电池的「终极方案」是什么？| S10E07",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69df777b17c475a60ea66ba6"
+  },
+  "audio_url": "https://media.xyzcdn.net/5e74b52c418a84a046ecaceb/loAeBkjIz57BnCotY23jEdaBy2NC.mp3",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-04\\What‘s Next｜科技早知道\\2026-04-15_续航、安全、成本，动力电池的「终极方案」是什么？_ S10E07_69df777b17c475a60ea66ba6.mp3",
+  "bytes": 51046748,
+  "sha256": "169d8dd04716d68b2d2cbc959df86dc28fd05294459cc75afb8628a9e1316620",
+  "downloaded_at": "2026-07-02T04:23:07Z"
+}

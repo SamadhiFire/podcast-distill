@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 5398,
+    "item_id": "xiaoyuzhou:69b121eb9b893f69c72bffcb",
+    "month": "2026-03",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69b121eb9b893f69c72bffcb",
+    "published_at": "2026-03-11T16:34:03.350000+08:00",
+    "published_date": "2026-03-11",
+    "relative_dir": "2026-03/乱翻书",
+    "schema_version": 1,
+    "source_id": "xyz_luan_fan_shu",
+    "source_name": "乱翻书",
+    "status": "pending",
+    "target_basename": "2026-03-11_262.AI的进度条停不下来，你的焦虑也停不下来_69b121eb9b893f69c72bffcb",
+    "title": "262.AI的进度条停不下来，你的焦虑也停不下来",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69b121eb9b893f69c72bffcb"
+  },
+  "audio_url": "https://media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lsQnCtk9h3czJCWAaqSpHNRn60kh.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-03\\乱翻书\\2026-03-11_262.AI的进度条停不下来，你的焦虑也停不下来_69b121eb9b893f69c72bffcb.m4a",
+  "bytes": 87755792,
+  "sha256": "a3b00cde93922b116433cc99cde1c7ceba733b840558af3647c54d1b15cf2820",
+  "downloaded_at": "2026-07-02T04:35:19Z"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 5191,
+    "item_id": "xiaoyuzhou:6a05c58ee1eb34a93968555c",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a05c58ee1eb34a93968555c",
+    "published_at": "2026-05-15T07:00:00+08:00",
+    "published_date": "2026-05-15",
+    "relative_dir": "2026-05/商业就是这样",
+    "schema_version": 1,
+    "source_id": "xyz_business_is",
+    "source_name": "商业就是这样",
+    "status": "pending",
+    "target_basename": "2026-05-15_专访腾竞体育冯骁：从业十五年，如何从0开始搭建职业电竞赛事_6a05c58ee1eb34a93968555c",
+    "title": "专访腾竞体育冯骁：从业十五年，如何从0开始搭建职业电竞赛事",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a05c58ee1eb34a93968555c"
+  },
+  "audio_url": "https://media.xyzcdn.net/6022a180ef5fdaddc30bb101/lijnXLuWX-geRUP7JCocieDN9-MA.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\商业就是这样\\2026-05-15_专访腾竞体育冯骁：从业十五年，如何从0开始搭建职业电竞赛事_6a05c58ee1eb34a93968555c.m4a",
+  "bytes": 125574420,
+  "sha256": "3b86ab4a97d223d41317cc8d91739d62e7fe89debef6460c7c6be9e8780343b0",
+  "downloaded_at": "2026-07-02T04:05:46Z"
+}

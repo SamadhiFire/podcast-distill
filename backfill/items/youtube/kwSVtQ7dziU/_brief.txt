@@ -1,0 +1,518 @@
+TITLE: Skill Issue: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI
+CHANNEL: No Priors Podcast
+DURATION_S: 3992  DENSITY: high  REQ summary=4 core=5
+PUBLISHED: 2026-03-20T13:27:35+00:00  URL: https://www.youtube.com/watch?v=kwSVtQ7dziU
+SHA256: ce3bba292a80a2aa53966f4fc3070d2f02eabfd18071548c7e94598c107eaa06
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [100%] tuning the code. So 100% there's like
+  [10000] know, someone had to try 10,000 ideas
+  [99000] because the 99,000 of them didn't work,
+  [2024] decade but it was made in 2024. Mhm. We
+  [60%] was it like 60% or something like from
+
+=== TRANSCRIPT EXCERPT ===
+Code's not even the right verb anymore,
+right? [laughter] But I have to
+express my will to my agents for 16
+hours a day. Manifest. [music]
+How can I have not just a single session
+of Claude code or Codex or some of these
+agent harnesses? How can I have more of
+them? How can I do that appropriately?
+The agent part is now taken for granted.
+Now the claw-like entities are taken for
+granted and now you can have multiple of
+them and now you can have instructions
+to them and now you can have
+optimization over the instructions. But
+there
+psychosis is that this is like infinite
+and everything is a skill issue.
+Hi listeners, welcome back to No Priors.
+Today I'm here with Andre Karpathy and
+we have a wide-ranging conversation for
+you about code agents, the future of
+engineering and AI research, how more
+people can contribute to research,
+what's happening in robotics, his
+prediction for how agents can reach out
+education in this next age. Welcome,
+Andre.
+Andre, thanks for doing this. Yeah,
+thank you for having me.
+Uh so it's been a very exciting couple
+of months in AI. Uh yeah, you could say
+that.
+some point and you were like really
+locked in and I was asking what you were
+up to and you're like, I just I have to
+code for 16 hours a day or code's not
+even the right verb anymore, right? But
+I have to
+um express my will to my agents for 16
+hours a day. Manifest
+um because like there's been a jump in
+capability.
+Uh what's happening? Tell me about your
+experience. Yeah, I kind of feel like I
+was just in this perpetual I still am
+often in this state of AI psychosis just
+like all the time um because there was a
+huge unlock in what you can achieve as a
+person as an individual, right? Because
+you were bottlenecked by, you know, your
+typing speed and so on. But now with
+these agents it really, I would say in
+December is when it really just
+something flipped where I kind of went
+from 80/20 of like, you know, uh to like
+20/80 of writing code by myself versus
+just delegating to agents. And I don't
+even think it's 20/80 by now. I think
+it's a lot more than that. I don't think
+I've typed like a line of code probably
+since December basically.
+uh change. Um I was talking to it like
+for example, I was talking about it to
+for example my parents and so on and I
+don't think like a normal person
+actually realizes that this happened or
+how dramatic it was. Like literally like
+if you just find a random software
+engineer or something like that at their
+at their desk and what they're doing,
+like their default workflow of, you
+know, building software is completely
+different as of basically December.
+Uh so I'm just like in this state of
+psychosis of trying to figure out like
+what's possible, uh trying to push it to
+the limit. How is it how can I have not
+just a single session of, you know, um
+Claude code or Codex or some of these
+agent harnesses? How can I have more of
+them? How can I do that uh
+appropriately? And then how can I use
+these claws? What are these claws? Uh
+and uh so there's like a lot of new
+things. I want to be at the forefront of
+it, you know, and I'm very
+antsy that I'm not at the forefront of
+it and I see lots of people on Twitter
+doing all kinds of things and they all
+sound like really good ideas and I need
+to be at the forefront or I feel
+extremely nervous. And so I guess I'm
+just in this psychosis of like what's
+possible like because it's unexplored
+fundamentally. Well, if you're nervous,
+the rest of us are are nervous. We have
+a we have a team that we work with at
+Conviction that their setup is everybody
+is like, you know, none of the engineers
+write code by hand and they they're all
+microphoned and they just like whisper
+to their agents all the time. It's the
+strangest work setting ever.
+Uh and I thought they were crazy and now
+I like I fully accept I was like, oh
+this was the way. Like you're just ahead
+of it.
+Um what uh
+how do you think about your own capacity
+now to like explore or to do projects?
+Like what is it limited by?
+Yeah, what is it limited by? Uh just I
+think everything like so many things
+even if they don't work, I think to a
+large extent you feel like it's a skill
+issue. It's not that the capability is
+not there. It's that you just haven't
+found a way to string it together of
+what's available. Like I just don't I
+didn't give good enough instructions in
+the agents from the file or whatever it
+may be. I don't have a nice enough
+memory tool that I put in there or
+something like that. So it all kind of
+feels like skill issue when it doesn't
+work to some extent. You want to see how
+you can parallelize them etc. and you
+want to be Peter Steinberg basically. Uh
+so Peter is famous. He has a funny photo
+where he's in front of a monitor with
+lots of uh like he uses Codex. So lots
+of Codex agents tiling the the monitor
+and they all take about 20 minutes if
+you prompt them correctly and use the
+high effort. And so they all take about
+20 minutes. They have multiple, you
+know, 10 repos checked out. And so he's
+just um going between them and giving
+them work. It's just like you can you
+can you can move in much larger macro
+actions. It's not just like here's a
+line of code, here's a new function.
+It's like here's a new functionality and
+delegate it to agent one. Here's a new
+functionality that's not going to
+interfere with the other one. Give it
+agent two. And then try to uh review
+their work as best as you can
+that code. Like where are these macro
+actions that I can like manipulate my
+software repository by? And like another
+agent is doing some like research,
+another agent is writing code, another
+one is coming up with a plan for some
+new implementation. And so everything is
+just like happens in these like macro
+actions over your repository. Um and
+you're just trying to become like really
+good at it and develop like a muscle
+memory for it is extremely um
+Yeah, it's very rewarding number one
+because it actually works. Uh but it's
+also kind of like the new thing to
+learn. So that's why hence the
+psychosis.
+Yeah, I I do feel like my instinct is
+like
+whenever I'm waiting for an agent to
+complete something, the obvious thing to
+do is like, well, I can do more work,
+right? Like if I have access to more
+tokens then like I should just
+parallelize at tasks. And so that's
+that's very stressful because if you
+don't feel very bounded by your ability
+to spend on tokens, then you know, you
+are the bottleneck in the system that is
+max capability. Yeah, if you're not
+maximizing your subscription at least.
+And
+ideally for multiple agents. Like if you
+run out of the quota on Codex, you
+should switch to Claude or whatnot. I
+don't know. Like that's what I've been
+trying to do a little bit and I feel
+nervous when I have subscription left
+over. That just means I haven't
+maximized my token throughput. So I
+actually kind of experienced this when I
+was a PhD student. You would feel
+nervous when your GPUs are not running.
+Like you have GPU capability and you're
+not maximizing your the available flops
+to you. But now it's not about flops,
+it's about tokens.
+So what is your token throughput and
+what token throughput do you command? I
+would actually argue that it's very
+interesting that we had, you know, at
+least 10 years where
+in many engineering tasks people just
+did they didn't feel compute bound.
+Right? Um and now the entire industry
+feels that now. They feel like they they
+they felt resource bound uh
+and now that you have this big
+capability jump, you're like, oh,
+actually it's not, you know, my ability
+to access the computer anymore. Like I'm
+I'm the binding constraint. Yeah, it's a
+skill issue. Which is very empowering
+cuz um yeah, cuz you could be getting
+better. So that's why that's why I think
+it's very addictive because there's
+unlocks when you when you get better.
+……（中部抽样）……
+Where do you think it goes? Like if you
+Well, I think everyone is basically
+I mean this like layer that kind of
+kind of thing.
+users versus like perhaps like broader
+different ways and put it all together.
+I would say um for example Codex is a
+formed thoughts and uh I give it an idea
+uh and I think a lot of the other uh
+software engineering that you think is
+which I was kind of surprised that it
+and it's like, "Oh, yeah, you have these
+comes out and I'm like, "I can't believe
+lights in the home. And then it was like
+someone rolls in I have a Quinn, uh,
+you got new mail or something like
+things with it, uh, but for me even just
+indicative of like what people want from
+what an AI is is not actually what an
+to some extent it's like matching the
+it as Dobby or some persona obviously
+well, you have the hardware but you've
+APIs and shouldn't agents be just using
+overproduction of lots of custom bespoke
+track of how often I do my cardio, uh,
+the customer is not the human anymore.
+to some extent
+is like any AI, even the open source
+just, uh, start to the barrier will just
+the boundaries of what you can do
+but I will say that, um,
+very cautious in that in that realm.
+model as a task you want to see agents
+the next thing. You're You need to take
+tokens just once in a while and a huge
+loop like looking at results, etc. Like
+metric, here's your boundaries of what
+models and so on is just a little
+roughly speaking. And so for me this is
+decades of like, "Oh, I've trained this
+overnight and it came back with like
+hyperparameter optimizations. I
+you know, the repo was already fairly
+frontier level intelligence is about
+interesting project and probably what
+like rewrite the whole thing because
+queue and there is workers that pull
+per second throughputs and it does
+at describing like how the auto
+loop maybe that looks for
+research organization. So maybe they do
+you have multiple research orgs
+where do you get most improvement?
+you can 100% imagine doing that. So I
+for granted. Now the claw-like entities
+Yeah, that's just coming back to This is
+remove
+are easy to evaluate. So for example,
+but many things will not be. And so they
+at the seams a little bit and there's
+talking to an extremely brilliant PhD
+have some.
+you feel the power of it,
+if I could hypothesize is fundamentally
+or no. But some of the things where
+either on rails and you're part of the
+get? There's the joke. The joke? I do
+this is the joke you still get today.
+learning. It's outside of what's being
+smartness being attached to code
+that if you're smarter at code
+amount.
+what's going on and there's some blind
+So that's why I think like even though
+and it's all rolled up in a
+Instead of just MOE that we have no
+into the parameters. I do think that we
+other part kind of parts and I think we
+then um and then they they can become
+unbundling kind of makes sense. One
+do like even one single model, right?
+just yet, right? No. Uh we're seeing a
+Yeah, I think fundamentally like the
+would see that there. Um or there would
+as an example. And I we don't have these
+deeply adjust the models, how you have
+the full model and potentially its
+this thing. Um we need more
+around with a few ideas but I don't have
+it's very easy to just have multiple
+If anyone gives you a candidate commit,
+etc. So you're basically dealing with a
+code as you're improving it. Um and uh
+issue where
+you know? Um and so basically long story
+sends you arbitrary code and you're
+configuration that is low energy. But if
+will be good fits. And so um long story
+bigger and has huge amount of untrusted
+uh lots of companies or whatnot they
+purchase compute and then you could join
+you know, here in Silicon Valley or
+future? Like is there going to be like a
+like what wealth you control? I don't
+curious to um
+interested to like look through
+change? Are they going to grow or uh
+expected to grow over the next I think
+primarily being
+probably going to go slightly slower
+rewriting, huge amount of activity,
+a lot of digital information processing
+so I think what's really fascinating to
+it does has to do with like demand
+now or what skills to develop? I mean we
+answers will probably vary, but uh to a
+etc. As which is totally understandable,
+really hard to forecast, to be honest.
+feel about it. Yeah, do you know? Yeah,
+powerful, yeah. The the classical
+are more tellers. It's like the
+extremely large. Um and it's just become
+processing. You're not forced to use
+And I think it's going to create a lot
+like I went around um Some of those
+building automation for Sam or something
+you Noam's question? Mhm. You know, you
+little bit. Um I will say that I feel
+have in those kinds of roles. I think
+society in very dramatic ways. And here
+so it's kind of um It's still not
+the organization wants you to say. And
+feel like a bit more a lot like aligned
+you're one of them, maybe your ideas are
+you're an employee at an organization, I
+those are like some sources of
+down the line. And I think if you're
+hood. That's an opaque system.
+know, some amount of time and do really
+happening, but also not feel like you're
+Yeah, there's many things to do on the
+little bit, but I mean I joined the
+how sustainable that is. I I think Yeah.
+long-term contributor to open source.
+is the latest? Maybe like 8 months, 6
+Linux is extremely successful project.
+that's why businesses actually want
+for the vast majority of like consumer
+demand for like frontier intelligence
+and maybe that's where a lot of the
+the closed labs uh might be open-source
+actually think that's like a pretty
+in the past and has um
+has access to. Yeah, that seems to me
+game. And so I want to like root for
+we're actually like in an okay spot.
+been like even further centralizing
+I want there to be more people in the
+want it to be like a closed doors with
+of like a good thing. Okay, you worked
+happen? Has anything in your view
+long-term make it. Um and what I saw is
+of feel like they will lag be it will
+like where the activity is, I kind of
+tasks and participating in kind of
+huge amount of like digital work uh
+already up uploaded. Uh so you're going
+happen is first there's going to be a
+superintelligence in a certain sense uh
+what can happen in digital space. So
+follow that kind of trajectory. So right
+are much easier even in the world of
+……（接近结尾）……
+is not really adding too much because
+people cuz it's already so simple that
+it's 200 lines that anyone could ask
+their agent to explain it in various
+ways. And the agents like I'm not
+explaining to people anymore. I'm
+explaining it to agents. If you can
+explain it to agents, then agents can be
+the router and they can actually target
+it to the human in their language uh
+with infinite uh you know,
+patience and uh just at their capability
+and so on. Right. If I don't understand
+um this particular function, I can ask
+the agent to explain it to me like three
+different ways and I'm not going to get
+that from you. Exactly. And so, I kind
+of feel like, you know, what is
+education? Like it used to be guides, it
+used to be lectures, it used to be this
+thing, but now I feel like now more I'm
+explaining things to agents and maybe
+I'm coming up with skills uh where like
+um
+uh so, basically skill is just a way to
+instruct the agent how to teach the
+thing. So, maybe I could have a skill
+for micro GPT of the progression I
+imagine the agent should take you
+through if you're interested in
+understanding the code base. And it's
+just like hints to the model to like uh
+first start off with this and then with
+that. And so, I could just script the
+curriculum a little bit as a skill.
+Uh so,
+uh so, I I don't feel like um
+yeah, I feel like there's going to be
+less of like explaining things directly
+to people and it's going to be more of
+just like does the agent get it? And if
+the agent gets it, they'll do the
+explanation. And we're not fully there
+yet because they I still can I still
+think I can probably explain things a
+little bit better than the agents, but I
+still feel like the models are improving
+so rapidly that um
+I feel like it's a losing battle to some
+to some extent.
+Um and so, I think education is going to
+be kind of like reshuffled by this quite
+substantially uh where it's the end of
+like teaching each other things a little
+bit like if I have a um library for
+example of code or something like that.
+It used to be that you have
+documentation for other people who are
+going to use your library, but like you
+shouldn't do that anymore. Like you
+should have instead of HTML documents
+for humans, you have markdown documents
+for agents. Cuz if agents get it, then
+they can just explain all the different
+parts of it. So, it's this redirection
+through agents, you know?
+Um and that's why. So, I think we're
+going to see a lot more of that playing
+out. Well, we'll see if the great
+teachers know like to develop intuition
+for how to explain things to agents
+differently.
+like I asked I tried to get an agent to
+write micro GPT. So, I told it like try
+to boil down the simplest things. Like
+try to boil down my um neural network
+training to the simplest thing and it
+can't do it. Like micro GPT is like my
+is it's like my end of my obsession.
+It's the 200 lines. I thought about this
+for a long time. I was obsessed about
+this for a long time. This is this is
+the solution. Trust me, it can't get
+simpler. And this is this is my value
+add. Everything else like agent gets it.
+It just can't come up with it, but it
+totally gets it and understands why it's
+done in a certain way etc. Uh so, like
+my contribution is kind of like these
+few bits, but everything else in terms
+of like the education that goes on after
+that is like not my domain anymore.
+So, maybe
+yeah, it's like education kind of
+changes in those ways where you kind of
+have to infuse the few bits that you
+feel strongly about the curriculum or
+the the best the better way of
+explaining it or something like that.
+The things that agents can't do is your
+job now. The things that agents can do,
+they can probably do better than you or
+like very soon. And so, you should um be
+strategic about what you're actually
+spending time on. Well, we appreciate
+the few bits.
+Thank you, Andre.
+Okay.
+Find us on Twitter at No Priors Pod.
+want to see our faces. Follow the show
+on Apple Podcasts, Spotify, or wherever
+you listen. [music] That way you get a
+new episode every week. And sign up for
+emails or find transcripts for every
+episode at no-priors.com.

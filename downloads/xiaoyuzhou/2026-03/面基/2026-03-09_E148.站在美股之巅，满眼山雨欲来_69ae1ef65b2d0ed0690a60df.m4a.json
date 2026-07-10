@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 5246,
+    "item_id": "xiaoyuzhou:69ae1ef65b2d0ed0690a60df",
+    "month": "2026-03",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69ae1ef65b2d0ed0690a60df",
+    "published_at": "2026-03-09T17:30:00+08:00",
+    "published_date": "2026-03-09",
+    "relative_dir": "2026-03/面基",
+    "schema_version": 1,
+    "source_id": "xyz_mian_ji",
+    "source_name": "面基",
+    "status": "pending",
+    "target_basename": "2026-03-09_E148.站在美股之巅，满眼山雨欲来_69ae1ef65b2d0ed0690a60df",
+    "title": "E148.站在美股之巅，满眼山雨欲来",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69ae1ef65b2d0ed0690a60df"
+  },
+  "audio_url": "https://media.xyzcdn.net/6388760f22567e8ea6ad070f/lguAx9Kic0QjA6k884f52SK1hjBr.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-03\\面基\\2026-03-09_E148.站在美股之巅，满眼山雨欲来_69ae1ef65b2d0ed0690a60df.m4a",
+  "bytes": 84978540,
+  "sha256": "89c00aadaf0a7468e403325e2a8ca2d69e55b10c15e605da9264a7578774cf14",
+  "downloaded_at": "2026-07-02T04:35:46Z"
+}

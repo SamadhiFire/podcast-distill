@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "新闻 / 时评 / 全球议题",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3904,
+    "item_id": "xiaoyuzhou:69d586a5f6e591a7ac7d08eb",
+    "month": "2026-04",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69d586a5f6e591a7ac7d08eb",
+    "published_at": "2026-04-08T06:30:00+08:00",
+    "published_date": "2026-04-08",
+    "relative_dir": "2026-04/晚点聊 LateTalk",
+    "schema_version": 1,
+    "source_id": "xyz_late_talk",
+    "source_name": "晚点聊 LateTalk",
+    "status": "pending",
+    "target_basename": "2026-04-08_159_ 马斯克Terafab太空算力、英伟达重拾CPU_与Fusion Fund张璐聊AI算力新趋势_69d586a5f6e591a7ac7d08eb",
+    "title": "159: 马斯克Terafab太空算力、英伟达重拾CPU|与Fusion Fund张璐聊AI算力新趋势",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69d586a5f6e591a7ac7d08eb"
+  },
+  "audio_url": "https://media.xyzcdn.net/61933ace1b4320461e91fd55/lsNaekXZMRDPqzC5DW5mK1ehAg9s.mp3",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-04\\晚点聊 LateTalk\\2026-04-08_159_ 马斯克Terafab太空算力、英伟达重拾CPU_与Fusion Fund张璐聊AI算力新趋势_69d586a5f6e591a7ac7d08eb.mp3",
+  "bytes": 62735700,
+  "sha256": "cc25c399535b9ac665ce268dbe67d3a058d109e429e69283d95994d9a8150e1f",
+  "downloaded_at": "2026-07-02T04:25:48Z"
+}

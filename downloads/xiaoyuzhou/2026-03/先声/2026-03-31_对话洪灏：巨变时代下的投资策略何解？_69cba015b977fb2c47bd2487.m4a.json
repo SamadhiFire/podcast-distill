@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3600,
+    "item_id": "xiaoyuzhou:69cba015b977fb2c47bd2487",
+    "month": "2026-03",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69cba015b977fb2c47bd2487",
+    "published_at": "2026-03-31T18:38:26.141000+08:00",
+    "published_date": "2026-03-31",
+    "relative_dir": "2026-03/先声",
+    "schema_version": 1,
+    "source_id": "xyz_xian_sheng",
+    "source_name": "先声",
+    "status": "pending",
+    "target_basename": "2026-03-31_对话洪灏：巨变时代下的投资策略何解？_69cba015b977fb2c47bd2487",
+    "title": "对话洪灏：巨变时代下的投资策略何解？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69cba015b977fb2c47bd2487"
+  },
+  "audio_url": "https://media.xyzcdn.net/684289d5784934aceca733f2/lsnafvJsnN4td0BlFJ5RvS_g-6Pq.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-03\\先声\\2026-03-31_对话洪灏：巨变时代下的投资策略何解？_69cba015b977fb2c47bd2487.m4a",
+  "bytes": 58232957,
+  "sha256": "2d7b506c467b3903e15def5e06cdc9e9d074927bf6c9d2e82642c6aef506af7b",
+  "downloaded_at": "2026-07-02T04:28:23Z"
+}

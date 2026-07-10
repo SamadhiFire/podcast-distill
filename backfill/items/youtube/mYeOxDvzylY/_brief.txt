@@ -1,0 +1,516 @@
+TITLE: Risk and Return: Masters in Business with Matt Cherwin
+CHANNEL: Masters in Business
+DURATION_S: 3474  DENSITY: standard  REQ summary=3 core=4
+PUBLISHED: 2026-03-14T09:21:00+00:00  URL: https://www.youtube.com/watch?v=mYeOxDvzylY
+SHA256: 1d6e6074b15dd07d1611bafa60a4cdc4af684915afcef0de2a2fd9cc1cab10f3
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [2019] universe. And then uh in late 2019, I
+  [10%] cost you 10%.
+  [0809] compared to 0809 where you know to me
+  [2.2] Fed owns 2.2 trillion. So they're going
+  [60%] buildings are 60% occupied in terms of
+  [2020] &gt;&gt; Yeah. I would say like in early 2020,
+  [0708] so to set the table a bit 0708 when I I
+  [2025] of 2025 that we called the warfed and it
+  [2026] 2026. I'm legally obligated to ask how
+  [1%] trillion, it's not even 1%.
+  [100%] &gt;&gt; but they're not they're 100% occupied
+  [1823] Yellow Stones, everyone. 198, 1823,
+  [1920] 1920, all of those. Lionist, uh, any of
+
+=== TRANSCRIPT EXCERPT ===
+This week on the podcast, another extra
+special guest. Matt Cherin is co-founder
+and chief investment officer at Maric
+Capital. He previously spent 16 years at
+JP Morgan Chase and then a bunch of
+years at uh Cityroup beforehand running
+all sorts of spread markets, head of
+securitized product, lots of CIO and
+risk management titles. Uh I came to
+know through [music] um a live event we
+did at Bloomberg last year. I found that
+his approach to credit and trading is
+absolutely fascinating and what MARA is
+doing is really quite interesting. I
+thought the conversation was brilliant
+and I think you will also with no
+further ado my conversation with Maric
+Capitals Matt Sherwin
+Matt Charin. Welcome to Bloomberg.
+That was kind of that was that was a
+bigger windup than I was uh I expecting.
+opportunity to roll back to the
+beginning and say, "All right,
+bachelor's in economics from University
+of Pennsylvania. What was the original
+career plan?" I I don't imagine people
+going to college and saying, "I want to
+be the head of global spread markets."
+because um our oldest uh is a sophomore
+in college now
+American and I was just talking to him
+yesterday and he said I'm now in I think
+they call it like finance for business.
+I really like this new class. And I said
+to him, that reminds me so well of when
+I was in undergrad business school and I
+did the first couple semesters of econ
+and I hated it. [laughter]
+have hated as much as I did, but at the
+time uh it was ISLM curves, it was
+supply, it was demand, etc. And it just
+it felt it didn't feel very practical to
+me and I didn't do very well in it. I
+didn't go to class very often. I didn't
+do very well. But then we got to kind of
+the next semester which I think they
+called finance 101 and was like
+was like oh this I like. Okay, I am in
+the right place.
+you're not dealing with homoeconomy
+because that is this theoretical version
+of humans.
+bit more at some of those others. Um,
+but you know, something I say maybe we
+we'll get to is like it just a
+recommendation I would give to other
+people. It took me a little while to
+realize what I was interested in, what I
+was interested in being interested in.
+classes, kind of the more financy kind
+of stuff, I was like, this I like this
+makes sense. Uh, I want to learn more.
+And I think that's kind of where it
+starts. So I always wanted to get I just
+like when there's, you know, numbers on
+the page, it adds up to something.
+You're trying to make money. It's
+hopefully positive at the end. It might
+be negative. It's pretty clear-cut.
+like that. I always gravitated towards.
+academic, but business and finance
+practical, applicable, real life usage.
+also I'm a little bit like a this a
+little exaggerated, but I'm a little bit
+of like a history buff. So, like it was
+interesting that that what didn't didn't
+appeal to me because I do like kind of
+the history of it. how did we get here?
+And I think that's always something that
+I'm like in this form as well. Um going
+back to learn more about financial
+systems, how money works, how they
+thought it used to work, different
+schools of thoughts, and I think it
+really helps you understand where you've
+been, where you are, where you're going.
+So when you look back when you were
+group treasurer or chief investment
+officer at at the JP Morgan um division
+you were you were involved in what sort
+of lessons did you take away from that?
+You're you're in the real world managing
+real risk, real portfolios. H how did
+that experience change how you perceive
+risk?
+I'll tell you, [clears throat] so I
+obviously I had a career with a
+background in um, trading, running
+trading teams both on the buy side and
+the sell side. And it was really that
+experience that this next piece that was
+transformative for me and um, you know,
+really brought us to the point where um,
+my partner Derek Goodman and I decided,
+let's form Merrick. And you know, I'm
+sure we'll get into that a bit, but what
+happened was I spent 20 odd years
+trading mortgages, rates, corporate
+credit, high yield products like that
+working with specialty finance
+companies. Some that I worked with, some
+I had a hand in running this kind of
+universe. And then uh in late 2019, I
+had the opportunity to move over and
+this was different building, different,
+you know, walled off key card, different
+team, and be the CIO and the treasurer.
+So this is now by side running the
+capital of the firm, the investment of
+the firm, hedging and managing
+structural risk, lots of things wrapped
+up in there. But the real thing was the
+point in time where this happened was
+late 2019, a few days later was the repo
+crisis. If we remember that
+borrow overnight against treasuries, it
+cost you 10%.
+breaks out. And why I bring that up is
+so much changed in dramatic size at
+rapid speed that I saw something I'd
+never seen before. And it was how does
+the financial system really work and
+what does it mean and how does it apply
+to everything that I've done? And it was
+one of these moments where I felt like I
+just went from being the captain of the
+ship, you know, my own little thing,
+right? We'll be a little expansive with
+it. I went from being the captain of the
+ship to going to work in the engine room
+and seeing the actual gearing and how it
+works and how it doesn't and what could
+stop it from working. And you spend
+years, you know, you pull a lever, you
+think the boat goes faster, but you
+don't know why. And you don't know what
+could stop it from doing that. And you
+don't know what could make it work more
+efficiently. But now you go work in the
+engine room and you see it and you
+understand it. It was just this aha
+moment like we're two guys with glasses,
+right? So, you know, when you go to the
+the you get a new prescription, you get
+your new glasses, you put them on,
+you're like, "Oh my god, I can see."
+Right? And by the way, how was I walking
+around the streets of Manhattan with
+that old prescription, but now I could
+see clearly. And honestly, 20 odd years
+into my career, that's how I felt at
+that that moment
+about six months in, it was kind of
+like, oh my goodness, it's coming
+together now. I wish I wish I had known
+this for the 20 years that preceded
+this, but I felt like now I know nothing
+and I'm starting to learn. So I have to
+ask. So uh my experience with 2019 was
+that wobble seemed to go by so quickly
+compared to 0809 where you know to me
+you saw a lot of warning signs first in
+housing and then in securitized product
+and then in construction and then you
+know the market didn't peak till
+October07 and the next 18 months were
+kind of fun if you were on the right
+side of it but if you weren't I it must
+have been a blood bath. It sounds like
+you derived more out of the 2019
+experience than you were on a desk in
+089. What sort of scar tissue did that
+leave? H how informative was that
+you kind of put those together. And um
+so to set the table a bit 0708 when I I
+got to JP Morgan late ' 06 07 0809 I was
+in charge of um had a team we traded
+asset back securities say credit cards
+auto student loans um subprime mortgages
+remember those?
+really kind of like the center of what
+ended up happening uh after that. And I
+would say it was
+so overwhelming at the time. I mean we
+were there 2 in the morning handmarking
+bonds. Okay. Walking across the street
+between the two buildings like is there
+more information? This company might buy
+that company before the market opens.
+What else can we do? Um the numbers were
+huge. It was almost like a bit more than
+you could process at the time. Um, but I
+think each one of these became every
+step there was like I understand what
+I'm doing better now because but the
+first thing I ever did was I started out
+as a cash flow structure
+the guy who ran the department was uh a
+friend of mine named Bruce Richards who
+went on to start Marathon and um has had
+a fantastic career and we keep in touch
+……（中部抽样）……
+and he said I said I want to be a trader
+understand the risk better and then the
+each other. So I would say in '08 I
+underestimating and I remember some
+does my product I'm trading fit into an
+sitting in a meeting. We're in 7:30 a.m.
+treasuries at 10%. should we do more?
+have it because that sounds pretty
+How did we get here? What's the where
+picture.
+together? Um, and how do we um how do we
+door, three doors behind it, and I want
+things I think a lot of people don't
+their own derivative scare a couple of
+they weren't dealing with the same sort
+distressed assets. Well, I think I mean
+I learned something that became
+and I sat down one day and I said, "Let
+MCCLR.
+Are you destroying it? Credit is really
+on paper we wrote a paper that we
+gibbs if you come from some of this
+like Apollo, Blackstone, KKR, Black
+uh, Jump, Jane, some of these other
+who loses, what are the flywheels here.
+liquidity, and regulation drives
+So, this to me actually explains how it
+investors that have very narrow mandates
+and there's a lot of gaps that they
+right. We've seen things go wrong.
+opportunity set that we want to
+something you said earlier, which was
+you don't have, you know, glass deagle
+crisis, but allowed all these banks to
+towards that is kind of fascinating.
+there were rules.
+credit through these fashions or some of
+safe because I would argue we are and
+see and understand and think about all
+Bowman is the vice chair for supervision
+which of them matter and which of them
+we're going to remove this rule and it's
+to a regulatory change that isn't
+little more geopolitically volatile
+going on. So we have we just kind of use
+being in business
+important to have a little bit of sense
+chart.
+what they want to accomplish. So here's
+put in the book has to fit that
+bit we think it's a very business
+and there will he'll say all sorts of
+layers of of regulation and away from
+better when you change
+they're underestimating the power of
+constraints on deficits and ongoing
+sell off until they have their hissy fit
+discipline on deficit spending anymore
+think we've seen some of those episodes
+either going to have one of those days
+MARIC and what influences our thought
+mandate. We have a more flexible mandate
+we'd like to have. Um, but the markets
+um, does the administration react to the
+of 2025 that we called the warfed and it
+separately. So I think that's some of
+say before we get back to your your
+not forthcoming and then V went down.
+when things were a little less
+from Kevin Worsh if he ends up in the
+picture and the trend and where we're
+comfort of a big shop to have the uh
+things that banks can't do. There are
+equities related to that that around it
+the operator lens, you understand it
+a more elevated and efficient way.
+we'll go this far, but no further.
+prices.
+it. Then you can look at something and
+want to buy that? So like where are the
+we have a unique perspective, a defined
+understand and apply to these products
+opportunity all the time. And we can use
+of fascinated by the overall Merrick
+kind of a hybrid? Like tell us about the
+products as like I said it's tools in
+ABS in credit in CLOS. Um I am on the
+expression of the trade
+differentiated insight into
+doing this together like Derek and I
+Sanskrit or some something, you know.
+could work. All right, let's do that." I
+mythology, it's either a fund or an LLC,
+because and that really cemented it for
+speak to you in a different way because
+conversation
+And it was just more way of learning
+and it was an amazing time. I used to
+I was getting to the point where I was
+deck, we put a little timeline of my
+And then we put like a little one-year
+little punchy and we're like it made us
+every part of the deck and also it's
+doing all this you know my wife was like
+reputation that we believe
+tick all those boxes,
+I'm an AI optimist. That's not one of my
+desk in a week that would have taken a
+This is like light speeded versus what
+we're there yet, but we're going to get
+boom
+the leases? What are they paying? What's
+market is not big enough for it, right?
+and being wrapped up and put into a
+more structure? Are you getting less?
+and we're very opinionated about which
+some of those firsttime issuers. We have
+aligned with us with the instrument that
+been around for a long time. Okay.
+mortgage back. This is a there are it
+post tweet. Um
+expectation? Now in that instance we
+thought this is going to be a support
+and nobody knew like is it going to be
+were positioned for that type of event.
+Um, and you could see that that wasn't
+talking earlier about the Trump tweet uh
+market. I assume part of the motivation
+like 200 billion, it's just not enough.
+really want to move it and keep it
+that sort of helped them in that moment.
+So then you start to think about like
+Um it's indicative here's the real
+happen next? Um and sort of
+down. Okay. So, some of it is what do we
+somewhat different
+trading on the short term.
+credit. Um we there we're you know long
+looking to achieve. Um we are we trade
+we think? Are we positioned with the
+you think about what does that mean?
+cost of borrowing has gone down means
+an even tighter credit spread on. And
+So we that is one of we look at our
+higher order one. But we look at what is
+to do? Does it understand this? And then
+that the lack of connections made
+it's just as much a process in a machine
+time. And the mandate is pretty clear.
+every year. and you probably won't, but
+different that had become. How does that
+I believe managing risk at scale is a
+places. VAR is a number and a starting
+simple. Um, rates go up, rates go down,
+conversation, okay? Because you do need
+what could go wrong? um understanding
+goals
+different opportunities, what do you
+places to extract from the flywheel is
+office, right? So that all came to be
+than we kind looking back on it that
+growing and they were finding that two
+more. And what they found was there's
+real estate when applied correctly. And
+the fundamentals. So what that really
+buildings are 60% occupied in terms of
+the JP Morgans, they want everybody back
+there that we like. We actually, I would
+which means you got to go see them and
+……（接近结尾）……
+underestimating the power of this
+flywheel. Like with with the background
+I've had and we've talked about and I've
+seen a lot of things blow up like we
+could come up with a lot of examples of
+things that could go wrong. I think
+they're underestimating
+the things that could go right or what
+the power of financing and um the
+mechanics around financing and the
+provision of liquidity and credit credit
+spreads when they're good and when
+they're tight and when the machine is
+flowing what that financial engineering
+can really do to both un recover value
+and create value. I think they're
+underestimating it really. The other
+quick thing is
+if Kevin Worsh ends up sitting in that
+seat and if we get a little bit of the
+the setup that he's looking for,
+he's going to change everything, right?
+So, he believes we're going to have a
+big productivity dividend from AI and
+we're going to have a big productivity
+dividend from deregulation. And that
+that would allow you to have lower rates
+and a smaller Fed balance sheet at the
+same time.
+And if he gets a little bit of what he
+needs to craft that argument,
+we're going to have a very different
+second half of 26 than the first half.
+let's jump to our favorite questions,
+our speed round. We'll get you guys out
+of here at a reasonable time. Uh,
+starting with who are your mentors who
+helped shape your career?
+people. Um, and I tried to learn from
+everyone. I just had the the bosses that
+I've had are, you know, legends in this
+industry, whether it's Bruce Richards,
+TM Pirlo, oh, Jimmy Demar, Matt Z,
+Daniel Pinto. I mean, these are got
+these are people who defined these
+markets. Um, and they all had a huge
+impact on my career.
+books. What are you reading now? What
+are some of your favorites?
+Oh, you know, but like I am in front of
+a computer screen and reading so much
+and I read so much analytics, research,
+etc. When I get home, it's a little bit
+more like hang out with my wife and kids
+and a little TV.
+you listening to or streaming?
+Amazon Prime, whatever.
+Taylor Sheridan, you know, like
+It's so good. like Land Man, all the
+Yellow Stones, everyone. 198, 1823,
+1920, all of those. Lionist, uh, any of
+those. I'm a sucker.
+new season of that coming out one of
+these days.
+watched both seasons like a hundred
+times.
+would you give to a college grad
+interest in a career in investing,
+credit, trading, what have you? I just
+think it's not, you know, it doesn't
+have to be a commitment for life. Just
+look at it as what's something I'm
+interested in being interested in. I
+think you can pick the kind of people
+you work with and you want to be around
+good people who will teach you, who will
+support what you're doing, and just say,
+I'm going to give this a spin for three
+to five years, and if I like it, I love
+it, um, maybe I'll sign up for another
+five. Um, but you know, you have an
+opportunity to try something out and see
+if it's for you. And our final question,
+what do you know about the world of
+trading credit, investing in alternative
+sources of of liquidity and other
+products that would have been helpful 25
+or so years ago when you were just
+getting your legs under you?
+of what we are applying at MARIC any
+point before we did this. If I knew a
+drop of what we're doing when I sat in
+other seats. Yeah, I'll put that all in
+the I wish I knew bucket.
+Matt, thank you for being so generous
+with Matt Cherin. He's co-founder and
+chief investment officer of Mar Capital.
+If you enjoy this conversation, well, be
+sure and check out any of the previous
+600 or so we've done over the past 12
+years. You can find those at iTunes,
+Spotify, [music]
+um, Bloomberg, YouTube, wherever you get
+your favorite podcasts. I would be
+remiss if I didn't thank the Crack team
+that helps us put these [music]
+conversations together each week. Alexis
+Noriega is my video producer. Sean Russo
+is [music] my researcher. Anna Luke is
+my podcast producer. I'm Barry Roltz.
+You've been listening to Masters in
+Business on Bloomberg Radio.

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "产品 / 创业 / 管理",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 13835,
+    "item_id": "xiaoyuzhou:6a00aa051b7bd50295dfe41d",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a00aa051b7bd50295dfe41d",
+    "published_at": "2026-05-11T08:00:00+08:00",
+    "published_date": "2026-05-11",
+    "relative_dir": "2026-05/张小珺Jùn｜商业访谈录",
+    "schema_version": 1,
+    "source_id": "xyz_zhang_xiaojun",
+    "source_name": "张小珺Jùn｜商业访谈录",
+    "status": "pending",
+    "target_basename": "2026-05-11_140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去_6a00aa051b7bd50295dfe41d",
+    "title": "140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a00aa051b7bd50295dfe41d"
+  },
+  "audio_url": "https://media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ll7qIcIWWGFSsORHr4yY-UuqAe8h.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\张小珺Jùn｜商业访谈录\\2026-05-11_140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去_6a00aa051b7bd50295dfe41d.m4a",
+  "bytes": 223752040,
+  "sha256": "30d45f1c3b38a1261f4b023d9dadcdbee825170ea4fac8649eb2f66798e97d6d",
+  "downloaded_at": "2026-07-02T04:09:14Z"
+}

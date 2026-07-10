@@ -1,0 +1,34 @@
+{
+  "short_title": "石化冲击波及塑料供应链",
+  "one_liner": "霍尔木兹封锁推高塑料价格",
+  "why_it_matters": "石化是包装与日用品基础，断供将传导至通胀",
+  "summary": [
+    "霍尔木兹海峡持续封锁，原油冲击正沿石化链条外溢。亚洲多家裂解装置减产并宣布不可抗力，聚乙烯等基础塑料供给趋紧。",
+    "中东是全球聚乙烯主要出口方，约占全球产能12%，装置常年高负荷运行。其产量退出直接相当于欧洲一整年的消费量，缺口难以短期补足。",
+    "聚乙烯价格已升至约1300美元，包装与食品供应链首当其冲。嘉宾认为各国将加速本土产能建设，降低对关键通道的依赖。"
+  ],
+  "core_points": [
+    "霍尔木兹封锁使亚洲裂解装置减产，部分宣布不可抗力。",
+    "中东聚乙烯占全球产能约12%，高开工率下退出影响巨大。",
+    "聚乙烯价格涨至约1300美元，包装与食品通胀压力上升。",
+    "各国或加速本土石化产能，重塑供应链安全格局。"
+  ],
+  "key_facts": [
+    {"label": "聚乙烯全球产能占比", "value": "12%", "context": "Polyethylene varieties, that's about 12% of global capacity."},
+    {"label": "中东装置开工率", "value": "100%", "context": "Middle Eastern facilities typically run at very high rates, 90 to 100%."},
+    {"label": "聚乙烯价格", "value": "1300", "context": "Now, around $1,300. So, the price has"},
+    {"label": "乙烯用于聚乙烯", "value": "60%", "context": "polyethylene consumes about 60% of ethylene"},
+    {"label": "2030年自给预期", "value": "50%", "context": "assume that by 2030 about 30 to 50% of"}
+  ],
+  "takeaways": [
+    "关注包装与食品价格，石化缺口或推升通胀。",
+    "供应链多元化提速，关键通道风险被重新定价。"
+  ],
+  "guests": ["Philip Gerts（BNEF石化分析师）", "Tracy Alloway（Odd Lots）", "Joe Weisenthal（Odd Lots）"],
+  "topics": ["石化供应链", "霍尔木兹海峡", "塑料价格"],
+  "tensions": ["短期价格冲击还是长期短缺尚不明"],
+  "quote": {"text": "我们不知道会多糟，战争还在进行，通道能否恢复要数天数周才能看清", "speaker": "Philip Gerts", "kind": "paraphrase"},
+  "importance_score": 3,
+  "content_density": "standard",
+  "quality": "llm_validated"
+}

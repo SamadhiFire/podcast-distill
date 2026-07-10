@@ -1,0 +1,35 @@
+{
+  "short_title": "普利茨克谈特朗普时代终结",
+  "one_liner": "伊利诺伊州长构想2029民主党议程",
+  "why_it_matters": "潜在2028候选人勾勒后特朗普政治蓝图",
+  "summary": [
+    "伊利诺伊州长普利茨克自2018年任职并寻求罕见第三届连任，被视为2028年民主党总统提名热门，他也是特朗普的主要反对者。",
+    "他认为特朗普以威权方式行使权力，呼吁民主党提出Project 2029，以快速推进议程，并恢复法治、问责违法官员与实现全民医保。",
+    "他主张提高联邦最低工资，目前时薪仅7.25美元，建议涨薪，并称约80%民众包括多数共和党人支持提高最低工资。",
+    "谈及外交，他担忧特朗普削弱美国领导力，盟友信任重建或需20年乃至更久，并批评中东战争与对以政策。"
+  ],
+  "core_points": [
+    "普利茨克自2018年任州长，被视为2028年总统潜在候选人。",
+    "他批评特朗普威权式执政，主张民主党推出Project 2029快速落实议程。",
+    "核心议程包括恢复法治、追责违法官员、推进全民医保。",
+    "联邦最低工资仅7.25美元，约80%民众支持上调。",
+    "他担忧美国领导力受损，盟友信任重建需20年或更长。"
+  ],
+  "key_facts": [
+    {"label":"潜在参选年份","value":"2028","context":"strong contender for the Democratic presidential nomination in 2028."},
+    {"label":"联邦最低时薪","value":"7.25","context":"the minimum wage is $7.25."},
+    {"label":"支持加薪比例","value":"80%","context":"about raising the minimum wage, 80% including a majority of Republicans would say"},
+    {"label":"民主党议程代号","value":"2029","context":"there should be a Project 2029 for Democrats."}
+  ],
+  "takeaways": [
+    "民主党或转向快速推进议程与强化反特朗普叙事。",
+    "最低工资与医保等民生议题将重回核心。"
+  ],
+  "guests": ["J.B. Pritzker（伊利诺伊州长）","Lulu Garcia-Navarro（主持人）"],
+  "topics": ["特朗普时代","民主党议程","最低工资"],
+  "tensions": ["快速推进议程 vs 渐进主义","恢复法治 vs 现任政府问责"],
+  "quote": {"text":"我们需要一个属于民主党的2029计划","speaker":"J.B. Pritzker","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

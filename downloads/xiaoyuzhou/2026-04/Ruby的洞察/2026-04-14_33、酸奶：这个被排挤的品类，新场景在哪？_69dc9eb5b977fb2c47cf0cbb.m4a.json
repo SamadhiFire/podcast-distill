@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 2867,
+    "item_id": "xiaoyuzhou:69dc9eb5b977fb2c47cf0cbb",
+    "month": "2026-04",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69dc9eb5b977fb2c47cf0cbb",
+    "published_at": "2026-04-14T08:00:00+08:00",
+    "published_date": "2026-04-14",
+    "relative_dir": "2026-04/Ruby的洞察",
+    "schema_version": 1,
+    "source_id": "xyz_ruby_insight",
+    "source_name": "Ruby的洞察",
+    "status": "pending",
+    "target_basename": "2026-04-14_33、酸奶：这个被排挤的品类，新场景在哪？_69dc9eb5b977fb2c47cf0cbb",
+    "title": "33、酸奶：这个被排挤的品类，新场景在哪？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69dc9eb5b977fb2c47cf0cbb"
+  },
+  "audio_url": "https://media.xyzcdn.net/658be0524b73719a63166bc9/lsstqTt97bAtqaRIlt9n1_Vgqm3f.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-04\\Ruby的洞察\\2026-04-14_33、酸奶：这个被排挤的品类，新场景在哪？_69dc9eb5b977fb2c47cf0cbb.m4a",
+  "bytes": 46376324,
+  "sha256": "6cf08277bc73febbefff40ac99e7db3f8567209d2005a6f3e1867698104c0512",
+  "downloaded_at": "2026-07-02T04:23:50Z"
+}

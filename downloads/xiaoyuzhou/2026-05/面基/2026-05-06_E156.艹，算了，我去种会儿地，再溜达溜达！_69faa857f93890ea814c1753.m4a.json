@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 6884,
+    "item_id": "xiaoyuzhou:69faa857f93890ea814c1753",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69faa857f93890ea814c1753",
+    "published_at": "2026-05-06T17:30:00+08:00",
+    "published_date": "2026-05-06",
+    "relative_dir": "2026-05/面基",
+    "schema_version": 1,
+    "source_id": "xyz_mian_ji",
+    "source_name": "面基",
+    "status": "pending",
+    "target_basename": "2026-05-06_E156.艹，算了，我去种会儿地，再溜达溜达！_69faa857f93890ea814c1753",
+    "title": "E156.艹，算了，我去种会儿地，再溜达溜达！",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69faa857f93890ea814c1753"
+  },
+  "audio_url": "https://media.xyzcdn.net/6388760f22567e8ea6ad070f/lp__cs9iO1QQziZVkqLR5aSiKxnD.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\面基\\2026-05-06_E156.艹，算了，我去种会儿地，再溜达溜达！_69faa857f93890ea814c1753.m4a",
+  "bytes": 111441484,
+  "sha256": "5ce877f208dc1856eaca90602ac23142695da0188246f52708fba195582e4230",
+  "downloaded_at": "2026-07-02T04:10:55Z"
+}

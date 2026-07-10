@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 11896,
+    "item_id": "xiaoyuzhou:69e9cc161d989496e752d932",
+    "month": "2026-04",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69e9cc161d989496e752d932",
+    "published_at": "2026-04-23T16:14:01.416000+08:00",
+    "published_date": "2026-04-23",
+    "relative_dir": "2026-04/乱翻书",
+    "schema_version": 1,
+    "source_id": "xyz_luan_fan_shu",
+    "source_name": "乱翻书",
+    "status": "pending",
+    "target_basename": "2026-04-23_Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集_69e9cc161d989496e752d932",
+    "title": "Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69e9cc161d989496e752d932"
+  },
+  "audio_url": "https://media.xyzcdn.net/61358d971c5d56efe5bcb5d2/ludFlvAw7lId_tCi9GaGBbXOBVtz.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-04\\乱翻书\\2026-04-23_Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集_69e9cc161d989496e752d932.m4a",
+  "bytes": 192399727,
+  "sha256": "82bd368a1069ff2f997533acf82a329de6c2c7cf49f407897638a81eaaebb7dc",
+  "downloaded_at": "2026-07-02T04:19:17Z"
+}

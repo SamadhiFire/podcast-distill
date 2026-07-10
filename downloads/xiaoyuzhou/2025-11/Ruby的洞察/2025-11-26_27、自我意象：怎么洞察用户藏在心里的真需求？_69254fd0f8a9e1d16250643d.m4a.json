@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3281,
+    "item_id": "xiaoyuzhou:69254fd0f8a9e1d16250643d",
+    "month": "2025-11",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69254fd0f8a9e1d16250643d",
+    "published_at": "2025-11-26T08:00:00+08:00",
+    "published_date": "2025-11-26",
+    "relative_dir": "2025-11/Ruby的洞察",
+    "schema_version": 1,
+    "source_id": "xyz_ruby_insight",
+    "source_name": "Ruby的洞察",
+    "status": "pending",
+    "target_basename": "2025-11-26_27、自我意象：怎么洞察用户藏在心里的真需求？_69254fd0f8a9e1d16250643d",
+    "title": "27、自我意象：怎么洞察用户藏在心里的真需求？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69254fd0f8a9e1d16250643d"
+  },
+  "audio_url": "https://media.xyzcdn.net/658be0524b73719a63166bc9/luHSXNYHh5Lb-y4n-ZCD0nM3fikW.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2025-11\\Ruby的洞察\\2025-11-26_27、自我意象：怎么洞察用户藏在心里的真需求？_69254fd0f8a9e1d16250643d.m4a",
+  "bytes": 79335156,
+  "sha256": "62c78b1c33dc0c14127935a71258b5c5b66f7c61a4deb5862ce414ed5eb7f972",
+  "downloaded_at": "2026-07-02T04:52:01Z"
+}

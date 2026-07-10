@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 5384,
+    "item_id": "xiaoyuzhou:6a265b8b7444b57222353962",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a265b8b7444b57222353962",
+    "published_at": "2026-06-08T14:39:01.377000+08:00",
+    "published_date": "2026-06-08",
+    "relative_dir": "2026-06/高能量",
+    "schema_version": 1,
+    "source_id": "xyz_gao_neng_liang",
+    "source_name": "高能量",
+    "status": "pending",
+    "target_basename": "2026-06-08_Vol.219 宏观漫谈106｜对外投资新规、美元潮汐周期与AI资本狂欢（6.3录制）_6a265b8b7444b57222353962",
+    "title": "Vol.219 宏观漫谈106｜对外投资新规、美元潮汐周期与AI资本狂欢（6.3录制）",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a265b8b7444b57222353962"
+  },
+  "audio_url": "https://media.xyzcdn.net/62c6ae08c4eaa82b112b9c84/lveutEM89nd4rCQd9G3Q5fMcoTXQ.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\高能量\\2026-06-08_Vol.219 宏观漫谈106｜对外投资新规、美元潮汐周期与AI资本狂欢（6.3录制）_6a265b8b7444b57222353962.m4a",
+  "bytes": 87164262,
+  "sha256": "7f1f0c40e9df57e0c2474f3f40b46a6677c51ead3a1a79efe7d645b63d3f4b34",
+  "downloaded_at": "2026-07-02T03:51:29Z"
+}

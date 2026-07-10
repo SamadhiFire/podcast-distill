@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 4485,
+    "item_id": "xiaoyuzhou:69fd365fe1eb34a939f2066a",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69fd365fe1eb34a939f2066a",
+    "published_at": "2026-05-08T09:20:13.515000+08:00",
+    "published_date": "2026-05-08",
+    "relative_dir": "2026-05/独树不成林",
+    "schema_version": 1,
+    "source_id": "xyz_du_shu_bu_cheng_lin",
+    "source_name": "独树不成林",
+    "status": "pending",
+    "target_basename": "2026-05-08_作者对谈：什么是西方？（Georgios Varouxakis）_69fd365fe1eb34a939f2066a",
+    "title": "作者对谈：什么是西方？（Georgios Varouxakis）",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69fd365fe1eb34a939f2066a"
+  },
+  "audio_url": "https://media.xyzcdn.net/64acd33c7a3d479103fbd32d/lvLQLXSUY7il4vJLQKhBYxFrT1C7.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\独树不成林\\2026-05-08_作者对谈：什么是西方？（Georgios Varouxakis）_69fd365fe1eb34a939f2066a.m4a",
+  "bytes": 58969663,
+  "sha256": "e3c09afa4fbfda93b0438f240cd1204d518ebbc26ed73966f8308aca6e7f1bcd",
+  "downloaded_at": "2026-07-02T04:10:21Z"
+}

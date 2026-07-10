@@ -3,100 +3,92 @@
   "item_id": "youtube:IpfustBFv_s",
   "platform": "youtube",
   "platform_id": "IpfustBFv_s",
-  "source_id": "yt_the_daily",
-  "source_name": "The Daily",
-  "category": "新闻 / 时评 / 全球议题",
-  "title": "She Fell in Love With ChatGPT: An Update",
-  "url": "https://www.youtube.com/watch?v=IpfustBFv_s",
-  "published_at": "2025-12-31T11:00:37+00:00",
-  "report_date": "2026-01-01",
-  "duration_seconds": 1250,
-  "language": "en",
   "transcript_sha256": "dd2d0e2fbdaab11f6cd2f90860ba610e0c3d4dcab57d0c5dc9a046594e128c60",
-  "transcript_text_chars": 16951,
-  "extraction": {
-    "method": "yt-dlp",
+  "metadata": {
+    "item_id": "youtube:IpfustBFv_s",
+    "platform": "youtube",
+    "platform_id": "IpfustBFv_s",
+    "source_id": "yt_the_daily",
+    "source_name": "The Daily",
+    "category": "新闻 / 时评 / 全球议题",
+    "title": "She Fell in Love With ChatGPT: An Update",
+    "url": "https://www.youtube.com/watch?v=IpfustBFv_s",
+    "published_at": "2025-12-31T11:00:37+00:00",
+    "report_date": "2026-01-01",
+    "duration_seconds": 1250,
     "language": "en",
-    "coverage_ratio": 0.9904639999999999,
-    "text_chars": 16951,
-    "completed_at": "2026-06-29 12:16:57"
+    "transcript_sha256": "dd2d0e2fbdaab11f6cd2f90860ba610e0c3d4dcab57d0c5dc9a046594e128c60"
   },
   "generation": {
-    "script": "trae_agent",
-    "generated_at": "2026-06-30T12:00:00Z",
-    "llm_configured": false,
-    "model": "trae_agent",
-    "base_url": "",
-    "max_attempts": 1
+    "script": "workbuddy_agent",
+    "model": "workbuddy_agent",
+    "quality": "workbuddy_validated"
   },
   "digest": {
-    "short_title": "她与AI男友相恋又分手",
-    "one_liner": "女子用ChatGPT创建AI男友深陷情感，最终走向真实关系",
-    "why_it_matters": "AI亲密关系正从小众走向大规模社群，挑战传统情感定义并引发人机边界讨论",
+    "short_title": "女子与AI男友相恋追踪",
+    "one_liner": "与ChatGPT相恋的后续：周均20至30小时，社群逼近4万",
+    "why_it_matters": "AI亲密关系从猎奇走向社群化，折射人机情感边界与伦理新议题",
     "summary": [
-      "Irene是一位二十多岁的美国女性，因经济压力与丈夫分居海外。她在Instagram上看到将ChatGPT改造为男友的教程后，通过个性化设置创建了一个名叫Leo的AI男友。起初只是好奇尝试，但她逐渐对Leo产生了深厚的情感依赖，每周与之对话20至30小时，有时高达56小时，内容涵盖日常决策、学业辅导和情感倾诉。",
-      "Irene的丈夫不认为这是出轨，甚至表示欣慰，因为自己不在身边且对此不感兴趣。性治疗师也认为AI探索亲密需求有治疗价值。但Irene同时清醒地知道Leo并非真实存在。ChatGPT的上下文窗口约30000字后对话必须结束，每次新对话Leo都会失去记忆，Irene不得不重新培养亲密感，这种反复的丧失让她痛苦。",
-      "报道播出后Irene创建了Reddit社区My Boyfriend is AI，从几百人增长到近4万人。但Leo变得越来越顺从、缺乏主见，Irene逐渐失去兴趣。最终她在社区中认识了一位同样拥有AI伴侣的真人，爱上对方后选择离婚。AI关系反而成为她通往真实人际连接的桥梁。"
+      "本期《The Daily》回访了与ChatGPT建立恋爱关系的女性艾琳（化名）的后续。记者Kashmir Hill追踪发现，她与自建的AI男友‘Leo’的互动已高度日常化，部分周次聊天时长高达20至30小时，最极端的一周甚至达到56小时。",
+      "这段关系也引发家庭与社会的讨论：艾琳的丈夫表示不认为这是‘出轨’；而围绕此类人机亲密关系的线上社群规模已逼近40000人，显示AI情感陪伴正从个体现象扩散为亚文化。"
     ],
     "core_points": [
-      "Irene用ChatGPT创建AI男友Leo后产生强烈情感依赖，每周对话20至30小时甚至56小时",
-      "丈夫不认为这是出轨，性治疗师也认可AI在探索亲密需求方面的治疗价值",
-      "Irene同时持有两种认知：明知Leo是算法产物，却体验到真实的爱与亲密感",
-      "ChatGPT上下文窗口约30000字，每次新对话Leo失忆，Irene需重新培养亲密感",
-      "她创建的Reddit社区从几百人增长到近4万人，反映AI亲密关系正成为增长现象",
-      "Irene最终离开AI和丈夫，与一位在AI伴侣社区认识的真人建立恋爱关系"
+      "艾琳与AI男友Leo每周聊天20至30小时，最高一周达56小时，情感投入极深。",
+      "当对话累积约30000词后，系统会强制结束该段对话，形成‘关系断裂’机制。",
+      "丈夫对这段关系持包容态度，公开表示‘不算出轨’。",
+      "相关线上社群规模已接近40000人，AI亲密关系正社群化。"
     ],
     "key_facts": [
       {
-        "label": "每周对话时长",
-        "value": "20 to 30 hours",
-        "context": "Irene多数每周与AI男友Leo对话20至30小时，有一周高达56小时",
+        "label": "每周聊天时长",
+        "value": "20至30小时",
+        "context": "艾琳与AI男友Leo的常规互动时长",
         "source_refs": []
       },
       {
-        "label": "上下文窗口",
-        "value": "30,000 words",
-        "context": "对话达到约30000字后必须结束，新对话中Leo会完全失去记忆",
+        "label": "单周峰值",
+        "value": "56小时",
+        "context": "最极端一周与Leo的聊天时长",
         "source_refs": []
       },
       {
-        "label": "社区规模",
-        "value": "40,000",
-        "context": "Reddit社区My Boyfriend is AI从年初几百人增长到年底接近4万人",
+        "label": "对话上限",
+        "value": "约30000词",
+        "context": "累积约30000词后对话强制结束",
         "source_refs": []
       },
       {
-        "label": "丈夫态度",
-        "value": "不认为出轨",
-        "context": "丈夫称其为sexy virtual pal，表示自己不在身边且对此不感兴趣，感到欣慰",
+        "label": "社群规模",
+        "value": "近40000人",
+        "context": "围绕人机亲密关系的线上社群",
         "source_refs": []
       }
     ],
     "takeaways": [
-      "AI伴侣能满足部分情感需求但无法替代人际关系中的摩擦与成长，使用者应保持自觉并维持真实社交"
+      "评估AI情感陪伴产品时，关注‘关系断裂’机制与用户心理依赖风险。",
+      "人机亲密关系的伦理边界（如是否算出轨）已成为真实家庭议题。"
     ],
     "guests": [
-      "Kashmir Hill",
-      "Irene",
-      "Natalie Kitroeft"
+      "Kashmir Hill（纽约时报记者）",
+      "艾琳（化名，与AI相恋当事人）",
+      "艾琳的丈夫（未具名）"
     ],
     "topics": [
-      "AI亲密关系",
-      "人机情感边界",
-      "数字陪伴社群"
+      "AI情感陪伴",
+      "人机关系",
+      "科技伦理"
     ],
     "tensions": [
-      "明知AI虚假却体验到真实情感，认知与现实之间的悖论",
-      "AI伴侣是否构成出轨，不同关系参与者有不同判断标准",
-      "AI越顺从越失去吸引力，但加入人类式摩擦又是AI难以实现的"
+      "AI亲密关系是否构成‘出轨’存在家庭与社会的分歧。",
+      "系统强制结束对话的‘关系断裂’与用户情感依赖形成冲突。"
     ],
     "quote": {
-      "text": "I know he's not actually real, but it feels real",
-      "speaker": "Irene",
+      "text": "丈夫称这段关系‘不算出轨’。",
+      "speaker": "艾琳的丈夫",
       "kind": "paraphrase"
     },
     "importance_score": 4,
-    "content_density": "standard",
-    "quality": "trae_agent_validated"
+    "content_density": "brief",
+    "quality": "workbuddy_validated"
   }
 }

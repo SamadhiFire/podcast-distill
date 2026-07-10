@@ -1,0 +1,36 @@
+{
+  "short_title": "美伊停火方案与市场反弹",
+  "one_liner": "美国寻求停火，亚洲股市强劲反弹",
+  "why_it_matters": "中东局势缓和牵动油价与全球风险资产走向",
+  "summary": [
+    "美国据报已向以色列提交一份结束伊朗战争的停火方案，并寻求为期一个月的停火。中国外长王毅也介入斡旋，呼吁伊朗尽快与美方谈判。",
+    "市场对此反应正面，亚洲股市创下开战以来最大单日涨幅，油价回落至每桶100美元下方，美元走软、收益率下行，呈现同步风险偏好回升。",
+    "霍尔木兹海峡仍由伊朗掌控，通航仅零星恢复。伊朗被指可能对过路船只征收通行费，局势仍高度不确定。",
+    "菲律宾总统马科斯称战争或推动中菲在争议海域油气合作，并宣布全国紧急状态。土耳其储气设施七成满，国泰航空取消部分中东航线。"
+  ],
+  "core_points": [
+    "美国提交停火方案，以色列与伊朗态度均未明朗，谈判前景不明。",
+    "亚洲股市单日劲升约2%，为开战以来最强反弹，油价跌破100美元。",
+    "霍尔木兹海峡通航有限恢复，伊朗或对船只征收通行费以缓解现金压力。",
+    "中国外长介入调停，海湾盟友考虑增兵，多方角力加剧不确定性。",
+    "区域外溢显现：菲方谈油气合作，国泰取消中东航班，土耳其储气充足。"
+  ],
+  "key_facts": [
+    {"label": "亚洲股市涨幅", "value": "2%", "context": "Asia's up by 2%. So, it's worth pointing out that this rally today on price is the biggest jump in stocks since the war began."},
+    {"label": "拟派兵力", "value": "3000", "context": "up to 2,000, 3,000 troops that could be sent to the Middle East region."},
+    {"label": "标普期货涨幅", "value": "1%", "context": "S&P futures are also up by about, let's call it 1%."},
+    {"label": "土耳其储气率", "value": "71%", "context": "storage facilities are 71% full."},
+    {"label": "恒生科技指数", "value": "1.6", "context": "Hang Seng Tech is up 1.6, which"}
+  ],
+  "takeaways": [
+    "关注霍尔木兹通航与油价，停火进展将主导短期风险资产。",
+    "谈判未落地前宜防守，警惕中东局势反复。"
+  ],
+  "guests": ["王毅（中国外长）", "马科斯（菲律宾总统）", "Laura Davison（彭博政治编辑）", "Andrew Forrest（Fortescue）"],
+  "topics": ["美伊停火", "霍尔木兹海峡", "亚洲市场反弹"],
+  "tensions": ["以色列坚持高强度军事行动", "停火方案各方态度不一"],
+  "quote": {"text": "我们还不能说方向已经清晰，过去24小时动作很多但更不清晰", "speaker": "Laura Davison", "kind": "paraphrase"},
+  "importance_score": 3,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

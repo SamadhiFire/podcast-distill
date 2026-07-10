@@ -1,0 +1,32 @@
+{
+  "short_title": "疯狂动物城抄袭疑云",
+  "one_liner": "Gladwell深挖迪士尼秘辛",
+  "why_it_matters": "好莱坞创意剽窃与版权博弈的离奇案例",
+  "summary": [
+    "Malcolm Gladwell在《Revisionist History》中讲述编剧Gary Goldman的离奇指控：他早在2000年便构思了名为Zootopia的动物乌托邦，并在2016年迪士尼同名电影上映前提交过详细方案。",
+    "Goldman认为迪士尼抄袭其核心创意，遂提起版权诉讼，但案件因好莱坞原告极难胜诉的判例而被驳回。续集Zootopia 2中一条名为Gary的犹太蛇角色，被多人解读为对他的隐晦致意或嘲讽。",
+    "Gladwell向迪士尼CEO Bob Iger求证未获实质回应，好莱坞大佬们也集体缄默。本集留下悬念，预告下集将提出关于迪士尼内部究竟发生了什么的大胆理论。"
+  ],
+  "core_points": [
+    "Goldman称其早在2000年构思Zootopia动物乌托邦创意。",
+    "迪士尼2016年上映同名电影，Goldman指控创意被抄袭。",
+    "版权诉讼因原告难胜诉的判例被驳回，双方和解。",
+    "续集蛇角色Gary被解读为对Goldman的隐晦致意，悬念待解。"
+  ],
+  "key_facts": [
+    {"label":"创意构思年份","value":"2000","context":"2000. 2000. Yeah. don't know, four and six."},
+    {"label":"首部上映时间","value":"2016","context":"Which came out in 2016. Featuring a rabbit named Judy Hopps and a con artist fox named Nick Wilde."},
+    {"label":"蛇角色犹太特征","value":"100%","context":"the snake looks Jewish. 100%. I'm Jewish, so now I did think the snake looked Jewish."}
+  ],
+  "takeaways": [
+    "好莱坞编剧难凭创意被抄而胜诉，需留痕自保",
+    "续集角色或暗藏对诉讼当事人的隐晦回应"
+  ],
+  "guests": ["Malcolm Gladwell（主持人）","Gary Goldman（编剧）","Angus Fletcher（俄亥俄州立大学）"],
+  "topics": ["版权争议","迪士尼","好莱坞秘辛"],
+  "tensions": ["创意独立创作与抄袭巧合之间的证据张力"],
+  "quote": {"text":"那条蛇看起来就是犹太人，百分之百","speaker":"Malcolm Gladwell","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "standard",
+  "quality": "llm_validated"
+}

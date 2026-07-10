@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 1645,
+    "item_id": "xiaoyuzhou:6a3cdd3a2e335a35a809346f",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a3cdd3a2e335a35a809346f",
+    "published_at": "2026-06-25T15:55:05.457000+08:00",
+    "published_date": "2026-06-25",
+    "relative_dir": "2026-06/独树不成林",
+    "schema_version": 1,
+    "source_id": "xyz_du_shu_bu_cheng_lin",
+    "source_name": "独树不成林",
+    "status": "pending",
+    "target_basename": "2026-06-25_348-真男人为什么应该练翘臀？_6a3cdd3a2e335a35a809346f",
+    "title": "348-真男人为什么应该练翘臀？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a3cdd3a2e335a35a809346f"
+  },
+  "audio_url": "https://media.xyzcdn.net/64acd33c7a3d479103fbd32d/lisVx-gJlNMvam5AyDBZLrl9p_xt.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\独树不成林\\2026-06-25_348-真男人为什么应该练翘臀？_6a3cdd3a2e335a35a809346f.m4a",
+  "bytes": 22090988,
+  "sha256": "34384e5df75658d6a7fda78de9dd3118480f5e4f48f4d287e6a0f2df5ebc1d9f",
+  "downloaded_at": "2026-07-02T03:39:04Z"
+}

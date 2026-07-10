@@ -1,0 +1,36 @@
+{
+  "short_title": "AI如何重塑现代战争",
+  "one_liner": "Palantir CTO谈异端精神与AI军工",
+  "why_it_matters": "AI与再工业化正重写美国军工与威慑逻辑",
+  "summary": [
+    "Palantir CTO Shyam Sankar以美军史上的异端者为例，强调真正推动胜机的创新来自对抗官僚体系、执着于交付的创始人式人物。",
+    "他回顾核潜艇之父Rickover等人物，说明被体制排斥的少数派往往才是决定战争胜负的关键，并主张以同样精神重建美国工业基础。",
+    "Sankar认为AI正以AIP等形式深刻改变作战与企业运营，过去一年其进步快过此前19年，并强调在危机窗口期必须快速部署。",
+    "他呼吁美国重拾垂直整合的制造能力以威慑中俄，指出当前军工投入结构失衡，唯有持续创新才能维持不对称优势。"
+  ],
+  "core_points": [
+    "军工突破多来自被体制排斥的异端式创始人人物。",
+    "Rickover以7年建成首艘核潜艇，奠定对中俄不对称优势。",
+    "AI过去一年的进展超过此前19年，正重塑作战方式。",
+    "美国需重建垂直整合工业基础以威慑中俄对手。",
+    "Palantir以4500人规模践行软件与军工融合的异端路径。"
+  ],
+  "key_facts": [
+    {"label":"AI自动审核占比", "value":"85%", "context":"using AI to automate 85% of expense reviews"},
+    {"label":"审核准确率", "value":"99%", "context":"with 99% accuracy. And since Ramp saves"},
+    {"label":"企业节省比例", "value":"5%", "context":"since Ramp saves companies 5%"},
+    {"label":"希金斯设计船只比", "value":"90%", "context":"Higgins who designed 90% of the boats"},
+    {"label":"Palantir员工数", "value":"4,500", "context":"small as ours is only 4,500 people"}
+  ],
+  "takeaways": [
+    "关注AI与再工业化对美国军工韧性的长期影响",
+    "重视异端式创新在组织对抗中的决定性作用"
+  ],
+  "guests": ["Shyam Sankar", "Patrick O'Shaughnessy"],
+  "topics": ["人工智能", "现代战争", "军工工业", "再工业化"],
+  "tensions": ["官僚体系与异端式创新之张力", "成本效率与战略威慑之取舍"],
+  "quote": {"text":"所有改变都来自异端，他们后来才成为英雄", "speaker":"Shyam Sankar", "kind":"paraphrase"},
+  "importance_score": 4,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

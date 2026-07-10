@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 2077,
+    "item_id": "xiaoyuzhou:6a049d201b7bd5029519773d",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a049d201b7bd5029519773d",
+    "published_at": "2026-05-14T07:00:00+08:00",
+    "published_date": "2026-05-14",
+    "relative_dir": "2026-05/商业就是这样",
+    "schema_version": 1,
+    "source_id": "xyz_business_is",
+    "source_name": "商业就是这样",
+    "status": "pending",
+    "target_basename": "2026-05-14_Vol.256 职业电竞，“职业”在哪儿？_6a049d201b7bd5029519773d",
+    "title": "Vol.256 职业电竞，“职业”在哪儿？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a049d201b7bd5029519773d"
+  },
+  "audio_url": "https://media.xyzcdn.net/6022a180ef5fdaddc30bb101/lim7Lw4nrlPjXjKNRK3suQLEHCGP.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\商业就是这样\\2026-05-14_Vol.256 职业电竞，“职业”在哪儿？_6a049d201b7bd5029519773d.m4a",
+  "bytes": 50238028,
+  "sha256": "3af0efa36bb50b2ce53b0527d459a8c04d5673cefed3a705b0dd81486eb7ea49",
+  "downloaded_at": "2026-07-02T04:06:38Z"
+}

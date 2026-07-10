@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "新闻 / 时评 / 全球议题",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 6830,
+    "item_id": "xiaoyuzhou:6a40b830ffcf45052c805d5f",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a40b830ffcf45052c805d5f",
+    "published_at": "2026-06-29T11:30:00+08:00",
+    "published_date": "2026-06-29",
+    "relative_dir": "2026-06/晚点聊 LateTalk",
+    "schema_version": 1,
+    "source_id": "xyz_late_talk",
+    "source_name": "晚点聊 LateTalk",
+    "status": "pending",
+    "target_basename": "2026-06-29_170_ 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人_6a40b830ffcf45052c805d5f",
+    "title": "170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a40b830ffcf45052c805d5f"
+  },
+  "audio_url": "https://media.xyzcdn.net/61933ace1b4320461e91fd55/lmlyCYo31N8bQC8nVVKvqcWaoBdJ.mp3",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\晚点聊 LateTalk\\2026-06-29_170_ 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人_6a40b830ffcf45052c805d5f.mp3",
+  "bytes": 109742184,
+  "sha256": "0e638021d0c89c96c3a11ebf3e15eac166ff0e9d0197b6062344837fa1445592",
+  "downloaded_at": "2026-07-02T03:37:00Z"
+}

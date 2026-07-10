@@ -1,0 +1,31 @@
+{
+  "short_title": "Notion的AI workspace之路",
+  "one_liner": "从笔记应用迈向人机协作平台",
+  "why_it_matters": "Notion转型揭示知识工作与工程组织的AI范式转变",
+  "summary": [
+    "Notion联合创始人Simon Last讲述公司如何自2022年接触GPT-4后，迅速从写作助手起步，逐步构建问答检索与个人代理，把笔记应用重构为人机协作的AI平台。",
+    "他强调代理时代工程组织彻底改变，自己已不再手写代码而成为代理管理者，并认为便捷API与持续迭代的检索能力，是企业真正落地AI的关键。"
+  ],
+  "core_points": [
+    "Notion于2023年上线AI写作功能，并持续扩展索引与问答能力。",
+    "团队在2022年首次接触GPT-4，认定AI落地时机已经成熟。",
+    "一人借助AI可像1,000倍工程师般工作，代理自动化潜力巨大。"
+  ],
+  "key_facts": [
+    {"label":"AI功能上线","value":"2023","context":"Notion的AI写作功能在2023年正式上线"},
+    {"label":"初识GPT-4","value":"2022","context":"团队在2022年首次接触GPT-4并启动AI探索"},
+    {"label":"效率杠杆","value":"1,000","context":"用上AI后一人可像1,000倍工程师般高效工作"},
+    {"label":"邮件自动化","value":"95%","context":"Slack里95%的个人邮件可由代理自动处理"}
+  ],
+  "takeaways": [
+    "关注AI代理如何重塑工程组织与个人工作流",
+    "便捷API与检索质量是知识工具落地AI的核心"
+  ],
+  "guests": ["Simon Last（Notion联合创始人）"],
+  "topics": ["AI产品", "Notion", "人机协作"],
+  "tensions": ["代理自动化与人工信任之间仍需平衡"],
+  "quote": {"text":"我们的目标已从帮人直接工作，转为帮人管理代理来完成工作","speaker":"Simon Last","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "brief",
+  "quality": "llm_validated"
+}

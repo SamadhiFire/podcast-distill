@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 16414,
+    "item_id": "xiaoyuzhou:691c4384cbba038b4221f202",
+    "month": "2025-11",
+    "platform": "xiaoyuzhou",
+    "platform_id": "691c4384cbba038b4221f202",
+    "published_at": "2025-11-18T20:00:01.942000+08:00",
+    "published_date": "2025-11-18",
+    "relative_dir": "2025-11/无人知晓",
+    "schema_version": 1,
+    "source_id": "xyz_wu_ren_zhi_xiao",
+    "source_name": "无人知晓",
+    "status": "pending",
+    "target_basename": "2025-11-18_E42 孟岩对话韦青：沉默的主角_691c4384cbba038b4221f202",
+    "title": "E42 孟岩对话韦青：沉默的主角",
+    "url": "https://www.xiaoyuzhoufm.com/episode/691c4384cbba038b4221f202"
+  },
+  "audio_url": "https://media.xyzcdn.net/611719d3cb0b82e1df0ad29e/lip25o2Kub9DkNPjHfgC4lz_76W0.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2025-11\\无人知晓\\2025-11-18_E42 孟岩对话韦青：沉默的主角_691c4384cbba038b4221f202.m4a",
+  "bytes": 490231061,
+  "sha256": "d326d11d1186778408b17f898e1c4af09e852bd5655c2f8362de67d7fb148fe1",
+  "downloaded_at": "2026-07-02T04:54:54Z"
+}

@@ -1,0 +1,550 @@
+TITLE: OpenClaw Mania Sweeps China | The China Show 3/11/2026
+CHANNEL: Bloomberg The China Show
+DURATION_S: 5575  DENSITY: high  REQ summary=4 core=5
+PUBLISHED: 2026-03-11T05:21:14+00:00  URL: https://www.youtube.com/watch?v=DIKnE629emQ
+SHA256: 4f02407d416bb28fec97d16c79241ba92b6df6fa327baafef215ad07b690284f
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [1%] is coming online right now up 1% in the
+  [5%] is up another 5%. Mini Max is up some
+  [2%] verge of falling below 2% today and of
+  [10%] down about 10%. So, I mean, maybe not as
+  [3%] falling some 3% here. So, maybe a bit of
+  [1.7%] Jan and Feb, that number is out 1.7% to
+  [15%] 15% going into the open today. China
+  [90%] fairly full, 85-90% full. So, and they
+  [2022] swings in oil going back to 2022. That's
+  [80000] Tencent has got around 80,000 R&amp;D
+  [50%] to 50% of that is coming directly into
+  [40%] up 40% year-to-date. So, we're still
+  [6.9] dollar China was back above 6.9, and as
+  [6.87] coming through 6.87 right now on dollar
+  [7%] and 1/2% in the pre-market. It was up 7%
+  [4700] 4700 line. Uh Shanghai crude, so
+  [16%] stock by close to 16% following what we
+  [2017] 2017 Trump sent his
+  [4%] about 4% of GDP
+  [4.5] Maybe the range is the 4.5 to 5%, but
+  [2008] during the 2008
+  [20%] saw the likes of MiniMax up some 20%.
+  [30%] to $80 on Brent, we're still up 30% for
+  [1.6%] We're now up just 1.6% about 30 minutes
+  [2020] 2020 when there was so much excitement
+  [95%] is somewhere in the region of 90 to 95%
+  [2007] probably since the iPhone in 2007.
+  [2026] &gt;&gt; in 2026?
+  [2025] 2025.
+
+=== TRANSCRIPT EXCERPT ===
+9:00 a.m. in Shanghai, Shenzhen, and
+here in Hong Kong. You're watching the
+China Show. I'm Yvonne Man with David
+and Glass.
+markets in [music] greater China. Our
+top stories today, energy markets remain
+in whipsaw territory. Uh investors
+weighing what could be the largest ever
+oil increase from IEA. Uh the Trump
+White House mix mix messaging on the war
+in Iran.
+consumers [music] and tech firms rushing
+to embrace the open source AI program.
+We speak to the co-founder of AI cloud
+platform Tuya about [music] the growth
+strategy and their global expansion
+plans.
+political gatherings of the year are
+drawing to a close [music] today and
+tomorrow as attention now really sort of
+pivots to Donald Trump's visit here
+later this month and early April for
+that summit with Xi Jinping.
+is very headline driven here. At least
+oil markets are concerned given Yeah, as
+you talked about the conflicting sort of
+messages we're getting from the White
+House. But at least in the last hour or
+so, it was that Wall Street
+on. The calmer heads are really kind of
+helping here when it comes to the
+volatility and stemming that in some
+way.
+quite a big number, too, right? 182
+million barrels. And you got to wonder
+to your point We were just having this
+conversation right before we came on
+set, you know, whether it was a matter
+of supply because supply was simply
+turned off because storage was filling
+up. It's It's moving and transporting
+the stuff that's that's the key issue
+right now. That goes into the mixed
+messages around what really is taking
+place in the Strait of Hormuz, the you
+know, the amount of traffic that's going
+through.
+There's report of mines and then Donald
+Trump, of course, coming out the
+president saying, you know, we're going
+to address that if in fact Iran is is is
+is looking to plat just a lot of naval
+mines as well. But yes, it's it's
+headline driven to your point, which is
+why I guess when you look at markets,
+we're really seeing very strange things
+taking place, which normally don't
+coexist well. I'll get to that in a
+moment.
+of with the energy secretary of the US,
+Chris Wright, when he came out with this
+post talking about, you know,
+vessels were being escorted through the
+Strait of Hormuz and then it was taken
+down and then Caroline Livitt had to
+come through and you know, it it just
+became so confusing that at one point I
+think oil markets were sub 80 at one
+point and then we kind of flipped back
+up and now this IEA report kind of puts
+things back into a little bit more of a
+settling territory, but it just goes to
+show that the Iran strategy from the US
+administration right now is in in some
+ways quite conflicting and confusing,
+too.
+later on, of course, that exchange
+as far as the White House is concerned.
+But two messages, right? I think what we
+can take away. One is
+things have not settled when you look at
+Brent fall, for example, that's coming
+up on your screens. 10-day fall is now
+at historic levels, effectively
+comparing that to Ukraine war, which is
+in blue, the global pandemic, which is
+in pink, the global financial crisis in
+orange,
+Desert Storm
+in in the late '90s, right? Now, even if
+this goes away, say this settles, if
+this goes away we're still stuck with
+the inflation issue because oil is still
+up 40% year-to-date. So, we're still
+stuck with that issue as well. So,
+markets are trying to just
+figure out which is the lesser evil at
+this point in time.
+scenario is stagflation, right? Which is
+what, you know, people are starting to
+worry about. If we continue to see this
+conflict continue and prolonged, you
+know, does this mean that, you know,
+it's going to be even harder for for
+central banks uh to really cut rates.
+So, there's that And then, you know, I
+really want to talk about open claw, but
+you know, it's really these headlines
+that are really overshadowing what we
+really want to talk about in China,
+which is this frenzy that's going on
+with open claw right now. And the the
+lobster husbandry, have you seen it?
+now. [laughter] It was uh they've always
+been their lobster, as they say. Uh and
+it's really it's taken on really the
+primary moving the primary mover when
+you look at markets going into the close
+yesterday, right? Tencent, Minimax, and
+what have you. Overnight, you had Baidu
+as well. We'll get to that in a moment,
+but yes, these are two separate stories,
+and I imagine the latter will be
+still front and center when you look at
+these Chinese markets coming online
+right now. Uh that all being said, Brent
+is coming online right now up 1% in the
+early
+of 1%. Uh just looking at the intraday
+really doesn't do justice to the amount
+of swings we've seen
+at the Nikkei 225. So, I I alluded to
+this too. It's quite rare that you see
+the cash market is up by that amount,
+and the Nikkei vol index is also up by
+quite substantial amounts. So, you are
+getting still hedging coming through
+amidst the rally taking place. Taiwan
+within that uh this is perhaps the
+window to tell you this. Uh TSMC, of
+course, uh in terms of monthly sales, uh
+Jan and Feb, that number is out 1.7% to
+the upside. S&amp;P futures are better by
+about a third of 1%. So, we talked about
+this. You had earnings coming through.
+Alibaba was up overnight. This check
+rally again very much in focus. Nio's an
+earning story. Uh we'll see what that
+looks like as far as the listing this
+part of the world is concerned. A50
+futures, last we checked, are slightly
+to the downside. Oil coming up, and
+dollar China was back above 6.9, and as
+you can see in terms of uh the dollar
+coming through 6.87 right now on dollar
+offshore.
+latest confusion over US policy over
+Iran uh really has started with that now
+deleted post on X by the energy
+secretary Chris Wright talking about
+these sort of US escorts.
+And then really what we heard was this
+pretty interesting exchange from from
+our own BN reporter
+Hadriana Lowenkron with Carolyn Levitt
+in the White House really clear trying
+to clarify what really is the strategy
+moving forward. Take a listen.
+posted and then appeared to have deleted
+a post on X saying that the US Navy
+escorted an oil tanker through the
+Strait of Hormuz?
+haven't had a chance to talk to the
+energy secretary about it directly.
+However, I know the post was taken down
+pretty quickly and I can confirm that
+the US Navy has not escorted a tanker or
+vessel at this time. Though of course
+that's an option the president has said
+he will absolutely utilize if and when
+necessary at the appropriate time.
+posted erroneously
+or could it be because of a staffer,
+what you know, what I guess
+will there be any consequences for this?
+I know you still have to consult but
+just generally speaking
+Department of Energy to answer that
+question.
+quickly,
+in [clears throat] terms of oil
+sanctions, the president said that there
+would be some sanctions what that would
+be lifted. Would those be on Venezuela,
+Russia? Could you give some specifics
+there and then timing for that as well?
+Treasury Department and the president's
+energy team continue to discuss and they
+will ultimately consult with the
+president before decisions are made. I
+don't have any announcements on new
+sanctions or the lifting of new
+sanctions for you today.
+with us right now with the latest.
+Derek, more question marks now than we
+have answers. Split the difference for
+us between that exchange. Where what
+message do you think we should be taking
+away at this point?
+two sort of buy, sell, hold questions
+that people have here, right?
+From a market's perspective. One is
+when's this going to end, right? It's
+it's going to end sooner or it's going
+to end later, right? So, that's the
+first one. The second one is when does
+energy
+uh flow get back to some semblance of
+what people have thought of as normal.
+……（中部抽样）……
+Uh those two things are very closely
+comment about whether they're going to
+takes together
+know, fate of what happens in the Middle
+know at this point of the situation
+know, if this is going to happen, we're
+fact that there have been blockages and
+When you have something that's this big
+a decision to to put down their guns and
+might be prepared to do in terms of
+but nonetheless, you know, gains in
+responded pretty favorably. I think that
+well. And so, you know, the the market
+moment in time. And with the reserves
+be able to talk about something other
+creates a lot of security questions as
+for the companies that are that are
+tech companies coming through. [music]
+Certainly there's been some local media
+southbound flows, Dave.
+buyers, too. BYD conversation around F1
+claw frenzy. We kind of missed it given
+idea of open claw is that it comes to
+because it connect can can connect to
+automatically register you instead. I
+done?
+for the stock. they released their own
+note out from Bloomberg Intelligence for
+online wearing like the lobster hats and
+tech correspondent on the latest of
+things are actually slowing down
+getting involved in F1.
+markets. So, there's obviously the Iran
+Strait of Hormuz, [music]
+local governments in in Shenzhen and
+space. Here's what onshore markets are
+release one of the largest uh reserves
+few days ago. So, certainly that's the
+here. Uh property and some of the banks
+interesting as well. Uh Nio, we did see
+late. Uh so, we talked about oil, we
+could say, lower. Uh and then let's talk
+tech giant like Baidu. Now, it's quite
+enthusiasm is coming up against this
+Information and Comms Tech, warning of
+over in Beijing. Of course, it's been
+presidents?
+is there's only 3 weeks left to get all
+that the Chinese
+Trump let's face it I think he thinks
+time to possibly get the preparation
+Paris this weekend. But again, 3 weeks
+question.
+Steve, coming through here. But yeah,
+and the fiscal in NPC. I think you know,
+that will limit the room for monetary
+Chinese economy at the beginning of this
+does having a 5% let's say they hit the
+globally. But in the meantime we know
+know, talents in China. In the meantime
+know, enjoy the food there.
+parts like Guangdong, which are you
+of meaningful sort of
+in terms of this. Of course, you know,
+you know in province in city like
+for service related jobs there.
+mind in that?
+when the oil price is surged you know
+kind of perspective, we what we have to
+of those export numbers that we got
+cheap products and the like. I mean, is
+competition
+You know, these kind of things in the
+you know, not only this year, but also
+yeah.
+views on the impact of the war in Iran,
+affects the company.
+looking to travel because in the near
+strategies are are prudent. Um and and
+have uh you know, them as big transit
+they are going to have to balance with.
+relatively [music] flat here this
+is Bloomberg.
+last we checked.
+continues for some of these tech giants.
+to note though when it comes to the
+you square that with this journal report
+number uh that's coming through in terms
+Uh we're coming off quite steep selling,
+think we're looking at the biggest
+from a central banker perspective,
+the risks to this. The market is still
+whole technology. And certainly this
+write emails, organize emails, or even
+successor of Deep Seek. You know, could
+well. MiniMax was surge continues to
+going on this space here.
+like. And it just shows you how you
+China maybe before that crackdown in
+challenged I am [laughter] just in in
+interview with the People's Daily, an
+Okay, before we get to the poo-pooing,
+general usage of these tools. But uh I
+pricing which relates directly to token
+certainly the smaller guys Minimax and
+you know, in terms of everybody this
+that is available to everyone because
+realistic view as to when these
+and maybe see a bit more promise there?
+Um, you know, in the subsequent years it
+to drive earnings in the long run. So,
+MiniMax, not picking on them, has got
+here. 20 HK. Yes, I mean, we were at
+guys.
+I mean, the the way I think about it is
+really have a big impact is in some of
+days. We're still kind of in the first
+kind of looking at that that activity
+think where you can see the much more
+in China. Yeah.
+US hyperscalers, where are we within
+it's it's a great time to be a supplier
+getting stronger recently, we're still
+interesting estimates on this. So you
+I think there was a 50-year bond deal.
+driver of that demand. And the reason
+sticking around. Still ahead on the
+chain and what we see at the moment is
+with agents at the moment this week, but
+of these sort of corrections to to
+rolling out. So we're still very early
+macro overlay. Does the thesis hold up
+relationship between the the weaker
+more of an international allocation. And
+been disruption. So, AI disruption. So,
+the bathwater. I think we've seen a
+more disposable income, they're more
+game.
+is not a province of Guangdong Guangdong
+of war, very easy calculation, about 20
+the war continues and the strait remains
+simultaneously.
+Uh joining us out of Singapore is our
+releasing a whole heart of emergency
+pain points on hand is still the fact
+military operations. I mean what what is
+fundamentals it really what I'm really
+impact of such a huge oil infrastructure
+about the amount of capacity that is
+now. But what I can say for sure is that
+whether it's a production cut is a
+and really reacting to things and
+given all the news flow too, [music]
+to the upside here. One of the stock
+COO and also the CFO of the US and Hong
+over all those kind of different type of
+little more about it. It seems like you
+capability how to help make your life
+that automatically for you. So that's
+elders and for the for the very young
+things like predictable revenue, stable
+adoption of smart devices. So, I do
+different type of manufacturers. They
+using it? Have you been deploying it in
+with AI. Even though that okay, that
+more of them. And uh to help people do
+real-life example because I think you're
+adopted to to to global market.
+and spilled some milk on the dining
+the exactly locations that what the
+cases. So I think I believe that
+you? Is is it competition given that
+have been taking places. And because we
+easier enough for majority of the
+we're all taking places all over the
+……（接近结尾）……
+in the future we might see BYD among the
+cars burning rubber on the circuit
+there. That's because the automaker is
+said to be examining options here to
+enter Formula 1.
+reporter joins us now. Um I mean,
+obviously there's there's a lot of brand
+recognition involved, but what is it
+going to be the appeal for BYD to enter
+something like F1?
+if BYD decide to, you know, enter into
+the F1, maybe considering building their
+own team or buying into a season, that
+means millions of viewers around the
+world. Um you know, could be accessible
+through, you know, the presence in these
+races. And you know, fans get very
+passionate about, you know, supporting
+their own teams. So, these are all
+cachet that BYD really wants to access
+as it pushes up its luxury branding.
+Because right now, as we know, BYD in
+China especially is still known as a
+mass-market brand. It's got this long
+association for being ride-hailing cars.
+So, I think BYD is trying to assess
+options for shaking up, you know, its
+mass-market image.
+weekend because it's quite It's quite
+soon. But do we have a rough timeline? I
+know it's still very, very loose stages.
+right?
+BYD is the amount of investments you
+might need to spend into
+you know, if they're considering
+building up a team. Maybe more
+I guess uh
+economical option would be for BYD maybe
+buying into an existing team or do some
+partnerships
+as we've seen with other Chinese
+automakers have done in the past such as
+Geely.
+Other than F1, BYD may also look to Le
+Mans, the really famous endurance
+racing. So, there are several options
+out there for BYD. And I think it's
+probably going to really assess
+you know, the amount of investments
+required versus the payoff they might
+get.
+push. How How's that going for BYD now?
+for BYD given that, you know, they've
+been known as this affordable brand for
+such a long time. Um
+you know, in the beginning even compared
+against Tesla, they were seen as the
+more um affordable cheaper option. But
+now BYD has launched these uh very
+expensive upmarket brands such as the
+Yangwang series, uh which is priced at 1
+million yuan or above. And BYD has also
+built racing tracks uh in China hoping
+to really attract customers with this
+need for speed, uh you know, more
+uh upscale customers, you know, that
+maybe wouldn't have considered BYD
+before, but now with more expensive
+offerings, BYD is really hoping to get
+better margins from these brands.
+there, our automotive reporter uh on all
+things yeah, BYD. Maybe they'll make it
+to the next next season of Drive to
+Survive. I don't know.
+driver to drive it, right? Oh.
+think about it? BYD
+short-lived, but yes, we we needed some
+more Chinese presence uh in the F1. Um
+speaking of which, of course, there you
+go. There he is. Um we were talking
+about, you know, battery stocks
+obviously. Um there's been certainly
+some bright spots in all of this here.
+Um as we tilt more to the EV space, I
+guess. But take a look at what it comes
+to CATL and NIO results that really
+talked about the whole the energy
+independence that China has. Optical
+names also were stronger here because of
+Oracle server demands and what we saw in
+some of those indications there. So,
+certainly those things are rallying
+quite hard here today in China.
+here for for for battery for CATL,
+right? And I think Tencent not the same
+can be said. I think we're still up but
+not to the extent of yesterday, which is
+perhaps why when you look at Hang Seng
+Index, we are
+coming off highs uh already as far as
+that's concerned. Obviously, we still
+Oh, actually no, my mistake. We didn't
+see a
+a leg up here just now. I wonder
+actually why. Okay, let's have a look at
+uh what's going on underneath the hood.
+Uh we are entering the last hour of the
+morning session. It's It's so it is
+quite early there. So, CATL is leading
+that. Geely among the big names, of
+course, moving
+uh to the upside. MSCI Asia Pacific 1.7%
+so it's the rally continues [music]
+across the region, uh the Asian equity
+complex here.
+show. Insight is next. Stay with us.

@@ -1,0 +1,30 @@
+{
+  "short_title": "高通CEO谈掌中AI智能体",
+  "one_liner": "AI成新交互界面，手机不灭",
+  "why_it_matters": "端侧AI将重塑移动设备与人机交互",
+  "summary": [
+    "高通CEO安蒙认为AI正成为新的用户界面，设备将理解人的语言与意图。个人AI设备如智能眼镜、耳机、首饰将与手机并存，由端侧芯片提供情境感知。",
+    "他预计AI从训练转向推理阶段，功率高效的端侧计算成为关键，数据中心的推理架构将走向去GPU化。谁能理解人的意图，谁就能捕获生态最大价值。"
+  ],
+  "core_points": [
+    "AI是新UI，手机将理解用户意图，智能体可替代部分App完成支付与预定等任务。",
+    "端侧计算结合云端，高通凭低功耗芯片优势切入数据中心推理市场。",
+    "从训练走向推理，未来数据中心架构或去GPU化，运营效率与成本决定胜负。"
+  ],
+  "key_facts": [
+    {"label": "入行年份", "value": "1995", "context": "安蒙于1995年以工程师身份加入公司"},
+    {"label": "当前年份", "value": "2026", "context": "如今是2026年，安蒙在司约三十年"},
+    {"label": "互联网泡沫年", "value": "2000", "context": "他以2000年泡沫类比当下AI热潮"}
+  ],
+  "takeaways": [
+    "关注端侧AI芯片与推理市场的投资机会",
+    "重视人机意图理解带来的生态变局"
+  ],
+  "guests": ["Cristiano Amon"],
+  "topics": ["端侧AI", "移动设备", "推理计算"],
+  "tensions": ["云端与端侧计算之取舍"],
+  "quote": {"text": "谁有能力理解人的意图，谁就有机会成为赢家并捕获最多价值", "speaker": "Cristiano Amon", "kind": "paraphrase"},
+  "importance_score": 3,
+  "content_density": "brief",
+  "quality": "llm_validated"
+}

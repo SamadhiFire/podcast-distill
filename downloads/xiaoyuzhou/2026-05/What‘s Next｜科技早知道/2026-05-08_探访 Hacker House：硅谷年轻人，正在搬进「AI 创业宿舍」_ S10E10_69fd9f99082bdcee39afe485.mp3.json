@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "科技 / AI / VC",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 2371,
+    "item_id": "xiaoyuzhou:69fd9f99082bdcee39afe485",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69fd9f99082bdcee39afe485",
+    "published_at": "2026-05-08T16:30:00+08:00",
+    "published_date": "2026-05-08",
+    "relative_dir": "2026-05/What‘s Next｜科技早知道",
+    "schema_version": 1,
+    "source_id": "xyz_whats_next",
+    "source_name": "What‘s Next｜科技早知道",
+    "status": "pending",
+    "target_basename": "2026-05-08_探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」_ S10E10_69fd9f99082bdcee39afe485",
+    "title": "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」| S10E10",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69fd9f99082bdcee39afe485"
+  },
+  "audio_url": "https://media.xyzcdn.net/5e74b52c418a84a046ecaceb/lhkr4EaYTVlauAYvhlBqVq8883n1.mp3",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\What‘s Next｜科技早知道\\2026-05-08_探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」_ S10E10_69fd9f99082bdcee39afe485.mp3",
+  "bytes": 38841108,
+  "sha256": "4e43e803476e86143edd58501848e02c5726032e04160b768a450b0f89b3b8db",
+  "downloaded_at": "2026-07-02T04:10:02Z"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "产品 / 创业 / 管理",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 11092,
+    "item_id": "xiaoyuzhou:698ebb0b66e2c30377510cf6",
+    "month": "2026-02",
+    "platform": "xiaoyuzhou",
+    "platform_id": "698ebb0b66e2c30377510cf6",
+    "published_at": "2026-02-13T18:00:00+08:00",
+    "published_date": "2026-02-13",
+    "relative_dir": "2026-02/张小珺Jùn｜商业访谈录",
+    "schema_version": 1,
+    "source_id": "xyz_zhang_xiaojun",
+    "source_name": "张小珺Jùn｜商业访谈录",
+    "status": "pending",
+    "target_basename": "2026-02-13_132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开_698ebb0b66e2c30377510cf6",
+    "title": "132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开",
+    "url": "https://www.xiaoyuzhoufm.com/episode/698ebb0b66e2c30377510cf6"
+  },
+  "audio_url": "https://media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lplNqS9I0z2b64zp9zF2h6EkhXjr.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-02\\张小珺Jùn｜商业访谈录\\2026-02-13_132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开_698ebb0b66e2c30377510cf6.m4a",
+  "bytes": 179391105,
+  "sha256": "fff3077e02d0bbd1de7f078c2921b7314cb169ac6adc0e0a48f889a8692bc920",
+  "downloaded_at": "2026-07-02T04:41:49Z"
+}

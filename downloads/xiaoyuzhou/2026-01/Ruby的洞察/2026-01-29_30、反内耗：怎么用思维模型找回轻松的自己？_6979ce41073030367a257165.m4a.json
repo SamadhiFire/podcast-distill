@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 4326,
+    "item_id": "xiaoyuzhou:6979ce41073030367a257165",
+    "month": "2026-01",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6979ce41073030367a257165",
+    "published_at": "2026-01-29T08:00:00+08:00",
+    "published_date": "2026-01-29",
+    "relative_dir": "2026-01/Ruby的洞察",
+    "schema_version": 1,
+    "source_id": "xyz_ruby_insight",
+    "source_name": "Ruby的洞察",
+    "status": "pending",
+    "target_basename": "2026-01-29_30、反内耗：怎么用思维模型找回轻松的自己？_6979ce41073030367a257165",
+    "title": "30、反内耗：怎么用思维模型找回轻松的自己？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6979ce41073030367a257165"
+  },
+  "audio_url": "https://media.xyzcdn.net/658be0524b73719a63166bc9/lnR45laTCudBoq4IsFV57zksgN-i.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-01\\Ruby的洞察\\2026-01-29_30、反内耗：怎么用思维模型找回轻松的自己？_6979ce41073030367a257165.m4a",
+  "bytes": 69974351,
+  "sha256": "b85f28090fd6ea6e7f41b50bdada9d3488c8f213e29913b7d2299d9de80f29f8",
+  "downloaded_at": "2026-07-02T04:44:24Z"
+}

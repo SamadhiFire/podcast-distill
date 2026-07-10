@@ -1,0 +1,558 @@
+TITLE: Markets Fall on Gap Between Trump's Talk and Actions | Bloomberg: The China Show 3/27/2026
+CHANNEL: Bloomberg The China Show
+DURATION_S: 5598  DENSITY: high  REQ summary=4 core=5
+PUBLISHED: 2026-03-27T18:19:50+00:00  URL: https://www.youtube.com/watch?v=YskEKMCsJ4E
+SHA256: d34b84b32495e307b472a0ec7bb2dc01fdc89d5b9c94faad4681bea063f1e7a0
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [1%] shares down about 6/10 of 1%. City did
+  [10000] sending another 10,000 ground troops to
+  [2024] in 2024. But then again, uh it is a down
+  [2022] managers. And during the 2022 Ukraine
+  [10%] and maybe like 10% or 20%
+  [20%] and maybe like 10% or 20%
+  [50%] month here and 50% gains already when it
+  [2026] for for 2026
+  [3%] some 3%.
+  [18%] a monthly income of a of 18%. It's
+  [4%] all of them more than 4% at this point
+  [1500] that 1,500 mark, but around levels we
+  [2009] haven't seen since 2009. So big bearing
+  [1.1] Yesterday it was at $1.1 trillion in
+  [4.3%] right now cash holdings is around 4.3%
+  [5.6%] about 5.6%.
+  [2000] 2,000 channel. And
+  [11%] Pony.ai. We are tumbling some 11% in the
+  [1.5%] We're up about 1.5%.
+  [30%] cut the dividend by 30%. The stock is
+  [12%] We're seeing the shares down 12% right
+  [3000] 3,000.
+  [97.9] we have our total revenue $97.9 million
+  [90%] it is up by 90% year-over-year. Our
+  [44.9] revenue $44.9 million
+  [123%] up 123%
+  [29.1] and our full-year gross profit was $29.1
+  [7.60] So, the US listing trading around $7.60,
+  [34%] them by 34% across all types of tickets.
+  [8%] about 8% of the world's liquefied
+  [2020] was seen in uh March 2020 during COVID.
+  [2016] East, we are quite confident in 2016 for
+  [2%] 1/2%. So,
+  [70%] Everybody knows that is 70% out. So the
+  [2017] in 2017 is there's some guaranteed. And
+  [95%] of course the Henderson is now 95%
+  [0.5%] Kong dollars a coupon rate of only 0.5%.
+  [2025] dollars at the end of 2025.
+  [26%] second half, as an example, was up 26%
+  [2800] ETF. They just know it as a stock 2800.
+
+=== TRANSCRIPT EXCERPT ===
+The 9:00 a.m. in Shanghai, Shenzhen, and
+here in Hong Kong. You're watching The
+China Show. I'm Yvonne Man with
+Annabelle Jewelers.
+markets in greater China and our top
+stories this morning. Oil is edging
+lower as President Trump extends his
+deadline for Iran to strike a deal with
+the US. He says talks with Tehran are
+going very well.
+following the sell-off on Wall Street.
+Tech and memory chips also weighing on
+the Kospi after Google touts a memory
+breakthrough.
+interviews lined up on The China Show.
+We'll be talking earnings with
+executives of Pony.ai, WeRide, and
+Henderson Land.
+all the stuff that's happening on the
+show here today. We talk about the
+amount of earnings and the CEOs that are
+coming on, whether it's from the
+robo-taxi side of things all the way to
+property with Henderson Land. And then
+we got the ETF segment as well. So
+certainly there's a lot on tap. But I
+think we're still focusing on as we wrap
+up this trading week of what was
+supposed to be, you know, optimism
+around some sort of ceasefire in Iran.
+It seems like those sort of
+uh hopes are at least fading now.
+in play. And so that's also driving, I
+guess, commodity prices or it is driving
+commodity prices. I mean, we we we had
+that deadline. It was supposed to be 5
+days, now it's 10 days. And so that's
+the big question. I mean, President
+Trump says the talks are going very
+well. Tehran, obviously, we've seen it
+having consistently quite a different
+perception of how negotiations are
+proceeding.
+speaking to on the Iranian side uh
+certainly is the key question. And I
+think yeah, I think Bloomberg
+Intelligence had a pretty interesting
+take on it that, you know, $100 oil can
+actually prolong for for a long time
+here. That maybe we be some sort of
+peaches given what we're seeing with the
+rhetoric. But it seems like that $100
+oil is here to stay for at least a
+little bit more longer. As of course
+this extension of this deadline maybe
+does just extend the uncertainty a
+little bit longer, too.
+oil slipping on that deadline extension.
+But let's take a look then at the market
+action because we saw that sell-off on
+Wall Street overnight. Actually, futures
+are just matching a little bit high, but
+it's it's really the main theme that
+we're tracking today. And of course
+there's really one big standout to the
+downside, that's SK Hynix. There you can
+see
+all of them more than 4% at this point
+in time. This is a story that's actually
+started trending through the second half
+of the week. So to put it in context
+here, we're essentially very cautious or
+there is caution around these memory
+chip names. So SK Hynix, Samsung in
+particular. Let's take a look at how
+they're faring Kioxia as well, of
+course, over in Japan. But but the the
+sell-off here is being driven by a
+release from Google. So actually,
+they've just talked about their Turbo
+quantum algorithm. They They had
+released this last year, but they've
+just publici- -zed it this week. And And
+the key question here is you have this
+compression
+uh for for for running large language
+models. Does that mean that less memory
+is required? And that's why you're
+seeing this downside pressure today. So
+more with less essentially, and what
+does that mean for that huge run-up
+we've seen in some of the Korean names
+in particular. Oil, as we said, big
+focus on what's happening in the energy
+space given you've got President Trump
+extending this deadline for Iran to
+strike a deal with the US by 10 days. Uh
+as we said, his his his view is that the
+talks are going very well. But there's
+certainly big questions around what this
+means for the for the risk of inflation.
+And we've seen that very much building
+into yields at the front end of the
+curve. Uh you can see it continuing to
+track what's happening with the US
+2-year yield there. The Korean one, of
+course, another one that we're tracking
+uh given we've got that currency past
+that 1,500 mark, but around levels we
+haven't seen since 2009. So big bearing
+on these economies in this part of the
+world that are major energy importers.
+Uh taking a quick look as well as said
+the setup for China today, it's very
+much driven by the earning story. That's
+what we've been tracking this week.
+Yesterday it was at $1.1 trillion in
+market cap that was reporting. Lots of
+different names that we're speaking to
+and lots of great interviews coming up
+this hour.
+WeRide, Henderson, Christie's CEO. I
+mean, we're talking about about that
+their anniversary, of course, this
+auction coming up. It's It's art week
+also in Hong Kong. So, there's a lot
+you could say? There's really something
+for everyone.
+restaurants. I mean, it's just it's just
+a busy week for Hong Kong. Uh, President
+Trump, though, let's talk about the
+latest. Extending his deadline for Iran
+to strike a deal with the US or face
+more attacks. He has given Tehran 10
+more days now, offering a brief calm to
+global energy markets.
+a 10-day
+period. They asked for seven.
+You're going to say, "Oh, Trump's a
+terrible negotiator." They asked for
+seven and I said, "I'm going to give you
+10 because they gave me ships." And you
+know, we talked about the eight ships,
+you know, the president that I talked
+about the other day. But, uh, they asked
+for seven and I gave them 10. You got 10
+days.
+And they were very thankful about that.
+reporting that the US is weighing
+sending another 10,000 ground troops to
+the Middle East. Let's bring in our
+Bloomberg News desk managing editor Jill
+Disis.
+So, we've we've kicked the can down the
+road for another 10 days. How should we
+interpret that move?
+think as you mentioned earlier, Yvon,
+we're kind of just prolonging the period
+of uncertainty here. Obviously, you're
+seeing a little bit of that relief just
+because the threat that Trump is posing
+here is so massive. The idea of striking
+energy sites, I mean, we saw what
+happened What was it, a week ago?
+When we we had the retaliation from
+Iran. We know that they're more than
+willing to come back with strikes of
+their own on key energy facilities. So,
+I mean, the fact that you've kind of uh
+delayed that a little bit is why you're
+seeing that reprieve here, but
+ultimately, we still have so much
+uncertainty around how these
+negotiations are even taking place. I
+mean, a lot of uh key Iran military and
+uh intelligence officials are dead. Uh
+we have some indication that maybe uh
+key to the negotiations is the Iranian
+speaker in parliament, but again, we
+still don't have a ton of confirmation
+there. There's a lot of conflicting back
+and forth over this 15-point plan that
+the US to Iran where we've heard um you
+know, the Iranians have outright
+rejected the idea of that 15-point plan.
+Um so, ultimately here, you you do have
+this reprieve. It's still unclear uh
+exactly, you know, how these
+negotiations took place, but uh we we
+still don't know what that means beyond
+that 10 days or if anything significant
+could happen within that period uh
+before that April 6th deadline.
+be significant would be this plan that
+we've got from the Wall Street Journal
+reporting that Trump's looking at
+possibly sending another 10,000 ground
+troops. So,
+what have we heard on that front? And
+then, what are the the key things that
+you're actually watching out for as
+well?
+within the last 30 minutes or so. Does
+appear to have had a little bit of
+market impact there, but cuz obviously,
+that would um you know, imply that uh
+while there's maybe a reprieve during
+the negotiations, that doesn't
+necessarily mean that zero military
+action would be taking place over that
+10-day period, right? Um so, I think
+that's what you're seeing out of that uh
+report from the Wall Street Journal.
+Obviously, um again, uh you do have that
+idea of these these conflicting reports
+um within how exactly these negotiations
+are going to take place. What that
+……（中部抽样）……
+ultimately means for um you know,
+on oil supply, energy security around
+world. And so, I mean, you're still kind
+thanks so much for joining us. That was
+or through the economy. So,
+people are sort of looking beyond the
+years this month. And if JPMorgan came
+war, that number is much higher. It's at
+we've spoken about this before, this
+this is actually technology that came
+benefited if you take a look at how
+demand, but I think the market reaction
+leveraged ETFs listed in Hong Kong
+could exacerbate whatever we saw during
+China show. The CEOs of Pony AI, WeRide,
+aspects here. So, that's why I thought
+theme cuz we've got Pony AI, WeRide that
+company's profit rebound remains at risk
+going to still be in losses. And I think
+pressure. And if you actually combine
+matter now in this competition? And how
+the way that, you know, they're going to
+really is that as they invest, how is
+restaurants for the waiter to come
+founding essentially, but it's just
+this strong architecture, the lidar's
+being used still, and that's for ADAS or
+innovation, so that it can become as
+been successful mass produced for
+for your ADAS products?
+at the end of this year. And I think in
+sort of the production target that you
+Those interviews happening at the times
+the stock take a massive hit here this
+You know, it was less than you know,
+PopMart, right? So, it was a pretty, you
+should have a relatively modest effect
+the inflation risk is greater right now
+inflation and trying to tame it given
+or flation dominates. This is we kind of
+assets are doing. Stocks are lower by
+arrow story across the board here today
+We're getting closer to 110 than 100
+work to end this food price war, food
+is actually catching a bid here this
+sectors here. Oil stocks certainly in
+there's We're still digesting whether,
+talking about, you know, they're using
+uh but did still fall short of estimates
+of the profitability
+we saw that reaction already in ADRs,
+I I I'll I think stock will uh
+globally.
+performance.
+to move into uh to replicate the results
+we'll see probably uh UE break even in
+in terms of the the momentum that you're
+capacity to produce more vehicles. And
+side, we see the surge uh
+uh giants like Waymo. It It shows that
+brand awareness, the industry awareness
+bucket.
+that are actually better generated
+matter of days will be able to
+prospect uh, uh, uh, our prospect is
+actually surpass
+we will definitely focus
+right now, but we'll have more numbers
+We're seeing the stock up this morning
+and
+market. We just announced and
+that it's heavily undervalued right now.
+WeRide has been doing operation and
+three times just like three days ago.
+and we are and we will soon have a lot
+probability looks like to you now? Is it
+want to reveal the details because it's
+regulatory hurdles are kind of removed,
+demonstrate, we will do this do that.
+conflict will will end soon and we are
+probably shift our emphasis on Europe a
+morning. That was Tony Han there,
+CEO. Plus, Hedgeye will be with us to
+warned it would not be able to sustain
+Qatar.
+details in that, but the big question
+this morning because again you're seeing
+day of losses here when it comes to
+came to some of these earnings
+volumes that we've got because I'm just
+said, that that big pain is being felt
+Let's take a look at what's happening in
+of course in the dollar. We're looking
+officials are really thinking about all
+think now even the likes of Lisa Cook
+Lanting too again, our managing editor
+playing out today and yesterday was this
+outflow uh month-to-date has already hit
+indiscriminate selling going on around
+oil that's elevated and I was almost
+economists are talking about a potential
+though is that this is going to be more
+benefit from this higher oil prices.
+listed in Hong Kong so far we are seeing
+and we saw yesterday Kuaishou again
+a Bloomberg managing editor for Asia
+brief calm to global energy markets.
+10. You got 10 days
+closer in terms of negotiations because
+One day in Trump land is is is forever."
+Monday, April the 6th.
+escalation, once again, the risk has
+said, different starting points in terms
+region. We know that one of the Marine
+would not hold back at retaliating
+week. And yeah, maybe tell us why they
+this morning because they're a little
+sure he was the man that made that
+anticipated uh by some analysts before
+one-off gain less, so people is aware
+the the decision is made in the board,
+to say hedging or to hedge or not to
+the first quarter. So, given that
+I think it's it's
+overall? What
+1/2%. So,
+rate increase, but that can happen or
+uh land bank for better price. So,
+adjustment in the old Kowloon uh old
+Central Harbor Front. I see it every
+good news soon. Soon, I hope so. But
+we have a opera which is quite exciting.
+not
+do a little if the market do not revive
+you know downward trend.
+leasing rate will go up but it's all
+peers have been
+loan though from a from a
+But actually you look at it's not my
+10 billion. 10 billion is 3% gearing. So
+certain size so some so some resilience.
+especially for corn for corn trading or
+Kowloon or in East Kowloon. So, I think
+we have no
+days. Andrew Foong, the CFO at Henderson
+are continuing to see some pressure on
+this week because we've seen the 2-year
+term.
+Christie's 20th to 21st century spring
+mhm feels a little bit different this
+going to have this evening and tomorrow.
+tonight, a Dutch master. We have a great
+and and to spend big, do you think?
+really Annabelle Bloom people start
+gateway really through luxury.
+us. We've our loan book is about a
+And it's really a very discreet
+Is that going to be concerning to you or
+we saw during COVID for example in the
+great continued sort of engagement from
+when they or the you know, the art
+work by a modern 20th century master,
+today, but we've got the HKX or Hong
+force in ETF flows since the start of
+and dips have continued. Investors are
+tracker fund. Most people that trade
+ETF AUM. The reason why is this ETF pays
+at close to 90 billion now. Just 5 years
+Hynix. That's now making the top of the
+Sitting there with Bloomberg
+ambitious targets to you or do you think
+continuing to see that grow.
+that, you know, Rebecca mentioned are
+investor set, Hong Kong previously had
+……（接近结尾）……
+derivatives for them.
+for coming into the studio. That was
+Brian Roberts, the managing director
+head of equities product development at
+HKX and you can tune into ETF IQ Asia
+every Friday on the China show. We're
+bringing you more analysis and
+conversations with top market players
+and also newsmakers. We'll have more
+ahead. This is Bloomberg.
+Well, from tariffs to the conflict in
+the Middle East, traditional US allies
+are increasingly viewing Washington as
+an unreliable partner under President
+Trump and
+many actually hedging hedging their bets
+rather by way of China.
+president may be accelerating Beijing's
+influence on the global stage. Here's a
+preview.
+Xi Jinping likes to use.
+The world is undergoing changes which
+have not been seen in a hundred years.
+arrive, but they're delivered
+unexpectedly by Donald Trump.
+another major power is speaking volumes.
+force for instability in the world and
+that gives President Xi and China a
+chance to present themselves as the
+adults in the room.
+getting bogged down in the Middle East.
+China has long viewed the existing order
+as being too dominated by the US. So,
+Trump's challenges to that order
+actually presents Xi Jinping a very good
+opportunity. And the question is whether
+she is ready to seize it.
+realize that dependence on the US is a
+very dangerous thing. China's exports to
+the US fell about 20% last year. But in
+the end, China had a record trade
+surplus hitting 1.2 trillion US dollars.
+away from the US as a consumer base.
+or expose it to more risk it cannot
+control?
+in full right now on the terminal or at
+bloomberg.com.
+Uh yeah, just to talk a little more
+about the China story. We we did get
+some data earlier on in the last hour
+when it came to industrial profits. Mind
+you, these are a bit dated given the
+fact it was before the Iran conflict
+began. But then again, there were some
+pretty interesting numbers, right? We're
+talking about 15.2% increase in
+industrial profits for the first 2
+months of this year. So, even before
+this sort of geopolitical risk and all
+that, you know, you're starting to see
+signs of maybe a recovery trend that's
+being formed. And you got to wonder, you
+know, with the spike in energy prices,
+is this sort of reflation story in China
+finally coming through?
+this point at the top of the hour that
+actually this
+the war in Iran could end up being a a
+boom for China on multiple fronts if it
+does actually manage to sort of stoke
+these in inflationary signals in the
+economy. I think as well though what
+we're really seeing develop from a lot
+of different investors is is China can
+actually act as a safe haven as well.
+Mizuho, Sean Darby, you know, talking
+about maybe, you know, the CSI 300
+probably bottomed, they think, back in
+2024.
+Uh and they're talking about this out of
+30/70
+portfolio when it comes to bonds and
+equities. Um and and you know, the value
+tilt that they think is probably the way
+to go from here forward. Gavical also
+came through saying bonds are are sort
+of the Chinese bonds story is sort of
+more of that reserve asset in the face a
+lot of this volatility as well. So, you
+know, if you start to see what we're
+starting to see, maybe early signs of
+domestic debt demand bottoming, and you
+start to see more, you know,
+anti-involution, and we heard that from
+regulators this week already to rein in
+these price wars, or you know, maybe we
+are starting to see some mild reflation
+coming through once again.
+as you said, it that sovereign debt
+story, um at least from Gavical's
+perspective, it is also underpinned by
+China's ability to to produce more
+electricity at a low cost than anyone
+else, and that's really one of their
+major benefits.
+question. There's still caveats to all
+of this trade, obviously, here, right?
+And what this means when it comes to uh
+the industrial side of things, when it
+comes to these, you know, it's not
+really maybe not domestic demand, but
+maybe it's more just about material
+costs and the like that's rising, right?
+So,
+we got plenty more to go. Have a great
+weekend.

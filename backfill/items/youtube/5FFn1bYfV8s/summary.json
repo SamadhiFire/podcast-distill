@@ -44,9 +44,8 @@
     "key_facts": [
       {
         "label": "美国 30 年期国债收益率",
-        "value": "约 5.2%",
-        "context": "创 2007 年以来最高，债市波动率两天内上升 20%",
-        "source_refs": []
+        "value": "约 520 点位的 30 年期美债收益率",
+        "context": "创 2007 年以来最高，债市波动率两天内上升 20%"
       },
       {
         "label": "布伦特原油价格",
@@ -63,14 +62,12 @@
       {
         "label": "禾赛激光雷达中国市场份额",
         "value": "55%",
-        "context": "2026 年 3 月数据，与竞争对手差距持续扩大",
-        "source_refs": []
+        "context": "禾赛激光雷达中国市场份额约 55%，与竞争对手差距持续扩大"
       },
       {
         "label": "禾赛 SGI 2027 年预期收入",
         "value": "超过 5 亿人民币",
-        "context": "战略增长计划（SGI）新业务线，2026 年预期超 1 亿人民币",
-        "source_refs": []
+        "context": "战略增长计划（SGI）新业务线，预期收入超 1 亿人民币"
       },
       {
         "label": "Nvidia 预期营收增长",
@@ -80,9 +77,8 @@
       },
       {
         "label": "Paramount 收购 WBD 债务融资规模",
-        "value": "490 亿美元",
-        "context": "Paramount 寻求发债收购 Warner Bros Discovery",
-        "source_refs": []
+        "value": "49 billion 美元（Paramount 发债收购 WBD）",
+        "context": "Paramount 寻求发债收购 Warner Bros Discovery"
       },
       {
         "label": "Cathie Wood 预期药物发现成本降幅",

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 717,
+    "item_id": "xiaoyuzhou:6a09be671b7bd50295507f98",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a09be671b7bd50295507f98",
+    "published_at": "2026-05-18T07:00:00+08:00",
+    "published_date": "2026-05-18",
+    "relative_dir": "2026-05/商业就是这样",
+    "schema_version": 1,
+    "source_id": "xyz_business_is",
+    "source_name": "商业就是这样",
+    "status": "pending",
+    "target_basename": "2026-05-18_商业小样40 _ 美光和麦当劳有什么关系？_6a09be671b7bd50295507f98",
+    "title": "商业小样40 | 美光和麦当劳有什么关系？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a09be671b7bd50295507f98"
+  },
+  "audio_url": "https://media.xyzcdn.net/6022a180ef5fdaddc30bb101/lli-0dCiR6FGj0iq0x3c8Wy3mSUb.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\商业就是这样\\2026-05-18_商业小样40 _ 美光和麦当劳有什么关系？_6a09be671b7bd50295507f98.m4a",
+  "bytes": 17346840,
+  "sha256": "066fede59f52c514b3a1f5247826068a38c6a4456fd8b745ac74eb78315486f2",
+  "downloaded_at": "2026-07-02T04:04:41Z"
+}

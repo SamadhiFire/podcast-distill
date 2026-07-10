@@ -1,14 +1,13 @@
 {
-  "status": "needs_asr",
-  "method": "",
-  "language": "",
-  "attempts": 1,
-  "duration_seconds": 4537,
-  "last_timestamp_seconds": null,
+  "schema_version": 1,
+  "item_id": "xiaoyuzhou:6a13b560e59ebca9363afd1d",
+  "platform": "xiaoyuzhou",
+  "platform_id": "6a13b560e59ebca9363afd1d",
+  "status": "success",
+  "method": "provided_docx_transcript",
+  "language": "zh",
+  "sha256": "836fad542c05b92038d028dc1b6fd060611d18c081028060428c8363cf0a2215",
+  "text_chars": 27805,
   "coverage_ratio": null,
-  "text_chars": null,
-  "sha256": null,
-  "completed_at": "2026-06-29T18:44:59.728699",
-  "error_type": "no_audio_url",
-  "error_message": "could not find audio URL from episode page"
+  "completed_at": "2026-07-03T02:25:39.650181Z"
 }

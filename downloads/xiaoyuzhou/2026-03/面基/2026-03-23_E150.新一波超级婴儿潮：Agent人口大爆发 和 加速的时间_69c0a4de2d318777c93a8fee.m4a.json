@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3874,
+    "item_id": "xiaoyuzhou:69c0a4de2d318777c93a8fee",
+    "month": "2026-03",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69c0a4de2d318777c93a8fee",
+    "published_at": "2026-03-23T17:30:00+08:00",
+    "published_date": "2026-03-23",
+    "relative_dir": "2026-03/面基",
+    "schema_version": 1,
+    "source_id": "xyz_mian_ji",
+    "source_name": "面基",
+    "status": "pending",
+    "target_basename": "2026-03-23_E150.新一波超级婴儿潮：Agent人口大爆发 和 加速的时间_69c0a4de2d318777c93a8fee",
+    "title": "E150.新一波超级婴儿潮：Agent人口大爆发 和 加速的时间",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69c0a4de2d318777c93a8fee"
+  },
+  "audio_url": "https://media.xyzcdn.net/6388760f22567e8ea6ad070f/lkQNElaeuwz6Hy0Bn41cG3eYn90b.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-03\\面基\\2026-03-23_E150.新一波超级婴儿潮：Agent人口大爆发 和 加速的时间_69c0a4de2d318777c93a8fee.m4a",
+  "bytes": 62716908,
+  "sha256": "363dc7015f75439714b465d1375d0b3a476cc562012829aaed7e1f2be69d307e",
+  "downloaded_at": "2026-07-02T04:31:53Z"
+}

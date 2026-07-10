@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "产品 / 创业 / 管理",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 5033,
+    "item_id": "xiaoyuzhou:6a09d58b1b7bd502955258ab",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a09d58b1b7bd502955258ab",
+    "published_at": "2026-05-18T08:00:00+08:00",
+    "published_date": "2026-05-18",
+    "relative_dir": "2026-05/张小珺Jùn｜商业访谈录",
+    "schema_version": 1,
+    "source_id": "xyz_zhang_xiaojun",
+    "source_name": "张小珺Jùn｜商业访谈录",
+    "status": "pending",
+    "target_basename": "2026-05-18_141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接_6a09d58b1b7bd502955258ab",
+    "title": "141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a09d58b1b7bd502955258ab"
+  },
+  "audio_url": "https://media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lmeczS2JtKzE79rKpVM-RC5yw22M.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\张小珺Jùn｜商业访谈录\\2026-05-18_141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接_6a09d58b1b7bd502955258ab.m4a",
+  "bytes": 81407099,
+  "sha256": "a78772fe230ef28ac612d99a378b93bd92905a5b6255662bd61aad9c9628cae7",
+  "downloaded_at": "2026-07-02T04:04:33Z"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3934,
+    "item_id": "xiaoyuzhou:69cb722cb977fb2c47b70ad9",
+    "month": "2026-03",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69cb722cb977fb2c47b70ad9",
+    "published_at": "2026-03-31T15:27:25.072000+08:00",
+    "published_date": "2026-03-31",
+    "relative_dir": "2026-03/先声",
+    "schema_version": 1,
+    "source_id": "xyz_xian_sheng",
+    "source_name": "先声",
+    "status": "pending",
+    "target_basename": "2026-03-31_对话向松祚：“夹心层”突围——中产家庭破局指南_69cb722cb977fb2c47b70ad9",
+    "title": "对话向松祚：“夹心层”突围——中产家庭破局指南",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69cb722cb977fb2c47b70ad9"
+  },
+  "audio_url": "https://media.xyzcdn.net/684289d5784934aceca733f2/lh7pE-tgiKK4vVb9m7q9WuLHNACG.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-03\\先声\\2026-03-31_对话向松祚：“夹心层”突围——中产家庭破局指南_69cb722cb977fb2c47b70ad9.m4a",
+  "bytes": 63630719,
+  "sha256": "c42978cc9aa332018c5c5260fa8b6b327a7aacf0d526a985d3baf1e521ebbeda",
+  "downloaded_at": "2026-07-02T04:29:32Z"
+}

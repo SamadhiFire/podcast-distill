@@ -3,7 +3,7 @@
   "item_id": "youtube:619uvwZH17E",
   "platform": "youtube",
   "platform_id": "619uvwZH17E",
-  "transcript_sha256": "1786c4337ef11f2190b9ac77e00fa7e43930788088f66c8ce38ff43eeeb53900",
+  "transcript_sha256": "d0da51f9303a6e9eb42d067357859f63bd3cc657410ffc19da81b217551e4ee5",
   "metadata": {
     "item_id": "youtube:619uvwZH17E",
     "platform": "youtube",
@@ -46,57 +46,84 @@
         "label": "就业报告预期",
         "value": "65K",
         "context": "Bloomberg调查中位数预期，有望实现近一年来首次连续月度正增长",
-        "source_refs": ["transcript"]
+        "source_refs": [
+          "transcript"
+        ]
       },
       {
         "label": "油价周跌幅",
         "value": "6-7%",
         "context": "尽管美伊两次军事摩擦，Brent原油本周反跌至约100美元",
-        "source_refs": ["transcript"]
+        "source_refs": [
+          "transcript"
+        ]
       },
       {
         "label": "标普连涨周数",
         "value": "6周",
         "context": "自2024年10月以来最长周度连涨记录",
-        "source_refs": ["transcript"]
+        "source_refs": [
+          "transcript"
+        ]
       },
       {
         "label": "半导体12个月涨幅",
         "value": "150%",
         "context": "接近1999年互联网泡沫时的250%涨幅，引发泡沫讨论",
-        "source_refs": ["transcript"]
+        "source_refs": [
+          "transcript"
+        ]
       },
       {
         "label": "伊朗封锁承受力",
         "value": "3-4个月",
         "context": "CIA评估伊朗可通过铁路绕道和储备维持封锁至少3-4个月",
-        "source_refs": ["transcript"]
+        "source_refs": [
+          "transcript"
+        ]
       },
       {
         "label": "消费者刺激金额",
-        "value": "1880亿美元",
-        "context": "特朗普法案中的消费者刺激规模，为油价冲击提供了缓冲",
-        "source_refs": ["transcript"]
+        "value": "188 billion 美元（消费者刺激规模）",
+        "context": "特朗普法案中的消费者刺激条款，为油价冲击提供缓冲"
       },
       {
         "label": "失业金初请人数",
         "value": "185,000",
         "context": "上周初请失业金人数接近60年最低水平",
-        "source_refs": ["transcript"]
+        "source_refs": [
+          "transcript"
+        ]
       },
       {
         "label": "西安至德黑兰铁路",
         "value": "每周1班增至每3-4天1班",
         "context": "伊朗通过增加对华铁路货运绕过霍尔木兹海峡海上封锁",
-        "source_refs": ["transcript"]
+        "source_refs": [
+          "transcript"
+        ]
       }
     ],
     "takeaways": [
       "地缘风险定价不是线性的——市场反复暴露于类似消息后会产生'脱敏'效应，油价对冲突的反应正在被重新定价",
       "K型经济的政策含义：美联储不能仅看AI驱动的通胀就加息，也不能仅看低收入消费疲软就降息——政策空间被两个方向的极端分化压缩"
     ],
-    "guests": ["Chris Verrone（Strategas）", "Stephanie Roth（Wolfe Research）", "Priya Misra（J.P. Morgan）", "Ahmed Alal（Asia Group）", "Steven Cook（Council on Foreign Relations）"],
-    "topics": ["美国就业市场", "伊朗冲突", "美联储政策", "K型经济", "AI投资", "油价", "国际贸易"],
+    "guests": [
+      "Chris Verrone（Strategas）",
+      "Stephanie Roth（Wolfe Research）",
+      "Priya Misra（J.P. Morgan）",
+      "Ahmed Alal（Asia Group）",
+      "Steven Cook（Council on Foreign Relations）"
+    ],
+    "topics": [
+      "美国就业市场",
+      "伊朗冲突",
+      "美联储政策",
+      "K型经济",
+      "AI投资",
+      "油价",
+      "国际贸易"
+    ],
     "tensions": [
       "市场对伊朗冲突的'脱敏'与实际地缘升级风险之间的认知差距",
       "AI驱动的PCE通胀与传统CPI下降之间的指标分化，使美联储政策沟通复杂化",

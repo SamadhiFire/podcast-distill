@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 14316,
+    "item_id": "xiaoyuzhou:6a1953f9ac7bdb080c32baa5",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a1953f9ac7bdb080c32baa5",
+    "published_at": "2026-05-29T17:42:21.068000+08:00",
+    "published_date": "2026-05-29",
+    "relative_dir": "2026-05/乱翻书",
+    "schema_version": 1,
+    "source_id": "xyz_luan_fan_shu",
+    "source_name": "乱翻书",
+    "status": "pending",
+    "target_basename": "2026-05-29_全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集_6a1953f9ac7bdb080c32baa5",
+    "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a1953f9ac7bdb080c32baa5"
+  },
+  "audio_url": "https://media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqSZvMuR6JV8b9XT8rJgmWFdQtEc.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\乱翻书\\2026-05-29_全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集_6a1953f9ac7bdb080c32baa5.m4a",
+  "bytes": 231754166,
+  "sha256": "b9f4fb62d827e4c8f06e276d3e47342fb81d65ce0ef9fd0cd4d4c1810b94b092",
+  "downloaded_at": "2026-07-02T03:55:37Z"
+}

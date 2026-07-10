@@ -1,0 +1,36 @@
+{
+  "short_title": "押注不变的投资逻辑",
+  "one_liner": "在变化中坚守经济基石资产",
+  "why_it_matters": "顶级资管复盘长期主义与下行保护的实战框架",
+  "summary": [
+    "Brookfield管理约一万亿美元，业务高度全球化，覆盖美国和西欧等主要市场以及亚太、印度、中东和南美。其最持久的投资主题已运行三到五年，并将在未来一二十年延续。",
+    "Connor强调投资方法长期一致：聚焦构成全球经济 backbone 的高质量资产，如水电、铁路，如今扩展到太阳能、核电、数据中心与光纤。资产类别在演变，但底层逻辑不变。",
+    "他们以高度下行保护为核心，偏好资产级非追索融资，并在产品端从十余年前四个扩展至六十个，用一致策略覆盖更广的出资方与零售财富渠道。",
+    "Connor认为好判断胜过 Excel 的虚假精确，危机中应冷静评估并捕捉机会而非只谈损失；企业文化强调成就他人，这也是平台被低估却持续成长的原因。"
+  ],
+  "core_points": [
+    "长期聚焦全球经济 backbone 类高质量关键资产。",
+    "底层投资主题不变，但具体资产类别随时代演变。",
+    "以资产级非追索融资强化下行保护与控制力。",
+    "产品从四个扩展到六十个，触达更广的出资方。",
+    "好判断优于模型精确，危机中冷静捕捉机会。"
+  ],
+  "key_facts": [
+    {"label":"投资主题占比","value":"70%","context":"2/3, maybe even 70% of what we invest in"},
+    {"label":"确定性误区","value":"90%","context":"when something feels 90%"},
+    {"label":"并购时点","value":"2019","context":"transaction in the early part of 2019."},
+    {"label":"企业历史","value":"1900","context":"were founded around 1900."},
+    {"label":"全额把握","value":"100%","context":"A 100%"}
+  ],
+  "takeaways": [
+    "用长期下行保护框架评估 backbone 类资产机会",
+    "把判断置于模型之上，危机中先想应对再谈损失"
+  ],
+  "guests": ["Connor Teskey (Brookfield)", "Bruce Flatt (Brookfield)"],
+  "topics": ["长期价值投资", "基础设施与实物资产", "下行保护"],
+  "tensions": ["模型精确 vs 经验判断的分歧"],
+  "quote": {"text":"这个生意没有绝对的确定性，当事情感觉有九成把握时仍要保持审慎。","speaker":"Connor Teskey","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

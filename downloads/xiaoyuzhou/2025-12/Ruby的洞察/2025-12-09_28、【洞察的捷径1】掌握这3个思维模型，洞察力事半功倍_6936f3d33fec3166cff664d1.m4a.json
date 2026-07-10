@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3531,
+    "item_id": "xiaoyuzhou:6936f3d33fec3166cff664d1",
+    "month": "2025-12",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6936f3d33fec3166cff664d1",
+    "published_at": "2025-12-09T08:00:00+08:00",
+    "published_date": "2025-12-09",
+    "relative_dir": "2025-12/Ruby的洞察",
+    "schema_version": 1,
+    "source_id": "xyz_ruby_insight",
+    "source_name": "Ruby的洞察",
+    "status": "pending",
+    "target_basename": "2025-12-09_28、【洞察的捷径1】掌握这3个思维模型，洞察力事半功倍_6936f3d33fec3166cff664d1",
+    "title": "28、【洞察的捷径1】掌握这3个思维模型，洞察力事半功倍",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6936f3d33fec3166cff664d1"
+  },
+  "audio_url": "https://media.xyzcdn.net/658be0524b73719a63166bc9/lgxQqLEdcLShpLCL_M3nq80XkXr1.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2025-12\\Ruby的洞察\\2025-12-09_28、【洞察的捷径1】掌握这3个思维模型，洞察力事半功倍_6936f3d33fec3166cff664d1.m4a",
+  "bytes": 57108936,
+  "sha256": "091c4ab78f525841780fdcedd16e61d18dea4999f32c6ea5da90432f3d0a9458",
+  "downloaded_at": "2026-07-02T04:51:08Z"
+}

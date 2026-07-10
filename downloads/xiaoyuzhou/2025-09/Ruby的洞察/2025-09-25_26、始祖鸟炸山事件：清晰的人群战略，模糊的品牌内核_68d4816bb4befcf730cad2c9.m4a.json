@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 2417,
+    "item_id": "xiaoyuzhou:68d4816bb4befcf730cad2c9",
+    "month": "2025-09",
+    "platform": "xiaoyuzhou",
+    "platform_id": "68d4816bb4befcf730cad2c9",
+    "published_at": "2025-09-25T08:01:46.601000+08:00",
+    "published_date": "2025-09-25",
+    "relative_dir": "2025-09/Ruby的洞察",
+    "schema_version": 1,
+    "source_id": "xyz_ruby_insight",
+    "source_name": "Ruby的洞察",
+    "status": "pending",
+    "target_basename": "2025-09-25_26、始祖鸟炸山事件：清晰的人群战略，模糊的品牌内核_68d4816bb4befcf730cad2c9",
+    "title": "26、始祖鸟炸山事件：清晰的人群战略，模糊的品牌内核",
+    "url": "https://www.xiaoyuzhoufm.com/episode/68d4816bb4befcf730cad2c9"
+  },
+  "audio_url": "https://media.xyzcdn.net/658be0524b73719a63166bc9/lvp_2t3K8TQ3HEbCfkrqEBzmtYFz.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2025-09\\Ruby的洞察\\2025-09-25_26、始祖鸟炸山事件：清晰的人群战略，模糊的品牌内核_68d4816bb4befcf730cad2c9.m4a",
+  "bytes": 29468174,
+  "sha256": "7871e298e4d90e6cb5bd7eaf09665a61137dd75a32380503e5da3c85ca880f30",
+  "downloaded_at": "2026-07-02T04:55:46Z"
+}

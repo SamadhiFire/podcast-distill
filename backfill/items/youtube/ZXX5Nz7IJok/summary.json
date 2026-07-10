@@ -1,6 +1,9 @@
 {
   "schema_version": 1,
   "item_id": "youtube:ZXX5Nz7IJok",
+  "platform": "youtube",
+  "platform_id": "ZXX5Nz7IJok",
+  "transcript_sha256": "a407e7c857393102ed5169bc9f20341e8b18063748d16f42f91d5f959810973d",
   "metadata": {
     "item_id": "youtube:ZXX5Nz7IJok",
     "platform": "youtube",
@@ -18,56 +21,51 @@
   "generation": {
     "script": "trae_agent",
     "model": "trae_agent",
-    "quality": "trae_agent_validated"
+    "quality": "trae_agent_validated",
+    "normalized_at": "2026-07-08T00:00:00Z"
   },
   "digest": {
-    "short_title": "AI时代投资逻辑",
-    "one_liner": "从游戏、电信到AI风投，宋松义分享了如何在平台迁移浪潮中识别真正有价值的AI投资标的。",
-    "why_it_matters": "AI被视为堪比铁路和互联网的平台级变革，理解其投资框架对科技从业者和投资人至关重要。",
-    "summary": "宋松义（Songyee Yoon）是Principal Ventures创始人，拥有MIT计算神经科学博士学位，曾任NCSoft总裁兼首席战略官。她的职业轨迹横跨麦肯锡咨询、SK Telecom和NCSoft游戏公司，在游戏行业率先推动AI应用，包括玩家流失预测、自然语言处理和动画工具。\n\n在AI投资方面，宋松义将AI变革类比于铁路的引入而非PC或互联网——核心突破在于「规模」而非算法。她认为基础设施铺设仍是过去两三年的重点，而在此之上将涌现全新的商业模式，就像铁路催生了邮购业务、宽带催生了YouTube和AWS。她投资了Together.ai、Cartesia和Sesame等基础设施公司，看重的是具有多用途性、数据飞轮效应和持久性的技术。\n\n在AI对就业的影响上，宋松义认为AI将使知识传递和记忆迅速商品化，教育应从知识传授转向创造力和问题解决能力培养。AI不会消灭所有工作，但会创造新角色——就像YouTube博主和播客是十年前不存在的职业。她强调应培养独特的人类能力，而非与AI竞争。",
+    "short_title": "尹松伊论 AI 原生投资",
+    "one_liner": "Yoon 谈以 AI 原生视角投资基础设施",
+    "why_it_matters": "AI 正压缩行业护城河，Yoon 强调耐久性、数据飞轮与真实问题，对当下布局具参考价值。",
+    "summary": [
+      "Songyi Yoon 自九岁编程，拥有 MIT 计算神经科学博士背景，先后任职麦肯锡、SK Telecom 与 NCSoft，后将游戏业视为观察技术未来的窗口，现执掌 AI 风投基金 Principal Ventures。",
+      "她将 AI 转折类比为铁路而非 PC 或互联网，认为突破来自规模而非新算法；真正的价值在于重构工作流、建立数据飞轮，并以 together.ai、Cartesia、Sesame 等基础设施公司为例。",
+      "面对教育与就业，她主张学生应培养创造力与解决问题的能力而非记忆知识；在监管与地缘不确定下，投资需保持灵活，并提醒我们仍处于去球场的路上，远未进入第一局。"
+    ],
     "core_points": [
-      "AI变革更接近铁路的引入而非PC或互联网，核心突破在于规模而非新算法",
-      "真正的AI原生公司是围绕AI技术栈构建的，而非在现有产品上「撒一点AI」",
-      "游戏行业一直是新技术的试验田：AI、云计算、免费增值模式都先在游戏行业验证",
-      "数据飞轮是AI时代企业持久性的关键——拥有独特数据和用户理解的公司更具防御性",
-      "教育需从知识传递转向创造力培养，AI正在让知识记忆快速商品化",
-      "AI投资决策需保持灵活，因为模型架构和技术路线仍在快速演变中"
+      "Yoon 将当前 AI 转折类比为铁路而非 PC，核心突破来自规模投入而非新算法。",
+      "真正的 AI 价值在于重构工作流与建立数据飞轮，而非仅为现有流程加装辅助。",
+      "她以 together.ai、Cartesia、Sesame 为例，偏好可跨平台复用的基础设施型公司。",
+      "教育应转向创造力与问题解决，因为知识记忆正被 AI 快速商品化。",
+      "在监管与地缘不确定下，风投需保持灵活，且当前 AI 发展远未到定型阶段。"
     ],
     "key_facts": [
-      {
-        "label": "投资的公司",
-        "value": "Together.ai, Cartesia, Sesame",
-        "context": "宋松义的Principal Ventures投资的AI基础设施公司",
-        "source_refs": ["transcript"]
-      },
-      {
-        "label": "AI历史参照",
-        "value": "Eliza, 1960s",
-        "context": "1960年代的Eliza程序是最早的聊天机器人，当时报纸甚至报道「不再需要心理治疗师」",
-        "source_refs": ["transcript"]
-      }
+      {"label": "访谈总量", "value": "600", "context": "Masters in Business 过去 12 年累计完成 600 余次访谈", "source_refs": []},
+      {"label": "NCSoft 转型时点", "value": "15", "context": "Yoon 约 15 年前在 NCSoft 推动以 AI 改造游戏业务", "source_refs": []},
+      {"label": "AI 平台期展望", "value": "3", "context": "未来 3 至 5 年难以预判 AI 将催生何种应用", "source_refs": []},
+      {"label": "游戏业 AI 先行", "value": "2000", "context": "NCSoft 早在 2000 年代初便设立 AI 副总裁", "source_refs": []},
+      {"label": "自动驾驶时点", "value": "20", "context": "20 年前 AI 尚不足以驱动无人驾驶汽车", "source_refs": []},
+      {"label": "Eliza 雏形", "value": "60", "context": "Eliza 是早期的聊天机器人雏形，可追溯至 60 年代", "source_refs": []},
+      {"label": "专业兴衰", "value": "70", "context": "70 年代最热门专业随技术变迁几度剧变", "source_refs": []}
     ],
     "takeaways": [
-      "投资AI应关注持久性和防御性：具备数据飞轮和多用途基础设施的公司更可能在技术迭代中存活",
-      "不要追逐热门专业或趋势，应坚持热情所在并培养AI无法替代的独特人类能力"
+      "以 AI 原生而非加点 AI 的标尺筛选项目：问清没有 AI 是否就无法成立。",
+      "在护城河被压缩的时代，优先布局具备数据飞轮与跨周期耐久性的基础设施。"
     ],
-    "guests": [
-      "Songyee Yoon - Principal Ventures创始人兼管理合伙人，MIT计算神经科学博士，前NCSoft总裁",
-      "Barry Ritholtz - Masters in Business主持人"
-    ],
-    "topics": [
-      "AI投资",
-      "游戏与科技",
-      "教育变革"
-    ],
+    "guests": ["Songyi Yoon（Principal Ventures 创始合伙人，前 NCSoft 战略官）"],
+    "topics": ["AI 投资", "风投", "教育"],
     "tensions": [
-      "AI基础设施投资过热与应用层价值创造之间的差距：类似光纤泡沫，产能过剩可能为后来者创造机会",
-      "AI提升效率与人类就业替代之间的张力：某些职业需要更少的人，但社会仍有大量未被解决的问题",
-      "开源与监管之间的平衡：同行评审和开放协作推动了AI进步，但政策框架仍不确定"
+      "平台型基础设施与垂直应用孰优先仍无定论，监管与版权风险增加不确定性。",
+      "知识交付被商品化，但教育范式重构尚无清晰路径。"
     ],
-    "quote": "The AI shift is closer to the introduction of the railroad than the introduction of the PC or internet.（AI变革更接近铁路的引入，而非PC或互联网。）",
+    "quote": {
+      "text": "我们仍在上去球场的路上，甚至还没进入第一局，模型与结构都可能大变。",
+      "speaker": "Songyi Yoon",
+      "kind": "paraphrase"
+    },
     "importance_score": 3,
     "content_density": "standard",
-    "quality": "trae_agent_validated"
+    "quality": "traeagentvalidated"
   }
 }

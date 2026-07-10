@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 6689,
+    "item_id": "xiaoyuzhou:6a32b60243a22a69558581e0",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a32b60243a22a69558581e0",
+    "published_at": "2026-06-17T23:30:15.647000+08:00",
+    "published_date": "2026-06-17",
+    "relative_dir": "2026-06/独树不成林",
+    "schema_version": 1,
+    "source_id": "xyz_du_shu_bu_cheng_lin",
+    "source_name": "独树不成林",
+    "status": "pending",
+    "target_basename": "2026-06-17_对话财新：MAGA之后，美国还能回到建制政治吗？_6a32b60243a22a69558581e0",
+    "title": "对话财新：MAGA之后，美国还能回到建制政治吗？",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a32b60243a22a69558581e0"
+  },
+  "audio_url": "https://media.xyzcdn.net/64acd33c7a3d479103fbd32d/lstZeipsHpCU5En6cPRXtTGRa7uU.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\独树不成林\\2026-06-17_对话财新：MAGA之后，美国还能回到建制政治吗？_6a32b60243a22a69558581e0.m4a",
+  "bytes": 108183533,
+  "sha256": "20b7024f2fbbda8fe8a255d6f4547cae7d073dd1bb790ae878b9c4fe3b1417ac",
+  "downloaded_at": "2026-07-02T03:43:47Z"
+}

@@ -1,14 +1,13 @@
 {
-  "status": "retryable",
-  "method": "",
-  "language": "",
-  "attempts": 1,
-  "duration_seconds": 3662,
-  "last_timestamp_seconds": null,
+  "schema_version": 1,
+  "item_id": "xiaoyuzhou:6891cff8638b0158790e1fbb",
+  "platform": "xiaoyuzhou",
+  "platform_id": "6891cff8638b0158790e1fbb",
+  "status": "success",
+  "method": "provided_docx_transcript",
+  "language": "zh",
+  "sha256": "8f1239655edf5efb3f0381d686608d2b9a752120109e86f13c89d390597639c8",
+  "text_chars": 18361,
   "coverage_ratio": null,
-  "text_chars": null,
-  "sha256": null,
-  "completed_at": "2026-06-29T18:12:37.406782",
-  "error_type": "no_srt_output",
-  "error_message": "whisper.cpp completed but no SRT found"
+  "completed_at": "2026-07-03T02:25:27.561609Z"
 }

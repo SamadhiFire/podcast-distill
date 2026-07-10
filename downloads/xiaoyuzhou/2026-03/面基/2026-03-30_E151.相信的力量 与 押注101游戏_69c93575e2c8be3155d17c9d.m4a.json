@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 7884,
+    "item_id": "xiaoyuzhou:69c93575e2c8be3155d17c9d",
+    "month": "2026-03",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69c93575e2c8be3155d17c9d",
+    "published_at": "2026-03-30T17:30:00+08:00",
+    "published_date": "2026-03-30",
+    "relative_dir": "2026-03/面基",
+    "schema_version": 1,
+    "source_id": "xyz_mian_ji",
+    "source_name": "面基",
+    "status": "pending",
+    "target_basename": "2026-03-30_E151.相信的力量 与 押注101游戏_69c93575e2c8be3155d17c9d",
+    "title": "E151.相信的力量 与 押注101游戏",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69c93575e2c8be3155d17c9d"
+  },
+  "audio_url": "https://media.xyzcdn.net/6388760f22567e8ea6ad070f/lgO8bTwW8Fmn55HOyIgMMIUviL8i.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-03\\面基\\2026-03-30_E151.相信的力量 与 押注101游戏_69c93575e2c8be3155d17c9d.m4a",
+  "bytes": 127636050,
+  "sha256": "c4203c8ce352ee4106d0a3efb9957d32d993ebe5348dde39cdba208e135e7d2c",
+  "downloaded_at": "2026-07-02T04:30:47Z"
+}

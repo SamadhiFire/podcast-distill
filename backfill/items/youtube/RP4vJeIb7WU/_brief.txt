@@ -1,0 +1,498 @@
+TITLE: The art of influence: The single most important skill left that AI can’t replace | Jessica Fain
+CHANNEL: Lenny‘s Podcast
+DURATION_S: 5613  DENSITY: high  REQ summary=4 core=5
+PUBLISHED: 2026-03-22T12:30:37+00:00  URL: https://www.youtube.com/watch?v=RP4vJeIb7WU
+SHA256: ac5c0dbac0f6b45c2ee67a99e135d9b70df580168dcb7e5e8040f276a1fc1678
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [2701] ISO 2701 or an enterprise managing
+  [500000] customers slashed over $500,000
+  [1000] $1,000 off at bant.com/lenny.
+  [100%] coding and now it's 100% of code will be
+  [1600] the 1600s, 1700s, there are two wives
+  [1700] the 1600s, 1700s, there are two wives
+
+=== TRANSCRIPT EXCERPT ===
+As product managers, one of our best
+sets of skills is curiosity and empathy
+and trying to understand our users. But
+the moment that we're talking to an
+executive, we forget those skills and
+those talents.
+buy into your ideas.
+executives make decisions. What is going
+on in the heads? I describe an
+executive's calendar as a strobe light
+going off. You wake up at 8:00 a.m.,
+you've already got a huge list of urgent
+things going on. They have not had the
+time, the energy, the wherewithal to
+center your problems.
+trying to do? How are they measured?
+Connect the thing you're pitching them
+with that success.
+interesting questions of our executives.
+Tell me what the board is pushing you
+on. Execs want to be successful, too.
+They want to be good at their jobs.
+they just don't bite.
+build trust is kill things. Dep
+Prioritize things. If you're thinking
+about how do you be more senior, how do
+you show up in a way that is in a
+leadership mindset, you get paid to be a
+domain expert, your executive is looking
+for you to be the deepest person in the
+room. Bringing your expertise to bear is
+absolutely crucial. You have to act like
+a CPO.
+Today my guest is Jessica Feain who's
+been a product leader at Box and Slack
+and Brightitewheel and now at Webflow
+and she has gotten very very uniquely
+good at the art and science of influence
+and in particular influencing
+executives. Influence might be the
+single highest leveraged skill for
+product leaders outside of AI. We
+actually get into how AI is changing the
+skill of influence. I've never heard a
+podcast conversation get deep into the
+art and science of influence, how to
+actually change people's minds and the
+mistakes that people make when they're
+trying to influence leaders. We get very
+tactical and very specific. There's a
+bunch of stuff in this conversation that
+I've never heard before or thought
+about. I am very excited for you to
+learn from Jessica. Before we get into
+it, don't forget to check out
+lennisproduct.com
+for an incredible set of deals available
+exclusively to Lenny's newsletter
+subscribers. Now, let's get into it.
+after a short word from our wonderful
+sponsors. This episode is brought to you
+by Omni. Many product teams today are in
+the process of debating how to ship AI
+analytics. The hard part is obvious.
+Having an LLM guest add SQL in
+production is a huge mess and just a bad
+idea. Omni takes a different approach.
+They have a semantic layer built in so
+that when you embed their analytics, the
+AI actually knows your business
+definitions, not just your raw tables.
+You can test queries, validate the
+reasoning, and lock down permissions
+before anything hits production. If you
+want AI analytics in your product
+without building the whole stack from
+scratch, check out omni.co/lenny
+for a free 3we trial. Companies like
+Perplexity, DBT, and Buzzfeed use Omni
+to ship analytics their customers can
+trust. That's omni.co/lenny.
+This episode is brought to you by
+Lovable. Not only are they the fastest
+growing company in history, I use it
+regularly and I could not recommend it
+more highly. If you've ever had an idea
+for an app, but didn't know where to
+start, Lovable is for you. Lovable lets
+you build working apps and websites by
+simply chatting with AI. Then you can
+customize it, add automations, and
+deploy it to a live domain. It's perfect
+for marketers spinning up tools, product
+managers prototyping new ideas, and
+founders launching their next business.
+Unlike no code tools, Lovable isn't
+about static pages. It builds full apps
+with real functionality, and it's fast.
+What used to take weeks, months, or
+years, you can now do over a weekend.
+So, if you've been sitting on an idea,
+now is the time to bring it to life. Get
+started for free at lovable.dev.
+That's lovable.dev.
+here. Welcome to the podcast.
+Let's set this conversation up. We're
+going to be talking about the skill and
+the art of influence and in particular
+uh influencing executives and leaders,
+people above you that you want to
+convince to do things you want them to
+do. Help us understand why this is worth
+people's time. Why is this worth the
+next hour of someone listening to this?
+Why is this skill so important to
+people's careers? I think as product
+builders, there's almost not a skill
+that's more important. Influence and
+building a momentum behind great ideas
+is the way that great products actually
+get built. And if you don't have that
+influence, if you don't have the buyin
+and the backing of your key
+stakeholders, of your executives, you
+can't build great products.
+is just like I I was in a period of like
+I don't need to work on this skill. I'm
+just like, I'm just going to do amazing
+work. I'm just going to it's going to
+show itself. Everyone's going to
+recognize it. And you just everyone run
+into this wall of like, oh man, all
+these other people are getting promoted.
+Maybe talk about that because it feels
+like that's a big trap. People run into
+you.
+about this is, you know, when I was an
+ICPM, I was putting forth ideas. I was
+trying to reflect what I was hearing
+from my customers. I was trying to get
+sort of buyin and excitement about the
+work that I thought was really going to
+move us forward. And at the time that
+I'm thinking about, I was a PM at Slack.
+And some of my ideas got people really
+excited, you know, got me funding and
+backing and just really a sense that we
+could accomplish something great. And
+some of my ideas and the things that I
+really really believed in died on the
+vine. They went nowhere. And I was so
+confused and frustrated honestly because
+I felt like, hey, I really get this user
+base. I really understand what's going
+to move the ball forward. And I don't
+understand how these decisions are
+actually being made behind the scenes.
+And uh I was uh eight months pregnant,
+eight and a half months pregnant. April
+Underwood, who had just been named CPO
+of Slack, um she had just come back from
+maternity leave. We had a two-day
+overlap. And I sort of got up my courage
+and I said to her, "April, I've admired
+you for a long time. I love the way you
+work. I I really love the way you think.
+Um, and I really want to understand it
+better. If you'd ever consider having a
+chief of staff, I'd love for you to
+consider me. And when I came back from
+that maternity leave, I came into a
+stint as April's chief of staff and was
+later chief of staff to Tamario Hoshua.
+Um, who succeeded succeeded April,
+now a CPO and head of AI at Atlassian.
+Tamar, don't um be mad if I mess up your
+title. And what I learned through that
+process is that people completely
+misunderstand how executives make
+decisions, what is going on in the
+heads, in the calendars, in the
+incentive structures of executives. And
+instead of really understanding where
+that exec or stakeholder is coming from,
+they center themselves. They center
+their own desires, their own
+motivations, their own slice of the
+world, and they end up just not being as
+successful both in their career, but
+also in the types of products that
+they're building.
+about people don't understand how
+product leaders actually make decisions,
+how they decide what to do, what to
+listen to. What's an example?
+of this is people don't understand
+executive calendars, right? A lot of
+times on Google calendar, it's blocked.
+you can't see what they're working on.
+But I describe an executive's calendar
+as like a strobe light going off. You
+know, you wake up at 8 a.m., you've
+already got a huge list of urgent things
+going on. You go from a meeting with
+finance on a budget to an interview for
+another executive to a people problem to
+……（中部抽样）……
+a legal problem to a product review. And
+center your problems. and you have to
+you? Why is this meaningful? and really
+the ways that I phrase this is how do
+language like love languages, right? But
+breath at the beginning of the meeting
+at Calendarly and Glass Door and now at
+a stakeholder, we forget those skills
+user here, then we can have a much much
+like you better because they will feel
+respect them, if you think they have
+by this topic in terms of it may feel
+own gain. Influence is about increasing
+low ego way, um I'll give an example
+of craft perspective. And we started
+hand or I'm going to show off that I
+of the sort of early Slack folks and the
+of these people on the podcast. What a
+is that they have to be a yes man. They
+know, Elon Frank who was who was my boss
+that curiosity and empathy. If you hear
+that I think is dumb, but there must be
+belief? I think one thing that really
+and then respond with your own domain
+lines? Say you're pitching your product
+team to say, "What do you think is most
+most important to her?" A colleague of
+in the past that my data is a little
+having these conversations to align on
+and say what do you think on this topic
+busy their calendars are, but they're
+here to convince you. I'm here to just
+trying to show too much work trying to
+They don't need to know every single
+packaging strategy uh give three options
+was the sort of problem and strategic
+that we can really get building on this
+okay. I see why the solution that you're
+file, whatever it is. Um, we uh we we
+gave us a a forum for conversation to
+be ready for more options. Have you have
+recommendation it's flip it start with
+format, storytelling, pre-work that is
+you like and don't like. And so just
+are also human and you're trying to give
+else? So, there's like just understand
+there's this idea of simulate almost
+understand the day-to-day lives of our
+on because everyone's got a boss and uh
+incentives that you're working on
+there together. So I think that one of
+question. top of mind has become this
+back to this incentives piece such a
+making your business successful because
+strategic insights and what they believe
+our users. That was one of the things
+engineering, stop what you're doing. As
+you could call this a bug bash. You
+and how we were going to show up in the
+grammar on that sentence works, but what
+break into some new category? Of course,
+how do I understand that and deeply
+theory of change. Uh there are many
+that you are proposing to actually shift
+feel comfortable. You want them to feel
+the asks are more subtle. I wonder if
+hey Kev our head of design we're going
+the organization's incentives are to
+um, we were in a strategy review, you
+underneath. There's really an important
+influence is you take the reigns and
+missteps here is, you know, people treat
+them if you keep the ball rolling in a
+have fun every single thing.
+in why they believe that, what they
+that we're working on now? And they'll
+brain is spinning with ideas.
+what the heck. What would you recommend
+think the other really important thing I
+that.
+comments and you're like, "Oh my gosh,
+discussion with that group. And the
+we can talk about uh the the the really
+ISO 2701 or an enterprise managing
+$1,000 off at bant.com/lenny.
+work. Why am I spending all this time
+So, it's not my fault.
+that that honors that investment in you
+the way to build well. You know, when
+stamp like influenced uh at the end.
+of hey with today's resourcing with this
+possible, tell them why not. Come back
+successful, especially when the ask from
+here.
+actually more aligned and so I think
+way of approaching all these things.
+smaller organization, if that big idea
+actually matters. If you have something
+cross functional stakeholders to be
+reason that a leader doesn't buy into
+trying to extract some of his ideas, but
+great tool for marrying that leader's
+question you had? Uh oh that's so
+um ability to speak freely, to ask
+exactly where I was going to actually go
+successful you've been your whole life
+that they already hold. Follow those
+are really hearing them out and
+scarier one. I think the other thing I
+can get people over the hump of well I'm
+the tools that we have at our disposal.
+on something that's going to take two
+for you in in this experiment? You know,
+beautiful. I would have never been able
+outcome, the user outcome, and not just
+So, sometimes we don't know the a lot of
+uh one trick that I learned, especially
+and risks around a given initiative or
+other product teams are working on
+actually apply to strengthen your
+coming into it with like here's what I
+what information they have access to.
+point to think about it in the context
+our chief of staff that I I wanted to
+as that strategic leader that you say
+this to me is Jeff Weinstein, I think is
+and able to to really put himself in
+technology, storytelling, and and of
+even if that's true that shipping is the
+business, do you need to change course?
+this product.
+leaders, we will bring those
+product managers, but of product
+more important.
+in the business and if AI is better than
+version to bear to get that momentum to
+in this new world.
+And I think the best product thinkers
+software actually matters, what software
+determining if this is good and ready
+build the next Salesforce on their own,
+dominance in that market because of
+function of influence and empathy. Along
+just find codeex and clock code are so
+going through a strategy doc rewrite. I
+the most important problems to invest
+of talk on Twitter actually just today
+or software is dead is like really dumb.
+clouds running, codeexes, all kinds of
+the um, places where agents fall down. I
+take the time to say what's important to
+that history, that context, they will be
+Here's context on my goals. Here's what
+using agents and AI as um a really smart
+mind and learn it's like exactly what an
+we were evolved uh I I love this book um
+are asking of our brains right now is
+Oh my god. Uh before we get to our very
+the achiever. Um that is my personality
+uh super data oriented and technical. I
+some good nuggets in there, but I think
+can through your own strengths. You
+know. You know, they uh I can't remember
+Japan. Uh, there's a book called
+into um a different world.
+……（接近结尾）……
+they're just the nicest people. So, I'm
+really excited to see them see them
+thrive.
+their domain name, getcasa.com. And I
+think they're only in the Bay Area right
+now, and I think they're expanding into
+LA right now.
+website is very bare. I don't even know
+how you sign up,
+guess you could figure it out, but uh I
+I love Costa. Uh yeah, they also do like
+a filter rotation thing. So like every
+six months they come and replace all
+your filters or air purifiers and
+whatever. You can set you can set like
+maintenance for your dishwasher, for
+your air filters, for your uh washer
+dryer, which has been super cool to see.
+Um they also you get handyman credits
+every month. So all the things that you
+put off do doing uh they can come in and
+and do it themselves and it's it's just
+wonderful.
+you have a favorite life motto that you
+often come back to in work or in life?
+was like, "What's my life motto?" Um,
+and he had such a nice answer that I I
+thought I'd go with it. Uh, we have this
+saying with our kids, first the guests.
+Um, so if you have guests over, which we
+love to host people in our house, um,
+our rule with our three kids is guests
+always go first. And I think that um,
+it's really something that we think
+about in terms of being of service to
+others, being respectful to others,
+being welcoming, being kind. Um, and I
+think that that has dictated a lot of
+who I am as a person and and how we're
+trying to be as a family. When you are
+of service to others, when you are
+inclusive, um, when you can put them
+first ahead of yourself, I think it
+actually brings a lot of joy to you. Um,
+and it certainly makes the world a
+little bit better.
+be a host.
+but such a broadly uh, useful lens,
+you want a village, be a villager.
+community, reaching out, being there for
+other people, and really taking that
+first step, even if it's scary or
+overwhelming, um can really can really
+make a difference.
+posters behind you if people are
+watching on YouTube. Is there one that's
+like a favorite? Is there one that has a
+story per chance?
+these are all my husband's posters. He
+is a musician. He loves guitar. Uh, so
+he picked them all, but I think that I
+have to say my favorite one is probably,
+uh, Jimmyi Hendris plays the Greek. Uh,
+so we live in Berkeley and uh, you
+can't, it's just slightly off camera,
+but it's just a great memory of sort of
+an incredible musician. Um, and the
+iconic place that that we're lucky
+enough to live in and sort of the great
+access to culture that we have here, but
+also just how important music is to our
+lives, how much
+people don't know, it's just like this
+outdoor amphitheater with grass. You can
+get blankets.
+fun spot. Right. right on UC Berkeley's
+campus. Um, and they've got great music
+and we're really lucky to live close by.
+much for being here. Two final
+questions. Where can folks find you
+online if they want to reach out at,
+maybe follow up on anything here? And
+how can listeners be useful to you?
+you know, funny for being on this
+podcast. So, I think the main place I am
+online is on LinkedIn. Um, and so you
+could definitely find me there. Um, in
+terms of being useful uh to me, I would
+love to hear what resonated for you,
+what's worked for you in the past, how
+you're seeing these things show up in
+your work, um, and how I can get better
+at, um, you know, uplifting the tech
+community. And as we go through this
+period of tremendous change, uh, how I
+can show up, uh, as a leader and as a a
+source of community for for this group
+of folks.
+Nothing.
+about AI.
+you so much for being here.
+found this valuable, you can subscribe
+to the show on Apple Podcasts, Spotify,
+or your favorite podcast app. Also,
+please consider giving us a rating or
+leaving a review as that really helps
+other listeners find the podcast. You
+can find all past episodes or learn more
+about the show at lennispodcast.com.
+See you in the next episode.

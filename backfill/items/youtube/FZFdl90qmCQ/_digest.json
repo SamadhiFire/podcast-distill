@@ -1,0 +1,36 @@
+{
+  "short_title": "中东能源危机冲击市场",
+  "one_liner": "中东能源战推高油价冲击全球",
+  "why_it_matters": "能源基础设施成战场，油价与通胀风险骤升",
+  "summary": [
+    "中东冲突升级，以色列打击伊朗南帕尔斯气田，伊朗报复袭击海湾多国能源设施，卡塔尔拉斯拉凡LNG厂遭导弹穿透受损，标志战争进入新阶段。",
+    "布伦特原油一度突破110美元，WTI与布伦特价差走阔至近20美元，市场开始计入美国可能禁止能源出口的情形，两地市场长期割裂。",
+    "美联储维持利率不变，主席鲍威尔表示将留任应对司法部调查，政策路径受通胀上行与地缘冲击双重牵制，降息预期后移。",
+    "欧洲央行与英国央行面临更大紧缩压力，市场已计入年内三次加息，专家预计10年期美债收益率年底跌破4%，但短期曲线剧烈波动。"
+  ],
+  "core_points": [
+    "能源基础设施成为战争目标，卡塔尔拉斯拉凡设施受损标志冲突进入新阶段。",
+    "布伦特原油飙升，WTI与布伦特价差扩大反映欧美能源市场割裂。",
+    "美联储维持利率不变，鲍威尔坚持留任，政策路径受通胀与地缘冲击牵制。",
+    "欧洲央行与英国央行年内已计入三次加息，紧缩预期强于美国。",
+    "专家看多长期美债，预计10年期收益率年底跌破4%，但短期波动剧烈。"
+  ],
+  "key_facts": [
+    {"label":"布伦特涨幅","value":"7%","context":"more than 7%. Coming up this hour"},
+    {"label":"WTI变动","value":"0.3","context":"WTI down by 0.3. A big"},
+    {"label":"联邦基金利率上限","value":"3.75","context":"of the Fed's target fund rate is 3.75."},
+    {"label":"两年期收益率","value":"3.81","context":"at twos right now at 3.81. The upper end"},
+    {"label":"裁员比例","value":"10%","context":"about 10% of its staff."}
+  ],
+  "takeaways": [
+    "关注能源出口禁令风险与布伦特油价进一步走高的可能。",
+    "长期配置美债避险，但需警惕短期曲线剧烈波动。"
+  ],
+  "guests": ["Jonathan Ferro","Lisa Abramowicz","Seema Shah","Michael Harnett","Krishna Guha"],
+  "topics": ["中东能源危机","原油市场","美联储政策"],
+  "tensions": ["油价冲击 vs 经济增长","加息抗通胀 vs 需求破坏"],
+  "quote": {"text":"能源的武器化必须停止","speaker":"Sultan Al Jaber","kind":"paraphrase"},
+  "importance_score": 4,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

@@ -1,0 +1,509 @@
+TITLE: David Shor and Byrne Hobart on the Politics of a White-Collar Wipeout | Odd Lots
+CHANNEL: Odd Lots Audio
+DURATION_S: 3323  DENSITY: standard  REQ summary=3 core=4
+PUBLISHED: 2026-03-24T12:39:31+00:00  URL: https://www.youtube.com/watch?v=ZWVJ0vwPsI8
+SHA256: 17e6eec49e6f0be9c7e1818168a58b94b0674a88cf14952e006e6925f147ecd8
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [10%] top one or the top 10%. The economists
+  [5%] something like 5% of the public is
+  [15%] think in December I spent maybe like 15%
+  [1925] And if it were 1925 and you're trying to
+  [70%] 70% of the population says that it's
+  [2025] in is it March? March 2025.
+  [1920] investor accounts from the 1920s and
+  [1926] 1926 to say I'm going to invest in this
+  [35%] Only 35% of the public think feels that
+  [60%] it stands something like 60% of the
+  [13%] public has used these tools 13% of the
+  [2000] in 2000 and it's been I guess you know
+  [2016] there were internety issues in 2016 and
+  [2020] 2020 but it's it's becoming less and
+  [3%] because of AI but if like 3% of people
+  [2032] um in, you know, the year 2032 or
+  [1040] taxes for you know does a thousand 1040s
+  [0.7%] is that if you look at the 0.7% of the
+  [150000] up to $150,000. We're going to make sure
+  [98%] it tested better than like 98% of the
+
+=== TRANSCRIPT EXCERPT ===
+Bloomberg Audio Studios podcasts, radio,
+news.
+Weisenthal.
+Southwest recently.
+any barbecue in Austin, but we did have
+some really good Mexican food. We did
+have really good Mexican food and we
+recorded a really fun episode of our
+podcast.
+recorded a good episode.
+listeners. We did a live episode of the
+podcast talking about sort of the
+prospect of mass white collar
+displacement due to AI as well as the
+politics and how politicians should be
+thinking about this and how voters are
+thinking about this. Our guests were
+David Shore, founder of Blue Rose
+Research, and Burn Hobart, who writes
+the excellent DIFF newsletter and a
+general partner at Anomaly Fund. Take a
+listen.
+Sunday morning.
+recording of the OddLots podcast. This
+is definitely going to be the most
+uplifting of all the conversations that
+have happened this weekend, right?
+We are
+really good about [laughter]
+we have uh two great guests. We are
+going to be speaking with David Shore.
+He is the founder of Blue Rose Research
+political consultancy pollster knows a
+lot about AI and we have Burn Hobart,
+the founder of the DIFF, a great
+newsletter that everyone should read and
+a general partner at Anomaly Funds. And
+we're going to talk about all things AI
+and job loss potential and the politics
+of it and so forth. And so, David and uh
+Burn, thank you so much for uh joining
+us on stage here.
+question. David, you're pretty like this
+is happening now. The economy is going
+to look radically different maybe even a
+year, 18 months from now and you're
+trying to wake politicians up. This is
+happening right now. But like tell us
+what's happening right now or what's
+about to happen.
+I don't I don't want to claim I'm one,
+but you know what I'll say is that I use
+AI a lot. I use cloud code a lot. I
+think in December I spent maybe like 15%
+of my pre-tax income on cloud code
+overage fees. [laughter] And I think
+there's a real disconnect among my
+friends between, you know, people who
+use cla code and people who don't where
+I could really feel the extent to which
+I can do so much more now versus a month
+ago and a month before that. Like the
+scale at which these things are getting
+better and the speed at which things are
+getting better is really jarring. And I
+think you might not notice that if
+you're just using chat GBT like you know
+chat GBT is like a little better than it
+was a year ago.
+predictions about the future but I do
+think that if if things continue to
+improve on this scale then things could
+get really weird really quickly.
+talk to you is because you're sort of at
+the intersection of technology and
+finance. If I look at the valuations of
+big tech at the moment and a bunch of
+the AI companies, they basically suggest
+that they're going to take over the
+entire economy. When you see those
+numbers, what do they suggest to you
+about the future of labor?
+true that we're think you can think of
+this coherent category of this is an AI
+company or this is a non this was a
+non-AI company, but they're
+incorporating AI and they have these
+distribution advantages, so they'll
+probably do well at that. But I think
+that it's a mistake to think that this
+is a a durable discreet category in the
+same way that you could refer to a lot
+of companies as electricity companies.
+And if it were 1925 and you're trying to
+figure out which stocks to buy and
+you're just really really bullish on
+electricity, then you you would really
+really care that RCA is exposed to
+electricity and I don't know, US Steel
+is mostly not. But eventually every
+company becomes an electricity company
+just in the sense of you would run a
+very different business if the lights
+did not turn on. And so it like gets
+subsumed by the rest of the economy. And
+you see that with software too where
+there just a lot more companies that
+have software developers and are writing
+software for internal use. And they're
+not software companies per se. You know,
+they're restaurants or like tractor
+companies or whatever, but they have
+that element. And so I think that's
+that's part of what you see just early
+in the roll out of any general purpose
+technology is that you have a lot of
+really narrow specific bets and then
+over time the impact gets so widely
+distributed that it's very hard to trace
+and you have to kind of go back and look
+at the history and look at things like
+okay the rise of the car leads to the
+rise of the suburb but it also leads to
+the rise of the grocery store because or
+like the the supermarket where you can
+have a much larger selection and that
+means lower labor cost per unit sold and
+that means lower cost overall and that
+works if people are not walking to get
+their groceries. It doesn't work if
+people are walking and it's like a
+daily, you know, stop on the way home
+from work or something. So, we will
+probably see a lot of those weird kinds
+of outcomes. Like, I think if you're
+thinking about the risk to a given
+career, I think for most of the careers
+people worry about, the average like the
+mean compensation goes up, the median
+compensation of people who are in that
+industry right now, the median
+compensation they get from being in that
+industry probably goes down where a lot
+of people get washed out. But this has
+happened before. Like the spreadsheet
+did not eliminate investment banker or
+accountant as a job. It actually made it
+a more lucrative job. But it also made
+it a more measurable one where you just
+can't slack off the way that you perhaps
+used to be able to somewhat slack off in
+some of the white collar professions.
+It's just a lot easier. Like the
+expectation for output is so high.
+people are tweeting and I'm like it
+seems like a lot of people are slacking
+off these days. I'm like how do you have
+time? I have time because I'm like a
+journalist and I sit, you know, I create
+words professionally.
+have time to be tweeting all day.
+of progress. No question. There are new
+harnesses for AI models that increase
+all of our capabilities and so forth.
+That's different than we all know that's
+true. That's different than like job
+wipeout in a significant way. What is it
+about to you that you think yes there is
+progress but progress on the scale of
+this is an imminent thing that we have
+to be talking about that could really
+reshape white collar labor
+co uh because the thing about AI
+progress is just that it's really in
+many ways exponential where the amount
+of time that an AI uh can operate
+autonomously without a human really has
+been doubling every 112 12 days or so
+for the past 6 years. And you know, when
+I think about CO, this was a thing that
+nobody saw coming. Uh, and then it
+happened really fast. And then I think
+the political system was very reactive.
+And I think that a lot of quietly, a lot
+of Democrats wish that they had handled
+things a little bit differently. But
+what's cool is that unlike co, you know,
+we really can see this coming. All of
+the warning signs are blinking. And you
+know the other point I want to make here
+is you know I personally think that
+there's a lot of potential for
+large-scale job loss particularly white
+collar but you know there are a lot of
+truck drivers there are a lot of Uber
+drivers um you know all kinds of people
+could lose their jobs and this could all
+happen very quickly. I think the more
+important point though is that the
+American people see this and are really
+quite worried. You know, when you ask
+people, uh, how likely do you think it
+is that in the next 5 years there might
+be large scale job loss because of AI?
+70% of the population says that it's
+……（中部抽样）……
+either very likely or somewhat likely.
+once it's already happening it will be
+we've been here before right We all well
+alternative professions are for white
+new economy like what are the new jobs
+incredibly rapid adopters of AI tools
+manufacturing more doctors and in cases
+it's kind of glum to say okay some some
+the economy starts shifting more
+because there's just a lot more capital
+in other respects they are, you know, in
+have this comprehensive world model. And
+facts that are so obvious that nobody
+worth asking a question and you might
+kind of weird to be like to say like my
+like a you know absent-minded professor.
+people. Has the nature of your hiring
+polling questions or to write messages
+stuff is AI good at finding nonobvious
+about that means this is the question I
+engineering than before. So I think
+well. But Bern you write a newsletter on
+kind of narrow technical statement about
+measure people's ability as as software
+that skill is kind of obsolete right
+produced than ever before by a huge
+things to write specifically from chat
+little bit more. So, this question of
+we are now with the technology and where
+like cloud code. If you just went back a
+they've become smarter. And I don't
+growth of these companies, which I think
+And you know what I would say just on
+much faster than any of those things.
+sectors of the economy. And this
+political system can handle this.
+they're unspoken. So if you look at
+there's a lot of fun economic history on
+if you have a factory that has some kind
+retained earnings. It's like if you're
+upgrade this machine to a newer machine,
+investor accounts from the 1920s and
+stock and it was supposed to be the book
+completely differently like it would be
+then the business you know my stock
+of I think it was like causal and in
+before it hits anyone else and it'll hit
+that is that the specific technology
+It'll ask, okay, well, you know, what do
+exposed that you could do? Or, you know,
+can ask the chat GPT what your
+your son like and if you said you know
+like in this loud, noisy, very
+did talk about that being kind of
+captures the productivity gains here and
+us. But history is full of examples of
+and it actually makes us more miserable.
+when the cost of communication goes
+lot of it is so meta like a lot of this
+contracts and so we'll need fewer
+two years ago and I just thought, my
+on how you ask it, but the main
+they they ironically, despite all the
+people are more pessimistic about AI,
+educated and more like working class. Is
+well, you know, the jobs are going to
+the statement that AI is going to create
+public thinks the economy is rigged.
+you know working class people remember
+lost. And so you know the main point I
+future without knowing what the politics
+all a fraud, that thinks it's like this
+what's been building in the Democratic
+technology that is going to evolve like
+Even since last year, the share of
+Democrats are in a much better position
+jobs, that job loss isn't going to
+And I think that folks are kind of
+like that, but I would imagine for a big
+it stands something like 60% of the
+whole host of different sectors. You
+deployed quite widely." And I think that
+very concerned they're going to be
+progress and acceleration and so forth.
+you how do you see the uh tectonic
+have a different set of views. And I
+flying on a plane is just a much more
+wealthy people had it. And actually,
+tasks and I wouldn't feel at all bad if
+also, older demographics nominally don't
+generated text. They feel much more
+outside abstract perspective. So the the
+electricity or even the internet where
+like are you pro or anti like it just
+plagiarism like deniable plagiarism
+going to hit very quickly. People get
+the most popular politicians in the
+tons of winners or losers like you know
+benefits and concentrated losers that's
+to respond and I whenever you go back as
+January it's only the weird online
+was more like this is a prudent response
+[laughter] and then, you know, Trump, I
+his early COVID speeches, we would have
+which was really weird to me because the
+lot of time watching TV. If what you're
+the progrowth abundance faction like
+issues that changed in salience I think
+though like the situation is still very
+ago question, trade is still the most
+think the transistor and integrated
+devices we have in our homes that can do
+controls with no transistors inside of
+construction." Could you see a world
+specific thing happening in that
+of single family homes totally seems to
+polling on data centers is it's true
+bills by 10%. Then suddenly it becomes
+land use and that I think it would be a
+voters think that the economy is rigged
+very much. Uh while what does uh I think
+address it and it's not just should I
+you yourself think about adoption of the
+in that supply chain has all of their
+um in, you know, the year 2032 or
+organization side just you know do you
+middle management? Probably not because
+a regulated job where there is some kind
+to do so as long as they can limit
+can sue me if it goes wrong because
+efficient to sue me for something chatpt
+something economically valuable that we
+and that you know if you decide that
+that that kind of model where you want a
+of the things that comes up is we did a
+anti-discrimination laws and stuff. So
+curious like from a fi just thinking
+humans is bad at knowing why it actually
+with some very solid sounding
+can actually read the reasoning traces.
+process. So you might have them, you
+they went to this question and then they
+through that and reproduce it. Now, if
+lot of clever people just figure things
+defy gravity
+think it could be very helpful to you
+the worst case outcome is probably going
+politics?
+to make content that's persuasive, that
+something like 5% of the public is
+incentives are really to focus on the 5%
+know, just to give an example, someone I
+person who was responsible for a
+point is really the status quo is really
+game of like how do you actually get
+regular things that affect people's
+content. It could be good but also uh
+seem disconnected from anything that
+annoying and yet you wouldn't it's
+if you ask people what issue do you care
+to like number five and like climate
+know, what the public cares about. Um
+read on the policies you would expect to
+Me personally, I'm not usually the
+……（接近结尾）……
+which there's a huge chunk of AI
+spending and AI's impact that probably
+does mean that it's potentially more
+likely that someone could make a career
+out of something like agitating against
+spam tax. And we did actually see you
+know click to cancel is kind of moving
+along. So you know those little quality
+of life things like click to cancel is
+the kind of thing a mayor would be
+really proud of but it has to be done at
+more of a federal level. But maybe if
+it's possible to actually target
+whatever population niche like really
+wants to bring back pay toilets because
+they think that banning paid toilets
+creates all kinds of perverse economic
+outcomes which it does. You can find
+those people, you can mobilize them and
+you can get them to, you know, if there
+is like some very close race somewhere
+in the House race for example and one of
+the politicians happens to support this
+particular pet issue, they could be like
+the crypto people and just money bomb
+the person who happens to also support
+the thing that they like. So we could
+actually have that's another way we
+could potentially see AI democratizing
+democracy further is that you can
+actually coordinate interest groups for
+people who are just less politics but
+still actually care about problems that
+should be solved through the political
+process.
+you know because uh you know you said
+that Bren said that this is ominous and
+you know I I want to push back on that a
+little bit. There's an Ed Glazer quote
+that I really like which is you know
+everyone wants macroeconomics to have
+micro foundations but micro foundations
+itself should be microfounded that we
+are not going to experience any of the
+potential productivity gains or or only
+experience a fraction of the
+productivity gains unless we can give
+voters some sense of security. that
+public is really crying out that they
+want economic security and that they
+want to be able to look out at the next
+5 years without fear. And if you can
+provide a new social contract, if you
+can actually provide economic security
+at a high level, then you can actually
+have all of these like sector specific
+shifts to have higher productivity. But
+if politicians don't advance a vision
+like that, then we're just going to
+collapse into a Byzantine series of
+sector specific, you know, regulations
+and guilds, which I think you don't want
+either. And so I think, you know, the
+libertarians should really choose, you
+know, uh what world they want. you know,
+either we can have a largecale solution
+that protects people's incomes and
+prevents them from being losers, or we
+can just kind of have this giant
+negative some fight playing out in every
+single sector simultaneously. And I'll
+also say, you know, we're not really in
+the ideal political circumstances, you
+know, for that latter thing to to
+happen. And so, I think it really could
+get quite ugly.
+was a fascinating chat. We really are
+going to have to do another hour on what
+deep fakes are doing. But, uh, thank you
+all for joining and, uh, have a great
+rest of your day.
+That was our conversation with David
+Shore and Burn Hobart recorded live at
+South by Southwest in Austin. I'm Tracy
+Aloway. You can follow me at Tracy
+Aloway.
+me at the stalwart. Follow our guest
+Burn Hobart. He's at Burn Hobart and
+David Shore at David Shore. Follow our
+producers Carmen Rodriguez at Carmen
+Arman Dash Bennett at Dashbot and
+Kalebrooks at Kalebrooks. And for more
+OddLots content, go to
+bloomberg.com/odlots.
+We have a daily newsletter and all of
+our episodes. And you can chat about all
+these topics 247 in our Discord,
+discord.gg/odlots.
+if you like it when we record these live
+episodes, then please leave us a
+positive review on your favorite podcast
+platform. [music] And remember, if you
+are a Bloomberg subscriber, you can
+listen to all of our episodes [music]
+absolutely adree. All you need to do is
+find the Bloomberg channel on Apple
+Podcast and follow the instructions
+there. Thanks for listening.
+Yeah.

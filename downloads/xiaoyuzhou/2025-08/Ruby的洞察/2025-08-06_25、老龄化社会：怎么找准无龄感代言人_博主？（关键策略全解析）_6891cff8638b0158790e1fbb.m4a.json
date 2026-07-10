@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 3662,
+    "item_id": "xiaoyuzhou:6891cff8638b0158790e1fbb",
+    "month": "2025-08",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6891cff8638b0158790e1fbb",
+    "published_at": "2025-08-06T07:30:00+08:00",
+    "published_date": "2025-08-06",
+    "relative_dir": "2025-08/Ruby的洞察",
+    "schema_version": 1,
+    "source_id": "xyz_ruby_insight",
+    "source_name": "Ruby的洞察",
+    "status": "pending",
+    "target_basename": "2025-08-06_25、老龄化社会：怎么找准无龄感代言人_博主？（关键策略全解析）_6891cff8638b0158790e1fbb",
+    "title": "25、老龄化社会：怎么找准无龄感代言人/博主？（关键策略全解析）",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6891cff8638b0158790e1fbb"
+  },
+  "audio_url": "https://media.xyzcdn.net/658be0524b73719a63166bc9/lrYpb1v4haSAp3Fm_jhKz-mMAjcA.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2025-08\\Ruby的洞察\\2025-08-06_25、老龄化社会：怎么找准无龄感代言人_博主？（关键策略全解析）_6891cff8638b0158790e1fbb.m4a",
+  "bytes": 117882650,
+  "sha256": "dd00770c2e4981e7fcf778a19e5e06bc1af6d457144a37d813621f2ea8f49d27",
+  "downloaded_at": "2026-07-02T04:58:28Z"
+}

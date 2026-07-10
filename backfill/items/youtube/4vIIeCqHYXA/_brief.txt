@@ -1,0 +1,562 @@
+TITLE: Gary Vee: The AI Opportunity Is Real — You're Just Looking at It Wrong
+CHANNEL: Silicon Valley Girl Podcast
+DURATION_S: 2681  DENSITY: standard  REQ summary=3 core=4
+PUBLISHED: 2026-03-27T13:01:32+00:00  URL: https://www.youtube.com/watch?v=4vIIeCqHYXA
+SHA256: 7e4e3402cac929eaa0b786c4ea03d45fb98f1a538805217511ac86ee6c0d59b2
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [2005] going so hard during early web 2, 2005,
+  [2008] predictions in 2008 was everybody would
+  [500000] it not need a developer for 500,000?
+  [80%] make 80% of the money would they then be
+  [99.9%] 99.9%
+  [4.6] 4.6. The link is in the description.
+  [27000] if my 400 people now make 27,000 ads
+  [16000] and your 200 people make 16,000 ads for
+  [1%] period of time and we are like 1% that
+  [95%] I today have 95% validation, 5%
+  [5%] I today have 95% validation, 5%
+  [2026] &gt;&gt; Okay. College degrees in 2026, yes or
+  [50%] &gt;&gt; For 50% of the people that are listening
+  [99.999%] 99.999%
+
+=== TRANSCRIPT EXCERPT ===
+I need everybody to hear this. The
+middle class will be in trouble.
+build wealth?
+micro wealth, but I think a lot of
+people are going to check out of this
+era.
+entrepreneur, best-selling author, and
+early investor in Facebook, Twitter, and
+Uber. He predicted TikTok, talking to
+computers, and the creator economy
+before anyone saw it coming. In an our
+lifetime's most unpredictable moment, I
+went straight to him for answers.
+and AI?
+month, make unlimited organic content,
+and try
+can totally see how Anthropic releases
+new lines of code tomorrow and this
+business is done. Why would I start if
+it's already being automated?
+way will set up your next thing. What
+are you going to do? Lay down and cry?
+I'm asking you.
+I did it in Russia a deal.
+I did it in Russia in Chicago. I was
+like
+I showed up. I didn't know.
+And they went and I just battled and got
+through it. It was pretty cool.
+Pizza.
+Crazy. So no sort of sale.
+what's happening and you know, I've been
+watching you for
+8 years now. So I've been preparing for
+this interview for 8 years and what I
+noticed about you is that you're right
+at so many things. I remember you
+predicted TikTok and you're the reason I
+started TikTok. I have 3 million
+followers there cuz you were like you
+need to start TikTok. When you're
+looking at this AI era, do you think
+it's our last chance to build wealth
+right now?
+of the things I try to do is when I talk
+about things publicly, I've spent a lot
+of time thinking it through. And I've
+seen indicators of actual human action
+that shows me an insight to the earliest
+of preview of something I think will be
+at scale.
+So that's why a lot of my predictions
+have worked out. It's like when I talk
+about our grandkids marrying AI robots,
+well, it's already happening in Japan.
+putt. That's just something that's
+happening in a part of the world that
+clearly to me is a human psychology and
+so it's going to work. Your question's
+interesting because
+my intuition is
+it has the chance to create a hyper
+micro wealth, the fragmentation of, you
+know, vibe coding and all this stuff and
+the stuff we're already seeing, right?
+Kids building out products very quickly
+and having success. On the flip side,
+you're also alluding to clearly the
+super scalers, right? When you look at
+what Meta and Microsoft and Google
+like the biggest companies in China,
+like you could see a winner takes all
+scenario where 12 or 13 companies My gut
+is that the economy and the consumer
+behavior is so
+large that yes, there'll be 25 companies
+that take so much, right? You look at,
+you know, Adobe and Salesforce and
+ServiceNow and SaaS companies. I mean,
+SaaS companies are clearly
+coming out of an incredible 30-year run
+and now walking into a potential
+buzzsaw. You know, I saw a headline
+yesterday, I don't know if it's true. I
+mean, just, you know, I was busy
+yesterday, but X, maybe it was Claude.
+Claude just made gave everybody a
+Bloomberg terminal for free. You know,
+like those kind of headlines seem very
+real to me. They seem really natural.
+But it's almost like Meta or Anthropic
+or or someone else is going to eat up
+more Bloomberg and ServiceNow and
+Salesforce. Like it's like the battle of
+the Titans.
+on the scraps
+well the scraps actually might be quite
+big.
+And it might be a social media like era
+where all of us become literally all of
+us become vibe coders like
+just like I thought one of my great
+predictions in 2008 was everybody would
+have a social media account. When it did
+not seem like that.
+that is monetizable
+cuz they themselves were able to build
+it not need a developer for 500,000?
+I don't know. I think I so I
+I I believe that the middle will be in
+trouble and the middle might be a
+VaynerMedia.
+You know,
+um
+but I've a feeling the the the
+separation of the middle class of
+entrepreneurship and
+could be real. The differences
+the long tail could be quite at scale
+maybe even then creating this middle
+you know this middle class. I don't
+know. If you put a gun to my head I
+would say no it's not our last chance.
+counter just to build on this the
+conversation. If it is our last chance
+and 79 companies make all the money
+governments will get massively involved.
+you know back to where we come from and
+where we're sitting.
+Could extreme capitalism
+mean a different version of socialism?
+where there's only 100 companies that
+make 80% of the money would they then be
+forced to subsidize all the deplete
+displaced workers? Do we live in a
+three-day work week environment with the
+other four days subsidized from the
+companies that we work from? Do we have
+more leisure? Do we get born to the arts
+and family? And do we have side projects
+that make these micro pennies? I don't
+know.
+for you like VaynerMedia, you lose your
+followers, so what would you do if you
+have a laptop and AI?
+brand, but I kept my knowledge of how to
+make content on social,
+I would build an app that's $5 to $50 a
+month and I would make unlimited organic
+content on LinkedIn, Twitter, TikTok,
+and try to get customers.
+I bring you the people who see what's
+coming next every week. Subscribe to
+this channel so you don't miss it.
+That's very interesting approach. I just
+talked to Bill Gurley who's like a
+legendary investor and he told me you
+can't even imagine how many websites are
+there that are just like passport photos
+that charge you $6. And yes, AI can do
+that, but because we're still so used to
+going to a website and paying and
+they're making tens of thousands of
+dollars a month and we just don't
+realize it. Cuz for me as a person in
+Silicon Valley, right? I'm looking at
+all the businesses and I'm like, okay, I
+can totally see how Anthropic releases
+new lines of code tomorrow and this
+business is done.
+He's right.
+what I do for a living and what I'm
+obsessed with actually explodes in this
+next era. It's all going to be about
+brand because you have to discover it.
+There in 30 years by default somebody
+will be like, oh, let me go to the main
+AI thing and I don't need to, but there
+is going to be a long period of time
+here.
+still need to adjust. Whereas humans we
+take some time to adjust to new reality.
+So,
+you even know who Bill Gurley is,
+you live in a different world than the
+99.9%
+of people on Earth who've never heard of
+Bill.
+who's listening.
+together with small companies, small
+businesses, other people educating them.
+I feel like there is a lot of potential
+there.
+with about the last 20 years, which is
+there is a advertising and brand
+building ecosystem called social media
+that does not cost you money.
+And that's the point about AI apps. It
+really doesn't cost you money anymore to
+build something in the way that I grew
+up. Um
+but the fact that you can actually get
+awareness, that you're one Tik Tok away
+from having people know who you are and
+building a platform, that's that's
+intoxicating.
+about social media, right? I see a lot
+of AI content and we're getting flooded
+with so much content. We're competing
+more, but also another thing that I'm
+always thinking about, what if this
+social media platform, like why would
+they pay human creators? Why would they
+not just, you know, generate AI
+creators? This is much more personalized
+content, it's free and they don't have
+to pay anyone.
+some of them do.
+doesn't pay people, Tik Tok doesn't pay
+people. Like, they don't pay people.
+They they are an open vessel that people
+go on and create for and then businesses
+come and sit in between people that make
+content and people that consume content
+and then the businesses advertise on
+there or go to a creator and do a brand
+deal. Now, if you're saying, why would
+L'Oreal go to you like they might today
+versus someone that looks kind of like
+you that they could even own like a
+……（中部抽样）……
+Mickey Mouse cuz
+Now, what they might use you for though
+I think the rise of analog value is
+behind the scenes doing stuff. I think,
+in with my thumbs and right here.
+having 25 people in this room right now
+real life. Restaurants, real life studio
+extremely scaled. What we take for
+they're going to continue to increase in
+influencers influencers are crying to me
+20 years ago, none of us existed, and
+Vee, do not have a television show. I
+possible.
+and we're disrupting something, we like
+media strategy?
+if AI wasn't even happening right now,
+longer form content. So, I hired two
+to come up with 15 to 20 follow-up
+AI that.
+becoming so much easier, because I
+LinkedIn. I'm like, I can't write. So,
+infrastructure for my books, cuz I've
+my written content, people come up to
+don't write differently than I talk,
+I'm pushing my team right now on this,
+obsession to understand how to be great
+to pump out a lot of how to, why, right?
+on the craft of the written word, the
+need to know everything that's happening
+What kind of content, what format, what
+Video crushed last year. It's declining
+Like what is happening in popular
+we're seeing Hispanic culture. We're
+Starbucks bear tumbler for 3 weeks, then
+relevance, right? I can make one
+also into the same thing I'm into,
+We love sports. Religion is because the
+when I walk outside right now, if
+misunderstood. But even B2C
+pop culture.
+what we've been talking about connects
+stops because you prep for podcast
+your inbox waiting for your decision.
+That's Axiom work. And what I appreciate
+has its own identity, intelligence,
+pre-built library of connectors already
+practice. So, for example, my team runs
+sure nothing falls through the cracks.
+production. Each agent has a defined
+set up recurring scheduled tasks, things
+morning at 10:00 a.m. my CPO agent sends
+work is built by Alibaba. 26 years of
+offer. Two weeks of unlimited access to
+whatever you're doing.
+years and everything's different, it
+is everyone paying attention to? Oh my
+complicated. The thesis is simple.
+Vayner So, I have many different
+Three very large advertising agencies,
+very, very challenging game. I mean, I
+there, all of which are like, "We want
+So, the demand of customers is
+business. Yes, I understand that AI can
+I'm just worried about the output wars
+400. And in our world, you and I we're
+But what if they weaponize those 400
+if my 400 people now make 27,000 ads
+But there this concept of
+will beat 400. But what if the 400 also
+I'm definitely being cautious. We are
+if you're a project manager at
+shapes and sizes. But if you're the kind
+asked to do more.
+in in Silicon Valley talking that
+everything is happening.
+this. Enter done.
+or you just started executing by
+strategist. So
+internet,
+that you can build that executes for us.
+superhuman with all these tools cuz
+like a superhero today the same way I
+The especially in New York because of
+year because I could go on the internet
+Like I would go and do that At that
+when on stage or went into a meeting and
+that. It was just so fast.
+very impressive. To remind everybody
+Didn't have an office to your point. Did
+Yeah, I mean this is just technology.
+Are you Well,
+Valley friends
+6, 7, 8, blogging, podcasting, and then
+have given a [&nbsp;__&nbsp;] about AI and
+like we have this year
+see each other in 10 years and be like,
+feeling it's not going to.
+Hang with me for a second. Let's play
+people are going to be like, "Yeah,
+its totality.
+accountability can help you.
+if it was free.
+go golfing and cooking and watching
+great reader.
+I just do something with it.
+opposite of hustle
+incredibly detached from my career or my
+not think it makes me better than. Who
+good at writing like it just happens to
+That I'm a nice guy. That when I
+anxious in this era.
+common human trait. I would also say
+And anxiety sucks.
+dollars.
+dollars because I've always been this
+let's not try to do that again and like
+pool. Like I loved playing again. I
+lesser than. I played outside of this
+school and in college when so many of my
+parenting, luck of the draw with DNA,
+environment. Now, luckily,
+And are also a little bit cocooned. Like
+So, she's cooking with gas. My
+starting to
+and are pushing you on the right things,
+to be exactly like me or just like me or
+not anything else. This.
+tell your kids?
+What do you like?
+It's the It's the goat emojis
+you're a snake oil like to me it's not
+or a plane or a third home or Nobel
+It is not what my life is about. I like
+think I am.
+architects and masons.
+is replacing you?
+mistake of failure isn't me?
+you do it?
+has this problem loves sugar.
+have the same issue. Sugar is the real
+13 years ago.
+sure I didn't take a sip of Really? For
+suffocated me to then get into patterns
+become an architect, you can cry about
+but you need to for it to become your
+Like what I would if I had that whole
+it's what are we going to do? Like it
+to help you think better, to put in the
+Like you need to start taking from your
+work. You have to go to the gym and eat
+conversation. Like this is staying in a
+But like my news feed is not politics.
+parents had it better than me.
+Look at all the people that are
+first time they're listening to you
+are people that are choosing offense.
+That same person could have a twin
+Who might be watching Netflix to this
+they they have a little side dish of
+anxious week and they're devastated they
+the main meal.
+and masons who do things. And most
+what architects are doing right now that
+absolutely free and I talk about a lot
+America at age three. I came when I was
+of self-awareness,
+know, South Korea and you're here in the
+people." which you're allowed, and
+making.
+executive, they're the entrepreneur, and
+country, immigrant,
+you know, the I was a kid, but the older
+You know, humility is a superpower.
+will tell you that in my real life
+immigrated. Like, with all the stuff on
+be gracious or to be kind or whatever it
+that's available to you in the country.
+toilets because America wasn't just
+worked out, right? Humility. I know that
+America, but now for some reason you
+curiosity. For me, I would just if
+John Travolta Nicholas Cage movie,
+work ethic, I know how to buy and sell,
+have nothing and then curiosity. At
+……（接近结尾）……
+are. You know what your passion is.
+something right now. This is actually a
+beautiful segway. I need everybody to
+hear this.
+If you're listening right now, and you
+think you're an entrepreneur, but these
+last 3 minutes of this talk are
+triggering some weird feelings,
+do you know how awesome it was to be the
+number seven at Facebook?
+Do you know how incredible it was to be
+the number nine at Tesla? Do you know
+how epic it is to be number 34 at
+LinkedIn, Microsoft? I mean, like
+again, I grew up entrepreneurship wasn't
+even a word, being a businessman was not
+cool, and then I ironically was part of
+the movement that kind of made this
+thing cool, but I have been talking for
+10 years of like, "Please, it's only
+cool if you are that." It's cool It's
+not cool to be a teacher if you're not a
+teacher. It's not cool to be, you know,
+It's not cool to be anything if you're
+not actually, you know.
+That is a good ending. And I have a few
+questions that are fire starters.
+tools that you use daily?
+really in the last like like is really
+Yeah, Meta's met like I'm I'm like just
+a couple weeks going in, but it's
+data, so they can do better analytics
+than anyone.
+on. What's your favorite prompt?
+feeling something that's happening in
+culture.
+Right. Uh I'll give you one right now.
+Does the baggy pants
+movement for men have another
+domino to fall?
+Like I will
+know exactly what's happening and you're
+trying to predict what's next.
+almost everything I'm doing is that.
+For me, for what I like to do in my
+professionally and personally.
+no?
+right now, yes. They need that degree to
+do the profession legally, in medicine,
+for the most creative and
+entrepreneurial people, yes, if mommy
+and daddy paid for it, because 18 to 22
+as a full pledge vacation to hang out
+with other 18 to 22-year-olds is a lot
+of fun, and you will work your whole
+life.
+No for 18 to 22-year-olds that are
+taking on substantial debt who are
+creative and entrepreneurial.
+away from?
+mean, look.
+Betting your whole life to be an admin
+who doesn't think.
+An admin that's a mason, not an admin
+that's architect, bad. Admin that's
+architect, huge. I'm going to hire
+people that have the power of 13 13
+admins for me, and she or he is going to
+sit at the top of that, and I'm going to
+pay that person a
+fortune to make my life effective.
+misunderstood thing about AI right now?
+thinking.
+So, for the people that are delusionally
+thinking this is the greatest thing
+ever,
+the counter of the negatives that are
+going to happen.
+And for the people that think everyone's
+in China and
+a perplexity and anthropic and America
+and Russia, there's going to be nine
+countries and nine companies and
+everybody else is
+out of their minds.
+The counter to each extremism of what
+people think.
+energy.
+saying gives energy to create versus
+like
+you, and I want to end with this. That
+that doesn't sit in some blind optimism
+or or even the great parenting that I
+was given. It sits in historics.
+It is historically true that we were
+scared of electricity and it wasn't. We
+were historically true to get off the
+farms, we did so much more. It's Humans
+are great.
+I know we're told that we're not, but
+99.999%
+of us are, either neutral or great.
+And if it And if I am wrong,
+here's why I'm this way. And if I'm
+wrong,
+I promise you're not going to worry
+about your job.
+If I'm wrong, we're all dead anyway.
+So, either I'm right that you should
+choose practical optimism and there's
+going to be a million opportunities for
+you if you go insular and work on you.
+Like you know,
+you know like this I mean I don't get
+it. It's not practical to be pessimistic
+and cynical. It is not practical.
+enough times today that I think you know
+what's coming. In our conversation, Bill
+shared a mindset shift that's worth
+every minute of your time. I put the
+video right here on the screen and let
+me know in the comments if you came from
+this episode with Gary.

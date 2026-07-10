@@ -1,0 +1,36 @@
+{
+  "short_title": "阿里财报逊于预期拖累港股",
+  "one_liner": "阿里业绩大跌，AI投入受质疑",
+  "why_it_matters": "阿里盈利骤降凸显AI烧钱压力与电商困境",
+  "summary": [
+    "阿里巴巴季度盈利骤降约67%，股价在美股ADR盘后重挫，市场对其巨额AI资本开支能否兑现感到失望。",
+    "港股与亚洲股市整体小幅走高，因油价回落且美以领导人释放缓和伊朗冲突的信号，但科技股分化明显。",
+    "多家央行维持利率不变但口风偏鹰，市场开始计入能源推动的通胀与潜在加息，债券前端收益率承压。",
+    "ETF IQ亚洲环节指出，主动管理型ETF与代币化、AI及芯片主题产品正吸引资金，区域市场结构仍需演进。"
+  ],
+  "core_points": [
+    "阿里季度盈利暴跌约67%，AI与云投入高企但短期回报受质疑。",
+    "油价回落与伊朗缓和信号提振亚洲股市，恒生小幅走高。",
+    "美联储、欧央行与英央行按兵不动但基调偏鹰，通胀风险上升。",
+    "BTS回归带来可观的演唱会经济拉动，文娱消费受关注。",
+    "ETF市场向主动管理与主题化演进，AI与芯片成主线。"
+  ],
+  "key_facts": [
+    {"label":"阿里盈利跌幅","value":"67%","context":"When you're talking about a 67% plunge"},
+    {"label":"港股跌幅","value":"70%","context":"Hong Kong after a nearly 70% plunge in"},
+    {"label":"AI云增长预期","value":"35%","context":"35% gain pace of growth over the next 5"},
+    {"label":"BTS粉丝人数","value":"260,000","context":"260,000."},
+    {"label":"离岸人民币","value":"6.88","context":"offshore yuan renminbi were at 6.88."}
+  ],
+  "takeaways": [
+    "关注阿里AI资本开支回报与电商份额保卫战。",
+    "油价与中东局势仍是亚洲市场核心变量。"
+  ],
+  "guests": ["Yvonne Man","Annabelle Droulers","Jill Disis","Christopher Wood","Reggie Brown"],
+  "topics": ["阿里巴巴财报","中东油价","ETF市场"],
+  "tensions": ["AI投入 vs 短期盈利","缓和信号 vs 通胀压力"],
+  "quote": {"text":"我们现在正处于恐慌阶段","speaker":"Christopher Wood","kind":"paraphrase"},
+  "importance_score": 4,
+  "content_density": "high",
+  "quality": "llm_validated"
+}

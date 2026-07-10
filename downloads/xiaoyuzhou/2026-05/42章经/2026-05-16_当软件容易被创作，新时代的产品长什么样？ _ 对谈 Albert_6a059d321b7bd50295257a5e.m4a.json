@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "科技 / AI / VC",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 2831,
+    "item_id": "xiaoyuzhou:6a059d321b7bd50295257a5e",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a059d321b7bd50295257a5e",
+    "published_at": "2026-05-16T21:30:00+08:00",
+    "published_date": "2026-05-16",
+    "relative_dir": "2026-05/42章经",
+    "schema_version": 1,
+    "source_id": "xyz_42zhangjing",
+    "source_name": "42章经",
+    "status": "pending",
+    "target_basename": "2026-05-16_当软件容易被创作，新时代的产品长什么样？ _ 对谈 Albert_6a059d321b7bd50295257a5e",
+    "title": "当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a059d321b7bd50295257a5e"
+  },
+  "audio_url": "https://media.xyzcdn.net/648b0b641c48983391a63f98/ltgaLbpl0P41D33VvSBACZqrCBdI.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\42章经\\2026-05-16_当软件容易被创作，新时代的产品长什么样？ _ 对谈 Albert_6a059d321b7bd50295257a5e.m4a",
+  "bytes": 45791532,
+  "sha256": "7256713164be52e6384573138446d3194d5c904b8988d4cdf741975abb51f1c7",
+  "downloaded_at": "2026-07-02T04:05:09Z"
+}

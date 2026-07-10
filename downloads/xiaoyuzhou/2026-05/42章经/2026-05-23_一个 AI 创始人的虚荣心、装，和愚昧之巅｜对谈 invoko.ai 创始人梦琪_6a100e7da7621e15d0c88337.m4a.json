@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "科技 / AI / VC",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 4122,
+    "item_id": "xiaoyuzhou:6a100e7da7621e15d0c88337",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a100e7da7621e15d0c88337",
+    "published_at": "2026-05-23T21:30:00+08:00",
+    "published_date": "2026-05-23",
+    "relative_dir": "2026-05/42章经",
+    "schema_version": 1,
+    "source_id": "xyz_42zhangjing",
+    "source_name": "42章经",
+    "status": "pending",
+    "target_basename": "2026-05-23_一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪_6a100e7da7621e15d0c88337",
+    "title": "一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a100e7da7621e15d0c88337"
+  },
+  "audio_url": "https://media.xyzcdn.net/648b0b641c48983391a63f98/lsI79O-Z19zPlvmqdBpZnEOGPk3F.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\42章经\\2026-05-23_一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪_6a100e7da7621e15d0c88337.m4a",
+  "bytes": 66667851,
+  "sha256": "3533a16ef12ec188977fec93414e0e05c4aff53324159bd51edbd5428cc92c1a",
+  "downloaded_at": "2026-07-02T04:02:15Z"
+}

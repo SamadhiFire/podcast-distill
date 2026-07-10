@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 8661,
+    "item_id": "xiaoyuzhou:6a0e0d241b7bd5029589e473",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a0e0d241b7bd5029589e473",
+    "published_at": "2026-05-26T19:00:00+08:00",
+    "published_date": "2026-05-26",
+    "relative_dir": "2026-05/独树不成林",
+    "schema_version": 1,
+    "source_id": "xyz_du_shu_bu_cheng_lin",
+    "source_name": "独树不成林",
+    "status": "pending",
+    "target_basename": "2026-05-26_柏拉图、卢梭、哈耶克、阿伦特如何解释算法时代？（对话大卫翁）_6a0e0d241b7bd5029589e473",
+    "title": "柏拉图、卢梭、哈耶克、阿伦特如何解释算法时代？（对话大卫翁）",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a0e0d241b7bd5029589e473"
+  },
+  "audio_url": "https://media.xyzcdn.net/64acd33c7a3d479103fbd32d/lriSTsIlzNHMcF74AhXy1k5B_EMt.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\独树不成林\\2026-05-26_柏拉图、卢梭、哈耶克、阿伦特如何解释算法时代？（对话大卫翁）_6a0e0d241b7bd5029589e473.m4a",
+  "bytes": 140080512,
+  "sha256": "6276a0f27d1e999d9559664daeb177803afb779b7c4f33adf0ead6d487a7f5d5",
+  "downloaded_at": "2026-07-02T03:59:29Z"
+}

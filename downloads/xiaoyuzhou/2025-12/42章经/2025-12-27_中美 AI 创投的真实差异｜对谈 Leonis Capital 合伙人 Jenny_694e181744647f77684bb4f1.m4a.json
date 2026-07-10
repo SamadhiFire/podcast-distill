@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "科技 / AI / VC",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 4100,
+    "item_id": "xiaoyuzhou:694e181744647f77684bb4f1",
+    "month": "2025-12",
+    "platform": "xiaoyuzhou",
+    "platform_id": "694e181744647f77684bb4f1",
+    "published_at": "2025-12-27T22:00:00+08:00",
+    "published_date": "2025-12-27",
+    "relative_dir": "2025-12/42章经",
+    "schema_version": 1,
+    "source_id": "xyz_42zhangjing",
+    "source_name": "42章经",
+    "status": "pending",
+    "target_basename": "2025-12-27_中美 AI 创投的真实差异｜对谈 Leonis Capital 合伙人 Jenny_694e181744647f77684bb4f1",
+    "title": "中美 AI 创投的真实差异｜对谈 Leonis Capital 合伙人 Jenny",
+    "url": "https://www.xiaoyuzhoufm.com/episode/694e181744647f77684bb4f1"
+  },
+  "audio_url": "https://media.xyzcdn.net/648b0b641c48983391a63f98/lh3BbNd3MtLK-zVruSZLMFqSEXNy.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2025-12\\42章经\\2025-12-27_中美 AI 创投的真实差异｜对谈 Leonis Capital 合伙人 Jenny_694e181744647f77684bb4f1.m4a",
+  "bytes": 66316729,
+  "sha256": "da86b260594c1c1875837054ed93e3701b6b5f5dfb7ff23a1fce79294b980a0c",
+  "downloaded_at": "2026-07-02T04:49:50Z"
+}

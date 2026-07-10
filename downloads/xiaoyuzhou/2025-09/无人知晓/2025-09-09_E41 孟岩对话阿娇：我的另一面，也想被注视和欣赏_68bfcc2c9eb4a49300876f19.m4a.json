@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 8318,
+    "item_id": "xiaoyuzhou:68bfcc2c9eb4a49300876f19",
+    "month": "2025-09",
+    "platform": "xiaoyuzhou",
+    "platform_id": "68bfcc2c9eb4a49300876f19",
+    "published_at": "2025-09-09T20:00:00+08:00",
+    "published_date": "2025-09-09",
+    "relative_dir": "2025-09/无人知晓",
+    "schema_version": 1,
+    "source_id": "xyz_wu_ren_zhi_xiao",
+    "source_name": "无人知晓",
+    "status": "pending",
+    "target_basename": "2025-09-09_E41 孟岩对话阿娇：我的另一面，也想被注视和欣赏_68bfcc2c9eb4a49300876f19",
+    "title": "E41 孟岩对话阿娇：我的另一面，也想被注视和欣赏",
+    "url": "https://www.xiaoyuzhoufm.com/episode/68bfcc2c9eb4a49300876f19"
+  },
+  "audio_url": "https://media.xyzcdn.net/611719d3cb0b82e1df0ad29e/lnDBqwDZpOI_yE-KjG76ffvJUE0h.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2025-09\\无人知晓\\2025-09-09_E41 孟岩对话阿娇：我的另一面，也想被注视和欣赏_68bfcc2c9eb4a49300876f19.m4a",
+  "bytes": 255675095,
+  "sha256": "753256d4c322a0e81c643012b2742291c139e90614cf69561910749a5b795654",
+  "downloaded_at": "2026-07-02T04:57:21Z"
+}

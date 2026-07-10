@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 2779,
+    "item_id": "xiaoyuzhou:686f8a5b93fd2d72b8839f3e",
+    "month": "2025-07",
+    "platform": "xiaoyuzhou",
+    "platform_id": "686f8a5b93fd2d72b8839f3e",
+    "published_at": "2025-07-10T17:44:14.110000+08:00",
+    "published_date": "2025-07-10",
+    "relative_dir": "2025-07/先声",
+    "schema_version": 1,
+    "source_id": "xyz_xian_sheng",
+    "source_name": "先声",
+    "status": "pending",
+    "target_basename": "2025-07-10_美股新高，日本人的养老金成美股定投器？我们中日消费者培育全球爆品？讲沪语的日本公使谈双向出海_686f8a5b93fd2d72b8839f3e",
+    "title": "美股新高，日本人的养老金成美股定投器？我们中日消费者培育全球爆品？讲沪语的日本公使谈双向出海",
+    "url": "https://www.xiaoyuzhoufm.com/episode/686f8a5b93fd2d72b8839f3e"
+  },
+  "audio_url": "https://media.xyzcdn.net/684289d5784934aceca733f2/lpBXRzRQOTAOHIUTvFkoR_-pNxbN.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2025-07\\先声\\2025-07-10_美股新高，日本人的养老金成美股定投器？我们中日消费者培育全球爆品？讲沪语的日本公使谈双向出海_686f8a5b93fd2d72b8839f3e.m4a",
+  "bytes": 67227545,
+  "sha256": "299cbd7ca77e19b3261e6d0e71ccd6e5ee92c517687dd62056e880c7643de7e8",
+  "downloaded_at": "2026-07-02T04:59:04Z"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "产品 / 创业 / 管理",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 6774,
+    "item_id": "xiaoyuzhou:69d8bbdfe2c8be3155dcc2fe",
+    "month": "2026-04",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69d8bbdfe2c8be3155dcc2fe",
+    "published_at": "2026-04-10T17:08:49.137000+08:00",
+    "published_date": "2026-04-10",
+    "relative_dir": "2026-04/张小珺Jùn｜商业访谈录",
+    "schema_version": 1,
+    "source_id": "xyz_zhang_xiaojun",
+    "source_name": "张小珺Jùn｜商业访谈录",
+    "status": "pending",
+    "target_basename": "2026-04-10_135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络_69d8bbdfe2c8be3155dcc2fe",
+    "title": "135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69d8bbdfe2c8be3155dcc2fe"
+  },
+  "audio_url": "https://media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltwEGwVo7grn_V-Rft0TXlMqmcty.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-04\\张小珺Jùn｜商业访谈录\\2026-04-10_135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络_69d8bbdfe2c8be3155dcc2fe.m4a",
+  "bytes": 109664205,
+  "sha256": "d5fc88c777ef71369affd2cbf2901ff0beeb76f0f6c0c789edaa3589dd20e13a",
+  "downloaded_at": "2026-07-02T04:25:13Z"
+}

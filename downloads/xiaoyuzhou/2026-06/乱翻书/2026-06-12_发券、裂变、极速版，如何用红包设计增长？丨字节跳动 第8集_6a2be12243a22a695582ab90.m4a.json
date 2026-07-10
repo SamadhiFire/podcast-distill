@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 10788,
+    "item_id": "xiaoyuzhou:6a2be12243a22a695582ab90",
+    "month": "2026-06",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a2be12243a22a695582ab90",
+    "published_at": "2026-06-12T19:04:56.981000+08:00",
+    "published_date": "2026-06-12",
+    "relative_dir": "2026-06/乱翻书",
+    "schema_version": 1,
+    "source_id": "xyz_luan_fan_shu",
+    "source_name": "乱翻书",
+    "status": "pending",
+    "target_basename": "2026-06-12_发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集_6a2be12243a22a695582ab90",
+    "title": "发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a2be12243a22a695582ab90"
+  },
+  "audio_url": "https://media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-06\\乱翻书\\2026-06-12_发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集_6a2be12243a22a695582ab90.m4a",
+  "bytes": 174635260,
+  "sha256": "b688a69c7e3af1219782c1bc1be5458d5fd57868a14f51620a7fcf832acb088f",
+  "downloaded_at": "2026-07-02T03:48:05Z"
+}

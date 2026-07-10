@@ -1,0 +1,33 @@
+{
+  "short_title": "信贷老将谈风险与回购危机",
+  "one_liner": "马特切温复盘2019回购市场震荡",
+  "why_it_matters": "从交易台到引擎室看懂金融体系运作",
+  "summary": [
+    "Maric Capital联合创始人马特切温回顾其二十年交易生涯，从JP摩根到花旗，2019年底转任CIO恰逢回购危机，让他从交易台走进金融体系的引擎室。",
+    "他谈到2008与2019两次危机的差异，并以写字楼空置率约60%为例，说明基本面与融资机制如何共同决定信用价值。",
+    "他认为AI与去监管或带来生产率红利，若沃什入主美联储，2026下半年利率与资产负债表格局可能截然不同，并强调风险管理需要理解资金飞轮。"
+  ],
+  "core_points": [
+    "切温在JP摩根与花旗交易信贷二十年，2019年底转任CIO时遭遇回购危机。",
+    "回购危机中隔夜质押国债借款成本一度达10%。",
+    "当前写字楼空置率高，建筑入驻率约60%，基本面成为信用关键。",
+    "他认为AI生产率红利与去监管或重塑2026下半年利率环境。"
+  ],
+  "key_facts": [
+    {"label":"回购借款成本","value":"10%","context":"borrow overnight against treasuries, it cost you 10%."},
+    {"label":"写字楼入驻率","value":"60%","context":"buildings are 60% occupied in terms of"},
+    {"label":"回购危机时点","value":"2019","context":"in late 2019, I had the opportunity to move over"},
+    {"label":"格局转变年份","value":"2026","context":"a very different second half of 2026 than the first half."}
+  ],
+  "takeaways": [
+    "关注回购市场与资金飞轮，理解融资机制比价格更重要。",
+    "AI红利与去监管或改变2026下半年利率路径。"
+  ],
+  "guests": ["Matt Cherwin（Maric Capital）","Barry Ritholtz（主持人）"],
+  "topics": ["信贷市场","回购危机","风险管理"],
+  "tensions": ["生产率红利 vs 赤字约束","监管松绑 vs 金融稳定"],
+  "quote": {"text":"我从船长变成了去机房看齿轮如何运转的人","speaker":"Matt Cherwin","kind":"paraphrase"},
+  "importance_score": 3,
+  "content_density": "standard",
+  "quality": "llm_validated"
+}

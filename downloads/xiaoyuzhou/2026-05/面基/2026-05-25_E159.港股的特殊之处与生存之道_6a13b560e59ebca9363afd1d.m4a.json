@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "商业 / 财经 / 投资",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 4537,
+    "item_id": "xiaoyuzhou:6a13b560e59ebca9363afd1d",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "6a13b560e59ebca9363afd1d",
+    "published_at": "2026-05-25T17:30:00+08:00",
+    "published_date": "2026-05-25",
+    "relative_dir": "2026-05/面基",
+    "schema_version": 1,
+    "source_id": "xyz_mian_ji",
+    "source_name": "面基",
+    "status": "pending",
+    "target_basename": "2026-05-25_E159.港股的特殊之处与生存之道_6a13b560e59ebca9363afd1d",
+    "title": "E159.港股的特殊之处与生存之道",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6a13b560e59ebca9363afd1d"
+  },
+  "audio_url": "https://media.xyzcdn.net/6388760f22567e8ea6ad070f/lgVF0YmK0SHoLJYZV0BPTZA8WEyy.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\面基\\2026-05-25_E159.港股的特殊之处与生存之道_6a13b560e59ebca9363afd1d.m4a",
+  "bytes": 73454802,
+  "sha256": "3857d6209665f839a0ec8d9249000f74a8e0103ab688673b07a8ac1b87639c35",
+  "downloaded_at": "2026-07-02T04:00:37Z"
+}

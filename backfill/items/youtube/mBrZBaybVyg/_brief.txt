@@ -1,0 +1,547 @@
+TITLE: Bloomberg Surveillance 3/13/2026
+CHANNEL: Bloomberg Surveillance Full Shows
+DURATION_S: 8619  DENSITY: high  REQ summary=4 core=5
+PUBLISHED: 2026-03-13T16:30:31+00:00  URL: https://www.youtube.com/watch?v=mBrZBaybVyg
+SHA256: ffc71d2776ef262d986b1d9b0fd4be3e895a3404d77098694a4b0896283a6f65
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [1%] up by 3rd of 1% on the session so far,
+  [2022] 2022 after the Russian invasion. And so,
+  [2%] slowing of economic activity, a 1 to 2%
+  [4%] 500 dropped more than 4% from the peak,
+  [0.7%] for the fourth quarter. It goes to 0.7%
+  [10%] close to 10% up on the month by around
+  [3%] expecting 2 to 3% real growth and, you
+  [7.8%] Adobe. The shares down 7.8% in the
+  [1.4%] 199 and down by 1.4% on Brent, on WTI
+  [0.4%] 0.4%
+  [3.63] every day. Today, $3.63.
+  [2026] 2026 ending with much softer growth and
+  [9%] up on the week by around 9%. In the
+  [40%] month between 30 to 40% so far through
+  [2024] The yen, the weakest level since 2024.
+  [1.1%] particular, down 1.1% and this comes
+  [2.8%] if we flip over, they're up 2.8%
+  [5%] asset class makes up about 5% of its
+  [2008] oil prices are likely to exceed the 2008
+  [30%] 30%," and it's not worth it. I mean, are
+  [99.50] that level, just briefly, 99.50 on
+  [1970] like the 1970s and '80s, we had two oil
+  [4.26%] to last 3 and 1/2 years. Is it 4.26%
+  [0.2%] 0.2% on the S&amp;P and the Nasdaq, a 0.2%
+  [0.5] 0.5.
+  [0.5%] negative by 0.5%. WTI down by 1.35. That
+  [20%] Russia situation here. We have an 20% of
+  [2.4%] from 2.4%.
+  [100.80] digits, $100.80
+  [0.2] 0.2. Setting the tone once again this
+  [100.50] triple digits, $100.50,
+  [95%] &gt;&gt; How many people? I would say about 95%
+  [3.0] of Google's Gemini 3.0 and it hasn't
+  [1.10] start talking about the levels of 1.10
+  [2023] Just like it was at the end of 2023,
+  [4.17%] Median yield on the 10-year note 4.17%
+  [99.90] at the moment 99.90, WTI 94.40. We heard
+  [94.40] at the moment 99.90, WTI 94.40. We heard
+  [100.30] highs, $100.30.
+  [50%] China has put on Iran. About 50% of the
+
+=== TRANSCRIPT EXCERPT ===
+Investors are giving this bull market
+the benefit of the doubt.
+event, equities are going to be fine.
+this as a buy the dip in all the risk
+assets.
+large cap or mega cap growth stocks.
+time unknown.
+Jonathan Ferro, Lisa Abramowicz, and
+Annmarie Hordern.
+Good morning. Good morning for our
+audience worldwide. Bloomberg
+Surveillance starts right now. Coming
+into Friday holding on to triple digits
+around supreme leader vowing to choke
+off supply through the Strait of Hormuz
+as the president claims defeating the
+enemy is more important than the price
+of energy. The Treasury Secretary Scott
+Bessent is providing Russia with more
+sanction relief. That story is where we
+begin this hour. Brent holding on to
+this week's gains as supply remains
+squeezed. Scott Bessent writing the
+following to increase the global reach
+of existing supply, Treasury is
+providing a temporary authorization to
+permit countries to purchase Russian oil
+currently stranded at sea. It's another
+push to keep a lid on crude.
+focusing on. Number one, Russia seems to
+be the biggest winner or one of the
+biggest winners through all of this. Uh
+there was a report out saying that
+Russia's earning as much as $150 million
+a day in extra revenues tied to the
+higher price of oil ever since the
+Strait of Hormuz closed. So that's on
+one hand. And then of course you have a
+policy question here in the United
+States. And on the other hand it
+highlights how little power the US has
+to bring down oil prices in other
+manners. It's tried all sorts of
+measures whether it's releasing the SPR,
+talking about the futures markets, but
+ultimately they're running out of tools
+barring just opening up the strait.
+we've seen so far this week. The
+announcement of a record reserve release
+for energy, get more barrels into the
+market, some vague promises of doing
+more, and then further sanction relief
+for Russia. The market is speaking for
+itself. Crude is up again on the week by
+close to 10% up on the month by around
+40 and crude right now holding on to
+triple digits.
+incremental uses. Also, they're weighing
+the Jones Act. They're obviously having
+some more relief to Russian oil. They're
+tapping the SPR. But to Lisa's point, to
+your point, until the Strait of Hormuz
+is actually back and open and tankers
+are flowing through that are not
+Chinese-flagged or Iranian-flagged, then
+at this point the market is going to
+continue to grind higher, especially as
+the conflict continues.
+last 24 hours. The United States is the
+largest oil producer in the world by
+far. When oil prices go up, we make a
+lot of money. That's the statement from
+the president, which is kind of
+unbelievable to see the direction of gas
+prices right now going into the midterms
+a number of months away.
+deeply unpopular at a time where
+affordability has been the key issue?
+Yesterday, Libby Cantrill of Kimco was
+saying that right now a lot of people,
+even in Republican circles, are saying
+this has been political suicide given
+the time that there is really a focus on
+cost of living to see gasoline prices
+rising at such a significant pace since
+the start of this conflict. You can try
+messaging it all you want, but you can't
+message people's pocketbooks in a
+different direction and people see with
+their eyes and they're not so silly to
+not be able to understand what they're
+seeing.
+money? Sure, Exxon, Chevron, some of the
+big oil players potentially making a lot
+of money right now, some of the shale
+producers, but not the American people.
+We don't have a state-owned oil company.
+As to your point, Jonathan, I check AAA
+every day. Today, $3.63.
+We are closer to $4 a gallon than we are
+to three. And right now, what you're
+hearing out of Iran is that they want to
+keep the strait essentially closed.
+Right now, equity futures just about
+unchanged on the S&amp;P 500 coming up this
+hour. We'll catch up with Bob Iger of
+Unlimited Funds as risk appetite pulls
+back. Marine Corps veteran Robert Walsh
+with all eyes on the Strait of Hormuz
+and Jordon Rochester of Masuo as markets
+grow impatient with mixed messaging. We
+begin this hour with our top story. Iran
+vowing to keep the Strait of Hormuz
+closed sending crude back into triple
+digits. Our team coverage starts right
+now with Joumana Betseche out of Dubai.
+Joumana, good morning. The president's
+own words overnight, we have
+unparalleled power fire power and
+limited ammunition and plenty of time.
+Watch what happens to these deranged
+scumbags. It's week two. People were
+hoping this would go on for days and not
+weeks and now we're talking about weeks,
+not months.
+on the timeline or how long this is
+going to take, but what I will say is
+we're very much still in the thick of
+it. Yesterday, remember on your show we
+were reporting about the anticipated
+statements coming through from the new
+supreme leader Mojtaba Khamenei and that
+did come through. I will say it was a
+statement that was read out on national
+television. It didn't come from him
+directly,
+but the point was messages of defiance
+once again and vowing to keep the Strait
+closed, vowing to continue attacking US
+bases around the Gulf countries, and
+threatening to expand into other areas
+as well without giving a lot of details
+of what those are those are and also
+vowing to avenge the killing of school
+children in the early days of the
+operations then the joint US Israeli
+operations. There was of course an
+attack that took place on a school in
+Iran. So, those are some of the themes
+that came through, but I would say
+beyond the rhetoric, the messaging was
+quite simply that they are still very
+much in charge. The hardliners are in
+charge here. And even it was quite
+interesting yesterday in his first
+comments in a while we heard from the
+Israeli Prime Minister and they said
+that even though the strikes have
+significantly weakened Iran and their
+clerical leadership, unlikely at this
+point that it's going to guarantee
+regime change in the country. So, even
+an acknowledgement there that the
+hardliners are still really very much in
+control of many of these military
+decisions. And I will say as we're
+speaking now, there's a pro-government
+demonstration going on in Tehran. It's
+Good Friday, it's the last Friday of
+Ramadan. Um people are showing up in
+masses, of course, in this very uh
+obvious show of support for the
+government. So, what we're not seeing is
+actually protesters, which is what I
+think, you know, the calculus was at the
+beginning of these military operations
+that perhaps the people of Iran would
+use this as an opportunity to rise up.
+There are no signs of that happening as
+of yet. The second messaging that came
+through yesterday from Iran is quite
+clearly that they are aware they're
+inflicting a lot of damage uh on the
+global economy and on the Gulf states.
+And the fact that they've reiterated
+their plans to keep the Strait of Hormuz
+closed means that their calculus from
+that perspective isn't going to change
+anytime soon. They know they have this
+chokehold over the global economy. And
+one of the conditions they have set for
+coming back to the negotiating table is
+to reopen up the Strait of Hormuz, they
+need to be sure that US strikes on Iran
+will not happen again. This is clearly
+not something that the US are
+considering at this point in time.
+President Trump's saying that he vows to
+press on even with oil prices higher.
+So, still a lot of daylight between the
+two positions.
+morning. No doubt we'll catch up a
+little bit later. Jumana Bacall out of
+there out of Dubai. The view on Wall
+Street this morning looks like this. Bob
+Elliott of Unlimited Funds writes in,
+"Markets appear to be severely
+under-discounting the possibility of
+2026 ending with much softer growth and
+higher inflation." Bob joins us now for
+more. Bob, welcome to the program. Think
+about what we've repriced through the
+week so far. The December oil contract
+……（中部抽样）……
+has gone from the 60s to the 80s over
+largely unreflected in either the bond
+start to say, "Hey, we've got to cut
+you get some sort of policy shift, or
+challenges um that exists when it comes
+community, global macro managers,
+slowing of economic activity, a 1 to 2%
+cut policy if we move to
+inflation might be spiking one or two
+this gives additional leverage to
+Gulf. We'll have to wait.
+on the S&amp;P 500. Yesterday, the worst day
+officials say there is little capacity
+correspondence with those oil prices.
+the regime change that he wanted and
+Graham and Tom Cotton who are pushing
+leader yesterday. The leave of the
+they want to get leverage whenever they
+off it's going to be. You know, and and
+littorals like we have in the in the
+operations and not offensive operations
+as it goes on and what we're starting to
+entrench themselves for a long time. And
+looking to avoid day four. Equity
+point given the fact that this was the
+offside in FX as well.
+premarket. And this comes down to the
+territory. But, Meta is down in
+of London this morning. On our radar,
+Russian barrels to hit the market. One
+quagmire from a messaging standpoint.
+Well obviously the Iranians are allowing
+lifting if the sanctions easing didn't
+out of the banks. This was Goldman. "Any
+bite. That's also when we'll be
+more quickly than oil, just once the
+elections last year, and so now we're
+trips booked out through the spring. I'd
+uh and the like. And there are other
+that investment slow down as well. A
+is it's not easy to bring a lot of more
+option, and the Iranians have taken it.
+rates.
+rally, who knows? It's early days, but
+add to inflation fears. Jordan Rochester
+for the past two weeks now we've
+three weeks. And and time is not on your
+seen a big flip of that. But in the
+still remains in flux, but what you can
+various stages, and we just kept seeing
+points of rate cuts priced for this year
+to its a full extent and we're still at
+on a much, much stronger dollar.
+around some of this stuff.
+S&amp;P 500 firmer by 2/10 of 1% on the
+that that CPI came in actually in line
+Brussels and Washington D.C.
+You can say the curve is deeply
+it goes on, it is a step change in terms
+defense secretary later this morning.
+open-endedness of a situation like this
+estimate of where realized productivity
+cause this sort of non-inflationary boom
+for the last 18 months and it hasn't
+therefore a dearth of intrinsic value in
+but it looks like at least another week.
+listen, I think you need something
+know, just take away the justification
+this morning. Nice to have you. Good to
+the future.
+And they're paying a big price right
+despite the difficulty of putting Humpty
+down again. This is way more complex
+a
+going out of consumers' pockets and
+exactly what Secretary Wright said in
+getting through. How alone is the US
+it's that line we've repeated a few
+that this week, we saw the market
+think that this administration has
+support, that has never been a recipe to
+it's a real wild card because the fact
+month. And then I ask the question to
+to that, this is a going to weigh on us.
+comparisons to Iraq, uh and any
+overnight quick operation to capture
+Nasdaq, positive by 0.3. On the Russell,
+idea of dollar weakening. Right now,
+president just months ago.
+to help any oil that is currently in the
+Uh, now with oil the first time closing
+make images with AI tools and not Adobe.
+critical waterway should remain closed.
+really for him do or die right now. He
+reinforcing the importance of energy
+renewable energy projects. You're really
+UK.
+agenda getting put on the back burner
+oil and gas.
+halo hard assets, limited obsolescence
+things like metals, things like helium,
+potential centers of vulnerability, of
+load green power. We think this is
+biggest volcano is actually here and
+anytime soon.
+Savannah's this morning, appetite for
+Port of Los Angeles, joins us now for
+crew is just not an option for the
+here to the United States are smooth,
+not seeing a drove of cancellations.
+risen substantially over this period of
+Red Sea at one point shut for about 6
+now is a net exporter of energy, we're
+Conference here in Southern California
+can't get insurance for the vessels or
+from? How quickly can a lot of these
+new Shah, the excuse me, the new supreme
+Good morning. Good morning for our
+inflationary momentum heading into what
+said, "We would do it if we needed to."
+suggest buying the dip. We favor value
+expensive. We have been expecting a
+investors, uh mutual funds, their cash
+all-time highs. What do you think is
+profits have been very strong. We've
+credit. Are you seeing anything in terms
+backdrop leading into the crisis, what
+and I wonder if you take a look at oil
+know, some of the the commodity complex
+seen as as John mentioned at the top
+the likes of the other players on Wall
+this press briefing held by the defense
+what he said about Iranian leadership.
+statement on camera. He made a point of
+saying he is wounded, even disfigured,
+people.
+the reality of trade right now, the
+an off-ramp, how much do people start to
+that Iran's new supreme leader is
+different fronts that they have been
+massacred.
+Once we got a few days in and the
+administration do?
+trying to achieve it for? And that is
+And so, look, the the escorts I don't
+uh of thinking outside the box. Uh what
+should make a uh war and peace decision
+York City this morning. Good morning,
+since the war has started. These are all
+GDP. That is flat, no change there. And
+say this is setting the tone for the
+out that the GDP downgrade that came in
+Uh I'll get that number I'll I'll get
+supposed to be another clear issue. Also
+morning.
+positioned to manage it. Where the big
+through this year. Going into this year
+portion of the economy is actually
+even 3% for the remainder of 2026?"
+inflation and focusing squarely on the
+excessively dovish perspective on the
+of a commitment can they make to the
+reaction function with which with
+16.7%
+seeing is basically defense aircraft
+is wounded
+forces and shipping. So, when the
+terms of what the ultimate goals are in
+which is no surprise and it's energy.
+Ulta had been pretty
+……（接近结尾）……
+Ryan, with that in mind, we spoke to the
+Port of LA Executive Director earlier on
+this morning who suggested some
+companies will just hold. They'll press
+pause. They'll stop. Are you seeing the
+same thing?
+pause. You're trying to make money. Like
+that's what business is about. So, uh
+there's some of that, but it's always a
+a you know, cost-benefit analysis. But
+yeah, for example, the price of air
+freight from Asia to Europe, you can
+still fly there. It's just that the
+price has doubled. Uh same with fuel
+prices and ocean freight have nearly
+doubled the the bunker fuel that the
+carriers had to pay. They're passing
+that through. There's a huge number of
+new surcharges coming in ocean freight.
+You got war risk uh surcharges, sort of
+insurance premiums, and then fuel.
+There's a long list of these things.
+It's hard for people to keep track of,
+but you can't just pause your business.
+That's not how this works.
+ahead of any additional potential
+increases in oil prices and actually
+ordering more? Trying to stockpile their
+inventories ahead of an even bigger
+disruption.
+especially true. Oil price is one thing,
+but um the the world is expecting new
+tariffs on um March 11th. The US trade
+representative introduced announced that
+there were 16 new section 301
+investigations
+to uh effectively these are new forms of
+tariffs to replace the IEEPA tariffs.
+Under section 301, it you need a
+an investigation. It can take several
+months. But those 16 investigations
+cover 92% of US trading partners by
+volume, by import value.
+Uh so everybody's expecting tariffs to
+go way up from where they are today. And
+so there's there's going to be some pull
+forward effect on that.
+lot of inventory. They were building
+inventory and then they worked that down
+as they got more comfortable with the
+scenario. Are we going back to that
+level of inventory build right now?
+don't know that people didn't really
+learn too many lessons from the
+pandemic. Inventory is expensive. Nobody
+really wants to have lots of it sitting
+around. It's expensive until you need
+it. And then you and then you look like
+a genius for having plenty of inventory
+when your competitors don't, but it's
+very costly in the meantime. So
+uh the the pandemic sort of was a very
+temporary lesson. And by now more or
+less companies have gone back to where
+they always operate. But yeah, you're
+seeing new shocks and that'll cause
+probably more temporary behavior
+changes. And we'll see what's what's
+lasting or what's considered lasting by
+the brands and the companies.
+the timeline for CEOs to make decisions
+is very short. Are you seeing that as
+well?
+make decisions some some decisions you
+need to make very quickly, and the
+companies that are really good at making
+decisions quickly have an advantage.
+Now, um often the best decision is to do
+nothing, but still a decision, but you
+uh
+if you're sitting there not making any
+decisions is probably bad news, but uh
+responding to very short-term situations
+can be dangerous. You saw that a lot
+with companies who moved manufacturing
+in response to tariffs, and then woke up
+and found out, "Oh, we moved our
+manufacturing to India. Now India's
+tariffs are just as high as China." Uh
+and now they've gone back down, and
+maybe we should have, you know, so it's
+it's really hard to know what's lasting
+and what's not. Uh I think having quick
+uh decision loops is really important
+for businesses.
+reality check on the ground. The
+flexible CEO, Ryan Peterson there, on
+what's happening with trade at the
+moment. The price of things, fuel
+surcharges, costlier alternatives, it
+all adds up pretty quickly.
+are watching inflation. I do want to
+just emphasize the 0.7% that we got on
+GDP growth in the fourth quarter, and it
+raises this issue of how strong the
+momentum was heading into yet another
+shock in the US.
+Monday. Chris Varona Strategas,
+Francisco Blanch of Bank of America,
+Henrietta Treyz of Veda Partners, Les
+Thomas of SoFi from New York City. Thank
+you very much for choosing Bloomberg TV.
+This was Bloomberg Surveillance.

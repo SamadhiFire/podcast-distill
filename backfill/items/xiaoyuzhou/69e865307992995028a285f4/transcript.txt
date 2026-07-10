@@ -1,0 +1,234 @@
+2026-04-22_英文访谈｜和 Danilo McGarry 聊企业 AI 转型：1400 个项目之后的实用 framework _ S10E08_69e865307992995028a285f4_原文
+2026年07月02日 14:31
+发言人   00:00
+用声音碰撞世界，生动活泼。
+发言人   00:09
+大家好，我是丁叫大雁。今天这一期是一场英文访谈。按照我们过去做英文节目的习惯，也为了大家方便收听，我会先把这一期的主要内容用中文做一个比较完整的总结，放在前面。这样如果你只是想先快速了解这期聊了什么，听完这段中文的部分其实也能够带走不少信息。如果你对后面的英文原声访谈感兴趣，也可以接着往下听。
+发言人   00:32
+Let humans just continue to do everything. That's a big mistake. Every leader right now need to start looking at the design of the workplace.
+发言人   00:40
+What work is done by robots? What work is done by AI今天这期节目我们请到的嘉宾是danilo margry dano是英国人，过去二十多年一直在做AI自动化和企业转型相关的工作。之前也帮花旗集团、联合健康集团这样大型的企业做过AI转型和自动化的项目。他自己在节目里面提到，过去的20年里面，他参加过1400多个不同规模的项目。所以他的视角并不是停留在最近的这一波AI热潮里面。他是长期的都在看一家组织到底怎么样适应技术的变化，怎么样把新的能力装进公司的运作方式里面。So companies have to think about how to do that.
+发言人   01:23
+And the best way to do IT is a workflow engine that coordinates the work between digital and human workers. 我觉得这期特别值得聊。一个很重要的原因是我们其实是眼看着企业里面关于AI的讨论一步步的变化过来的。去年我们还在中国和腾讯云一起访谈了十来家公司里面的CTO。那个时候大家讨论的最多的还是怎么衡量AI的效果，怎么回答老板或者董事会那些并不是很现实的问题。怎么样大规模的是使用新的工具，到底要用什么样的指标去看，怎么判断值不值得投入，怎么证明它是不是已经开始带来回报。那个时候企业里面的AI讨论就是重点是怎么样衡量。
+发言人   02:01
+到了今年，整个方向就很不一样了。现在很多公司不太停留在值不值的问题上了，而是焦虑自己是不是已经落后了，是不是token还用的不够多，是不是别人都在说自己是AI first organization，自己也得赶紧做出来一点动作。也就是说现在企业里面AI讨论已经越来越像是一种焦虑推动下的这个使用竞赛。表面上看大家都是在比谁更积极，更深一层次的问题。其实是这些公司到底有没有真的把AI用起来，有没有真的把组织流程目标文化调成合适AI的状态。I without the strategy at the top, nothing moves because then people don't know the rules of the game, and they don't know how to go after making the company in AI first organization.
+发言人   02:45
+Dani, 这一期的节目最核心的一个判断就是很多公司现在的问题并不是没有工具，也不是员工不会用AI，而是公司本身没有真正的清楚的AI策略。大家都说自己要做AI first company，那真正的问题就是这个公司到底先想改什么，后改什么什么应该量化，什么最不应该量化，什么地方交给AI什么地方还必须保留人的判断。没有这些东西，最后就变成一个很荒谬的状态。大家都在用AI token一直在烧，但公司本身并没有实质的变化。Daniel在节目里面提到了一套自己的顺序，你不一定会完全同意，但是我觉得很值得拿来当一个思考的框架。A real leader measures what should be measured. There's a different things.
+发言人   03:31
+大致上，他认为第一步不是把所有的事情都扔给AI，而是先设计清楚人和AI怎么协同，也就是工作流怎么重新安排。第二步不是拿着旧流程跑得更快，而是先重做那些旧的流程。因为如果流程本身就有问题，你只是上一个更强的系统，把问题放大了而已。第三步，既然AI带来了以前没有的能力，公司就不能只想着省钱，还得去想有没有可能长出新的产品，新的服务和新的业务。最后在这些的基础上面，我们才去谈更高维度的自动化和自治。听起来你会发现他真正关心的始终是同一件事情。不是让公司开始用AI就算完成任务，而是让公司真正的变成一个更适合AI的运作组织。
+发言人   04:16
+这套说法里面我觉得有两个点特别值得记住。第一个就是员工都在用AI不代表公司已经转型，公司给大家上了AI培训课，也不代表它已经变成了AI first organization。这个区分非常的重要。因为现实里面很多企业现在在做的其实还是买工具、做试点、做培训，或者像他批评那样，慢慢的变成了一种token maxing的这种假勤奋。看起来很忙、很热闹，很像在推进东西。但是真正的更难的部分，比如说是组织设计、业务目标、流程的重构，文化和激励等等，这些其实并没有动。Going after token and spending as many tokens as you can makes no sense in the company that has a real strategy.
+发言人   04:58
+第二点是他讲的文化的时候并没有停留在很虚的，大家要有危机感，大家要主动学习。最后重要的并不是有没有几个AI产品，就是AI明星员工，而是有没有把AI这件事情真正的写进每个人的目标里面。如果这件事情不影响绩效、不影响奖金、不影响晋升，那它最后就会变成一个大家都知道重要，但是没有人真正去优先做的事情。这个判断我自己是挺有感触的。因为很多组织里真正推动变化的从来不是口号，而是激励机制。If you don't put IT in people's annual objectives that affects their performance, IT affects their promotions and affects their bonuses, then they're not going to focus or care about IT. 最后，我还挺喜欢这一期结尾的一个小点，虽然它不完全属于企业转型的方法论，但我觉得放在现在这个时间节点还是蛮有价值的。So the advice that I have, people who are anxious, is you go to a, split your life into three different circles.
+发言人   05:55
+丹尼诺提到了面对AI带来的焦虑。一个人可以把自己的生活分成三个圈，第一层是你直接能控制的，比如你今天学了什么，做了什么，注意力放在哪里。第二层是你能影响但是不能直接控制的，比如你怎么带团队，怎么影响同事。第三层是你那些既控制不了也影响不了的事情，比如很多宏观政治、社交媒体上每天滚来滚去的信息。真正能让一个人在AI时代不被焦虑吞掉的，可能不是知道更多，而是学会把注意力放在前两层。我觉得这个建议听起来有一点点的鸡汤，但放在今天这样的一个大家都容易焦虑，也都容易被信息推着走的环境里面，反而是很实用的。At the end of the day, the most important way to learn is by getting your hands and dirty is actually doing at yourself.
+发言人   06:42
+总的来说，这期节目其实不仅仅适合大公司来听。无论你是在一家中型还是小型企业在推动公司的AI转型，正在摸索怎么样把AI运用到自己的日常工作里面。我觉得Daniel今天的这套框架里面或多或少可能都会给大家一些启发。它未必是唯一的答案，但我觉得至少会帮助我们把一些关键的问题想得更清楚。
+发言人   07:08
+另外也想顺便提醒大家一下，我们最近其实都在有持续的更新我们的视频内容。像是这样的英文访谈，我们通常都会加上字幕。如果有一些相对更加抽象或者是理解门槛稍微高一点的话题，比如前几期聊到的太空数据中心这种内容的时候，我们也会尽量补充一些画面和辅助说明，帮助大家更好的理解。如果你对这种形式感兴趣，也欢迎你去各个视频平台上面搜索我们的节目。国内像是B站视频号，海外像是youtube包括我自己的小红书也都会陆续更新相关的内容的。好了，下面就是我们今天的节目。
+发言人   07:45
+在节目的开始前和你分享一个消息，你知道春秋假吗？这是一个给中小学生的三天的假期，今年他被正式写入了政府工作报告。那为什么一个小小的假期会被写进报告呢？以及从2004年浙江杭州开始试点到现在，二十多年过去了，春秋假的实施为什么艰难？这看起来是个小假期，牵动的却是整个系统，甚至还和什么是学习，什么是玩耍的观念变化有关。我们的节目knock knock事件就解读了这个话题，大家可以在单集简介中查看链接。
+发言人   08:25
+Hello, welcome to today's was next in text. Welcome, Daniel. Welcome to my show.
+发言人   08:29
+Thanks, thanks. Really big pleasure to be here and to talk about these things. All right, let's go right to IT. Do you see any difference like between or your past twenty years of work with that, a large enterprise, how their automation done and comparing to toy's is your like method difference.
+发言人   08:48
+So the idea of you making things faster, more efficient, this is not new, right? And IT IT really comes down to human psychology around trying to make more with less or more with the same. There is the digital version of the convey bet from Henry ford up until today.
+发言人   09:05
+I would argue, in companies where everybody has very sidled thinking, they have a very specific job to go and do. So the idea of making things faster, not new, you know, this is the first time that we have a technology that actually has the potential, and I would argue today, is more intelligent than ninety nine percent of humans. And this is where we start getting to the point to of, okay, we have something more intelligent than us.
+发言人   09:31
+So what are we going to do about IT? And it's funny that you brought up in the beginning that we see that is a token race, right? Whoever spends the most token wins or keeps their job.
+发言人   09:44
+And that's a very typical scenario to see in a world where there isn't much leadership happening, right? A lot of leaders are just saying, I want to be na, I first organization. I want to be na, our first company.
+发言人   09:56
+But they don't actually explain this strategy and the steps I need to be taken in order to get there. Probably no one knows yet, right? No, it's completely the wrong way.
+发言人   10:06
+I mean, it's just like it's the hit and whole approach. It's like if I do this enough, we will start seeing something interesting happening. We will start seeing something tangible happening.
+发言人   10:18
+And this is the wrong way to think. But usually people do this when they have no strategy. And I would argue that you there are actually a couple of companies, uh, which will explain why they haven't come to the market about this.
+发言人   10:33
+There are couple of individuals that do understand this. And I believe in one of them. And i've been helping, you know, some of the worlds biggest companies get this right. I mean, this is so important for a company to get AI right today because IT really means that they are securing their future.
+发言人   10:49
+And if all companies are securing their future, or most of them then are securing jobs, and by securing jobs to secure people's livelihood and their way of being you you were just saying that the AI is smarter than ninety percent of the people. I mean, myself have to confess when I talking to my core workers these days, I have a little bless patients like what I would be a good strategies. For example, people are last year using our eyes.
+发言人   11:14
+What are the most important goal to make is not something that's really much of an argument. AR is able to do IT faster, Better than us. Okay, now that we know this, what should we do as a strategy?
+发言人   11:26
+If I go and I have my company and I start to let humans just continue to do everything, that's a big mistake. Every leader right now needs to start looking at the design of the workplace. What work is done by robots? What work is done by a eye.
+发言人   11:43
+And the trick here is to make sure that you giving work to a eye, because IT is Better and faster than humans at most things. The real coordination here is the strategy needs to be that you need to do that in harmony. And the most effective way that I found the strategy is by having workflow engines.
+发言人   12:02
+So work needs to go and get done. And AI picks up the beginning of IT, does a little bit, gives IT to a human and then the human continues, gives IT back to a and there's back in forth until they have finished that task of that piece of work. So companies have to think about how to do that.
+发言人   12:19
+And the best way to do IT is a workflow engine that coordinates the work between digital and human workers. Okay, that's number one. Number two is, is making sure that you're not taking the old tasks of doing things and just trying to do those old tasks faster because what's going to happen is you're giving a sub optimal process, a sub optimal task that has not been redesigned to a super system that can do IT faster.
+发言人   12:51
+So give an example. Now every company on earth needs to make payments, right? Receive payments and make payments. Have an accounting team eeta.
+发言人   12:59
+If I was going to do that with an the AI system, I would have to automatically read and scrapes of the invoices, and then get a human to sample, check some of the payment, and then having an agent, AI agent, log into a banking system, go and make the inputs and then make the payments, or having mass uploads of hundreds of thousands of payments at the end of the day to do everything at once by using apps. You know, this is a very Normal you basic example, but it's for people to understand something basic. That work has to be redesigned.
+发言人   13:34
+So that's the number to redesigning current work. Number three, is you this new superpower of AI gives us gives us new capabilities we didn't have before. So every leader right now, every company owner should be looking at what other new products, what other new services can I now start offering now that I have this super intelligence next to me? Do I go build a new? Do I build a new service powered by A? I, there are infinite options, right? This is why we're starting to see in the world something called the convergence of industries.
+发言人   14:10
+So a you know a consultation cy company is starting to offer legal services because it's able to write contracts now with the eye. So three is you looking at the new opportunities then and only then this is what shocked people with my um with my strategy. I only look at okay, then I try to make everything autonomous.
+发言人   14:33
+I don't do that in the beginning with bad processes. I redesign processes. I create new opportunities for the company that I mean and then I optimize everything as much as I can to the point to where it's autonomists like IT.
+发言人   14:45
+IT doesn't matter if you ten x the amount of clients, you still need the same amount of people to run the department. And that's where you really the mistake the companies make as they try to optimize bad processes. They don't think about the the harmony of humans and digital workers.
+发言人   15:01
+They don't think about new products and services, and then they try to scale all of those imperfect things later. So basically, this is the step one, two, three. They have to go through like sequence, right? You have to build the foundation, and then you can explore the moral business opportunity by living.
+发言人   15:18
+I like step tory. That's yeah if you're doing your job properly as a leader, you know if you have a medium sized company, you can have hundreds of opportunities of things to go and make Better and and hundreds of products and services to go in launch. So i'll give an example.
+发言人   15:33
+You could be that I have a project that is not the biggest are why? But if I build that first, then I have reusable components in software and in Operations that I can reuse for the other things I need to go optimize faster. So for me, in the strategies that I work with you, some of the worlds biggest companies is always a choice of both.
+发言人   15:54
+You choose the biggest RY projects or you choose the most strategic projects in terms of scaling reusable components. And that's where you kind of get a really good mix or okay, this is my transformation roadmap for the next two, three or five years. And let's go and execute and then and sticking to that transformation road map and and being as aggressive and as fast as you can in order to get the biggest results.
+发言人   16:20
+So that comes the probably the harder question is sometimes is not about yeah is about the organization. There could be already politics happening in the company. So maybe the CEO boat in and that the CEO is known who who's gonna equate on a, and then who's get more resource from that is always probably gonna a mess.
+发言人   16:39
+So so how how do you like a leader navigate through this? Like how do we do that? The number one mistake I see companies make is they try to do all these things that I mentioned, but without first outlining the shareholders in the board members through research that i've done myself, uh, through hundreds of companies, is that roughly eighty percent of companies don't have enough knowledge about AI in order to have a strategy.
+发言人   17:05
+So the strategy has to start at sea level and at board level. And without, you cannot go and do all of these things that I mentioned without having a top line strategy. First alignment to one of the first things that I do when I help companies is I go and meet all the board members as I install someone that understands AI into that company, into the board.
+发言人   17:25
+And then once they have the education, they can starts making the top level strategy and then doing these other five things that I mentioned. But IT, you know, i've seen companies take five years to go and do that. I've seen companies take six months to go into that.
+发言人   17:41
+So is a million because how they learn things fast or the size of the organization or what what's the difference between five years in two months to be on AF, C, note notes with difference between a medium to large company and when IT comes to transformation road maps and how long they last? Um there's no difference. The only difference I see between the medium in the large company is obviously to set the strategy for a medium company if you have the right leadership is faster.
+发言人   18:10
+And for a larger company who is a listed company, the right who is representing a huge part of the economy of a country. IT takes a little longer because they are regulated or you know they just have more shareholders to go and speak to got IT. Got IT isn't because you have to teach the executive, the board to understand that.
+发言人   18:30
+And then there's executive team, teach the manager, and the manager have to help out to create processes and new sop automate stuff, and then the employees can learn about IT. So that takes longer time right now. So this is where the trickles in, in scaling fast.
+发言人   18:51
+okay. Once you've set the strategy at the top detail, exactly what you want to do with the eyes, a company um how aggressive you want to be, what's the budget? What's the time frame where you should not go and do things with the eye in the company once that is set, then all of the managers and everybody who's working for the leadership will know what to do because they know the rules.
+发言人   19:13
+They know. The frameworks they have to follow, they have they know how much budget they can allocate to AI. They know what is the objective of the company for the next three years. So they then know how to behave. So for instance, things like, you know token hunting, right?
+发言人   19:27
+Going after token spending as many tokens as you can makes no sense in a company that has a real strategy of we're going to go and make these three business areas Better guys and you have three years. Here's the things you should do, should do. Here's the frameworks has been developed. You need to follow, go into IT, people will know what to do. And that's when the scale really happens.
+发言人   19:49
+That's why without the strategy at the top, nothing moves because then people don't know the rules of the game and they don't know how to go after making the company in AI first organization got so sometime is not just spell making very simple general rules like just token magazine is not a great strategy. Let the employee to figure out themselves is not a great the problem with this. I've heard this strategy for many leaders, right? Frances, if you an engineer, a coder, if you're not spending at least half of your salary on tokens, then you're going to be fired.
+发言人   20:18
+What if I go and cheat and I start making banana pictures and that's how I spend half of my tokens? You see in in the world of business, it's very easy to measure what's easy to measure, but a real leader measures what should be measured. There's a different things.
+发言人   20:37
+If i'm a lazy leader, i'm going to go measure how many tokens people are using. If i'm a real leader, i'm going to be measuring our people spending tokens on the things we've set, the objectives and the strategy for, for the year. Are they spending things on that? Are they making these three things that we focus on for the year Better, faster, cheaper, Better for clients? I'm going to be measuring the things that I should be measuring. And this is the thing, right? We just this is why I have a campaign for the last couple of years on lazy leaders.
+发言人   21:11
+节目中间插播一条招聘信息，生动活泼正在招聘全职的商务运营经理、生动早咖啡内容实习生和社群实习生。如果你也对播客行业的内容制作感兴趣，欢迎投递简历，具体的岗位介绍和投递方式可以在shown note中找到。So previously talked about late, just adding the two just can hire like smart people who knows like transform company into air force company and where can we find more information in the resources that help you would learn? Yeah but just one quick thing.
+发言人   21:49
+That thing is quite important because a lot of leaders, they say I don't have money to start AI or you I don't have the education or I don't have the data. That's not the one. Now these are huge misconceptions I think we should discuss. So you know, not having money for ear, that's a big, big misconception. AI is actually not that expensive.
+发言人   22:10
+So if you're going to spend in a couple of million on something, but you're return on investment is gonna ten, twenty million, then all of a certain that AI project is no longer expensive and you have the budget for IT, that's that's one thing. The other thing is a technique LED snowboarding. So IT goes back to that concept where I mentioned the transformation rote, where you pick either are AY or you pick sequencing for reasonable components, if you pick or why it's very good for a company who doesn't have a lot of budget allocation in the start.
+发言人   22:42
+Because what happens if you only pick one or two projects, you then take the RY of that project and reinvest back in the next three or five projects, then you take the RY from those and you deliver IT, and then you take the RY in investing ten projects, so you can very quickly snowball if you don't have the budget right? If you pick the right projects, the biggest ha wide ones, you have the biggest return on the investment and you agree to take the proceeds of that reinvest in other projects. Great way to do IT and its nobels.
+发言人   23:13
+It's a slower way to start, but it's a way to start when management in the companies not fully convinced or they don't fully understand how the stuff works, right, is a safe way of doing things data very quickly on data. Because another framework and thing that i've learned, a one of the biggest misconceptions in the last twenty years, and this was created by the big consultancy companies, is that as a company, you have to go clean your data. You have to have perfect data in order to do most things, especially ai.
+发言人   23:46
+And here is my argument in what I found, data does not exist out of thin air. Data is a byproduct of a process. Data is a by product of somebody doing something that generates data, right? So my argument is if you clean up your processes as the company, you make them as efficient as possible.
+发言人   24:07
+That will then determine where your data should go and what data should go there. And then once you will determine that, that's how you then migrate all of the old data into the new form that they should be in. So look, there's a lot of misconceptions, but those one of the two, the biggest, is not, have enough money and my data are wrong.
+发言人   24:25
+So how do I learn? You know, I have some bad news. Actually, there's no course that I can point people to.
+发言人   24:34
+Prerecorded courses terrible, in person courses good, depending on the trainer. Obviously, you don't want to a youtube E, A person who has never done this stuff before to go to train. You be so you have to pick very carefully who is a trainer.
+发言人   24:48
+The third way of of learning is getting a hands dirty. You have to go and try the stuff out. I see that there's a lot of um like consulting from the very active in this space.
+发言人   25:00
+How do you find the good consulting? Even many of consultants, they have just read books about IT. They've done little projects here and there, but very, very few consultation have done very big company transformations, right?
+发言人   25:14
+So it's it's also I know Steve jobs was not a fan of consultants, right, because you know he'd also bring consultation into apple and he was AC of apple and you know he wouldn't see much difference because his team were living and breathing everything to do with the company conferences. I think it's quite helpful to go to a conference. The only problem with these subjec conferences is that, you know, people are incentivised to paint a Better picture than they really no did, if that makes sense.
+发言人   25:49
+But I encourage people to went the boddy's up on stage, talking in the conference about there, know their AI perspective. Once that person comes, block the stage, try to speak to them one to one and ask them the real questions like, look, you're off camera now. Tell me how IT really was.
+发言人   26:08
+Tell me your real pain points. There are a lot of like big company, big corporations sharing a their best practices. Like couple weeks ago um block CEO he share about how they transform block into AI first company even know they didn't need to like firing that many people they did.
+发言人   26:28
+And also I just learned about like amazon, they basically pull everyone through to eight week's courses for just learn about AI up skilling themselves and how do how do you see see these companies doing their AH information. What basically I seen the market right now is that a lot of companies are over hired during covered because they wanted to get back into business and they wanted to be aggressive. And now a lot of companies are actually saying, because of a eye, we've now we're gonna e these people let me say something really quick here because I think this is really important and it's something i'm a big advocate for.
+发言人   27:04
+The really good companies that use AI, they don't fire people. Remember that I mentioned that industries are converging. Every company can do anything they want right now. They can go create new, new products, new services.
+发言人   27:17
+This is going to then create new jobs if a company is creating new products and services or they're able to just transform their own company with the eye, that takes a lot of people and that takes a lot of mental power, a lot of budget. You're not going to be firing people if you need to transform your company. And what happens is once I see companies in starting to transform with the eye, what happens is they then free up capacity to go and create new products and services so those people get redeployed.
+发言人   27:50
+Yeah of course, uh, every company goes through a natural uh, attrition. But the one thing i'm trying to teach companies is also, look, just because you have a eye doesn't mean you can start firing people. If you are a true leader, you can create these, your opportunities, and you can transition your company into other industries. And that will actually create more jobs and less so.
+发言人   28:11
+Again, it's a very a short term st way of thinking is a lazy leadership approach just to fire a bunch of people because you have a ee IT doesn't you know I don't know maybe i'm bit too romantic about this word leadership yeah that made me think of like so when our company adopting AI some people are more interest in learning new things. Some people are kind of less. Well, fast is not.
+发言人   28:36
+The only matter is sometime is your cultures. Well, i'll give you a little cheat code. So you know, one of the things I had to do my whole life was to find ways to create the right culture for eye and the right way to incentivise people write people of all sorts.
+发言人   28:51
+We need look at any medium to large company today. They have up to five generations working in that company. Every generation will have a different thing that they're going to be motivated by.
+发言人   29:03
+And then their sub segments of those generations where people who came back from poor backgrounds, people who came from rich backgrounds, all kinds of things, right and everything, everyone's going to be motivated by a different thing. There is one thing that I found is a bit of a hack for all of that. And the one thing is, if you don't put IT in people's annual objectives that affects their performance, affects their promotions and affects their bonuses, then they're not going to focus.
+发言人   29:33
+So care about IT. okay. So if IT is in my company's ratee and it's been determined at the board level, the or the ownership level that we're going to do AI in this very specific way in a strategy, and then that then trickles down into people's annual objective for every single employee that they need to go and save ten percent or they need to create ten percent more, they are something as simple as that.
+发言人   29:58
+One big mistake that I put made in some of my transformation is that, you know, I would there would be a couple of people that start doing this stuff in accounting, in marketing and so on in H. R. And they do a lot of cool things.
+发言人   30:12
+And I used to then champion those. Those be my, a AI champions in the company. And we put their case studies all over the internet side of the company, would give him awards, may be a little bit of a bonus.
+发言人   30:26
+And we get them to evAngelize right to talk to other people about this great work they're doing. But one thing that I found is that IT doesn't build enough inertia. IT doesn't build enough momentum to get the whole company bought in to the strategy and the whole company thinking about that thing, which is AI and how to make a Better, right.
+发言人   30:48
+So the only way that I found, which is a culture hack, which is really helping company scale, is by putting IT to every single person's objective IT. Doesn't the company jump forward couple of years to get some really invested into the idea? Because IT impacts their their livelihood, write impacts their paycheck and impact their promotions.
+发言人   31:07
+Some of them are gonna love this, and they are going to use IT in a radiates zing way like i've met people who are in their eighties and they've never quoted before in their life. And they're building applications today because of the experienced domain knowledge that they have acquired for forty years in a particular space. Right then i've seen Young people who have never worked before build things with the ee because they just have the hunger to go and make something.
+发言人   31:31
+You know, by the way, you don't create a culture just by setting the objectives. One thing is important, you have to provide people with a good learning and development program as well. So that's why amazon ferenc says making Mandatory for people to take some courses.
+发言人   31:45
+I think this going to be pretty Normal going forward. A lot of companies are going to make IT Mandatory to take certain courses on the I. So there's a number of things that the company needs to do to stay a culture for an AI first organza.
+发言人   31:56
+There's not just one ingredient is not going max out your token, it's a number of things that in accumulation and together in the right design creates an environment where you have the right culture to become an our first organization. Um any lake failed thing that you see for the past few months. Um that we should shouldn't do IT at all.
+发言人   32:21
+Look in total now I mean, I counted this a couple of weeks ago. I have been involved in one thousand four hundred projects when IT comes to AI efficiency transformations. And I don't think anybody should look at any of those as failures because end of the day, remember that education is something that compounds over time.
+发言人   32:43
+If you start something new a year ago versus somebody who started today, and you follow the right frameworks in your systematic about IT, you are going to be ahead of the person that started today because you learn and you fail the certain things that you then tweet and improved, and you you did certain things so you don't fail the next time, and you did that more often than the person who starts today. Our hope is that in the company, the portfolio of projects that you have to transform, you know, that is going to be more than fifty percent, are going to be successes. That's the hope that you can have and you can manage that and you can actually ensure that, that's the case if you have the right frameworks.
+发言人   33:21
+So failures that I saw um they always really came down to human issues, right? So mention politics. For instance, the biggest failures that i've seen in technology projects and AI projects is know a project is presented to a managing committee or leadership.
+发言人   33:40
+And what happens is the numbers are not good enough, and the people who are presenting that project are then incentivised to produce bigger numbers. Everybody's exaggerating their capabilities because they wanted look like they're doing Better. It's the same thing in business when people present projects.
+发言人   33:58
+So they said the wrong expectations in the beginning of the project, IT sounds great in the beginning, but then six months later, twelve months later, when he started seeing the results, IT looks like a failure. But in fact, what happened is they set the wrong expectations in the beginning. So this is one of the biggest failure I see.
+发言人   34:17
+It's the human greed. It's the politics that happens on board level where sea level executives are so behind on their AI journey and shareholders expecting so much more from them that whenever they see AI use cases, they're asking for more they're asking for more numbers. So therefore, there's anxiety not just from the employee level managers bow sea levels, everyone.
+发言人   34:43
+So back to this whole reason to create this episode is like how do we learn? How do we like um keep updating our knowledges. Like we see people like block share in their information there, how they transform their company, like how do you learn about all these things and how do you like kind of update your your knowledge base? I think the most important way to learn is that I mention right to go to in person discussions and demos some conference.
+发言人   35:11
+Not all you need to have real conversations with people is not just about the fancy marketing stuff, I really asking them how to do. And end of the day, the most important way to learn is by getting your hands dirty, is actually doing IT yourself, right? So there's no other way.
+发言人   35:25
+There's no shortcut. It's not question anymore of do we have the right technology as of two or three years ago, we have enough technology to transform any company. It's now down to leadership, is now down to the imagination of people to go and design that and then to be relentless about executing that transformation.
+发言人   35:45
+Rode out, they come up with is not about technology anymore. There's nothing more that we need for a technology point of view is really about people. So if I work in a team in the company today, and, you know, I map out everything that I do, right, and I go, okay, well, every day I do this.
+发言人   36:02
+And every month I have a month process. Every year have a month year process. And this, this is the fifty steps that I do.
+发言人   36:10
+Then they go into the details, okay, how exactly? What are the different ways that this happens every day, every month, every year? Don't gonna start having a road map.
+发言人   36:19
+What is the current as is, right? Like what is the current way of working? Just by mapping that out? You're gonna see many areas you can go and improve. So as you go alone, even if if you're working a small team, a big team, IT doesn't matter.
+发言人   36:35
+You can start to redesign the two b process, right? And that's how you start thinking about the future of work. You to you're going to take your teams.
+发言人   36:44
+You're going to ask them to map p out what they do so they can rethink about how they should be how they should be working going forward. So it's very important that happens. That's that's the way to do IT.
+发言人   36:53
+That's the way to start. You are saying you you um as a matter is a chinese company, US. Company, european company, all the executives, they are all facing the same problems. Do you see any differences here? Because you are coming to china very soon in like three, four weeks yeah so what do you are curious to see um what do you think the most of differences between what you learn?
+发言人   37:15
+One thing i've seen quite a lot about china and that I really love is when there was like an open cw frenzy in china like they were people going out in the street and learning how to use open claude. Like I was just really crazy, like people really wanted to learn whether you know many other countries, they see eyes a threat. It's it's like a loaded word.
+发言人   37:36
+It's like a tension word, whether I think trying to see that in the more entrepreneurs like what's in IT for me, what can I do for my boss? How can my company do Better in a lot of other countries? Not the same attitude towards IT.
+发言人   37:52
+And um I think this attitude is going to be one of the reasons why china is up leading AI in many elements in the next few years. Yeah I also heard from one of my journalist friend. She's from a netherland SHE station in beijing and she's like SHE is surprised that um like last year there's like uh advertisement from medals were some a company they use AI to create their commercials. There's huge push back.
+发言人   38:17
+Like people hate IT like there's not what are reception there, but in china everyone loves IT um and there is like AI create a short drama thing and every been enjoying like the whole my family, they have been like playing around with a gomo kind of like a sora china version and saw us that at the same time they're like sending ten twenty different those short videos in my family, which is a totally different world. Yeah, I agree with you. Everything in life ultimately boils down to attitude.
+发言人   38:51
+Like your attitude is determined by your perspective in life. So if if you've had a hard background and you seen opportunity, you that with a great attitude, right? Because you see that there is an opportunity to do something.
+发言人   39:05
+So last question, I think everyone in this AI era, including sea level executives, are very ancient about A, I maybe losing, losing performance. X, how do you manage your anxiousness? Do you have any tool that you can share with us? Yeah, I can understand fully that A, I is making people anxious, right?
+发言人   39:24
+So the advice that I have, the people who are anxious, is you go to a, split your life into three different circles. And these are a circles that I call circles of influence, right? So circle, number one, I can make a circle, is this is what you control directly.
+发言人   39:43
+So where you eat, what you eat, who do you talk to, what you spend your day on, and is very important that you optimize that in order to make sure that is healthy and productive. So you're able to look after the other circles about talk, talk about next. The next circle after that is your year of influence.
+发言人   40:04
+So these are things that you don't directly control, but he can influence. So for instance, if I have a work colleague and I want them to learn more about AI, I can keep showing them demos of ai. I can keep showing them the great work that i'm doing with the eyes, and then eventually that person would get interested and started doing.
+发言人   40:20
+And I can influence that person, right? And that's where I think everybody should stop, because the third circle is everything else, right? These are things that I can't influence and I don't have direct control of. You know, I don't have direct control of our influence of who's going to be the next president of a major country. I don't have direct control over if a metro is gonna IT the earth, things which are completely out of your control.
+发言人   40:46
+And i've got so good at in splitting my life into these three different circles that literally when something comes up on the news, and I look at, okay, this is this looks like it's big news. Is that in my direct circle influence? No, I delete IT.
+发言人   41:01
+I forget about IT you you're having to prioritize what you're thinking of so that you're only focusing on the things that you can actually do something about. You manage a life Better. And once you get good at practicing these three fears of influence, it's amazing how your anxiety levels go down and your productive positive output increases because you're really only going to focus on things you can do something about, everything else you direct.
+发言人   41:28
+You don't spend any attention or any energy on IT, especially today in the social media world. You see so many formations and politics and stop really kind mess up yeah i'm so strict about these these three circles that I don't discuss politics. I don't watch the news yeah if it's not in your circle, influence literally deleted and you will live a much more fulfilling and a lot more happier lives because this really helped me and i'm sleeping a lot Better at night and i'm having i'm just a lot happier.
+发言人   41:57
+I have more energy and i'm focusing on the right things. All right, looking forward to see you in china in may, and and I hope you have a proof trip. Thank you very much.
+发言人   42:07
+Thank you, dana. Thank you for sharing the information, looking for you to see your new books, too. thanks.
+发言人   42:16
+今天的科技早知道就到这里了。听完之后如果你有任何的想法，欢迎在评论区和我们交流。如果有任何想听的话题，也请告诉我们。如果你喜欢我们的节目，请记得分享给更多的朋友。我们下期再见，下期再见。

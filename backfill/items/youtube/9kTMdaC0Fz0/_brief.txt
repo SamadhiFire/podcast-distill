@@ -1,0 +1,526 @@
+TITLE: Oura’s Tom Hale: What People Don’t Tell You About Being CEO
+CHANNEL: Sequoia Capital
+DURATION_S: 3580  DENSITY: standard  REQ summary=3 core=4
+PUBLISHED: 2026-03-26T17:15:37+00:00  URL: https://www.youtube.com/watch?v=9kTMdaC0Fz0
+SHA256: 93a431db7944ab3daa024c30bf2d7fd0cf5721e00cabcf927b633ca3a4c8ffa6
+
+=== NOTABLE CANDIDATE NUMBERS (verbatim in transcript; use these for key_facts) ===
+  [2000] companies between 200 and 2,000
+  [50%] you 50% of the value for free because I
+  [100%] &gt;&gt; 100%.
+  [100000] know, 100,000 generations of humanity
+  [30%] 10, 15, 20, 30% of performance because
+  [1.5] price ratio north of 1.5 or 2. And new
+  [2012] And then 2012.
+
+=== TRANSCRIPT EXCERPT ===
+Just by paying attention to the work
+that was happening at all levels of the
+company from the lowest to the highest.
+By paying attention and being like,
+"Hey, that's a really good idea or have
+you considered this?"
+It made a culture of it's okay to have
+ideas and have them move up and down.
+And by the way, people would challenge
+me. And in challenging me then they felt
+confident that like we were going to get
+to the best idea because it wasn't just
+my idea. Creating this sort of
+non-hierarchical culture that's not
+bound by time or geography or role,
+really powerful.
+old friend of mine who's the CEO of
+Oura, of Oura Ring fame. When I was in
+my early 50s, I had a very bad
+snowmobile accident and drove with
+snowmobile
+and you can't see my body, but it's
+absolutely chock-full of metal and I
+thought I was going to die that night. I
+was lying at the bottom of the cliff
+and
+um
+I've been a CEO of HubSpot for 15 years
+like I'm done. I'm I'm tired. I'm done.
+I'm burnt out. He went the other way,
+you know, he had been kind of a
+corporate executive some really
+interesting companies his whole career.
+In his early 50s he's like, "I want my
+shot." And so we talked about that what
+he didn't expect from the job, the good,
+the bad, and the downright ugly of being
+a CEO. He's pretty thoughtful about
+that.
+What really is interesting to me about
+Tom is he spent his entire life in
+companies between 200 and 2,000
+employees. That is the messy middle.
+That's where things slow down. That's
+where bureaucracy happens. That's where
+middle managers happen. That's where you
+really slow the gears of progress down.
+And we talk a bunch about what it takes
+to keep that engine revving through that
+and how not to get caught in the
+quagmire.
+We also talked about he's got a team in
+in Finland. This company was started in
+Finland and he's got a team here in the
+US.
+And man, are they different?
+Um the Americans are obviously very
+capitalist creatures and the Finnish are
+much more on the socialist side. And we
+talk about how to manage those two. And
+a lot of you are in the US now and
+thinking about going international. I
+think there's a lot of lessons here for
+you.
+So, lots of good stuff. I'm going to get
+you back at the end with my take on what
+he had to say.
+Thanks for being here.
+have a little story for you.
+Four years ago, I was snowmobiling in
+Woodstock, Vermont. As one does. Yes.
+And with my son and the snowmobile went
+off a cliff.
+Snowmobile's in a million pieces. My son
+and I were in a million pieces.
+Um and at the bottom of that I know one
+knew where we were and it was 4:00 in
+the afternoon.
+I was pretty sure we were both going to
+die that night.
+And while I was sitting there at the
+bottom of the cliff, I said, "I need to
+make some big changes in my life." No
+more snowmobiles. Yes, that too.
+[laughter]
+But the biggest change was I don't want
+to be a CEO anymore. Uh-huh. Why did you
+want to be a CEO after all these years?
+Um I think the obvious answer and maybe
+the the really the true answer is it was
+a bucket list item I had to check off my
+list.
+this is TMI, but I also wanted to prove
+to myself that [snorts] I had it Yep.
+hoped? And more.
+than I thought and I'm sure you can
+appreciate that and any CEO in the world
+will appreciate that. Much harder. Much
+harder than I thought.
+it's
+it's not the work that's harder, it's
+the responsibility and the stress. It's
+the waking up at 4:00 a.m. and being
+like, "Oh my god, is this going to
+work?" And and what is it going to take
+to make it work?
+That I think it's pressure, it's stress,
+it's responsibility, it's all the people
+that you have you know, you
+they they've put their faith in you
+whether it's your board or your
+employees or your customers and you have
+to carry that and you know, what they
+say, the buck stops here. Absolutely
+true. Mhm.
+I felt [snorts] that too. I was pretty
+calm in the first four or five years of
+HubSpot, but I was kind of stricken with
+stress and started having I never had
+any before panic attacks like five years
+in and it was that. It was like, "Oh
+man, we have 100 employees and they're
+really counting on me."
+What do people misunderstand about
+CEOing?
+Well, I think they think it's a lot more
+fun than it is.
+don't I don't think actually it's not
+fun. I think there is fun. I just think
+that the sort of ratio of kibble, you
+know, to champagne favors the kibble
+Yes.
+the responsibility which we just talked
+about, but part of it is also you kind
+of the things about work that I really
+enjoy like building something in a fine
+grain of detail and making it beautiful
+and and and owning that and feeling
+pride in that. And I I still get that,
+but just not as much.
+everyone gets to participate in the
+success, but in some way like it's
+really your team, it's not you who gets
+to own that success. But you know what?
+Participating in failure, you get to own
+that failure because in many cases like
+it was either your decision or your
+direction or the system that you set up.
+So, I think that's I think that's the
+thing people get wrong is they don't
+they don't understand. They think it's
+like it's glamorous and it's it's this
+and that and you're on podcast or
+whatever. Like that's sure, there's an
+element of that, but like that is not
+the main portion of the experience. At
+least not for me. I call it the [&nbsp;__&nbsp;]
+umbrella. You have to like absorb all
+the [&nbsp;__&nbsp;] for the company.
+that you're on a boat and that boat if
+it's going great, your job is while
+everyone's over on this side of the boat
+being like, "Hey, everything's great
+over here." And you have to be on this
+side being like, "Everything's terrible.
+We have to think about that." And vice
+versa, when everything's terrible, you
+got to go to the other side of the boat
+and be like, "Hey guys, there is light
+on the horizon and where we're going is
+going to be great. It may feel terrible
+right now, but we've got to get there."
+And I think that that's that's a big
+job, a big job of responsibility and
+it's hard. Mhm.
+I had some CEO heroes that I copied. I
+copied Steve Jobs, Jerry Garcia, and my
+dad. They were my Mount Rushmore
+Well, you know, Steve Jobs I think would
+make it for sure. Um and I We're kind of
+we're probably similar age and I think
+people who grew up
+We were an ISV on the on the Apple
+platform. So, we got to meet him a
+couple of times and he was a hero. The
+person who came back and and recovered
+Apple from its demise was a hero,
+bonafide. Um and the sort of champion of
+creative professionals. So, he would be
+one. I think not necessarily a CEO, but
+Gandhi partially because he uh
+sort of as a man of the people and I
+think humility is such an important both
+value for me personally, but also for a
+CEO. It's important. So, so Gandhi would
+have it. And then God, if I had to think
+of one more,
+um
+Oh, I know who it would be. So, Maya
+Angelou.
+Um not because she's such a great CEO,
+but because she said something which I
+really believe is which is like people
+will remember how you make them feel.
+And I think as a leader the unintended
+consequence is actually the greatest
+risk, not the intended consequence. And
+if you leave people feeling, you know,
+in a way that you don't intend to, I
+think that could be devastating for a
+company. A lot of CEOs of the generation
+under younger than we are,
+it's not Jobs, it's Elon.
+better or worse his work ethic
+and 996 and a hard coreness about it. Um
+this whole generation of founders is
+kind of like that. What's your take on
+that? And is is is your company like
+……（中部抽样）……
+that? Um
+making sure that you are
+least in my book. And so it it it at
+never say 996, but we say like no, we
+balance, that's what we talk about. We
+recovery. And that's like you just ship,
+and dial it down. You got to recognize
+Um
+And so,
+you know, we're all It's very socialist,
+go outside and it's very cold and we get
+Oulu, which is a little bit further,
+it's freezing cold, I'm sitting there
+socialist.
+elements of our culture which are shared
+different from the US culture and what
+and they generate activity in in ways
+post-pandemic people got a little more
+um well, first of all, I think COVID, in
+bunch of other norms about how you work,
+like in recovery post-COVID. And so, um
+practice of bringing people together,
+you know, whatever. Yeah, at the team
+trust me or you're listening to me or
+big a big part of what we did. I think
+you know what I can do? I can kind of
+that was happening at all levels of the
+challenge me. And in challenging me,
+bound by time or geography or role,
+a lot of the
+up hiring a lot of people and sometimes
+bozos, just to be clear, you know,
+course, is that you lose whatever it was
+And I think what's interesting is that
+is a
+that. And And people can talk to me.
+was really great." And that Those little
+so I took two things away from there.
+they're not doing a good job. And say,
+One other thing I know we'll come back
+there's this amount of work and this
+sort of get the most out of your human
+versus people, because that that's sort
+we behave. We don't do this." I think
+work to people, because what happens is
+borrow your little
+can.
+or maybe I don't know. I think my kids
+What's that?
+couple tricks. I don't know. Um I think
+possible. I think this is famously a
+always do that. But one one of the
+who's in middle management who has no
+you hire is an ambitious middle manager
+that you do is you say, "Listen, um we
+have some advice for you, and I might
+piece of it is you create a company
+if you have enough time and energy to
+this, this is more in B2B than B2C,
+How do you stay in touch with the
+company and then distributed within the
+always had like
+going to, you know, at B2B going and
+in this organization. You're successful
+you got me pregnant. Um
+someone's life today. What am I going to
+10, 15, 20, 30% of performance because
+right? Um and and so I mean it's it's
+think if you have mercenaries in your
+uh you find the people who care about
+true. Yep. But the reality is the people
+missionaries in the company and to to
+I think mercenaries are also a caustic
+uh and drive a commercial outcome. And
+jollys out of seeing the numbers and
+business model shift.
+in the org, in your head? Was that the
+the most competitive hardware company in
+And that's it. And you might ship a, you
+that value to go in that next version of
+Yeah. Every month. Now, by the way, $6 a
+to be sick, or we tell you when to, you
+strategy.
+was contentious. And partially
+be really sad if you stopped paying for
+you probably have a right to charge for
+zombie subscriptions, and the customer
+you're still collecting price.
+"Listen, one, um there's a reason that
+you're getting a new release every
+price that we take. So, that was that
+in our version of it, if you were gen
+transition in business model as smooth
+deal. In fact, some of our most loyal,
+Why not? Because that's how it's sold.
+subscription product. And if you pay, uh
+that some people were like, "Oh,
+it's hard to change that. There's no no
+non-subscription
+2, Mhm. then you know, you're doing it
+rolled out? Like that kind of thing
+you know, connect with me on LinkedIn.
+I'm not sure that's true. Okay. Because
+if you think about sort of the the the
+should roll it back." and then talk
+the phone, and I was like, "Oh, this is
+went through. And by the way, like I I
+being uncomfortable.
+new way to think about hardware um and
+founders about pricing. Like a lot.
+And I think there's a big cost to that
+between what they would pay and what
+product for free,
+called Natural Cycles. They make a FDA
+of a $6 a month subscription? Probably
+case, there is kind of a a tier Yeah. um
+the right one, which is the delta
+complexity kills. It does. Complexity
+like it's a
+Another question that a lot of founders
+fail.
+who you partner with. And maybe one of
+make money and make you know, there's
+classes of partners, too. There are
+Cycles and Oura, great example of a
+um
+partnership is literally your best way
+need partners to do it. This is why
+it start? I don't know.
+beautiful? Can you put diamonds on it?
+with with Gucci, they they had the
+fashion part of it.
+gladiatorial contest where you were
+remember so distinctly about that was
+Um Were you dealing with the CEO of
+And he says, no.
+like 5 weeks. Sweet. And it was just And
+of value. That their value was the
+to a Gucci store. Okay. And the thing
+you and you want to look at it. You want
+Best Buy, Costco, you know,
+work? Did Gucci pay you $299 for
+know, because of course uh we we
+way. So, that's the that's the so what
+bigger
+until Salesforce says it.
+the announcement. Are Do you have the
+platform is going to come out with it.
+wearable.
+Uh they provide a lot of utility during
+different you know, things that deal
+when your body's at rest and so the data
+derive more things from it. All sort of
+data is kind of the the oil for
+is there is there different ways to
+the barriers are are interestingly lower
+serve one of our one of our customers
+control of that. By the way, that was a
+business model question is to think
+software and that is the value
+of physics and cost and the fact that
+you are good before you try and scale up
+model them, like that's unprecedented.
+What advice would you give them?
+Mhm. So, you know, I've run call
+and I did like, you know, running big
+maybe more importantly, um you start to
+said the exact same thing.
+He's a first-time CEO, and I spend most
+it's actually way more stressful than
+times their parents are counting on me.
+Um
+surprises particularly technical
+save you. Your co-founders aren't going
+……（接近结尾）……
+slow and fire fast.
+It's very old, and it's very true. Now,
+it's easier said than done. Lots of
+founders tell me, the first time I
+thought I should have fired somebody, I
+should have fired them cuz I always end
+up firing them. I say that same thing,
+but I never really did it. I was always
+more patient than I should have been,
+but I'm also a homo sapien, and it was
+hard for me to do that.
+The second thing I would say is you hit
+200 employees,
+and maybe get some VPs, and that's when
+the director layer shows up. And in
+particular when you hire that director
+layer from the outside, they're kind of
+a professional middle manager. And so
+push that director layer off as long as
+you can. Keep the span of control. Maybe
+it's not Jensen Huang's 60, but keep it
+wide and avoid that middle layer.
+Um the thing that really helped HubSpot
+is we talked about
+EV,
+enterprise value,
+versus TV,
+your team's value, versus MEV, your own
+value. And the thing
+that happens inside of companies is as
+they get bigger, people don't solve for
+themselves as much, they solve for the
+team. And when they solve for their
+team, they kind of sub-optimize the team
+next to them, so that TV is where a lot
+of execs in a lot of companies fall
+down. So, I recommend that. I wrote on
+whiteboards all over the place, EV
+greater than sign TV greater than sign
+MEV, and I kind of pounded that into the
+company. Anytime someone in a meeting
+was talking very TV, I would push on the
+EV. I don't think you should have all
+been there, done that folks. I think you
+should have 50% been there, done that,
+and 50% homegrown. That institutional
+knowledge for the homegrown is super
+useful.
+People underestimate the value of
+homegrown and how people can grow and
+learn. So, I like that ratio.
+And the last thing I would just say is
+Elon, this is a big Elon thing.
+I was at the Sequoia's uh base camp
+event. Um must have been 10 years ago
+where he did this vector alignment
+thing, and he described all his
+employees as vectors. And they were
+different sizes. Some people were more
+powerful than others, but they were kind
+of all pointed in different directions.
+And he said the key for him is no matter
+how big or small the employee is, how do
+you get them all pointed in the same
+direction and get stuff done? Vector
+alignment and a little tiny bit of
+lightweight planning can help you a lot
+with that.
+Those are some of my tricks to not fall
+into the 200 to 2,000 trap. Okay, Tom
+had some interesting thoughts on
+pricing. I do, too.
+Um
+you know, when Moses came down from the
+mountain,
+it's well known he had 10 commandments,
+five on one tablet, five on the other.
+It's not as well known that there was a
+third tablet with an 11th and a 12th
+commandment. The 11th commandment
+was over time, your product's pricing
+will go up.
+The 12th was over time, your product's
+pricing will get more complicated.
+Now,
+your sales organization loves that. Your
+products don't. What I liked about what
+Tom did, he shifted his business model
+to subscription, but he kept it
+relatively cheap. It's six bucks a
+month.
+Um and
+you know, he he he didn't overcomplicate
+it. It was quite simple. And I think the
+move for for founders is like if the
+supply and demand curve looks like this,
+people very quickly rush to almost
+perfectly match that supply and demand
+curve, the willingness to pay with the
+pricing model. And that encourages
+complicated and more expensive.
+I think that's fine when you're 15 years
+old, but in startup mode, I think you
+want a gap between those two things. You
+want a less [music] adversarial
+relationship with your customers. You
+want to be delivering maximum value to
+get word of mouth. And that gap is
+goodwill, and that goodwill pays itself
+back in spades. So,
+don't maximize that supply and demand
+curve would be my advice. Okay, those
+are my thoughts on Tom. Some really good
+tips [music] in there, I thought. I hope
+you enjoyed it, and I'll see you on the
+next episode of Long Story Short.

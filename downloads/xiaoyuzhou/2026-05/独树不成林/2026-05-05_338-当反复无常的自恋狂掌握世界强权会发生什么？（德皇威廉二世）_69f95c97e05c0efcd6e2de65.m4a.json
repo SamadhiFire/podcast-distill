@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "文化 / 社会 / 人文",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 2419,
+    "item_id": "xiaoyuzhou:69f95c97e05c0efcd6e2de65",
+    "month": "2026-05",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69f95c97e05c0efcd6e2de65",
+    "published_at": "2026-05-05T11:08:17.150000+08:00",
+    "published_date": "2026-05-05",
+    "relative_dir": "2026-05/独树不成林",
+    "schema_version": 1,
+    "source_id": "xyz_du_shu_bu_cheng_lin",
+    "source_name": "独树不成林",
+    "status": "pending",
+    "target_basename": "2026-05-05_338-当反复无常的自恋狂掌握世界强权会发生什么？（德皇威廉二世）_69f95c97e05c0efcd6e2de65",
+    "title": "338-当反复无常的自恋狂掌握世界强权会发生什么？（德皇威廉二世）",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69f95c97e05c0efcd6e2de65"
+  },
+  "audio_url": "https://media.xyzcdn.net/64acd33c7a3d479103fbd32d/lrCsKuuxr6SHys5gAExhEZA3Etbc.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-05\\独树不成林\\2026-05-05_338-当反复无常的自恋狂掌握世界强权会发生什么？（德皇威廉二世）_69f95c97e05c0efcd6e2de65.m4a",
+  "bytes": 32363228,
+  "sha256": "ed9e794b15ec266b6aa2c9f22dfbf05bf55b9a3fbeb9eaa0f72660c7ea4be5fa",
+  "downloaded_at": "2026-07-02T04:11:30Z"
+}

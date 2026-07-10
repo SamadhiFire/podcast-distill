@@ -3,7 +3,7 @@
   "item_id": "youtube:5_6gNNKkkAk",
   "platform": "youtube",
   "platform_id": "5_6gNNKkkAk",
-  "transcript_sha256": "87ac3e8eb8a06b05ca42fd3f28259834b83e748ce8945fd514004ba1b7af8d32",
+  "transcript_sha256": "e9a3be824a860d06769ce7a5b2ff0998201a175ba28ca39db2ecc82030ecc391",
   "metadata": {
     "item_id": "youtube:5_6gNNKkkAk",
     "platform": "youtube",
@@ -46,39 +46,54 @@
         "label": "战斧导弹消耗速度",
         "value": "8天=8年产量",
         "context": "在伊朗军事行动初期8天内消耗了相当于8年生产量的战斧导弹",
-        "source_refs": ["transcript"]
+        "source_refs": [
+          "transcript"
+        ]
       },
       {
         "label": "美国弹药悖论",
-        "value": "支出增200-300% 产量仅增14-23%",
-        "context": "过去10年关键弹药支出翻了三倍但实际产量增长不到四分之一",
-        "source_refs": ["transcript"]
+        "value": "支出增 200 至 300%、产量仅增 14%-23%",
+        "context": "过去 10 年关键弹药支出翻了三倍，但实际产量增长不到四分之一"
       },
       {
         "label": "Anduril测试场地",
         "value": "330,000英亩",
-        "context": "公司自有资金在美国多地拥有约33万英亩测试场地，用于日常测试和破坏性试验",
-        "source_refs": ["transcript"]
+        "context": "公司自有资金在美国多地拥有约 330,000 英亩测试场地，用于日常测试与破坏性试验",
+        "source_refs": [
+          "transcript"
+        ]
       },
       {
         "label": "Anduril最新融资模式",
-        "value": "私募5:1公共资金",
-        "context": "最新一轮融资中每收到1美元政府资金就配套5美元私人资本",
-        "source_refs": ["transcript"]
+        "value": "私募资本与政府资金比例约五比一",
+        "context": "最新一轮融资中政府每投入一美元，私募配套约五美元",
+        "source_refs": [
+          "transcript"
+        ]
       },
       {
         "label": "Pulsar系统",
         "value": "定向能武器",
         "context": "Anduril的电子战系统被描述为'力场'，使用定向能量通过电磁频谱干扰来拦截威胁",
-        "source_refs": ["transcript"]
+        "source_refs": [
+          "transcript"
+        ]
       }
     ],
     "takeaways": [
       "战争的未来不是人类vs机器，而是人机编队——飞行员与3-5架自主'僚机'协同作战将比纯机器人或纯人类都更有效",
       "自主武器伦理辩论需要更精细：不能简单'全面禁止'或'全部自动化'，而应在具体场景（防御vs进攻）中设定不同标准"
     ],
-    "guests": ["Chris Brose（Anduril总裁兼首席战略官，前康多莉扎·赖斯和约翰·麦凯恩政策顾问）"],
-    "topics": ["自主武器", "军事科技", "国防工业", "AI伦理", "台海安全"],
+    "guests": [
+      "Chris Brose（Anduril总裁兼首席战略官，前康多莉扎·赖斯和约翰·麦凯恩政策顾问）"
+    ],
+    "topics": [
+      "自主武器",
+      "军事科技",
+      "国防工业",
+      "AI伦理",
+      "台海安全"
+    ],
     "tensions": [
       "传统精良武器（稀缺/昂贵）与新型自主系统（可大规模生产/低成本）之间的军工范式冲突",
       "五角大楼政策'没有禁止自动化杀伤链'与现实中使用自主武器的道德红线之间的模糊地带",

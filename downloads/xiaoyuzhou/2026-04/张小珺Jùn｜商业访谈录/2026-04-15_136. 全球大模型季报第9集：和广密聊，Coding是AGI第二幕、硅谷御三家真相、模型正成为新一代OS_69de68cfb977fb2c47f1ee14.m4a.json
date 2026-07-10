@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "item": {
+    "category": "产品 / 创业 / 管理",
+    "download_root": "downloads/xiaoyuzhou",
+    "duration_seconds": 4960,
+    "item_id": "xiaoyuzhou:69de68cfb977fb2c47f1ee14",
+    "month": "2026-04",
+    "platform": "xiaoyuzhou",
+    "platform_id": "69de68cfb977fb2c47f1ee14",
+    "published_at": "2026-04-15T07:30:00+08:00",
+    "published_date": "2026-04-15",
+    "relative_dir": "2026-04/张小珺Jùn｜商业访谈录",
+    "schema_version": 1,
+    "source_id": "xyz_zhang_xiaojun",
+    "source_name": "张小珺Jùn｜商业访谈录",
+    "status": "pending",
+    "target_basename": "2026-04-15_136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS_69de68cfb977fb2c47f1ee14",
+    "title": "136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS",
+    "url": "https://www.xiaoyuzhoufm.com/episode/69de68cfb977fb2c47f1ee14"
+  },
+  "audio_url": "https://media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lh_CQyoSs_DztmYB5kmBjaPA6W9V.m4a",
+  "audio_url_method": "og_audio",
+  "file_path": "D:\\Users\\AS\\Desktop\\podcast-distill\\downloads\\xiaoyuzhou\\2026-04\\张小珺Jùn｜商业访谈录\\2026-04-15_136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS_69de68cfb977fb2c47f1ee14.m4a",
+  "bytes": 80293792,
+  "sha256": "0bd675f56b234d6e25dc6976648190c18d1afaff0f001b3f78af6b2fea23fbaf",
+  "downloaded_at": "2026-07-02T04:23:33Z"
+}
